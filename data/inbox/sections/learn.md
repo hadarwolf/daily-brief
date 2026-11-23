@@ -24,150 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2013,
-   "text": "Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand to become world chess champion.",
+   "year": 2011,
+   "text": "Arab Spring: After months of protests in Yemen, President Ali Abdullah Saleh (pictured) agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.",
    "context": [
-    "Sven Magnus Øen Carlsen is a Norwegian chess grandmaster. Carlsen is a five-time World Chess Champion, reigning six-time World Rapid Chess Champion, reigning nine-time World Blitz Chess Champion and the reigning FIDE Freestyle Chess World Champion. Carlsen has held the No. 1 position in the FIDE rankings since 1 July 2011, the longest consecutive period, and trails only Garry Kasparov in time spent as the highest-rated player in the world. His peak Elo rating of 2882 is the highest rating achieved since FIDE adopted the system in 1970. He also holds the record for the longest unbeaten streak at the elite level in classical chess at 125 games."
+    "The Arab Spring was a series of pro-democracy anti-government protests, uprisings, and armed rebellions that spread across much of the Arab world in the early 2010s. It began in Tunisia in response to the death of Mohamed Bouazizi by self-immolation. From Tunisia, the protests initially spread to five other countries: Libya, Egypt, Yemen, Syria and Bahrain. The rulers deposed include: Zine El Abidine Ben Ali of Tunisia, Muammar Gaddafi of Libya, and Hosni Mubarak of Egypt, all in 2011; and Ali Abdullah Saleh of Yemen in 2012. Major uprisings and social violence occurred, including riots, civil wars, or insurgencies. Sustained street demonstrations took place in Morocco, Iraq, Algeria, Lebanon, Jordan, Kuwait, Oman and Sudan. Minor protests took place in Djibouti, Mauritania, Palestine, Saudi Arabia and the Western Sahara. A major slogan of the demonstrators in the Arab world is ash-shaʻb yurīd isqāṭ an-niẓām!."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2005,
-   "text": "Elected by delegates in the newly assembled Bundestag four days after a federal election, Angela Merkel became the first female chancellor of Germany.",
+   "year": 2009,
+   "text": "A crowd of people on their way to register Esmael Mangudadatu's candidacy for governor of Maguindanao, Philippines, were kidnapped and killed by supporters of his rival, resulting in 58 deaths.",
    "context": [
-    "The Bundestag is the federal parliament of Germany. It is the only constitutional body in the country directly elected by the German people. The Bundestag was established by Title III of the Basic Law for the Federal Republic of Germany in 1949 as one of the legislative bodies of Germany, the other being the Bundesrat."
+    "Esmael \"Toto\" Gaguil Mangudadatu is a Filipino politician who is the representative of Maguindanao del Sur's lone district, having been elected in 2025. He previously served as the representative of the then-undivided Maguindanao's 2nd district from 2019 to 2022. He also served as the governor of Maguindanao from 2010 to 2019. In Buluan town, he served as the mayor from 1998 to 2007, and vice mayor from 2007 to 2010."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1995,
-   "text": "Toy Story, the first feature film created using only computer-generated imagery, was released in theaters in the United States.",
+   "year": 2007,
+   "text": "MS Explorer became the first cruise ship to sink in the Southern Ocean.",
    "context": [
-    "Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter, and written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by Pixar Animation Studios for Walt Disney Pictures, it stars the voices of Tom Hanks, Tim Allen, Annie Potts, John Ratzenberger, Don Rickles, Wallace Shawn, and Jim Varney. Set in a world in which toys come to life, Toy Story follows an old-fashioned cowboy doll named Woody (Hanks), who becomes jealous that a space cadet action figure, Buzz Lightyear (Allen), is replacing him as the favorite toy of their owner Andy."
+    "MS Explorer or MV Explorer was a Liberian-registered cruise ship, used for Antarctic cruising. She was the first cruise ship to sink there, after impact with the Antarctic pack ice on 23 November 2007. All passengers and crew were rescued."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1988,
-   "text": "The B-2 Spirit stealth bomber of the United States Air Force was first displayed in public at Air Force Plant 42 in Palmdale, California.",
+   "year": 2003,
+   "text": "Rose Revolution: Eduard Shevardnadze resigned as President of Georgia following weeks of mass protests over disputed election results.",
    "context": [
-    "The Northrop B-2 Spirit is an American nuclear-capable subsonic stealth strategic bomber, often referred to as a \"stealth bomber\", solely operated by the United States Air Force. A four-engined flying wing and lambda wing with a crew of two to three, it is designed with stealth technology to penetrate sophisticated air defenses."
+    "The Rose Revolution or Revolution of Roses was a nonviolent change of power that occurred in Georgia in November 2003. The event was brought about by widespread protests over the disputed parliamentary elections and culminated in the resignation of President Eduard Shevardnadze, which marked the end of Soviet-era leadership in the country. The revolution derives its name from the climactic moment, when demonstrators led by Mikheil Saakashvili stormed the Parliament session with red roses in hand."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1987,
-   "text": "Two television stations in Chicago had their broadcast signals hijacked with footage of an unknown person wearing a Max Headroom mask and costume.",
+   "year": 1996,
+   "text": "Ethiopian Airlines Flight 961 was hijacked, then ran out of fuel and crashed into the Indian Ocean, killing 125 of the 175 people on board.",
    "context": [
-    "On November 22, 1987, two television stations based in Chicago, Illinois, were hijacked two hours apart from one another by unidentified perpetrators. Both hijackings briefly sent pirate broadcasts of an unidentified person wearing a Max Headroom mask and costume to thousands of homes in the Chicago metropolitan area."
+    "Ethiopian Airlines Flight 961 was a scheduled international flight serving the route Addis Ababa–Nairobi–Brazzaville–Lagos–Abidjan. On 23 November 1996, the aircraft serving the flight, a Boeing 767, was hijacked en route from Addis Ababa to Nairobi by three Ethiopians seeking asylum in Australia. The plane crash-landed in the Indian Ocean near Grande Comore, Comoros Islands, due to fuel exhaustion. Of those onboard, 125 of 175 died in the ditching, including all three hijackers and six of the 12 crew. It was the first recorded instance of the ditching of a wide-body aircraft."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1978,
-   "text": "The serpent labret with articulated tongue (pictured articulating between positions), considered among the finest Aztec gold objects known to survive, was sold at Sotheby's.",
+   "year": 1980,
+   "text": "An earthquake struck the Irpinia region of Italy, killing at least 2,483 people, injuring more than 7,700 and leaving 250,000 homeless.",
    "context": [
-    "The serpent labret with articulated tongue is a gold-alloy body ornament from the Aztec culture of the mid-second millennium AD. Designed to be inserted into a piercing below the lower lip, it depicts a fanged serpent poised to strike, with a bifurcated tongue hanging from its mouth. The tongue, which is moveable and retractable, would have swung from side to side with its wearer's movements. Art historians have described it as an ingenious example of Aztec metalworking, and among the finest Aztec gold objects known to survive."
+    "The 1980 Irpinia earthquake took place in Italy on 23 November 1980, with a moment magnitude of 6.9 and a maximum Mercalli intensity of X (Extreme). It left at least 2,483 people dead, at least 7,700 injured, and 250,000 homeless."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1975,
-   "text": "Two days after the death of Francisco Franco, Juan Carlos I (pictured) was declared King of Spain according to the law of succession promulgated by Franco.",
+   "year": 1976,
+   "text": "Jacques Mayol became the first person to freedive to a depth of 100 metres (330 ft).",
    "context": [
-    "Francisco Franco Bahamonde was a Spanish military general and the dictator of Spain from 1939 until his death in 1975. He had led the Nationalist forces in overthrowing the Second Spanish Republic during the Spanish Civil War from 1936 to 1939. This period in Spanish history, from the Nationalist victory to Franco's death, is commonly known as Francoist Spain."
+    "Jacques Mayol was a French diver and the holder of many world records in free diving. The 1988 film The Big Blue, directed by Luc Besson, was inspired by his life story and that of his friend, Enzo Maiorca. Mayol was one of the screenwriters and authored the book Homo Delphinus: the Dolphin Within Man of his philosophy about the aquatic origins of humans."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1971,
-   "text": "In Britain's worst mountaineering disaster, five teenage students and one of their leaders were found dead from exposure on the Cairngorm Plateau in the Scottish Highlands.",
+   "year": 1963,
+   "text": "The first episode of Doctor Who, the world's longest-running science fiction television show, was broadcast on BBC television, starring William Hartnell as the first incarnation of the title role.",
    "context": [
-    "The Cairngorm Plateau disaster, also known as the Feith Buidhe disaster, occurred in November 1971 when six fifteen-year-old students from Edinburgh's Ainslie Park High School and their two leaders embarked on a two-day navigational expedition in a remote area of the Cairngorms in the Scottish Highlands."
+    "An Unearthly Child is the first serial of the British science fiction television series Doctor Who. It was first broadcast on BBC TV in four weekly parts from 23 November to 14 December 1963. Scripted by Australian writer Anthony Coburn, the serial introduces William Hartnell as the First Doctor and his original companions: Carole Ann Ford as the Doctor's granddaughter, Susan Foreman, with Jacqueline Hill and William Russell as school teachers Barbara Wright and Ian Chesterton. The first episode deals with Ian and Barbara's discovery of the Doctor and his time-space ship, the TARDIS, in a junkyard in contemporary London, and the remaining episodes are set amid a power struggle between warring Stone Age factions who have lost the secret of making fire."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1968,
-   "text": "The Beatles released their eponymous double album, popularly known as the White Album.",
+   "year": 1924,
+   "text": "The New York Times published evidence from Edwin Hubble (pictured) stating that the Andromeda Nebula, previously believed to be part of the Milky Way, is in fact another galaxy.",
    "context": [
-    "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often portrayed as leaders of the era's youth and sociocultural movements."
+    "The New York Times (NYT) is a newspaper based in Manhattan, New York City. The New York Times covers domestic, national, and international news, and publishes opinion pieces and reviews. One of the longest-running newspapers in the United States, the Times serves as one of the country's newspapers of record. As of June 2026, The New York Times had 13.35 million total subscribers: 550,000 print and 12.8 million digital, both the highest numbers for any newspaper in the United States by a significant margin. The New York Times is published by the New York Times Company. Since 1896, the company has been chaired by the Ochs-Sulzberger family. The current chairman and the paper's publisher is A. G. Sulzberger. The Times is headquartered at The New York Times Building in Midtown Manhattan."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1967,
-   "text": "The United Nations Security Council unanimously adopted Resolution 242 in the aftermath of the Six-Day War between Israel and Egypt, Jordan, and Syria.",
+   "year": 1876,
+   "text": "William \"Boss\" Tweed, a New York City politician who had been arrested for embezzlement, was handed over to US authorities after having escaped from prison and fled to Spain.",
    "context": [
-    "The United Nations Security Council is one of the six principal organs of the United Nations, and is the United Nations' executive branch, having primary responsibility for the maintenance of international peace and security. Its powers, outlined in the UN Charter, include establishing peacekeeping operations, authorizing military action, and imposing international sanctions. Under Chapter VII of the UN Charter, the council may identify threats to international peace, determine breaches of that peace, and authorize responses up to and including the use of force. It is the only UN body with the authority to adopt binding international law by issuing resolutions binding on all member states. The council also recommends the admission of new member states to the UN General Assembly, and approves changes to the Charter. It is led by the president of the Security Council, who chairs its meetings and rotates between the current members on a monthly basis and the United Nations secretary-general who acts as its executive officer overseeing the implementation of its decisions and mandates. The United Nations secretary-general is empowered by the UN Charter to \"bring to the attention of the Security Council any matter which in his opinion may threaten the maintenance of international peace and security\"."
+    "William Magear \"Boss\" Tweed was an American politician most notable for being the political boss of Tammany Hall, the Democratic Party's political machine that played a major role in the politics of 19th-century New York City and State."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1963,
-   "text": "John F. Kennedy was assassinated in Dallas; hours later, Vice President Lyndon B. Johnson was sworn in as the 36th president of the United States aboard Air Force One.",
+   "year": 1867,
+   "text": "The Manchester Martyrs were hanged in Manchester, England, for involvement in a scheme to free two Irish nationalists from custody in which a police officer was killed.",
    "context": [
-    "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. A member of the Democratic Party, he represented Massachusetts in both houses of the U.S. Congress before his presidency. Kennedy was the youngest elected president at 43 years, and the first Roman Catholic president."
+    "The Manchester Martyrs were three Irish Republicans – William Philip Allen, Michael Larkin, and Michael O'Brien – who were hanged in 1867 following their conviction of murder after an attack on a police van in Manchester, England, in which a police officer was accidentally shot dead, an incident that was known at the time as the Manchester Outrages. The three men were members of the Irish Republican Brotherhood, also known as the Fenians, an organisation dedicated to ending British rule in Ireland, and were among a group of 30 to 40 Fenians who attacked a horse-drawn police van transporting two arrested leaders of the Brotherhood, Thomas J. Kelly and Timothy Deasy, to Belle Vue Gaol. Police Sergeant Charles Brett, travelling inside with the keys, was shot and killed while looking through the keyhole of the van as the attackers attempted to force the door open by shooting the lock."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1910,
-   "text": "The crews of three Brazilian warships – all commissioned only months before – and several smaller vessels mutinied against perceived \"slavery\" being practised in the Brazilian Navy.",
+   "year": 1733,
+   "text": "African slaves in the Danish West Indies began an insurrection in one of the earliest and longest slave revolts in the Americas.",
    "context": [
-    "A naval arms race between Argentina, Brazil, and Chile—the wealthiest and most powerful countries in South America—began in the early twentieth century when the Brazilian government ordered three dreadnoughts, formidable battleships whose capabilities far outstripped older vessels in the world's navies."
+    "The Danish West Indies, also known as the Danish Virgin Islands or the Danish Antilles, were a Danish colony in the Caribbean, consisting of the islands of Saint Thomas with 83 square kilometres (32 sq mi), Saint John with 49 square kilometres (19 sq mi), and Saint Croix with 220 square kilometres (85 sq mi)."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1873,
-   "text": "The French steamship Ville du Havre collided with a Scottish iron clipper in the North Atlantic and sank with the loss of 226 lives.",
+   "year": 1700,
+   "text": "A papal conclave, which had been deadlocked due to concerns over how a successor would respond to the impending death of Charles II of Spain, ended with the election of Clement XI.",
    "context": [
-    "Ville du Havre was a French iron steamship that operated round trips between the northern coast of France and New York City. Launched in November 1865 under her original name of Napoléon III, she was converted from a paddle steamer to single propeller propulsion in 1871 and, in recognition of the recent defeat and removal from power of her imperial namesake, the Emperor Napoleon III, was renamed Ville du Havre. It was named after Le Havre, a major port city in the Normandy region of northern France."
+    "The 1700 papal conclave was convened following the death of Pope Innocent XII. It ended in the election of Cardinal Giovanni Albani as Pope Clement XI. The conclave saw a rise in the dominance of a zelanti faction in the College of Cardinals. It remained deadlocked for a month until the death of the childless Charles II of Spain. The cardinal electors anticipated that his death without a clear heir would cause a political crisis, and moved to elect a pope who would be seen as non-partisan."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1797,
-   "text": "The Geisel School of Medicine, the fourth oldest medical school in the United States, was founded by the physician Nathan Smith.",
+   "year": 1644,
+   "text": "In opposition to licensing and censorship during the English Civil War, John Milton's Areopagitica was published, arguing for the right to free expression.",
    "context": [
-    "The Geisel School of Medicine is the medical school of Dartmouth College located in Hanover, New Hampshire. The fourth oldest medical school in the United States, it was founded in 1797 by New England physician Nathan Smith as the Dartmouth Medical School. It is one of the seven Ivy League medical schools."
+    "The English Civil War or Great Rebellion was a series of civil wars and political machinations between Royalists and Parliamentarians in the Kingdom of England from 1642 to 1651. Part of the wider 1639 to 1653 Wars of the Three Kingdoms, the struggle consisted of the First English Civil War and the Second English Civil War. The Anglo-Scottish war of 1650 to 1652 is sometimes referred to as the Third English Civil War. The English Civil War also had a significant influence on the development of the English language. The conflict popularized political terms that are still used today, such as \"Cavalier\" for supporters of King Charles I and \"Roundhead\" for supporters of Parliament. The 1640s also saw a massive increase in the production of pamphlets, newsbooks, and political tracts, which is considered one of the first examples of mass communication in English. This period helped expand political vocabulary and introduced new words related to democracy, liberty, and religious toleration into everyday English."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1718,
-   "text": "The pirate Blackbeard was killed in battle by a boarding party of British sailors off the coast of the Province of North Carolina.",
-   "context": [
-    "Edward Teach, better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. He remains one of history's most well-known pirates."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
    "year": 1635,
-   "text": "Dutch colonial forces on Formosa launched a three-month pacification campaign against Taiwanese indigenous peoples.",
+   "text": "Dutch pacification campaign on Formosa: Soldiers from the Dutch East India Company (flag depicted) razed the village of Mattau, now part of modern-day Tainan, Taiwan.",
    "context": [
-    "The island of Taiwan, also commonly known as Formosa, was partly under colonial rule by the Dutch Republic from 1624 to 1662. In the context of the Age of Discovery, the Dutch East India Company established its presence on Formosa to trade with neighboring Ming China and Tokugawa Japan, and to interdict Portuguese and Spanish trade and colonial activities in East Asia."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1574,
-   "text": "Juan Fernández, a Spanish explorer, discovered an archipelago that now bears his name off the coast of Chile.",
-   "context": [
-    "Juan Fernández was a Spanish explorer and navigator in the Pacific regions of the Viceroyalty of Peru and Captaincy General of Chile west of colonial South America. He is best known for the discovery of a fast maritime route from Callao (Peru) to Valparaíso (Chile) as well as for the discovery of the Juan Fernández Islands off the coast of Chile."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1386,
-   "text": "Turco-Mongol conqueror Timur captured and sacked the Georgian capital Tbilisi and forced King Bagrat V to convert to Islam.",
-   "context": [
-    "The Turco-Mongol or Turko-Mongol tradition was an ethnocultural synthesis that arose in Asia during the 13-14th century among the ruling elites of the Golden Horde and the Chagatai Khanate. The ruling Mongol elites of these khanates eventually assimilated into the Turkic populations that they conquered and ruled over, thus becoming known as Turco-Mongols. These elites gradually adopted Islam, as well as Turkic languages, while retaining Mongol political and legal institutions."
+    "A series of military actions and diplomatic moves were undertaken in 1635 and 1636 by the United East India Company (VOC) in Dutch-era Taiwan (Formosa) aimed at subduing hostile aboriginal villages in the southwestern region of the island. Prior to the campaign, the Dutch had been in Formosa for eleven years, but did not control much of the island beyond their principal fortress at Tayouan, and an alliance with the town of Sinkan. The other aboriginal villages in the area conducted numerous attacks on the Dutch and their allies, with the chief belligerents being the village of Mattau, whose inhabitants in 1629 ambushed and slaughtered a group of sixty Dutch soldiers."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Haircut (תספורת)",
+  "Death by a thousand cuts (מיתה באלף חתכים)",
+  "Playing with house money (לשחק בכסף של הבית)",
   "Golden parachute (מצנח זהב)",
   "Sandbagging (הערכה שמרנית מכוונת)",
   "Bake-off (תחרות ספקים)",
@@ -254,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Picking up pennies in front of a steamroller (ללקט אגורות לפני מכבש)",
   "Opex (הוצאות תפעוליות)",
   "Due diligence (בדיקת נאותות)",
-  "Dead cat bounce (קפיצת החתול המת)",
-  "Vendor lock-in (נעילת ספק)",
-  "Pivot to profitability (מעבר לרווחיות)",
-  "Herding cats (לרעות חתולים)"
+  "Dead cat bounce (קפיצת החתול המת)"
  ]
 }
 </input>

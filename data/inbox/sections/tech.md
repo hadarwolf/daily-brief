@@ -20,111 +20,21 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ars_technica#0",
+     "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+     "published": "2026-11-22T12:07:41+00:00",
+     "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy."
+    },
+    {
+     "ref": "ars_technica#1",
      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
      "published": "2026-11-21T22:12:41+00:00",
      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
     },
     {
-     "ref": "ars_technica#1",
+     "ref": "ars_technica#2",
      "title": "“Race realism” isn’t realistic—and it isn’t good science",
      "published": "2026-11-21T12:01:13+00:00",
      "summary": "Modern genetics does not support claims of innate racial differences in intelligence."
-    },
-    {
-     "ref": "ars_technica#2",
-     "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-     "published": "2026-11-20T22:28:24+00:00",
-     "summary": "FCC preempts state rules that require AT&T to keep offering home phone service."
-    },
-    {
-     "ref": "ars_technica#3",
-     "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-     "published": "2026-11-20T22:16:51+00:00",
-     "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\""
-    },
-    {
-     "ref": "ars_technica#4",
-     "title": "Google rolls out new search homepage with AI chat history and no search button",
-     "published": "2026-11-20T21:58:29+00:00",
-     "summary": "Google search is making it even easier to access AI tools on the search page."
-    },
-    {
-     "ref": "ars_technica#5",
-     "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-     "published": "2026-11-20T21:47:10+00:00",
-     "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
-    },
-    {
-     "ref": "ars_technica#6",
-     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-     "published": "2026-11-20T20:59:08+00:00",
-     "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
-    },
-    {
-     "ref": "ars_technica#7",
-     "title": "Watching as a giant star swallowed its neighbor and exploded",
-     "published": "2026-11-20T20:41:17+00:00",
-     "summary": "A recent brightening turned out to be from a star orbiting inside another."
-    },
-    {
-     "ref": "ars_technica#8",
-     "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-     "published": "2026-11-20T20:26:33+00:00",
-     "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\""
-    },
-    {
-     "ref": "ars_technica#9",
-     "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-     "published": "2026-11-20T19:52:59+00:00",
-     "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\""
-    },
-    {
-     "ref": "ars_technica#10",
-     "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-     "published": "2026-11-20T19:21:50+00:00",
-     "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away."
-    },
-    {
-     "ref": "ars_technica#11",
-     "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-     "published": "2026-11-20T16:11:21+00:00",
-     "summary": "\"We don't yet know the number we are able to make, and at what price...\""
-    },
-    {
-     "ref": "ars_technica#12",
-     "title": "US will soon announce root cause behind FAA nationwide ground stop",
-     "published": "2026-11-20T14:52:51+00:00",
-     "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network."
-    },
-    {
-     "ref": "ars_technica#13",
-     "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-     "published": "2026-11-20T14:15:21+00:00",
-     "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach."
-    },
-    {
-     "ref": "ars_technica#14",
-     "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-     "published": "2026-11-20T13:35:45+00:00",
-     "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
-    },
-    {
-     "ref": "ars_technica#15",
-     "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-     "published": "2026-11-20T12:30:29+00:00",
-     "summary": "Gambling? We're just swapping contracts!"
-    },
-    {
-     "ref": "ars_technica#16",
-     "title": "Science has a home here at Ars—please help keep it that way",
-     "published": "2026-11-20T12:15:36+00:00",
-     "summary": "Your support for Ars matters more now than ever."
-    },
-    {
-     "ref": "ars_technica#17",
-     "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-     "published": "2026-11-20T12:00:43+00:00",
-     "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers."
     }
    ]
   },
@@ -134,51 +44,57 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "9 שנות קוד ב-7 ימי עבודה: כך העברנו בעזרת AI מערכת בפרודקשן מ-Python ל-Go",
+     "published": "2026-11-22T16:07:00+00:00",
+     "summary": "שבעה ימי עבודה – זה הזמן שלקח לנו להעביר את הקוד הפעיל שלנו בפרודקשן מ-Python ל-Go, באמצעות AI. התוצאה? ירידה של 80 אחוז בעלויות הענן ושיפור ביצועים של עד פי 11 בפונקציות מסוימות. עלות הטוקנים הסתכמה בכ-5% בלבד מהחיסכון שהשגנו. עד לאחרונה, פרויקט כזה היה דורש השקעה משמעותית של זמן ומשאבי פיתוח, אבל השימוש ב-AI […] The post 9 שנות קוד ב-7 ימי עבודה: כך העברנו בעזרת AI מערכת בפרודקשן מ-Python ל-Go a"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "חדש: עשיתם עבירת תנועה? הדוח מהמשטרה יגיע אליכם מייד לנייד",
+     "published": "2026-11-22T13:32:21+00:00",
+     "summary": "לקבל בדואר דוח תנועה מהמשטרה חודש אחרי העבירה זה דבר מתסכל למדי, בעיקר כי בשלב הזה קשה לזכור מי בכלל נהג ברכב ומה היו הנסיבות לעבירה. עכשיו, מתברר שמשטרת ישראל מבצעת שדרוג דיגיטלי קטן, שאמור לסייע לכם או קרובים אליכם, אם ביצעתם עבירת תנועה כלשהי (בואו, אנחנו יוצאים מנקודת הנחה שקוראי גיקטיים לא עושים עבירות […] The post חדש: עשיתם עבירת תנועה? הדוח מהמשטרה יגיע אליכם מייד לנייד appeared first on ג"
+    },
+    {
+     "ref": "geektime#2",
      "title": "בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים)",
      "published": "2026-11-22T09:32:36+00:00",
      "summary": "מנהלי IT ואבטחת מידע עומדים היום מול דילמה דחופה: מצד אחד, קיים לחץ עסקי לאמץ סוכני AI ולהפיק מהם ערך במהירות. מצד שני, האימוץ הזה מגיע עם סכנות אבטחה משמעותיות – סוכנים שפועלים בלי פיקוח, חשיפת מידע רגיש וקושי לנטר את הפעילות. בארגונים רבים חסרה מסגרת Governance ברורה, ולכן הם תקועים באמצע הדרך שבין פיילוט […] The post בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים) appeared fir"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#3",
      "title": "אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI",
      "published": "2026-11-22T08:49:11+00:00",
      "summary": "גם העמוד המוכר ביותר באינטרנט לא חסין בפני השפעות ה-AI והוא בדרך למתיחת פנים נדירה למדי. אחרי שגוגל נתפסה לא מוכנה במירוץ ה-AI, ואחרי הקאמבק, ואחרי שהיא שוב נתפסת כמפגרת אחרי המתחרות – היא מתחילה להטמיע את Gemini עמוק גם לתוך מוצר הדגל שלה, עמוד החיפוש. היכונו לעוד שינוי השינוי המשמעותי הראשון לעמוד הבית של […] The post אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#4",
      "title": "טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה התרסקו",
      "published": "2026-11-22T08:16:54+00:00",
      "summary": "אחרי חודשים ארוכים שבהם מניות ה-AI סחבו את וול סטריט על הגב, נראה שלשוק ההון מתחילה להיגמר הסבלנות. ביום שישי האחרון ננעל שבוע מסחר מדמם במיוחד עבור ענקיות הטכנולוגיה, עם ירידות חדות במדדים המובילים בארה\"ב, מחיקה של טריליוני דולרים משווי החברות, והצלילה הגדולה ביותר של מניית אנבידיה (NVIDIA) מאז התפטרות ג'נסן הואנג. מה בעצם קרה […] The post טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#5",
      "title": "סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו בהם משהו חדש",
      "published": "2026-11-21T16:29:29+00:00",
      "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. CxO Security Breakfast | Google Cloud and Sela מתי? 6 […] The post סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו ב"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#6",
      "title": "ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה",
      "published": "2026-11-21T13:33:44+00:00",
      "summary": "כמה התרגשנו כשהבינה המלאכותית הגיעה לחיינו. כל מי שחלם על מיזם יכול היה פתאום לבנות אותו במו ידיו. וכולם אכן בונים. כל אחד מרים לעצמו את הכלי שהוא צריך בלי לחכות שמישהו אחר יעשה את זה בשבילו. אבל לחלום הזה יש צד שני: הביקוש נגמר. אף אחד לא מעוניין יותר בכלים של אחרים. זה כמו […] The post ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#7",
      "title": "מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות",
      "published": "2026-11-21T11:12:26+00:00",
      "summary": "הרבה מכם מכירים את הנוהל: ממלאים את עגלת הקניות באמזון במהלך השבועות האחרונים, ויושבים עליה בסבלנות עד סוף נובמבר כדי לתפוס את ההנחות של הבלאק פריידיי. זה אולי מרגיש כמו צרכנות חכמה ותחושת ה\"דפקתי את המערכת\" האהובה עלינו כישראלים, אבל מחקר חדש שבדק את היסטוריית המחירים של מאות מוצרים באמזון מראה שלפעמים, ההמתנה הזו פשוט […] The post מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות appeare"
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#8",
      "title": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
      "published": "2026-11-21T08:21:29+00:00",
      "summary": "בזמן שרבים בהייטק חוששים שה-AI יחליף אותם (והנתונים בהחלט מעידים על מקום לדאגה), משחק ישראלי חדש מציע לכם לעבור דווקא לצד השני של המתרס. במקום לעדכן קורות חיים ולעבוד על יכולות הריאיון שלכם, אתם תיכנסו לנעליים של מעבדת AI ותנסו להשתלט על שוק העבודה העולמי, מקצוע אחר מקצוע, לפני שהרגולציה תשתלט עליכם. כשסין ניסתה לגנוב […] The post במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים appeared first on גיק"
-    },
-    {
-     "ref": "geektime#7",
-     "title": "סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת",
-     "published": "2026-11-20T11:51:07+00:00",
-     "summary": "אם יש כלל ברזל שלמדנו בעשורים האחרונים הוא שהאינטרנט זוכר הכל – גם פליטות פה רנדומליות. סם אלטמן, מנכ\"ל OpenAI, גילה את זה בדרך הקשה אחרי שהתלונן על הדרך שבה אנחנו, המוגלגים, \"מבזבזים\" RAM במחשבים שלנו, במקום שחוות השרתים של ChatGPT יוכלו לנצל את המשאב הנדיר. אז מפתח אחד החליט לקחת את האמירה הזו לקצה, […] The post סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת appeared first on גיקטיים ."
     }
    ]
   },
@@ -188,81 +104,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-     "published": "2026-11-22T04:04:56+00:00",
-     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 513 # Comments: 304"
+     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+     "published": "2026-11-23T01:13:51+00:00",
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 154 # Comments: 21"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Data Processing Incidents on Inference Providers",
-     "published": "2026-11-22T02:14:14+00:00",
-     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 151 # Comments: 59"
+     "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+     "published": "2026-11-22T23:12:10+00:00",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 168 # Comments: 146"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Sandwich Simulator",
-     "published": "2026-11-22T00:07:59+00:00",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 255 # Comments: 86"
+     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+     "published": "2026-11-22T21:01:16+00:00",
+     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 290 # Comments: 124"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Advice for the next 100 Rust GUIs",
-     "published": "2026-11-21T21:17:53+00:00",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 167 # Comments: 68"
+     "title": "A miniature San Francisco with live buses, planes and boats",
+     "published": "2026-11-22T20:33:23+00:00",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 168 # Comments: 76"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Inkling-2-Mini in 5.4 GB Memory",
-     "published": "2026-11-21T18:02:19+00:00",
-     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 469 # Comments: 116"
+     "title": "What Happened to Silicon Valley?",
+     "published": "2026-11-22T19:20:15+00:00",
+     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 476 # Comments: 276"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "PostgreSQL Extensions in Go",
-     "published": "2026-11-21T17:08:04+00:00",
-     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 150 # Comments: 25"
+     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+     "published": "2026-11-22T19:10:34+00:00",
+     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 388 # Comments: 189"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Lean verification of the Riemann Hypothesis",
-     "published": "2026-11-21T14:36:45+00:00",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1040 # Comments: 870"
+     "title": "Perplexity and Intelligence",
+     "published": "2026-11-22T17:06:27+00:00",
+     "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 512 # Comments: 352"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Detonating a pile of lead azide",
-     "published": "2026-11-21T13:23:14+00:00",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 614 # Comments: 387"
+     "title": "Open Social Web Alliance",
+     "published": "2026-11-22T15:24:32+00:00",
+     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 228 # Comments: 216"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "My monitor was cutting my download speed by 75%",
-     "published": "2026-11-21T10:36:32+00:00",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 589 # Comments: 276"
+     "title": "Show HN: I built a game where you are an LLM's subagent",
+     "published": "2026-11-22T13:56:58+00:00",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 280 # Comments: 66"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "GnuPG Security Advisory for GPGME",
-     "published": "2026-11-21T08:32:58+00:00",
-     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 254 # Comments: 102"
-    },
-    {
-     "ref": "hn_frontpage#10",
-     "title": "Getting the mind to steer the body to steer you",
-     "published": "2026-11-20T22:11:05+00:00",
-     "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 282 # Comments: 96"
-    },
-    {
-     "ref": "hn_frontpage#11",
-     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-     "published": "2026-11-20T21:03:12+00:00",
-     "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 1019 # Comments: 221"
-    },
-    {
-     "ref": "hn_frontpage#12",
-     "title": "Hurried Announcement: Alessandro Masullo GRH",
-     "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2421 # Comments: 1176"
+     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+     "published": "2026-11-22T04:04:56+00:00",
+     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1206 # Comments: 684"
     }
    ]
   },
@@ -347,24 +245,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "The Download: inside the quest to make our minds immortal",
      "published": "2026-11-20T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond…"
-    },
-    {
-     "ref": "mit_tech_review#2",
-     "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-     "published": "2026-11-19T13:10:00+00:00",
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body…"
-    },
-    {
-     "ref": "mit_tech_review#3",
-     "title": "A human liver has been kept alive outside the body for a record seven weeks",
-     "published": "2026-11-19T12:00:00+00:00",
-     "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…"
-    },
-    {
-     "ref": "mit_tech_review#4",
-     "title": "What a billion-dollar deal says about the US battery market",
-     "published": "2026-11-19T11:00:00+00:00",
-     "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…"
     }
    ]
   },
@@ -374,39 +254,27 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "simon_willison#0",
+     "title": "Select Styling Specimens",
+     "published": "2026-11-22T19:45:06+00:00",
+     "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After s"
+    },
+    {
+     "ref": "simon_willison#1",
      "title": "Muru",
      "published": "2026-11-21T23:56:28+00:00",
      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of "
     },
     {
-     "ref": "simon_willison#1",
+     "ref": "simon_willison#2",
      "title": "Quoting Ravi Vakil",
      "published": "2026-11-20T19:21:49+00:00",
      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems "
     },
     {
-     "ref": "simon_willison#2",
+     "ref": "simon_willison#3",
      "title": "Quoting Levent Alpöge",
      "published": "2026-11-20T16:30:48+00:00",
      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principa"
-    },
-    {
-     "ref": "simon_willison#3",
-     "title": "llm-gemini 0.38.1",
-     "published": "2026-11-20T03:01:57+00:00",
-     "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at "
-    },
-    {
-     "ref": "simon_willison#4",
-     "title": "Token fraud is here and it’s BAD (YouTube)",
-     "published": "2026-11-20T02:49:57+00:00",
-     "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the produc"
-    },
-    {
-     "ref": "simon_willison#5",
-     "title": "PostgreSQL 19 Released",
-     "published": "2026-11-19T20:43:57+00:00",
-     "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, Postgr"
     }
    ]
   },
@@ -416,63 +284,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
-     "title": "Amazon is complaining about NYC Council on shipping labels, too",
-     "published": "2026-11-21T21:59:31+00:00",
-     "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]"
+     "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+     "published": "2026-11-23T03:00:00+00:00",
+     "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]"
     },
     {
      "ref": "the_verge#1",
-     "title": "The UN fails to agree on rules regulating ‘killer robots’",
-     "published": "2026-11-21T20:03:37+00:00",
-     "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]"
+     "title": "We haven’t seen the last of the major tech outages",
+     "published": "2026-11-22T22:48:02+00:00",
+     "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]"
     },
     {
      "ref": "the_verge#2",
-     "title": "The FBI and USDA were reportedly hacked",
-     "published": "2026-11-21T17:42:27+00:00",
-     "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]"
+     "title": "Delta flights in and out of Atlanta delayed due to system outage",
+     "published": "2026-11-22T17:46:44+00:00",
+     "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]"
     },
     {
      "ref": "the_verge#3",
-     "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-     "published": "2026-11-21T16:00:00+00:00",
-     "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In […]"
+     "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+     "published": "2026-11-22T17:25:20+00:00",
+     "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]"
     },
     {
      "ref": "the_verge#4",
-     "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-     "published": "2026-11-21T16:00:00+00:00",
-     "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying family photos. If […]"
+     "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+     "published": "2026-11-22T17:00:00+00:00",
+     "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of […]"
     },
     {
      "ref": "the_verge#5",
-     "title": "Can Anthropic afford to put safety first?",
-     "published": "2026-11-21T15:00:00+00:00",
-     "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]"
+     "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+     "published": "2026-11-22T16:33:29+00:00",
+     "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani styles, […]"
     },
     {
      "ref": "the_verge#6",
-     "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-     "published": "2026-11-21T14:55:28+00:00",
-     "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of […]"
+     "title": "Protesters storm Meta offices in India",
+     "published": "2026-11-22T15:15:07+00:00",
+     "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]"
     },
     {
      "ref": "the_verge#7",
-     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-     "published": "2026-11-21T14:00:00+00:00",
-     "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]"
+     "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+     "published": "2026-11-22T14:00:00+00:00",
+     "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back […]"
     },
     {
      "ref": "the_verge#8",
-     "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-     "published": "2026-11-21T13:00:00+00:00",
-     "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]"
+     "title": "‘The show is starting soon. Please turn on your headphones.’",
+     "published": "2026-11-22T14:00:00+00:00",
+     "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headphones connected to a small Auracast […]"
     },
     {
      "ref": "the_verge#9",
-     "title": "The game of the year is finally here",
-     "published": "2026-11-21T13:00:00+00:00",
-     "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation […]"
+     "title": "How Tamagotchis got us hooked on digital pets",
+     "published": "2026-11-22T13:15:27+00:00",
+     "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. Until they went […]"
     }
    ]
   }
