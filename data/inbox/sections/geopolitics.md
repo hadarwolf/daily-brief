@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Climate change - AP News",
-     "published": "2026-11-23T10:28:03+00:00",
-     "summary": "Climate change AP News"
+     "title": "Mexico - AP News",
+     "published": "2026-11-23T10:49:32+00:00",
+     "summary": "Mexico AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Climate change - AP News",
+     "published": "2026-11-23T10:49:31+00:00",
+     "summary": "Climate change AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Audience evacuated from Don Toliver concert - AP News",
+     "published": "2026-11-23T10:47:00+00:00",
+     "summary": "Audience evacuated from Don Toliver concert AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "UCLA Bruins - AP News",
+     "published": "2026-11-23T10:45:52+00:00",
+     "summary": "UCLA Bruins AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "March Madness | 2026 NCAA Tournament - AP News",
+     "published": "2026-11-23T10:45:50+00:00",
+     "summary": "March Madness | 2026 NCAA Tournament AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Russia - AP News",
+     "published": "2026-11-23T10:43:58+00:00",
+     "summary": "Russia AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Texas - AP News",
+     "published": "2026-11-23T10:41:33+00:00",
+     "summary": "Texas AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "LARRY LAGE - AP News",
+     "published": "2026-11-23T10:41:32+00:00",
+     "summary": "LARRY LAGE AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Ohio - AP News",
+     "published": "2026-11-23T10:41:32+00:00",
+     "summary": "Ohio AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Maryland - AP News",
+     "published": "2026-11-23T10:41:29+00:00",
+     "summary": "Maryland AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Tourists evacuated after fire destroys 6 hotels in Zanzibar’s popular Nungwi Beach area - AP News",
+     "published": "2026-11-23T10:39:00+00:00",
+     "summary": "Tourists evacuated after fire destroys 6 hotels in Zanzibar’s popular Nungwi Beach area AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "AP News Search - AP News",
+     "published": "2026-11-23T10:31:15+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Oklahoma City Thunder - AP News",
+     "published": "2026-11-23T10:30:24+00:00",
+     "summary": "Oklahoma City Thunder AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-23T10:30:23+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "New York - AP News",
+     "published": "2026-11-23T10:30:23+00:00",
+     "summary": "New York AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "Utah - AP News",
+     "published": "2026-11-23T10:30:22+00:00",
+     "summary": "Utah AP News"
+    },
+    {
+     "ref": "ap_world#16",
      "title": "Chicago Blackhawks - AP News",
      "published": "2026-11-23T10:27:05+00:00",
      "summary": "Chicago Blackhawks AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#17",
+     "title": "Zverev’s consistency earned him the No. 1 ranking, despite defeat to Alcaraz - AP News",
+     "published": "2026-11-23T10:27:00+00:00",
+     "summary": "Zverev’s consistency earned him the No. 1 ranking, despite defeat to Alcaraz AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "AP Top Stories November 23 - AP News",
      "published": "2026-11-23T10:26:00+00:00",
      "summary": "AP Top Stories November 23 AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#19",
      "title": "Minnesota - AP News",
      "published": "2026-11-23T10:21:10+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "College Football Full FBS Schedule - AP News",
-     "published": "2026-11-23T10:21:10+00:00",
-     "summary": "College Football Full FBS Schedule AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#20",
      "title": "TIM REYNOLDS - AP News",
      "published": "2026-11-23T10:21:08+00:00",
      "summary": "TIM REYNOLDS AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#21",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-11-23T10:21:07+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#22",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-11-23T10:20:06+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#23",
      "title": "STEPHEN WHYNO - AP News",
      "published": "2026-11-23T10:20:05+00:00",
      "summary": "STEPHEN WHYNO AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#24",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-11-23T10:20:04+00:00",
      "summary": "2026 World Cup schedule and results AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "Accidents - AP News",
-     "published": "2026-11-23T10:20:03+00:00",
-     "summary": "Accidents AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "United Nations - AP News",
-     "published": "2026-11-23T10:20:03+00:00",
-     "summary": "United Nations AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "Mexico - AP News",
-     "published": "2026-11-23T10:13:08+00:00",
-     "summary": "Mexico AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia - AP News",
-     "published": "2026-11-23T10:02:00+00:00",
-     "summary": "US futures climb and world shares are mixed as big tech stocks fall in Asia AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Trending News - AP News",
-     "published": "2026-11-23T10:01:23+00:00",
-     "summary": "Trending News AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "College Basketball News: Rankings, Scores, Stats & More - AP News",
-     "published": "2026-11-23T10:01:21+00:00",
-     "summary": "College Basketball News: Rankings, Scores, Stats & More AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Turkey News: Current Events & Breaking News Today - AP News",
-     "published": "2026-11-23T09:57:17+00:00",
-     "summary": "Turkey News: Current Events & Breaking News Today AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-11-23T09:57:14+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "New York City - AP News",
-     "published": "2026-11-23T09:46:56+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Malcolm Marx looks to repeat as World Rugby's best men's player after making shortlist of 4 names - AP News",
-     "published": "2026-11-23T09:43:00+00:00",
-     "summary": "Malcolm Marx looks to repeat as World Rugby's best men's player after making shortlist of 4 names AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Soccer - AP News",
-     "published": "2026-11-23T09:42:52+00:00",
-     "summary": "Soccer AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Texas - AP News",
-     "published": "2026-11-23T09:42:52+00:00",
-     "summary": "Texas AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-23T09:30:48+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "New York - AP News",
-     "published": "2026-11-23T09:30:47+00:00",
-     "summary": "New York AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "AP News Search - AP News",
-     "published": "2026-11-23T09:26:15+00:00",
-     "summary": "AP News Search AP News"
     }
    ]
   },
@@ -186,7 +186,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#2",
-     "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+     "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
      "published": "2026-11-23T08:36:57+00:00",
      "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia."
     },
@@ -408,153 +408,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike - Reuters",
+     "published": "2026-11-23T10:35:20+00:00",
+     "summary": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike - Reuters",
      "published": "2026-11-23T10:15:44+00:00",
      "summary": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "US Democrats require 2028 candidates to reject dark money to make debate stage - Reuters",
      "published": "2026-11-23T10:15:01+00:00",
      "summary": "US Democrats require 2028 candidates to reject dark money to make debate stage Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Danish police investigate school bomb threats - Reuters",
      "published": "2026-11-23T10:13:09+00:00",
      "summary": "Danish police investigate school bomb threats Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
      "published": "2026-11-23T10:10:25+00:00",
      "summary": "Financials drag Indian shares down on profit-taking after four-week rally Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
+     "title": "Iran says it will use all its tools to confront US naval blockade - Reuters",
+     "published": "2026-11-23T10:01:04+00:00",
+     "summary": "Iran says it will use all its tools to confront US naval blockade Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
      "title": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' - Reuters",
      "published": "2026-11-23T09:53:43+00:00",
      "summary": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "Denmark to propose mobile phone ban in schools in 2027 - Reuters",
      "published": "2026-11-23T09:47:43+00:00",
      "summary": "Denmark to propose mobile phone ban in schools in 2027 Reuters"
     },
     {
-     "ref": "reuters_world#6",
-     "title": "Iran says it will use all its tools to confront US naval blockade - Reuters",
-     "published": "2026-11-23T09:38:45+00:00",
-     "summary": "Iran says it will use all its tools to confront US naval blockade Reuters"
-    },
-    {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "UK PMI shows slight November slowdown, Q4 looks robust - Reuters",
      "published": "2026-11-23T09:35:43+00:00",
      "summary": "UK PMI shows slight November slowdown, Q4 looks robust Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Turkish authorities search for animal resembling a lion in Istanbul woodland - Reuters",
      "published": "2026-11-23T09:35:23+00:00",
      "summary": "Turkish authorities search for animal resembling a lion in Istanbul woodland Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Coal India unit Mahanadi's IPO fully subscribed on final day of bidding - Reuters",
      "published": "2026-11-23T09:33:44+00:00",
      "summary": "Coal India unit Mahanadi's IPO fully subscribed on final day of bidding Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Gulf bourses open higher, buoyed by diplomatic momentum - Reuters",
      "published": "2026-11-23T09:24:09+00:00",
      "summary": "Gulf bourses open higher, buoyed by diplomatic momentum Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows - Reuters",
      "published": "2026-11-23T09:10:21+00:00",
      "summary": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Bangladesh vows to arrest Hasina if she returns from India - Reuters",
      "published": "2026-11-23T09:08:24+00:00",
      "summary": "Bangladesh vows to arrest Hasina if she returns from India Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "December rate hike may not be enough but not in a rush to move again: ECB's Simkus - Reuters",
      "published": "2026-11-23T09:01:41+00:00",
      "summary": "December rate hike may not be enough but not in a rush to move again: ECB's Simkus Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "India to give $1.62 billion economic package to flood-hit Nepal - Reuters",
      "published": "2026-11-23T08:47:56+00:00",
      "summary": "India to give $1.62 billion economic package to flood-hit Nepal Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "German business activity growth accelerates in November, PMI shows - Reuters",
      "published": "2026-11-23T08:39:44+00:00",
      "summary": "German business activity growth accelerates in November, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Hedge funds post worst week since April 2025, sparks defensive shift - Reuters",
      "published": "2026-11-23T08:25:43+00:00",
      "summary": "Hedge funds post worst week since April 2025, sparks defensive shift Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Shoprite buys DN Invest stake, brings in Investec to finance unit - Reuters",
      "published": "2026-11-23T08:23:03+00:00",
      "summary": "Shoprite buys DN Invest stake, brings in Investec to finance unit Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "French private sector downturn deepens to six-month low, PMI shows - Reuters",
      "published": "2026-11-23T08:19:05+00:00",
      "summary": "French private sector downturn deepens to six-month low, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Zelenskiy says Ukraine sank Russian warship in Libya - Reuters",
      "published": "2026-11-23T07:53:00+00:00",
      "summary": "Zelenskiy says Ukraine sank Russian warship in Libya Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Armenia proposes new constitution in step towards peace with Azerbaijan - Reuters",
      "published": "2026-11-23T07:48:00+00:00",
      "summary": "Armenia proposes new constitution in step towards peace with Azerbaijan Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "UK's Capita replaces CEO, plans $249 million equity raise on pension scheme contract woes - Reuters",
      "published": "2026-11-23T07:42:00+00:00",
      "summary": "UK's Capita replaces CEO, plans $249 million equity raise on pension scheme contract woes Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "France's 2027 economic growth forecast of 1% at risk of being downgraded, minister says - Reuters",
      "published": "2026-11-23T07:27:00+00:00",
      "summary": "France's 2027 economic growth forecast of 1% at risk of being downgraded, minister says Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "South African rand gains as commodity prices rise and dollar weakens - Reuters",
      "published": "2026-11-23T06:50:00+00:00",
      "summary": "South African rand gains as commodity prices rise and dollar weakens Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Thai appeal court halves jail term of lawmaker convicted of royal insult - Reuters",
-     "published": "2026-11-23T06:43:00+00:00",
-     "summary": "Thai appeal court halves jail term of lawmaker convicted of royal insult Reuters"
     }
    ]
   }
