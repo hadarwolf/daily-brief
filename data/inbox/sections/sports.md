@@ -90,14 +90,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-5"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-22T14:00:00Z",
-     "home": "Hull City",
-     "away": "Brighton Hove",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-22T14:00:00Z",
      "home": "Bologna",
@@ -112,6 +104,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Genoa",
      "status": "FINISHED",
      "score": "0-2"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-22T14:00:00Z",
+     "home": "Hull City",
+     "away": "Brighton Hove",
+     "status": "FINISHED",
+     "score": "2-0"
     },
     {
      "competition": "Ligue 1",
@@ -732,45 +732,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Atletico's Simeone breaks La Liga victories record",
+     "published": "2026-11-23T10:48:45+00:00",
+     "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "Which Premier League players are set for yellow card suspensions?",
      "published": "2026-11-23T10:36:38+00:00",
      "summary": "Eighteen players are on the brink of a one-match ban in the 2026-27 Premier League season."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Every goal from the Women's Super League - matchweek 11",
      "published": "2026-11-23T09:34:52+00:00",
      "summary": "Watch all the goals from matchweek 11 in the WSL, including Annabelle Blanchard's delightful volley against London City Lionesses and Lee Geum-Min's thumping finish for Birmingham City."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
      "published": "2026-11-23T08:55:36+00:00",
      "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 26th managerial appointment on his watch."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Holloway sacked by Swindon after two seasons",
      "published": "2026-11-23T08:44:53+00:00",
      "summary": "Swindon sack manager Ian Holloway following their poor start to the League Two season."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Watch highlights of the weekend's SPFL action",
      "published": "2026-11-23T08:14:17+00:00",
      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Rangers plan January exit for Cifuentes - gossip",
      "published": "2026-11-23T08:09:49+00:00",
      "summary": "Rangers plan January exit for midfielder as Hibs captain speaks of \"shame\" after 4-0 home loss."
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "Three years on NI Women finally have friendlies again",
-     "published": "2026-11-23T08:06:02+00:00",
-     "summary": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game."
     },
     {
      "ref": "bbc_football#7",
@@ -780,15 +780,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#8",
-     "title": "Listen: An all-action Premiership weekend in review",
-     "published": "2026-11-23T08:00:00+00:00",
-     "summary": "Hearts run riot at Dens, Dundee Utd dismantle Hibs and Frick's off to a flier at Aberdeen."
+     "title": "Three years on NI Women finally have friendlies again",
+     "published": "2026-11-23T08:06:02+00:00",
+     "summary": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game."
     },
     {
      "ref": "bbc_football#9",
-     "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
-     "published": "2026-11-23T07:52:55+00:00",
-     "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?"
+     "title": "Listen: An all-action Premiership weekend in review",
+     "published": "2026-11-23T08:00:00+00:00",
+     "summary": "Hearts run riot at Dens, Dundee Utd dismantle Hibs and Frick's off to a flier at Aberdeen."
     },
     {
      "ref": "bbc_football#10",
@@ -798,279 +798,87 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#11",
+     "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+     "published": "2026-11-23T07:52:55+00:00",
+     "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?"
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-23T06:31:21+00:00",
      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
      "published": "2026-11-23T06:17:59+00:00",
      "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Did Liverpool 'get lucky' with red card decision?",
      "published": "2026-11-22T23:59:59+00:00",
      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
      "published": "2026-11-22T23:59:57+00:00",
      "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
      "published": "2026-11-22T23:20:16+00:00",
      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Football Daily",
      "published": "2026-11-22T23:14:00+00:00",
      "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool."
     },
     {
-     "ref": "bbc_football#17",
-     "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-     "published": "2026-11-22T21:44:37+00:00",
-     "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
-    },
-    {
      "ref": "bbc_football#18",
-     "title": "Fifa to confirm Scotland as 2035 Women's World Cup co-hosts",
+     "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
      "published": "2026-11-22T21:44:37+00:00",
      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
     },
     {
      "ref": "bbc_football#19",
-     "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+     "title": "Fifa to confirm Scotland as 2035 Women's World Cup co-hosts",
      "published": "2026-11-22T21:44:37+00:00",
      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
     },
     {
      "ref": "bbc_football#20",
+     "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+     "published": "2026-11-22T21:44:37+00:00",
+     "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
+    },
+    {
+     "ref": "bbc_football#21",
      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
      "published": "2026-11-22T21:36:00+00:00",
      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?"
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
      "published": "2026-11-22T21:22:10+00:00",
      "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Pepe did not injure eyes staring at sun, say Villarreal",
      "published": "2026-11-22T21:04:55+00:00",
      "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\"."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Man Utd plotting Toney move - Monday's gossip",
      "published": "2026-11-22T21:04:15+00:00",
      "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-     "published": "2026-11-22T19:59:38+00:00",
-     "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League."
-    }
-   ]
-  },
-  {
-   "outlet": "ESPN NBA",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_nba#0",
-     "title": "Vocal Green swats back at online critics, fuels Warriors' victory over Celtics",
-     "published": "2026-11-23T06:19:33+00:00",
-     "summary": "After reinforcing his career​ accolades earlier in the day on social media, Golden State Warriors forward Draymond Green closed out an 88-87 win over the Boston Celtics on Sunday with a last-second defensive stop and rousing celebration from the veteran."
-    },
-    {
-     "ref": "espn_nba#1",
-     "title": "With Giannis out, Adebayo authors triple-double in Heat's win over Thunder",
-     "published": "2026-11-23T06:19:33+00:00",
-     "summary": "In a game that did not feature Oklahoma City's Shai Gilgeous-Alexander or Miami's Giannis Antetokounmpo, Bam Adebayo swiped the spotlight, scoring 24 points en route to a triple-double, as the surging Heat defeated the Thunder 123-113 on Sunday night."
-    },
-    {
-     "ref": "espn_nba#2",
-     "title": "Sources: Kings set to boost backcourt depth with Vincent signing",
-     "published": "2026-11-23T06:19:33+00:00",
-     "summary": "Gabe Vincent is finalizing a deal with the Kings to fill their 15th roster spot, league sources told ESPN's Shams Charania."
-    },
-    {
-     "ref": "espn_nba#3",
-     "title": "Bulls G Powell sidelined by hamstring injury, to be checked later in week",
-     "published": "2026-11-23T06:19:33+00:00",
-     "summary": "Bulls guard Norman Powell was ruled out against the Nuggets and will be reevaluated later in the week because of a mild right hamstring strain."
-    },
-    {
-     "ref": "espn_nba#4",
-     "title": "Wemby makes history in 18 minutes, finishes game with 50 points",
-     "published": "2026-11-23T06:19:33+00:00",
-     "summary": "Victor Wembanyama had his third career 50-point outing during a win over the Pelicans to go along with 19 rebounds, five blocks and four steals."
-    },
-    {
-     "ref": "espn_nba#5",
-     "title": "Bridges shakes off slump, hits buzzer-beating 3 to save Knicks from collapse",
-     "published": "2026-11-23T06:19:33+00:00",
-     "summary": "Mired in a shooting slump, Mikal Bridges delivered a buzzer-beating 3-pointer to lift the Knicks past the Trail Blazers after they squandered a 26-point lead."
-    },
-    {
-     "ref": "espn_nba#6",
-     "title": "👀 What the first month has revealed about all 30 teams",
-     "published": "2026-11-23T06:19:33+00:00",
-     "summary": "With the season's first month nearly in the books, Ben Golliver examines the biggest storyline so far for all 30 teams."
-    },
-    {
-     "ref": "espn_nba#7",
-     "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
-     "published": "2026-11-23T02:59:41+00:00",
-     "summary": "How has the first month unfolded for nine first-year stars? Brian Windhorst and Tim MacMahon canvass the league."
-    },
-    {
-     "ref": "espn_nba#8",
-     "title": "How a season without their 'admiral' showed the Rockets what they were missing",
-     "published": "2026-11-22T22:16:49+00:00",
-     "summary": "A healthy Fred VanVleet is commanding the surging Rockets after an ACL injury derailed his 2025-26 season. Here's why he's so important."
-    },
-    {
-     "ref": "espn_nba#9",
-     "title": "Has Nikola Jokic been overtaken as the top player in fantasy basketball?",
-     "published": "2026-11-22T16:37:10+00:00",
-     "summary": "Nikola Jokic's numbers are down from his typical norm, but has he been passed by Wemby or Luka as the top player in fantasy?"
-    },
-    {
-     "ref": "espn_nba#10",
-     "title": "Sunday's fantasy basketball adds and NBA bets",
-     "published": "2026-11-22T16:37:10+00:00",
-     "summary": "Jim McCormick breaks down Sunday's NBA slate, highlighting the fantasy streamers to add and bets to make."
-    }
-   ]
-  },
-  {
-   "outlet": "ESPN FC",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_soccer#0",
-     "title": "Boca Juniors win Copa Sudamericana, but can they keep budding stars?",
-     "published": "2026-11-23T10:04:40+00:00",
-     "summary": "Boca Juniors had gone almost 20 years without a continental trophy. That ended on Saturday with success in the Copa Sudamericana, but an exodus could follow."
-    },
-    {
-     "ref": "espn_soccer#1",
-     "title": "Leandro Paredes faints during post-match interview after Boca Juniors triumph",
-     "published": "2026-11-23T10:04:40+00:00",
-     "summary": "Boca Juniors captain Leandro Paredes thanked fans for their well wishes after he fainted during a post-match interview following his team's Copa Sudamericana final triumph over Atlético Mineiro."
-    },
-    {
-     "ref": "espn_soccer#2",
-     "title": "Cincinnati stuns Shield-winners Nashville to start best-of-3 series",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "Roman Celentano made six saves for his fourth clean sheet of the season as FC Cincinnati took advantage of an early own goal to earn a 1-0 victory over Nashville SC on Sunday."
-    },
-    {
-     "ref": "espn_soccer#3",
-     "title": "Poch blames 'circumstances' in painful Man United loss to Liverpool",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "Mauricio Pochettino called for understanding of the \"circumstances\" that led to Manchester United suffering a 4-0 defeat Sunday against Liverpool in his first game as head coach."
-    },
-    {
-     "ref": "espn_soccer#4",
-     "title": "Yamal out of Barcelona's Champions League game at Sabah",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "Lamine Yamal will miss Barcelona's Champions League game in Azerbaijan against Sabah this week with an ankle injury, the Spanish champions have confirmed."
-    },
-    {
-     "ref": "espn_soccer#5",
-     "title": "Milan into top four as classy Pulisic solo goal caps Serie A rout",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "AC Milan racked up their biggest win of the season under Ruben Amorim as Frosinone were beaten 5-1 at San Siro on Sunday."
-    },
-    {
-     "ref": "espn_soccer#6",
-     "title": "Villarreal refute claims Pépé's eye surgery result of viewing solar eclipse",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "Villarreal have denied that Nicolas Pépé underwent eye surgery as a result of viewing the solar eclipse."
-    },
-    {
-     "ref": "espn_soccer#7",
-     "title": "Columbus coach says Messi should've got red card: 'Everyone knows'",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "Columbus Crew head coach Laurent Courtois said Lionel Messi should have received a red card for taking a throw-in straight into the face of Gonzalo Tapia."
-    },
-    {
-     "ref": "espn_soccer#8",
-     "title": "Rodman on 3rd straight NWSL Championship loss: 'This one hurts way worse'",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "Trinity Rodman said she was proud of the Washington Spirit's season after a third straight NWSL Championship loss but acknowledged that this one hurt the most."
-    },
-    {
-     "ref": "espn_soccer#9",
-     "title": "⚽DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "Vanessa DiBernardo joined an elite list on Saturday, scoring for Kansas City direct from a corner. Known in soccer circles as an Olimpico, here are some of the very best."
-    },
-    {
-     "ref": "espn_soccer#10",
-     "title": "Liverpool trounce 10-man United in Pochettino's first game in charge",
-     "published": "2026-11-23T09:47:54+00:00",
-     "summary": "Mauricio Pochettino's Manchester United reign got off to a miserable start as Liverpool punished Leny Yoro's red card with a pair of early goals on their way to a comprehensive 4-0 win against their relegation-threatened rivals."
-    },
-    {
-     "ref": "espn_soccer#11",
-     "title": "Man United will need big January transfer spend to avoid relegation",
-     "published": "2026-11-23T09:46:53+00:00",
-     "summary": "Manchester United have a choice: spend £150 million on new players in January, or lose £300 million if they get relegated at the end of the Premier League season."
-    },
-    {
-     "ref": "espn_soccer#12",
-     "title": "Arsenal's near-collapse at Newcastle a wake-up call -- and a missed opportunity",
-     "published": "2026-11-23T08:18:05+00:00",
-     "summary": "Arsenal could have moved eight points clear at the top of the Premier League. Instead, they completely lost their way in the second half vs. Newcastle."
-    },
-    {
-     "ref": "espn_soccer#13",
-     "title": "Man City at a crossroads as a shell of themselves",
-     "published": "2026-11-23T08:18:04+00:00",
-     "summary": "When Man City can't beat Fulham -- a team they had beaten 20 times in a row entering Saturday -- you know they're struggling."
-    },
-    {
-     "ref": "espn_soccer#14",
-     "title": "Transfer rumors, news: Milan to land Liverpool defender Van Dijk?",
-     "published": "2026-11-23T08:17:36+00:00",
-     "summary": "AC Milan are monitoring the situation of Liverpool defender Virgil van Dijk. Transfer Talk has the latest."
-    },
-    {
-     "ref": "espn_soccer#15",
-     "title": "Kansas City's NWSL title shows investing in women's soccer pays off",
-     "published": "2026-11-22T22:21:24+00:00",
-     "summary": "Only a small group of clubs now truly compete for the NWSL Championship. Kansas City Current is one of them, and now it's a champion for the first time."
-    },
-    {
-     "ref": "espn_soccer#16",
-     "title": "KC finally, and deservedly, breaks NWSL title drought",
-     "published": "2026-11-22T22:21:24+00:00",
-     "summary": "Kansas City Current's first title was a story of conviction and resilience."
-    },
-    {
-     "ref": "espn_soccer#17",
-     "title": "Under pressure: Is time running out for Arsenal boss Renee Slegers?",
-     "published": "2026-11-22T22:18:53+00:00",
-     "summary": "After Arsenal again failed to win at home, pressure is building on manager Renee Slegers."
-    },
-    {
-     "ref": "espn_soccer#18",
-     "title": "Mauricio Pochettino gets reality check as Liverpool ruin his Man United debut",
-     "published": "2026-11-22T21:58:50+00:00",
-     "summary": "Mauricio Pochettino began his Manchester United career with a nightmare as his Red Devils went to Anfield and were routed 4-0 by Liverpool on Sunday."
     }
    ]
   },

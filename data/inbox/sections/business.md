@@ -18,75 +18,75 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Goldman’s Trivedi Says ‘Dollar Still Has Some Fight in It’",
+     "published": "2026-11-23T11:06:25+00:00",
+     "summary": "Kamakshya Trivedi, chief FX and emerging markets strategist at Goldman Sachs, offers his outlook for the US dollar and examines the factors that can most impact the currency. He speaks on “Bloomberg Brief.” (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Ukraine Farm Failures Loom as War Drains Financial Buffers, Top Trader Says",
+     "published": "2026-11-23T10:48:52+00:00",
+     "summary": "Ukraine’s agricultural sector faces a growing risk of insolvencies as escalating attacks in the Black Sea and tightening access to financing put pressure on farmers, according to one of the country’s top crop traders."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Trump Suggests Resumption of Iran Strikes Next Year If Talks Fail",
      "published": "2026-11-23T10:41:49+00:00",
      "summary": "US President Donald Trump indicated to Fox News that if talks fail to yield a diplomatic resolution, he might resume the war on Iran next year. Trump accused the Islamic Republic of dragging out the indirect talks underway. Stuart Livingstone-Wallace reports on Bloomberg Television. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#3",
      "title": "Five Charts Unpack One of the Worst Weeks for Stocks in Decades",
      "published": "2026-11-23T10:29:20+00:00",
      "summary": "Wall Street’s unwind wiped more than $5 trillion from the S&P 500 last week, exposing just how much of the market’s fortunes rest on its biggest stocks and the AI investment boom."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Margin Calls Soared 200-Fold in Taiwan as Traders Fled AI Bets",
      "published": "2026-11-23T10:11:28+00:00",
      "summary": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "Is The AI Selloff A Buying Opportunity?",
      "published": "2026-11-23T10:08:06+00:00",
      "summary": "Bloomberg's Anna Edwards and Guy Johnson speak to Bernard Ahkong, Dymon Asia Capital Partner and Portfolio Manager on the back of last week's AI selloff on Bloomberg's \"The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "America is Betting on Ostrich Again",
      "published": "2026-11-23T10:05:52+00:00",
      "summary": "For nearly 150 years, the ostrich has been an object of American fascination. It set off agricultural gold rushes, its plumes crowned the hats of the Gilded Age’s most fashionable women, and it’s been touted as the next great American meat. Now, as beef prices run high, a determined few are betting the timing is finally right for ostrich to find its place in US cuisine. Chase Purdy reports. (Sourc"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Morgan Stanley’s Wilson Says Buying Opportunity Too Good to Miss",
      "published": "2026-11-23T10:02:24+00:00",
      "summary": "A week that saw both the S&P 500 and Dow Jones Industrial Average enter correction territory has delivered investors a buying opportunity that’s too good to miss, according to Morgan Stanley strategists."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Bets on Bonds From Oil-Rich Kazakhstan, Nigeria Pay Off for Finland’s Aktia",
      "published": "2026-11-23T09:46:10+00:00",
      "summary": "Betting on bonds from two major oil-producing emerging markets has paid off handsomely for Finland’s Aktia Asset Management, which plans to stick with the trade amid persistent US-Iran tensions."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "Europe's Cold Snap Threatens Natural Gas Inventories",
      "published": "2026-11-23T09:37:10+00:00",
      "summary": "European natural gas prices jumped after temperature forecasts shifted sharply lower, adding pressure on inventories strained by export disruptions due to the war in the Middle East. Global gas supplies remain tight with Norway, Europe’s biggest pipeline supplier, continuing to see ongoing outages at some facilities. Bloomberg's Will Kennedy reports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "Dubai Said to Eye Consolidating Lenders in Islamic Banking Push",
      "published": "2026-11-23T09:23:47+00:00",
      "summary": "Officials in Dubai have held preliminary talks on potentially combining Dubai Islamic Bank with Emirates Islamic Bank to create a Sharia-compliant lender better positioned to compete globally, people familiar with the matter said."
     },
     {
-     "ref": "bloomberg_markets#9",
-     "title": "How Everyday Chinese People Are Adopting AI",
-     "published": "2026-11-23T09:00:08+00:00",
-     "summary": "What journalist Afra Wang saw in Liangzhu."
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "Odd Lots: How China’s Vibecoders Are Adopting AI (Podcast)",
-     "published": "2026-11-23T09:00:00+00:00",
-     "summary": "According to Stanford's AI Index, 84% of people surveyed in China say they are optimistic about AI. In the US, by contrast, 38% of those surveyed say they are optimistic. That's a big gulf in enthusiasm, and you can see it borne out in the stories you read. While in the US we hear about AI doomsday scenarios, in China you'll hear about grandmas who are obsessed with using OpenClaw. Journalist Afra"
-    },
-    {
      "ref": "bloomberg_markets#11",
-     "title": "Stock Rotation Will Go International: Market Analysis",
-     "published": "2026-11-23T08:48:07+00:00",
-     "summary": "Anna Edwards, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
+     "title": "India Banking Cash Turns to Deficit for First Time Since June",
+     "published": "2026-11-23T08:42:10+00:00",
+     "summary": "India’s banking system liquidity slipped into deficit for the first time in about five months, as recent tax outflows reduced cash with lenders."
     },
     {
      "ref": "bloomberg_markets#12",
@@ -96,45 +96,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#13",
-     "title": "Capita Dives 66% as CEO Quits Over Botched Pensions Contract",
-     "published": "2026-11-23T08:22:21+00:00",
-     "summary": "Capita Plc shares plummeted by nearly two-thirds after its chief executive officer stepped down over failings in the outsourcing company’s contract managing Britain’s Civil Service pensions."
+     "title": "Libyan Oil Pipeline Reopens, Restoring Output at Biggest Field",
+     "published": "2026-11-23T05:13:36+00:00",
+     "summary": "A Libyan pipeline carrying crude from the country’s biggest oil field reopened after a brief disruption, restoring a significant proportion of the OPEC member’s output."
     },
     {
      "ref": "bloomberg_markets#14",
+     "title": "South Africa’s Woolworths, Momentum Face Pay Challenges",
+     "published": "2026-11-23T04:00:00+00:00",
+     "summary": "Three of South Africa’s best-known companies will face challenges on issues including their pay policies and the independence of some of their directors at annual general meetings over the next week."
+    },
+    {
+     "ref": "bloomberg_markets#15",
+     "title": "Indian Stocks Briefly Erase 2026 Losses on Record Foreign Buying",
+     "published": "2026-11-23T03:50:16+00:00",
+     "summary": "Indian shares briefly overcame their losses for the year before turning sharply lower on Monday even as local shares continue to see a powerful return of foreign money with the unraveling of the AI trade reviving demand for overlooked markets."
+    },
+    {
+     "ref": "bloomberg_markets#16",
      "title": "European Gas Surges as Cold Snap Threatens Tight Winter Supplies",
      "published": "2026-11-23T02:46:27+00:00",
      "summary": "European natural gas prices jumped as a sharply colder weather outlook intensified concerns over Europe’s winter supplies, already under pressure from export disruptions linked to the US-Iran war."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#17",
      "title": "Treasuries Decline as Haven Demand Wanes on Stock Market Gains",
      "published": "2026-11-22T23:59:06+00:00",
      "summary": "US Treasuries edged lower as investors unwound haven buying following signs that global stock markets may be stabilizing."
     },
     {
-     "ref": "bloomberg_markets#16",
-     "title": "US Stock Futures Jump as Dip Buyers Step In After AI Selloff",
-     "published": "2026-11-22T23:04:42+00:00",
-     "summary": "US stock futures rebounded as dip buyers stepped in following a steep selloff that saw a violent rotation out of technology shares, in a signal of heightened volatility in the artificial intelligence trade."
-    },
-    {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#18",
      "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
      "published": "2026-11-22T23:00:00+00:00",
      "summary": "China’s gold imports surged to a record $209 billion so far this year, in an unprecedented buying spree that followed a promise by top officials to make their country into the world’s marketplace instead of just its factory."
     },
     {
-     "ref": "bloomberg_markets#18",
+     "ref": "bloomberg_markets#19",
      "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap",
      "published": "2026-11-22T22:02:27+00:00",
      "summary": "US stock futures are mounting a rebound from a rout in the artificial intelligence trade that sent the S&P 500 into a correction, with waning demand for havens putting pressure on Treasuries and the yen."
-    },
-    {
-     "ref": "bloomberg_markets#19",
-     "title": "Oil Shock Response Sets EM Bond-Market Winners and Losers",
-     "published": "2026-11-22T13:30:00+00:00",
-     "summary": "Fuel subsidies are driving a widening divide in emerging markets, with investors favoring bonds from nations that have taken the painful steps to curb them."
     }
    ]
   },
@@ -144,21 +144,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber security disruptions mount",
+     "published": "2026-11-23T11:02:10+00:00",
+     "summary": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "Wall Street set to rebound after AI stock sell-off",
      "published": "2026-11-23T09:41:36+00:00",
      "summary": "Battered tech shares including Nvidia and Anthropic rise sharply pre-market"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "Ukraine blows up Russian warship in Libya’s Benghazi naval base",
      "published": "2026-11-23T09:30:44+00:00",
      "summary": "Volodymyr Zelenskyy describes attack as an ‘exemplary’ sea drone operation"
-    },
-    {
-     "ref": "ft_home#2",
-     "title": "South Korean minister says he is too old to tackle AI exam cheating",
-     "published": "2026-11-23T07:10:04+00:00",
-     "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests"
     },
     {
      "ref": "ft_home#3",
@@ -210,7 +210,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "ליברמן, עוד פשרה תחזיר אותנו בדיוק לאותה נקודה. אל תאפשר לזה לקרות",
+     "title": "ליברמן, עוד פשרה תחזיר אותנו בדיוק לאותה נקודה. אל תאפשר זאת",
      "published": "2026-11-23T10:32:49+00:00",
      "summary": "במשך 20 שנה מנהלים את הדיון על שירות חרדים באמצעות גילי פטור, מכסות והסדרי מעבר, בפתרונות המאפשרים לשרוד את המשבר הקואליציוני הבא, במקום להתמודד עם השאלה איך בונים חובת שירות יציבה לצד שמירת עולם התורה ■ הפתרון נעוץ בחובה להפסיק להתייחס ללימוד תורה ככרטיס לפטור קבוע"
     },
@@ -365,81 +365,81 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Dollar Could Stay Firm if Upcoming Data Support Rate-Rise Bets",
+     "published": "2026-11-23T11:04:00+00:00",
+     "summary": "The dollar was flat against a basket of currencies, and ING said the greenback was likely to stay firm as upcoming data could support Federal Reserve rate hike expectations."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "CrowdStrike to Buy Zscaler in $43.9 Billion Stock Swap",
+     "published": "2026-11-23T10:54:00+00:00",
+     "summary": "Shares in Zscaler jumped in premarket trading, while those in CrowdStrike fell."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
      "published": "2026-11-23T10:36:00+00:00",
      "summary": "Plus, how Mark Walter made Magic Johnson a billionaire—and test how much you know about wine with our quiz."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
      "published": "2026-11-23T10:30:00+00:00",
      "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#4",
      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
      "published": "2026-11-23T10:17:00+00:00",
      "summary": "The Nvidia founder and his wife have control over 870 million Nvidia shares, including through trusts and other entities."
     },
     {
-     "ref": "wsj_markets#3",
-     "title": "Euro, Eurozone Yields Show Limited Reaction to Eurozone PMI Data",
-     "published": "2026-11-23T09:53:00+00:00",
-     "summary": "The euro rose against the dollar, showing little reaction to the flash November eurozone purchasing managers’ survey."
-    },
-    {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Stock Market Today: Stock Futures Point to Recovery After Friday’s Bloodbath",
      "published": "2026-11-23T09:52:53+00:00",
      "summary": "Anthropic shares rise premarket"
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "European Tech Stocks Rally as Traders Buy AI Dip",
      "published": "2026-11-23T09:52:00+00:00",
      "summary": "Europe’s AI-linked stocks rebounded sharply in early trade as investors returned to the sector after last week’s heavy selloff."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "Stock Futures Rally as Dust Settles After AI-Driven Selloff",
      "published": "2026-11-23T09:50:00+00:00",
      "summary": "Stock futures climbed sharply as investors cautiously moved to buy the dip."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "Oil Prices May Stay Elevated in Near Term",
      "published": "2026-11-23T09:50:00+00:00",
      "summary": "Oil prices fell. Barclays said prices might stay elevated in the near term, as traders were pricing too much near-term progress in U.S.-Iran negotiations."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "Euro, Eurozone Yields Show Limited Reaction to Eurozone PMI Data",
      "published": "2026-11-23T09:48:00+00:00",
      "summary": "Eurozone bond yields continued to trade mixed, showing little reaction to the flash November eurozone purchasing managers’ survey."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls",
      "published": "2026-11-23T09:25:00+00:00",
      "summary": "Treasury yields and European government bond yields rose, correcting some of last week’s significant declines."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "Gold Rebounds From Last Week’s Plunge, With Focus on U.S. Inflation Data",
      "published": "2026-11-23T08:47:00+00:00",
      "summary": "Gold prices rebounded from their largest weekly decline since March as investors awaited U.S. inflation data for more clues on the monetary policy outlook."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "European TTF Gas Climbs on Colder Weather, Low Storage",
      "published": "2026-11-23T08:18:00+00:00",
      "summary": "European natural-gas prices climbed back above 90 euros a megawatt-hour as signs of colder weather lifted heating demand."
-    },
-    {
-     "ref": "wsj_markets#12",
-     "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
-     "published": "2026-11-23T06:59:00+00:00",
-     "summary": "Assets under management in the first 10 months of the year were boosted by a solid stock market performance, a stronger dollar and client money inflows."
     },
     {
      "ref": "wsj_markets#13",
@@ -506,9 +506,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3845.8,
+   "last": 3853.1499,
    "prev_close": 3861.51,
-   "change_pct": -0.41,
+   "change_pct": -0.22,
    "as_of": "2026-11-23"
   },
   "SP500": {
@@ -520,23 +520,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.2982,
-   "prev_close": 3.2771,
-   "change_pct": 0.64,
-   "as_of": "2026-11-20"
+   "last": 3.3298,
+   "prev_close": 3.2982,
+   "change_pct": 0.96,
+   "as_of": "2026-11-23"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 89.06,
+   "last": 88.69,
    "prev_close": 92.57,
-   "change_pct": -3.79,
+   "change_pct": -4.19,
    "as_of": "2026-11-23"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 61355.1406,
+   "last": 61263.8594,
    "prev_close": 61161.9102,
-   "change_pct": 0.32,
+   "change_pct": 0.17,
    "as_of": "2026-11-23"
   }
  },
