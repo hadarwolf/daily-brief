@@ -76,18 +76,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-11-22T13:30:00Z",
+     "home": "Sparta",
+     "away": "AZ",
+     "status": "FINISHED",
+     "score": "1-5"
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-22T13:30:00Z",
      "home": "Ajax",
      "away": "Den Haag",
      "status": "FINISHED",
      "score": "3-0"
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-22T13:30:00Z",
-     "home": "Sparta",
-     "away": "AZ",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-22T14:00:00Z",
+     "home": "Paris FC",
+     "away": "Angers SCO",
      "status": "FINISHED",
-     "score": "1-5"
+     "score": "4-0"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-22T14:00:00Z",
+     "home": "Hull City",
+     "away": "Brighton Hove",
+     "status": "FINISHED",
+     "score": "2-0"
     },
     {
      "competition": "Serie A",
@@ -104,22 +120,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Genoa",
      "status": "FINISHED",
      "score": "0-2"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-22T14:00:00Z",
-     "home": "Hull City",
-     "away": "Brighton Hove",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-22T14:00:00Z",
-     "home": "Paris FC",
-     "away": "Angers SCO",
-     "status": "FINISHED",
-     "score": "4-0"
     },
     {
      "competition": "Bundesliga",
@@ -194,20 +194,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "4-2"
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-22T19:45:00Z",
-     "home": "Atalanta",
-     "away": "Inter",
-     "status": "FINISHED",
-     "score": "4-4"
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-22T19:45:00Z",
      "home": "Marseille",
      "away": "Le Mans",
      "status": "FINISHED",
      "score": "2-3"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-22T19:45:00Z",
+     "home": "Atalanta",
+     "away": "Inter",
+     "status": "FINISHED",
+     "score": "4-4"
     },
     {
      "competition": "Primera Division",
@@ -244,18 +244,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-11-23T20:00:00Z",
-     "home": "Levante",
-     "away": "Elche",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-23T20:00:00Z",
      "home": "Brentford",
      "away": "Everton",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-11-23T20:00:00Z",
+     "home": "Levante",
+     "away": "Elche",
      "status": "TIMED",
      "score": null
     }
@@ -732,123 +732,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Morocco and Senegal await Afcon final verdict after court case",
+     "published": "2026-11-23T11:56:41+00:00",
+     "summary": "The Court of Arbitration for Sport is set to rule on the decision to strip Senegal of the Afcon 2025 title."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Mustaki out of World Cup play-off with knee injury",
+     "published": "2026-11-23T11:35:50+00:00",
+     "summary": "Republic of Ireland defender Chloe Mustaki is forced to withdraw from her side's 2027 Women's World Cup play-off final against Poland after rupturing her anterior cruciate ligament."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Atletico's Simeone breaks La Liga victories record",
      "published": "2026-11-23T10:48:45+00:00",
      "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Which Premier League players are set for yellow card suspensions?",
      "published": "2026-11-23T10:36:38+00:00",
      "summary": "Eighteen players are on the brink of a one-match ban in the 2026-27 Premier League season."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "Every goal from the Women's Super League - matchweek 11",
      "published": "2026-11-23T09:34:52+00:00",
      "summary": "Watch all the goals from matchweek 11 in the WSL, including Annabelle Blanchard's delightful volley against London City Lionesses and Lee Geum-Min's thumping finish for Birmingham City."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
      "published": "2026-11-23T08:55:36+00:00",
      "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 26th managerial appointment on his watch."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "Holloway sacked by Swindon after two seasons",
      "published": "2026-11-23T08:44:53+00:00",
      "summary": "Swindon sack manager Ian Holloway following their poor start to the League Two season."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "Watch highlights of the weekend's SPFL action",
      "published": "2026-11-23T08:14:17+00:00",
      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "Rangers plan January exit for Cifuentes - gossip",
      "published": "2026-11-23T08:09:49+00:00",
      "summary": "Rangers plan January exit for midfielder as Hibs captain speaks of \"shame\" after 4-0 home loss."
     },
     {
-     "ref": "bbc_football#7",
-     "title": "Three years on NI Women finally have friendlies again",
-     "published": "2026-11-23T08:06:02+00:00",
-     "summary": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game."
-    },
-    {
-     "ref": "bbc_football#8",
-     "title": "Three years on NI Women finally have friendlies again",
-     "published": "2026-11-23T08:06:02+00:00",
-     "summary": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game."
-    },
-    {
      "ref": "bbc_football#9",
+     "title": "Three years on NI Women finally have friendlies again",
+     "published": "2026-11-23T08:06:02+00:00",
+     "summary": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game."
+    },
+    {
+     "ref": "bbc_football#10",
+     "title": "Three years on NI Women finally have friendlies again",
+     "published": "2026-11-23T08:06:02+00:00",
+     "summary": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game."
+    },
+    {
+     "ref": "bbc_football#11",
      "title": "Listen: An all-action Premiership weekend in review",
      "published": "2026-11-23T08:00:00+00:00",
      "summary": "Hearts run riot at Dens, Dundee Utd dismantle Hibs and Frick's off to a flier at Aberdeen."
     },
     {
-     "ref": "bbc_football#10",
-     "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
-     "published": "2026-11-23T07:52:55+00:00",
-     "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?"
-    },
-    {
-     "ref": "bbc_football#11",
-     "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
-     "published": "2026-11-23T07:52:55+00:00",
-     "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?"
-    },
-    {
      "ref": "bbc_football#12",
+     "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+     "published": "2026-11-23T07:52:55+00:00",
+     "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?"
+    },
+    {
+     "ref": "bbc_football#13",
+     "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+     "published": "2026-11-23T07:52:55+00:00",
+     "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?"
+    },
+    {
+     "ref": "bbc_football#14",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-23T06:31:21+00:00",
      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
      "published": "2026-11-23T06:17:59+00:00",
      "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Did Liverpool 'get lucky' with red card decision?",
      "published": "2026-11-22T23:59:59+00:00",
      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
      "published": "2026-11-22T23:59:57+00:00",
      "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
      "published": "2026-11-22T23:20:16+00:00",
      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Football Daily",
      "published": "2026-11-22T23:14:00+00:00",
      "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-     "published": "2026-11-22T21:44:37+00:00",
-     "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Fifa to confirm Scotland as 2035 Women's World Cup co-hosts",
-     "published": "2026-11-22T21:44:37+00:00",
-     "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
     },
     {
      "ref": "bbc_football#20",
@@ -858,27 +858,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#21",
+     "title": "Fifa to confirm Scotland as 2035 Women's World Cup co-hosts",
+     "published": "2026-11-22T21:44:37+00:00",
+     "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
+    },
+    {
+     "ref": "bbc_football#22",
+     "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+     "published": "2026-11-22T21:44:37+00:00",
+     "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966."
+    },
+    {
+     "ref": "bbc_football#23",
      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
      "published": "2026-11-22T21:36:00+00:00",
      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?"
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
      "published": "2026-11-22T21:22:10+00:00",
      "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Pepe did not injure eyes staring at sun, say Villarreal",
-     "published": "2026-11-22T21:04:55+00:00",
-     "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\"."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Man Utd plotting Toney move - Monday's gossip",
-     "published": "2026-11-22T21:04:15+00:00",
-     "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi."
     }
    ]
   },
@@ -894,9 +894,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Columbus boss Laurent Courtois claims Lionel Messi escaped blatant red card for hitting Gonzalo Tapia with ball in Inter Miami defeat - LiveScore",
-     "published": "2026-11-23T05:28:56+00:00",
-     "summary": "Columbus boss Laurent Courtois claims Lionel Messi escaped blatant red card for hitting Gonzalo Tapia with ball in Inter Miami defeat LiveScore"
+     "title": "Columbus boss Laurent Courtois claims Lionel Messi escaped blatant red card for hitting Gonzalo Tapia with ball in Inter Miami defeat - Goal.com",
+     "published": "2026-11-23T06:41:00+00:00",
+     "summary": "Columbus boss Laurent Courtois claims Lionel Messi escaped blatant red card for hitting Gonzalo Tapia with ball in Inter Miami defeat Goal.com"
     },
     {
      "ref": "gnews_inter_miami#2",
@@ -955,7 +955,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#11",
      "title": "Take a tour inside Inter Miami's home stadium as the team prepares for the MLS Cup Playoffs - WPTV",
-     "published": "2026-11-22T20:12:09+00:00",
+     "published": "2026-11-22T20:10:39+00:00",
      "summary": "Take a tour inside Inter Miami's home stadium as the team prepares for the MLS Cup Playoffs WPTV"
     },
     {
@@ -1045,7 +1045,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#0",
      "title": "Deni Avdija flirts with triple-double in Saturday's loss to Knicks - FantasyPros",
-     "published": "2026-11-22T18:40:22+00:00",
+     "published": "2026-11-22T18:40:00+00:00",
      "summary": "Deni Avdija flirts with triple-double in Saturday's loss to Knicks FantasyPros"
     },
     {
@@ -1122,51 +1122,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#13",
-     "title": "Deni Avdija News: Returning Saturday - RotoWire",
-     "published": "2026-11-21T22:23:53+00:00",
-     "summary": "Deni Avdija News: Returning Saturday RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija (foot) upgraded to available Saturday - NBC Sports",
      "published": "2026-11-21T22:22:00+00:00",
      "summary": "Deni Avdija (foot) upgraded to available Saturday NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija cleared to return after missing last two games - HoopsHype",
      "published": "2026-11-21T22:20:00+00:00",
      "summary": "Deni Avdija cleared to return after missing last two games HoopsHype"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Final Injury Report for Trail Blazers-Knicks: Will Karl-Anthony Towns, Deni Avdija Play? - Yahoo Sports",
      "published": "2026-11-21T20:30:00+00:00",
      "summary": "Final Injury Report for Trail Blazers-Knicks: Will Karl-Anthony Towns, Deni Avdija Play? Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Are Karl-Anthony Towns, Deni Avdija playing tonight? Blazers vs. Knicks injury report - Yahoo Sports",
-     "published": "2026-11-21T19:56:40+00:00",
-     "summary": "Are Karl-Anthony Towns, Deni Avdija playing tonight? Blazers vs. Knicks injury report Yahoo Sports"
+     "ref": "gnews_israeli_nba#16",
+     "title": "Are Karl-Anthony Towns, Deni Avdija playing tonight? Blazers vs. Knicks injury report - ClutchPoints",
+     "published": "2026-11-21T18:57:13+00:00",
+     "summary": "Are Karl-Anthony Towns, Deni Avdija playing tonight? Blazers vs. Knicks injury report ClutchPoints"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Knicks vs Trail Blazers Injury Report: OG Anunoby, Deni Avdija Statuses Revealed - Yahoo Sports",
      "published": "2026-11-21T17:54:28+00:00",
      "summary": "Knicks vs Trail Blazers Injury Report: OG Anunoby, Deni Avdija Statuses Revealed Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "Video - Knicks vs Trail Blazers Injury Report: OG Anunoby, Deni Avdija Statuses Revealed - roundtable.io",
      "published": "2026-11-21T17:54:28+00:00",
      "summary": "Video - Knicks vs Trail Blazers Injury Report: OG Anunoby, Deni Avdija Statuses Revealed roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#19",
      "title": "Trail Blazers Announce Deni Avdija’s Injury Status for Knicks Game - Yahoo Sports",
      "published": "2026-11-21T04:14:00+00:00",
      "summary": "Trail Blazers Announce Deni Avdija’s Injury Status for Knicks Game Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#20",
+     "title": "Deni Avdija Questionable for Saturday Against Knicks - NBA News | Fantasy Basketball - RotoBaller",
+     "published": "2026-11-21T01:35:11+00:00",
+     "summary": "Deni Avdija Questionable for Saturday Against Knicks - NBA News | Fantasy Basketball RotoBaller"
     },
     {
      "ref": "gnews_israeli_nba#21",
