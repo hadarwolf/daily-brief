@@ -18,105 +18,105 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "DRC Reinstates Cobalt Export Ban",
+     "published": "2026-11-24T13:00:53+00:00",
+     "summary": "World’s top producer of the battery metal says it will ban exports beginning November 30th, in an effort to reverse slumping prices. Bloomberg TV’s Jennifer Zabasajja reports. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Behind Binance Hack, a Reckoning Over Who Controls Crypto",
+     "published": "2026-11-24T13:00:07+00:00",
+     "summary": "As North Korean cyberthieves were funneling billions out of Binance last month, the world’s largest crypto exchange looked to two other companies to help stop the bleeding: Tether and Circle."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "The Oil Market Is Talking About a Surplus Again",
      "published": "2026-11-24T12:38:42+00:00",
      "summary": "Resilient Persian Gulf exports, booming production elsewhere and shrinking demand are all tilting the balance back toward an oversupply."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#3",
      "title": "Fund With $21 Billion Favors Africa Local Bonds, Adds to Uganda Bet",
      "published": "2026-11-24T12:26:19+00:00",
      "summary": "A currency rout that wiped 8% off the value of Uganda’s shilling last month rattled some investors, but failed to deter a $21 billion money manager."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "AI Returns Matter More Than Nvidia Drama, Says Goldman’s Bell",
      "published": "2026-11-24T12:23:51+00:00",
      "summary": "Nvidia Corp.’s boardroom drama doesn’t alter the outlook for the artificial intelligence trade, according to Goldman Sachs Group Inc.’s Sharon Bell, who says the ability of companies to generate sufficient returns on massive investments remains key."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "Ousted BP Chairman Manifold to Join Aggreko Board Amid US IPO",
      "published": "2026-11-24T12:14:38+00:00",
      "summary": "Former BP Plc Chairman Albert Manifold, who was ousted earlier this year, will join the board of power equipment and services firm Aggreko Plc as part of its move to float in the US."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "Stock Rally Takes Breather as Nvidia Euphoria Wears Off",
      "published": "2026-11-24T12:13:30+00:00",
      "summary": "The rally in stocks that followed Jensen Huang’s return to Nvidia is giving way to caution as traders wait for further evidence that the artificial intelligence trade can build on its rebound. While Huang’s reinstatement went some way toward clearing one of the biggest overhangs on the AI trade, investors are back to contending with questions ranging from the returns on vast spending to the prospe"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Arabica Drops as Exchange Stockpiles Surge Most in 28 Years",
      "published": "2026-11-24T11:54:19+00:00",
      "summary": "Arabica futures fell as supplies in exchange-monitored warehouses posted their biggest daily jump since 1998, with Brazilian supply flowing into a market that had faced historic tightness."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Huang’s Return Hits the Reset Button for AI Bets",
      "published": "2026-11-24T11:33:33+00:00",
      "summary": "Jensen Huang is back at the center of the AI trade."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman",
      "published": "2026-11-24T11:20:17+00:00",
      "summary": "Amy Wu Silverman, head of derivatives strategy at RBC Capital Markets, sees the VIX as “still pretty inflated” following the surge in Nvidia shares with the return of Jensen Huang as CEO. She speaks on “Bloomberg Brief.” (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
      "published": "2026-11-24T11:19:24+00:00",
      "summary": "Anthropic PBC shares briefly traded below their $83 initial public offering price in premarket trading, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut."
     },
     {
-     "ref": "bloomberg_markets#9",
-     "title": "Forced Buying Aided Biggest Rally Since April 2025, Nomura Says",
-     "published": "2026-11-24T11:02:40+00:00",
-     "summary": "Wall Street roared back with its biggest rally since April 2025 on Monday, though analysis of the move suggests mechanical buying helped add momentum to the advance."
-    },
-    {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "LME to List New Aluminum Brand as Historic Squeeze Deepens",
      "published": "2026-11-24T10:10:02+00:00",
      "summary": "The London Metal Exchange is preparing to authorize deliveries of aluminum from a major new smelter in Indonesia into its warehousing network, offering potential supply relief as a historic squeeze roils the global market."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Xi Plays Long Game on US Chip Retaliation After Nvidia Whiplash",
      "published": "2026-11-24T08:56:34+00:00",
      "summary": "After a week of whiplash over Jensen Huang’s future and new US chip curbs, Beijing sent a clear message to Washington about their trade truce: China is holding up its side of the bargain — for now."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "JPMorgan, HSBC Trade New London Digital Gold for First Time",
      "published": "2026-11-24T08:00:00+00:00",
      "summary": "JPMorgan Chase & Co. and other major precious metals dealers traded a new form of digital gold in London for the first time, an early test of a system that could revamp the plumbing of the world’s biggest bullion hub."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Commerzbank Mulls Partial Withdrawal From US Treasury Market",
      "published": "2026-11-24T07:35:48+00:00",
      "summary": "Commerzbank AG is considering paring back its involvement in US Treasury trading, according to people with knowledge of the matter, as the US prepares to introduce new clearing requirements."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Compass Plans New York Main Listing, Adding to London Exodus",
      "published": "2026-11-24T07:11:59+00:00",
      "summary": "British catering firm Compass Group Plc plans to move its primary listing from London to New York, adding to the struggles of the UK stock market."
     },
     {
-     "ref": "bloomberg_markets#15",
-     "title": "Rand Lead Losses in Emerging FX as Mining Stocks Slide",
+     "ref": "bloomberg_markets#16",
+     "title": "Rand Leads Losses in Emerging FX as Mining Stocks Slide",
      "published": "2026-11-24T06:26:44+00:00",
      "summary": "The South African rand weakened, while gold and copper miners slumped as investors turned risk-off following Monday’s tech-stock rally."
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "Treasuries Advance as Cheaper Oil Eases Inflation Concerns",
-     "published": "2026-11-24T04:42:33+00:00",
-     "summary": "US Treasuries gained across the curve as a drop in oil prices eased concerns about inflation, with a decline in stocks increasing demand for the safety of bonds."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -134,7 +134,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "bloomberg_markets#19",
      "title": "Stocks Turn Lower as Nvidia Euphoria Wears Off: Markets Wrap",
      "published": "2026-11-23T22:06:46+00:00",
-     "summary": "The extraordinary rally in stocks that followed Jensen Huang’s return to Nvidia Corp. is fading as skepticism returns over whether the artificial intelligence trade can mount a sustainable rebound."
+     "summary": "The extraordinary rally in stocks that followed Jensen Huang’s return to Nvidia Corp. faded as skepticism surfaced over whether the artificial intelligence trade can mount a sustained rebound."
     }
    ]
   },
@@ -144,69 +144,69 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Britain bought fake C4 explosives for Ukraine",
+     "published": "2026-11-24T13:04:38+00:00",
+     "summary": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4"
+    },
+    {
+     "ref": "ft_home#1",
+     "title": "Jensen Huang’s return should not stop tighter US chip controls",
+     "published": "2026-11-24T12:54:15+00:00",
+     "summary": "Nvidia was wrong to think Chinese competitors would remain inside the company’s ecosystem"
+    },
+    {
+     "ref": "ft_home#2",
+     "title": "CrowdStrike bucks Silicon Valley’s infallible-founder trend",
+     "published": "2026-11-24T12:49:55+00:00",
+     "summary": "The cyber security company’s share fall after its merger with peer Zscaler shows the limits of investor patience with charismatic leaders"
+    },
+    {
+     "ref": "ft_home#3",
      "title": "EU edges towards Made in Europe deal for UK cars",
      "published": "2026-11-24T12:07:48+00:00",
      "summary": "Inclusion in bloc’s subsidy scheme would be a significant diplomatic win for PM Andy Burnham"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#4",
      "title": "US tech stocks set to slip after blistering rally",
      "published": "2026-11-24T11:54:28+00:00",
      "summary": "Asian markets rise as investors react to news of Jensen Huang’s reinstatement as Nvidia chief"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#5",
      "title": "Russian navy licks its wounds as another warship is sunk",
      "published": "2026-11-24T11:51:27+00:00",
      "summary": "Ukrainian drones have struck Moscow’s warships and freighters in the Black Sea, Baltic and Mediterranean"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#6",
      "title": "Roche says breast cancer pill could be best-selling drug ever",
      "published": "2026-11-24T09:51:03+00:00",
      "summary": "Swiss group hails ‘new era of breast cancer treatment’ with newly approved medicine"
     },
     {
-     "ref": "ft_home#4",
-     "title": "Singapore is no backdoor for US chips, says PM",
-     "published": "2026-11-24T06:12:20+00:00",
-     "summary": "Lawrence Wong vows city-state will not let companies break the law by circumventing export controls"
-    },
-    {
-     "ref": "ft_home#5",
+     "ref": "ft_home#7",
      "title": "Big Tech’s blind spot",
      "published": "2026-11-24T05:00:16+00:00",
      "summary": "AI groups are now at the heart of geopolitics. Some are not ready"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#8",
      "title": "Pentagon delays Patriot missile shipments to Ukraine",
      "published": "2026-11-24T05:00:15+00:00",
      "summary": "US defence secretary Pete Hegseth has yet to sign off on 60 Patriot interceptors for Kyiv, including from European arsenals"
     },
     {
-     "ref": "ft_home#7",
-     "title": "Britain bought fake C4 explosives for Ukraine",
-     "published": "2026-11-24T05:00:07+00:00",
-     "summary": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4"
-    },
-    {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang",
      "published": "2026-11-23T22:46:14+00:00",
      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#10",
      "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
      "published": "2026-11-23T22:21:44+00:00",
      "summary": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure"
-    },
-    {
-     "ref": "ft_home#10",
-     "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
-     "published": "2026-11-23T19:11:29+00:00",
-     "summary": "Democrats and Republicans insist tech CEO must testify in public"
     }
    ]
   },
@@ -524,9 +524,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3858.8501,
+   "last": 3864.1201,
    "prev_close": 3880.45,
-   "change_pct": -0.56,
+   "change_pct": -0.42,
    "as_of": "2026-11-24"
   },
   "SP500": {
@@ -538,23 +538,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3368,
+   "last": 3.3376,
    "prev_close": 3.3401,
-   "change_pct": -0.1,
+   "change_pct": -0.07,
    "as_of": "2026-11-24"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 86.92,
+   "last": 87.04,
    "prev_close": 89.37,
-   "change_pct": -2.74,
+   "change_pct": -2.61,
    "as_of": "2026-11-24"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 60410.8711,
+   "last": 60114.8398,
    "prev_close": 61210.9844,
-   "change_pct": -1.31,
+   "change_pct": -1.79,
    "as_of": "2026-11-24"
   }
  },

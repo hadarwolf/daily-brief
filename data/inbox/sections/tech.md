@@ -118,79 +118,67 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
      "published": "2026-11-24T11:13:55+00:00",
-     "summary": "Article URL: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50626578 Points: 212 # Comments: 111"
+     "summary": "Article URL: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50626578 Points: 274 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "2035 Came Early",
      "published": "2026-11-24T06:30:33+00:00",
-     "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 388 # Comments: 139"
+     "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 411 # Comments: 160"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
      "published": "2026-11-24T02:27:02+00:00",
-     "summary": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 462 # Comments: 180"
+     "summary": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 485 # Comments: 195"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
      "published": "2026-11-23T22:32:29+00:00",
-     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 527 # Comments: 289"
+     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 535 # Comments: 295"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
      "published": "2026-11-23T21:01:16+00:00",
-     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 277 # Comments: 57"
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 280 # Comments: 58"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "GPUI is getting its own repository",
      "published": "2026-11-23T20:52:54+00:00",
-     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 311 # Comments: 106"
+     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 314 # Comments: 109"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
      "published": "2026-11-23T19:17:55+00:00",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 1090 # Comments: 255"
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 1097 # Comments: 256"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
      "published": "2026-11-23T17:07:26+00:00",
-     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1777 # Comments: 1033"
+     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1803 # Comments: 1040"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Ladybird is now in alpha",
      "published": "2026-11-23T16:13:12+00:00",
-     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 2110 # Comments: 506"
+     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 2133 # Comments: 517"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "published": "2026-11-23T14:00:18+00:00",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2649 # Comments: 3526"
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2668 # Comments: 3535"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-     "published": "2026-11-23T13:42:38+00:00",
-     "summary": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks. Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit): - DeepSWE: 39.8 / 41.0 / 41.9 / 28.6 - Terminal-Bench 2.1: "
-    },
-    {
-     "ref": "hn_frontpage#11",
-     "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-     "published": "2026-11-23T10:06:43+00:00",
-     "summary": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 1140 # Comments: 373"
-    },
-    {
-     "ref": "hn_frontpage#12",
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "published": "2026-11-23T01:13:51+00:00",
-     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 1020 # Comments: 174"
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 1023 # Comments: 177"
     }
    ]
   },
@@ -326,63 +314,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
+     "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+     "published": "2026-11-24T13:00:00+00:00",
+     "summary": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First announced in July 2025, this three-way alliance represents Uber's aggressive comeback in autonomous ride-hailing, after having abandoned its own troubled […]"
+    },
+    {
+     "ref": "the_verge#1",
      "title": "Google alternative Kagi launches an email service",
      "published": "2026-11-24T00:02:52+00:00",
      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you […]"
     },
     {
-     "ref": "the_verge#1",
+     "ref": "the_verge#2",
      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
      "published": "2026-11-23T23:25:01+00:00",
      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release […]"
     },
     {
-     "ref": "the_verge#2",
+     "ref": "the_verge#3",
      "title": "The Verge’s 2026 holiday gift guide",
      "published": "2026-11-23T23:14:10+00:00",
      "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things rolling. […]"
     },
     {
-     "ref": "the_verge#3",
+     "ref": "the_verge#4",
      "title": "Ladybird, the first new browser engine in years, is now available to test",
      "published": "2026-11-23T22:38:09+00:00",
      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. […]"
     },
     {
-     "ref": "the_verge#4",
+     "ref": "the_verge#5",
      "title": "Trump engineered a risky comeback for Jensen Huang",
      "published": "2026-11-23T22:25:12+00:00",
      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]"
     },
     {
-     "ref": "the_verge#5",
+     "ref": "the_verge#6",
      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
      "published": "2026-11-23T22:10:32+00:00",
      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]"
     },
     {
-     "ref": "the_verge#6",
+     "ref": "the_verge#7",
      "title": "Welcome to elite impunity, Jensen Huang",
      "published": "2026-11-23T22:09:26+00:00",
      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]"
     },
     {
-     "ref": "the_verge#7",
+     "ref": "the_verge#8",
      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
      "published": "2026-11-23T21:36:48+00:00",
      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price […]"
     },
     {
-     "ref": "the_verge#8",
+     "ref": "the_verge#9",
      "title": "AI data centers throw another wrench into chaotic UN climate talks",
      "published": "2026-11-23T21:09:37+00:00",
      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]"
-    },
-    {
-     "ref": "the_verge#9",
-     "title": "Apple renews Ted Lasso for season 5",
-     "published": "2026-11-23T20:56:00+00:00",
-     "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut. […]"
     }
    ]
   }

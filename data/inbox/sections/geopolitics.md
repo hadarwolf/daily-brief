@@ -13,6 +13,162 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
 {
  "news_feeds": [
   {
+   "outlet": "AP — World (via Google News)",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "ap_world#0",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-11-24T12:21:27+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-24T11:19:09+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "AP investigation: The DEA allowed 1.4 million fentanyl pills to go unseized in major probe - AP News",
+     "published": "2026-11-24T11:07:00+00:00",
+     "summary": "AP investigation: The DEA allowed 1.4 million fentanyl pills to go unseized in major probe AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Key takeaways from AP findings that the DEA allowed 1.4 million fentanyl pills to go unseized - AP News",
+     "published": "2026-11-24T11:03:00+00:00",
+     "summary": "Key takeaways from AP findings that the DEA allowed 1.4 million fentanyl pills to go unseized AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "A Russian strike on Ukraine kills 2 and wounds children as Kyiv explains its attack in Libya - AP News",
+     "published": "2026-11-24T11:00:00+00:00",
+     "summary": "A Russian strike on Ukraine kills 2 and wounds children as Kyiv explains its attack in Libya AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news - AP News",
+     "published": "2026-11-24T10:34:00+00:00",
+     "summary": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Bangladesh’s ousted leader Hasina plans to return home from exile on Dec 16 - AP News",
+     "published": "2026-11-24T10:32:00+00:00",
+     "summary": "Bangladesh’s ousted leader Hasina plans to return home from exile on Dec 16 AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Turkish officials backtrack after 24-hour hunt for Istanbul lioness, saying she never existed - AP News",
+     "published": "2026-11-24T10:18:00+00:00",
+     "summary": "Turkish officials backtrack after 24-hour hunt for Istanbul lioness, saying she never existed AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "A blast at a hot pot eatery in Vietnam’s capital Hanoi kills 6 and injures more than a dozen - AP News",
+     "published": "2026-11-24T10:12:00+00:00",
+     "summary": "A blast at a hot pot eatery in Vietnam’s capital Hanoi kills 6 and injures more than a dozen AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "House Democrat expands investigation into Donald Trump Jr.'s investment firm - AP News",
+     "published": "2026-11-24T10:03:00+00:00",
+     "summary": "House Democrat expands investigation into Donald Trump Jr.'s investment firm AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "World stocks are mixed after Wall Street's rebound as Jensen Huang returns as Nvidia’s CEO - AP News",
+     "published": "2026-11-24T09:52:00+00:00",
+     "summary": "World stocks are mixed after Wall Street's rebound as Jensen Huang returns as Nvidia’s CEO AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war - AP News",
+     "published": "2026-11-24T09:13:00+00:00",
+     "summary": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories - AP News",
+     "published": "2026-11-24T09:09:00+00:00",
+     "summary": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record - AP News",
+     "published": "2026-11-24T08:37:00+00:00",
+     "summary": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "Most victims of Indonesia factory fire died trying to reach emergency exit, rescuers say - AP News",
+     "published": "2026-11-24T07:45:00+00:00",
+     "summary": "Most victims of Indonesia factory fire died trying to reach emergency exit, rescuers say AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "Commanders hope late-game heroics in win over Bengals, led by Jayden Daniels, could shift season - AP News",
+     "published": "2026-11-24T07:08:00+00:00",
+     "summary": "Commanders hope late-game heroics in win over Bengals, led by Jayden Daniels, could shift season AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Pope Francis’ private diary details a profound spiritual crisis and encounters with the devil - AP News",
+     "published": "2026-11-24T06:01:00+00:00",
+     "summary": "Pope Francis’ private diary details a profound spiritual crisis and encounters with the devil AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station - AP News",
+     "published": "2026-11-24T05:51:00+00:00",
+     "summary": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station AP News"
+    },
+    {
+     "ref": "ap_world#18",
+     "title": "Time and development complicate efforts to find missing people in divided Cyprus, in photos - AP News",
+     "published": "2026-11-24T05:05:00+00:00",
+     "summary": "Time and development complicate efforts to find missing people in divided Cyprus, in photos AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House - AP News",
+     "published": "2026-11-24T05:03:00+00:00",
+     "summary": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House AP News"
+    },
+    {
+     "ref": "ap_world#20",
+     "title": "Nvidia’s comeback bet: Why Jensen Huang’s return calmed markets, for now - AP News",
+     "published": "2026-11-24T05:01:00+00:00",
+     "summary": "Nvidia’s comeback bet: Why Jensen Huang’s return calmed markets, for now AP News"
+    },
+    {
+     "ref": "ap_world#21",
+     "title": "Pacific Coast king tides could break decades-old records and flood communities - AP News",
+     "published": "2026-11-24T05:01:00+00:00",
+     "summary": "Pacific Coast king tides could break decades-old records and flood communities AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "Trump’s intervention on behalf of Jensen Huang gives Democrats another 2028 target - AP News",
+     "published": "2026-11-24T05:01:00+00:00",
+     "summary": "Trump’s intervention on behalf of Jensen Huang gives Democrats another 2028 target AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review - AP News",
+     "published": "2026-11-24T04:46:00+00:00",
+     "summary": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa - AP News",
+     "published": "2026-11-24T04:11:00+00:00",
+     "summary": "US flew drone over Mexican territory to help capture drug lord in Sinaloa AP News"
+    }
+   ]
+  },
+  {
    "outlet": "BBC News — World",
    "lang": "en",
    "items": [
@@ -261,6 +417,162 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "America’s Hidden AI Advantage",
      "published": "2026-11-18T09:00:00+00:00",
      "summary": "The United States—not China—dominates diffusion."
+    }
+   ]
+  },
+  {
+   "outlet": "Reuters — World (via Google News)",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "reuters_world#0",
+     "title": "London Museum celebrates city's grit and glitter in new Victorian market venue - Reuters",
+     "published": "2026-11-24T13:16:09+00:00",
+     "summary": "London Museum celebrates city's grit and glitter in new Victorian market venue Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Number of EU laws has more than doubled since 2010, study shows - Reuters",
+     "published": "2026-11-24T13:08:39+00:00",
+     "summary": "Number of EU laws has more than doubled since 2010, study shows Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Ukraine insists attack on Russian ships in Libya was self-defence - Reuters",
+     "published": "2026-11-24T12:41:43+00:00",
+     "summary": "Ukraine insists attack on Russian ships in Libya was self-defence Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "UK warns of Russian sabotage threat to companies that supply Ukraine - Reuters",
+     "published": "2026-11-24T12:37:06+00:00",
+     "summary": "UK warns of Russian sabotage threat to companies that supply Ukraine Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control, Kurds reject move - Reuters",
+     "published": "2026-11-24T12:05:41+00:00",
+     "summary": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control, Kurds reject move Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "UK targets Houthis with new sanctions - Reuters",
+     "published": "2026-11-24T12:04:56+00:00",
+     "summary": "UK targets Houthis with new sanctions Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
+     "title": "Country home of Prince William and wife Kate broken into, Sun says - Reuters",
+     "published": "2026-11-24T11:55:15+00:00",
+     "summary": "Country home of Prince William and wife Kate broken into, Sun says Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
+     "title": "EU sets limits on hybrid vehicle imports from China and other countries - Reuters",
+     "published": "2026-11-24T11:28:35+00:00",
+     "summary": "EU sets limits on hybrid vehicle imports from China and other countries Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
+     "title": "Black Southerners say Democrats wrote them off. Their votes may have changed that. - Reuters",
+     "published": "2026-11-24T11:27:03+00:00",
+     "summary": "Black Southerners say Democrats wrote them off. Their votes may have changed that. Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
+     "title": "UK retailers report best month for sales since late 2022: CBI - Reuters",
+     "published": "2026-11-24T11:22:03+00:00",
+     "summary": "UK retailers report best month for sales since late 2022: CBI Reuters"
+    },
+    {
+     "ref": "reuters_world#10",
+     "title": "India aluminium body urges stable policy, higher import duties ahead of annual budget - Reuters",
+     "published": "2026-11-24T11:15:59+00:00",
+     "summary": "India aluminium body urges stable policy, higher import duties ahead of annual budget Reuters"
+    },
+    {
+     "ref": "reuters_world#11",
+     "title": "Latvian president sees possible 'tipping point' in Ukraine war next year - Reuters",
+     "published": "2026-11-24T11:14:29+00:00",
+     "summary": "Latvian president sees possible 'tipping point' in Ukraine war next year Reuters"
+    },
+    {
+     "ref": "reuters_world#12",
+     "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say - Reuters",
+     "published": "2026-11-24T10:59:07+00:00",
+     "summary": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say Reuters"
+    },
+    {
+     "ref": "reuters_world#13",
+     "title": "US envoy 'not certain' military aid to Israel will end this year as Trump promised - Reuters",
+     "published": "2026-11-24T10:37:03+00:00",
+     "summary": "US envoy 'not certain' military aid to Israel will end this year as Trump promised Reuters"
+    },
+    {
+     "ref": "reuters_world#14",
+     "title": "French police officer who shot teenager will face murder trial - Reuters",
+     "published": "2026-11-24T10:30:09+00:00",
+     "summary": "French police officer who shot teenager will face murder trial Reuters"
+    },
+    {
+     "ref": "reuters_world#15",
+     "title": "German Ifo business sentiment rises for the seventh consecutive month - Reuters",
+     "published": "2026-11-24T10:26:20+00:00",
+     "summary": "German Ifo business sentiment rises for the seventh consecutive month Reuters"
+    },
+    {
+     "ref": "reuters_world#16",
+     "title": "Brazil lower house approves government-backed fiscal package - Reuters",
+     "published": "2026-11-24T10:22:09+00:00",
+     "summary": "Brazil lower house approves government-backed fiscal package Reuters"
+    },
+    {
+     "ref": "reuters_world#17",
+     "title": "Norway says there is dialogue with Ukraine regarding 'need for stability in our near areas' - Reuters",
+     "published": "2026-11-24T10:21:24+00:00",
+     "summary": "Norway says there is dialogue with Ukraine regarding 'need for stability in our near areas' Reuters"
+    },
+    {
+     "ref": "reuters_world#18",
+     "title": "Hyundai Motor India, Tata Motors Passenger Vehicles to raise prices from December 1 - Reuters",
+     "published": "2026-11-24T10:19:46+00:00",
+     "summary": "Hyundai Motor India, Tata Motors Passenger Vehicles to raise prices from December 1 Reuters"
+    },
+    {
+     "ref": "reuters_world#19",
+     "title": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say - Reuters",
+     "published": "2026-11-24T09:52:39+00:00",
+     "summary": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say Reuters"
+    },
+    {
+     "ref": "reuters_world#20",
+     "title": "German minister 'shocked' by Trump's intervention on Nvidia - Reuters",
+     "published": "2026-11-24T09:50:19+00:00",
+     "summary": "German minister 'shocked' by Trump's intervention on Nvidia Reuters"
+    },
+    {
+     "ref": "reuters_world#21",
+     "title": "Romania could meet euro adoption criteria by start of next decade, PM says - Reuters",
+     "published": "2026-11-24T09:43:43+00:00",
+     "summary": "Romania could meet euro adoption criteria by start of next decade, PM says Reuters"
+    },
+    {
+     "ref": "reuters_world#22",
+     "title": "Norway and Ukraine to expand cooperation on anti-drone system - Reuters",
+     "published": "2026-11-24T09:32:54+00:00",
+     "summary": "Norway and Ukraine to expand cooperation on anti-drone system Reuters"
+    },
+    {
+     "ref": "reuters_world#23",
+     "title": "India seizes Nepal flood crisis to rebuild influence as China gains ground - Reuters",
+     "published": "2026-11-24T09:22:13+00:00",
+     "summary": "India seizes Nepal flood crisis to rebuild influence as China gains ground Reuters"
+    },
+    {
+     "ref": "reuters_world#24",
+     "title": "Nvidia suppliers, startups in Asia cheer Huang's return as uncertainty eases - Reuters",
+     "published": "2026-11-24T08:39:27+00:00",
+     "summary": "Nvidia suppliers, startups in Asia cheer Huang's return as uncertainty eases Reuters"
     }
    ]
   }
