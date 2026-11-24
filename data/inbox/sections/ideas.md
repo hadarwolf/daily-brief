@@ -28,89 +28,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
-     "title": "The wind and the song: the treachery of AI",
-     "published": "2026-11-23T11:01:00+00:00",
-     "summary": "As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it - by Aeon Video Watch on Aeon",
+     "title": "Is mental illness universal?",
+     "published": "2026-11-24T11:00:00+00:00",
+     "summary": "Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific? - by Alexander Pereira Read on Aeon",
      "full_text_file": "essays/aeon_0.txt"
     },
     {
      "ref": "aeon#1",
-     "title": "A colossal oscillation",
-     "published": "2026-11-23T11:00:00+00:00",
-     "summary": "El Niño has upended global weather, shaping the fate of societies, for millennia. Is this past a clue to a turbulent future? - by Dagomar Degroot Read on Aeon",
+     "title": "The wind and the song: the treachery of AI",
+     "published": "2026-11-23T11:01:00+00:00",
+     "summary": "As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it - by Aeon Video Watch on Aeon",
      "full_text_file": "essays/aeon_1.txt"
     },
     {
      "ref": "aeon#2",
+     "title": "A colossal oscillation",
+     "published": "2026-11-23T11:00:00+00:00",
+     "summary": "El Niño has upended global weather, shaping the fate of societies, for millennia. Is this past a clue to a turbulent future? - by Dagomar Degroot Read on Aeon",
+     "full_text_file": "essays/aeon_2.txt"
+    },
+    {
+     "ref": "aeon#3",
      "title": "My grandmother was a seal",
      "published": "2026-11-20T11:00:00+00:00",
      "summary": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature - by Jordan Lee Borgman Read on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#4",
      "title": "Wunderkammer",
      "published": "2026-11-19T11:01:00+00:00",
      "summary": "Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#5",
      "title": "At least it remembers",
      "published": "2026-11-19T11:00:00+00:00",
      "summary": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#6",
      "title": "Dreams of birds",
      "published": "2026-11-18T11:01:00+00:00",
      "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#7",
      "title": "Catwalks and crackdowns",
      "published": "2026-11-17T11:00:00+00:00",
      "summary": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop. This is the ‘art of presence’ - by Parisa Khoshnami Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#8",
      "title": "The last klavern",
      "published": "2026-11-16T11:01:00+00:00",
      "summary": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#9",
      "title": "The horse made the state",
      "published": "2026-11-16T11:00:00+00:00",
      "summary": "Civilisation wasn’t made possible by grain, but by transportation – and the conquest it enabled, from the steppe to the sea - by Lhamsuren Munkh-Erdene Read on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#10",
      "title": "Fugitive imagination",
      "published": "2026-11-13T11:00:00+00:00",
      "summary": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#11",
      "title": "My grandfather been tell me a lot of story about Lasseter",
      "published": "2026-11-12T11:01:00+00:00",
      "summary": "A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#12",
      "title": "Why anything exists",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon"
     },
     {
-     "ref": "aeon#12",
+     "ref": "aeon#13",
      "title": "Decoding Ediacaran fossils",
      "published": "2026-11-11T11:01:00+00:00",
      "summary": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’ - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "The wholehearted life",
-     "published": "2026-11-10T11:00:00+00:00",
-     "summary": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon"
     }
    ]
   },
@@ -120,12 +121,19 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "lesswrong_curated#0",
+     "title": "Pacing AI via Compute Reallocation",
+     "published": "2026-11-24T07:43:49+00:00",
+     "summary": "This is a linkpost for pacing-ai.com . I encourage folks to read it via the site (which has interactive graphs and expandables), but we’ve copied the text here as well . We offer a concrete proposal for pacing the frontier. 1. Transparency: Verified Compute Allocation Disclosures (VCAD) 2. Reallocation: Shift compute away from capabilities R&D The first component is Verified Compute Allocation Dis",
+     "full_text_file": "essays/lesswrong_curated_0.txt"
+    },
+    {
+     "ref": "lesswrong_curated#1",
      "title": "How To Get A Friend To Leave An Abusive Relationship",
      "published": "2026-11-19T04:17:15+00:00",
      "summary": "How do you get a friend to leave an abusive relationship? If you talk to people who work at women's shelters, they will tell you, but there is something resigned about the way they do it: they know that it's too difficult an ask. Those who can do it reliably are often people who are unlucky enough to have had first-hand experience as victims. The instructions have anti-memetic properties: no one i"
     },
     {
-     "ref": "lesswrong_curated#1",
+     "ref": "lesswrong_curated#2",
      "title": "Scattered thoughts on how doing math feels these days",
      "published": "2026-11-13T01:10:37+00:00",
      "summary": "This is a weird moment. I have a hunch that we'll look back later and tell ourselves stories in which it seemed obvious where things were going. So I wanted to lay down a little time capsule and register just how confusing everything felt at the time. This is a personal view from the trenches. 1. If you're a normal person, you may feel that AI has been good at math for a long time. [1] But for \"re"
@@ -138,88 +146,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Best fiction 2026",
+     "published": "2026-11-24T07:33:57+00:00",
+     "summary": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa [new translation] Claudia Piñeiro, Cathedrals. Christian Kracht, Eurotrash [2025], and Air [2026]. Munir Hachemi, The Mulai. Olga Grjasnowa, My […] The post Best fiction 2026 appeared "
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "The Health Effects of Eating Red Meat",
+     "published": "2026-11-24T06:15:54+00:00",
+     "summary": "The subtitle of the paper is Natural Experiment in Alpha-Gal Syndrome, and the authors are Vishal Patel, Christopher M. Worsham, Michael Liu-Hass & Anupam Jena. The abstract: Observational associations between red meat consumption and cardiometabolic disease are confounded by diet and other health behaviors. Alpha-gal syndrome, a tick-borne allergy to mammalian meat, leads to an abrupt […] The pos"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "The AI gains that gdp misses",
      "published": "2026-11-23T18:44:20+00:00",
      "summary": "That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available degree of product variety rises sharply due to AI. But again, that effect is not captured […] The post The AI gains that gdp misses appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Monday assorted links",
      "published": "2026-11-23T17:01:36+00:00",
      "summary": "1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess players earn in prize money. 6. The rise and fall of the MBA. 7. Richard […] The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Still Unproven: Can Britain Build a Tunnel?",
      "published": "2026-11-23T12:20:34+00:00",
      "summary": "Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the second. Third irony: The tunnel still isn’t built. Hat tip: Alex Rich The post Still Unproven: Can Britain Build a Tunnel? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "The Tyranny of the Alphabet 2",
      "published": "2026-11-23T12:17:39+00:00",
      "summary": "I wrote about the Tyranny of the Alphabet many years ago. In economics the standard then was to list authors alphabetically: Faculty members in top departments with surnames beginning with letters earlier in the alphabet are substantially more likely to be tenured, be fellows of the Econometric Society, and even win Nobel prizes (let’s see, […] The post The Tyranny of the Alphabet 2 appeared first"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Best non-fiction books of 2026",
      "published": "2026-11-23T06:10:57+00:00",
-     "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […] The post Best non-fiction books of 2026 appeared first on Marginal REVOLUTION .",
-     "full_text_file": "essays/marginal_revolution_4.txt"
+     "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […] The post Best non-fiction books of 2026 appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Increasing pay for lower wage workers",
      "published": "2026-11-22T19:24:24+00:00",
      "summary": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external […] The post Increasing pay fo"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Sunday assorted links",
      "published": "2026-11-22T17:31:05+00:00",
      "summary": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes on user data vs. curated data. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Danish daughters",
      "published": "2026-11-22T07:40:20+00:00",
      "summary": "Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons follow similar health trajectories, with comparable levels of pre-existing conditions and healthcare utilization. After the stroke, a survival gap opens and grows, […] The post Danish "
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Will AI Growth Reach the Developing World?",
      "published": "2026-11-22T06:14:28+00:00",
      "summary": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and […] The post Will AI Growth Reach the Developing World? appeared first on Margina"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Saturday assorted links",
      "published": "2026-11-21T16:41:52+00:00",
      "summary": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5. Good AI policy ideas from Joshua Saxe. 6. Podcast with SBF from prison, have not had a chance to listen, […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "A simple observation",
      "published": "2026-11-21T15:12:31+00:00",
      "summary": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that “capabilities” do not necessarily translate into significant social and economic outcomes. Yet cybersecurity stocks are up considerably over the last few months, due to heightened cyber risk. So the […] The post A simple observation appeared first on Marg"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Paul Litvak’s Evidence Guide",
-     "published": "2026-11-21T11:58:56+00:00",
-     "summary": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is the site. This is happening quickly, people. Via Andrea. The post Paul Litvak’s Evidence Guide appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "*The Great Enrichment*",
-     "published": "2026-11-21T07:25:41+00:00",
-     "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: …regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much improvement there truly was. From 1870 to […] The post *The Great Enrichment* appeared first on Margin"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Emergent Ventures, 60th cohort",
-     "published": "2026-11-21T06:13:27+00:00",
-     "summary": "Faris Allafi, Abu Dhabi, 13, train AI models. Eliel Selin, Helsinki, 18, AI agents. Robert Boswall, London area, energy information for the UK. Alex Yang, Harvard, genetics for better organ transplants. Stanislaw Tomaszewski, Warsaw area, AI agents and the organization of trucking. Jonas Dolezal, London, nuclear fusion. Shawnak Shivakumar, Stanford, longevity research. Ruzgar Albayrak, Izmir, […] "
     }
    ]
   },
@@ -229,58 +230,58 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Learning to leave",
-     "published": "2026-11-23T11:00:00+00:00",
-     "summary": "My dog’s separation anxiety kept me housebound. To help him, I had to face my own fears of leaving - by Tracy Strauss Read on Psyche",
+     "title": "Feeling at home in a new country makes you a stranger in the old",
+     "published": "2026-11-24T11:00:00+00:00",
+     "summary": "A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic - by Iuri Portalegre Read on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
+     "title": "Learning to leave",
+     "published": "2026-11-23T11:00:00+00:00",
+     "summary": "My dog’s separation anxiety kept me housebound. To help him, I had to face my own fears of leaving - by Tracy Strauss Read on Psyche"
+    },
+    {
+     "ref": "psyche#2",
      "title": "The end of Xanadu",
      "published": "2026-11-20T11:00:00+00:00",
      "summary": "The house my father built taught me to expect disaster. Seeing it come down was a release - by Henrick Karoliszyn Read on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#3",
      "title": "Traces of home",
      "published": "2026-11-18T11:00:00+00:00",
      "summary": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#4",
      "title": "The cultural rules that define us take shape in our homes",
      "published": "2026-11-17T11:00:00+00:00",
      "summary": "The physical space of the home says a lot about how people learn to live. This becomes even clearer when you travel - by Oliver Sweet Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#5",
      "title": "Against the tide",
      "published": "2026-11-16T11:01:00+00:00",
      "summary": "After a breakup, Gill contemplates a new, off-grid life on a remote Scottish island. Will the community accept her? - Directed by Giulia Candussi Watch on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#6",
      "title": "After Ma and Pa",
      "published": "2026-11-16T11:00:00+00:00",
      "summary": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go? - by Susan Hornik Read on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#7",
      "title": "The power of group thought",
      "published": "2026-11-13T11:01:00+00:00",
      "summary": "Are groups smarter than the sum of their parts? What homing pigeons’ flight paths can teach us about ‘weighted democracy’ - Video by The Well and the John Templeton Foundation Watch on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#8",
      "title": "My friend, my witness",
      "published": "2026-11-13T11:00:00+00:00",
      "summary": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche"
-    },
-    {
-     "ref": "psyche#8",
-     "title": "Eye on the mark",
-     "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
     },
     {
      "ref": "psyche#9",
@@ -290,21 +291,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#10",
-     "title": "Why ‘patient influencers’ should come with a health warning",
-     "published": "2026-11-11T11:00:00+00:00",
-     "summary": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe Read on Psyche"
+     "title": "Eye on the mark",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
     },
     {
      "ref": "psyche#11",
-     "title": "Passersby",
-     "published": "2026-11-10T11:01:00+00:00",
-     "summary": "This expansive portrait of Los Angeles shows that the heart of a city is its people – with all their quirks and charms - Directed by Sue Ding and Sarah Garrahan Watch on Psyche"
-    },
-    {
-     "ref": "psyche#12",
-     "title": "How to help someone whose thinking seems delusional",
-     "published": "2026-11-10T11:00:00+00:00",
-     "summary": "If their beliefs appear strange and fixed, you don’t need to prove them wrong. A clinical psychologist shows a gentler way - by Laura Yoviene Sykes Read on Psyche"
+     "title": "Why ‘patient influencers’ should come with a health warning",
+     "published": "2026-11-11T11:00:00+00:00",
+     "summary": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe Read on Psyche"
     }
    ]
   },

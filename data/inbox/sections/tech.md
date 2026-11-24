@@ -20,81 +20,81 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ars_technica#0",
+     "title": "Ukraine’s sea drones blow up Russian warship in Benghazi operation",
+     "published": "2026-11-24T12:00:57+00:00",
+     "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea."
+    },
+    {
+     "ref": "ars_technica#1",
      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
      "published": "2026-11-23T21:58:34+00:00",
      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday."
     },
     {
-     "ref": "ars_technica#1",
+     "ref": "ars_technica#2",
      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
      "published": "2026-11-23T21:30:44+00:00",
      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
     },
     {
-     "ref": "ars_technica#2",
+     "ref": "ars_technica#3",
      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
      "published": "2026-11-23T20:34:51+00:00",
      "summary": "\"I would ask you to please reach out to Roscosmos directly.\""
     },
     {
-     "ref": "ars_technica#3",
+     "ref": "ars_technica#4",
      "title": "Surveillance pricing uses our personal data to make us pay more",
      "published": "2026-11-23T20:11:43+00:00",
      "summary": "Personalized pricing can mean unfair, and even biased, prices."
     },
     {
-     "ref": "ars_technica#4",
+     "ref": "ars_technica#5",
      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
      "published": "2026-11-23T19:38:13+00:00",
      "summary": "Amazon now uses its packages for political purposes."
     },
     {
-     "ref": "ars_technica#5",
+     "ref": "ars_technica#6",
      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
      "published": "2026-11-23T19:28:30+00:00",
      "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\""
     },
     {
-     "ref": "ars_technica#6",
+     "ref": "ars_technica#7",
      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
      "published": "2026-11-23T15:55:12+00:00",
      "summary": "\"All of you have lived stolen lives. But now you must give them back.\""
     },
     {
-     "ref": "ars_technica#7",
+     "ref": "ars_technica#8",
      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
      "published": "2026-11-23T15:46:18+00:00",
      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
     },
     {
-     "ref": "ars_technica#8",
+     "ref": "ars_technica#9",
      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
      "published": "2026-11-23T15:23:26+00:00",
      "summary": "COP31 ended without a consensus deal for the first time since 2009."
     },
     {
-     "ref": "ars_technica#9",
+     "ref": "ars_technica#10",
      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
      "published": "2026-11-23T13:54:22+00:00",
      "summary": "There were 352 position changes, including 35 for the lead."
     },
     {
-     "ref": "ars_technica#10",
+     "ref": "ars_technica#11",
      "title": "Tri-screen portable monitors aren’t for the faint of heart",
      "published": "2026-11-23T12:15:16+00:00",
      "summary": "Three extra screens boost multitasking but can distract and overwhelm."
     },
     {
-     "ref": "ars_technica#11",
+     "ref": "ars_technica#12",
      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
      "published": "2026-11-23T12:00:00+00:00",
      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents."
-    },
-    {
-     "ref": "ars_technica#12",
-     "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-     "published": "2026-11-22T12:07:41+00:00",
-     "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy."
     }
    ]
   },
@@ -104,87 +104,99 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "נפתחה ההרשמה לתוכנית ה-Deep Tech MBA של אוניברסיטת תל אביב",
+     "published": "2026-11-24T12:07:35+00:00",
+     "summary": "אם אתם קוראים את זה, כנראה שיש לכם מומחיות טכנולוגית בעולמות הפיתוח והמחקר. אבל האם אתם יודעים להפוך אותה ליכולת לנהל עסק או יחידה עסקית, או להוביל מיזם המתבסס על טכנולוגיה עמוקה? פיתוח טכנולוגיה פורצת דרך הוא רק חלק מהדרך להפוך רעיון לחברה מצליחה. בתחומים כמו AI, סייבר, רובוטיקה, ביוטכנולוגיה, טכנולוגיות רפואיות, אקלים ו-Deep Tech, […] The post נפתחה ההרשמה לתוכנית ה-Deep Tech MBA של אוניברסיטת ת"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "עוד 320 מיליון דולר להשקעות בסטארטאפים ישראלים",
+     "published": "2026-11-24T10:03:47+00:00",
+     "summary": "מתוך כ-200 קרנות הון סיכון בישראל, פחות מעשר מתמקדות בשלבי צמיחה מאוחרים, זאת למרות שהיקף ההשקעות בתחום זינק לכ-10 מיליארד דולר בשנה שעברה. למגרש הזה נכנסת קרן Key1 Capital, שהודיעה על סגירה ראשונה של 320 מיליון דולר לקרן השנייה שלה. על פי הודעת הקרן, כ-95% מההתחייבויות להשקעה הגיעו מגופים מוסדיים, פאמילי אופיסס ויזמים שכבר השקיעו […] The post עוד 320 מיליון דולר להשקעות בסטארטאפים ישראלים appeare"
+    },
+    {
+     "ref": "geektime#2",
+     "title": "ה-CISO של אמזון: \"חסמנו 2,900 צפון-קוריאנים שניסו להתקבל לעבודה\"",
+     "published": "2026-11-24T09:16:34+00:00",
+     "summary": "מאת שחר פלד \"חסמנו לפחות 2,900 גורמים מצפון-קוריאה שניסו להתקבל לעבודה באמזון\", סיפר סי-ג'יי מוזס, מנהל אבטחת המידע של ענקית האיקומרס ושירותי הענן האמריקאית. \"הם משתמשים ב-AI כדי לבנות זהויות בדויות שנראות אמינות, ולהתקבל לעבודה בחברות כמו שלנו\", הסביר. \"הכסף שהם מקבלים מהעבודה בחברות האלה חוזר לצפון-קוריאה ומממן את הפעילות הצבאית של המשטר. ה-AI מאפשר […] The post ה-CISO של אמזון: \"חסמנו 2,900 צפו"
+    },
+    {
+     "ref": "geektime#3",
+     "title": "תחקיר חדש חושף את פרויקט המיפוי הסודי של Google Maps ביהודה ושומרון",
+     "published": "2026-11-24T08:19:30+00:00",
+     "summary": "מפות באפליקציות אמורות לשקף את המציאות בשטח, אבל בלא מעט איזורים בעולם – החל מאוקראינה ומפרץ אמריקה-מקסיקו ועד יהודה ושומרון – כל קו על המסך הוא פוטנציאל להפוך למוקש פוליטי. תחקיר חדש חושף כיצד מנהל מוצר ב-Google Maps השקיע יותר משש שנים בניסיון לשנות את הניווט לטובת התושבים הפלסטינים שגרים באיזור – ומה קרה לכל […] The post תחקיר חדש חושף את פרויקט המיפוי הסודי של Google Maps ביהודה ושומרון appear"
+    },
+    {
+     "ref": "geektime#4",
+     "title": "\"ישו של ה-GPU קם לתחייה\": בכירי הטק חוגגים את חזרתו של ג'נסן",
+     "published": "2026-11-24T07:06:42+00:00",
+     "summary": "אחרי 11 ימים של דרמה שכללה חשיפת רומנים, התנצלות פומבית של אחד האנשים החזקים בעולם, חשש לריגול סיני ואפילו התערבות של נשיא ארה\"ב, אתמול (ב') חזר ג'נסן הואנג לכיסא מנכ\"ל אנבידיה. הדירקטוריון, שרק בשבוע שעבר נזכיר שלל את האפשרות הזאת, הצביע פה אחד בעד החזרתו, והתגובות בעמק הסיליקון לא איחרו להגיע. אם לשפוט לפי הציוצים, […] The post \"ישו של ה-GPU קם לתחייה\": בכירי הטק חוגגים את חזרתו של ג'נסן appeare"
+    },
+    {
+     "ref": "geektime#5",
      "title": "עסקת אמזון ודקארט: סימני השאלה הגדולים שנותרו",
      "published": "2026-11-23T16:43:17+00:00",
      "summary": "אין ספק ש-Decart הישראלית היא אחד מהסיפורים המרשימים ויוצאי הדופן בשנים האחרונות בהייטק הישראלי. החברה, שהוקמה רק בספטמבר 2023 על ידי דין ואוריין לייטרסדורף ומשה שלו, הצליחה תוך פחות משלוש שנים להציג טכנולוגיה מרשימה ובשלה, לזנק (בסבב הגיוס האחרון) לשווי מוערך של 4 מיליארד דולר ולגייס כ-400 מיליון דולר משמות ענקיים כמו סקויה, בנצ'מרק, אנבידיה […] The post עסקת אמזון ודקארט: סימני השאלה הגדולים שנו"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#6",
      "title": "ברייקינג: דירקטוריון NVIDIA החזיר את ג'נסן הואנג לתפקיד המנכ\"ל",
      "published": "2026-11-23T14:06:23+00:00",
      "summary": "דירקטוריון אנבידיה הודיע היום (ב') בהפתעה על החזרת ג'נסן הואנג לתפקיד מנכ\"ל אנבידיה וחבר הדירקטוריון – שבוע וחצי אחרי שהתפטר על רקע רומנים עם אישה החשודה בריגול למען סין ובכירה שעבדה תחתיו. ההחלטה התקבלה פה אחד, ובדירקטוריון ציינו כי הגיעה לאחר שיחות איתו וקבלת התייחסות מבכירים בממשל האמריקאי. במקביל, בדירקטוריון מציינים כי החקירה העצמאית בנושא […] The post ברייקינג: דירקטוריון NVIDIA החזיר את ג'נ"
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#7",
      "title": "אמזון רוכשת את הטכנולוגיות של Decart הישראלית",
      "published": "2026-11-23T13:49:12+00:00",
      "summary": "אחרי הדיווחים וההדלפות, אמזון הודיעה היום (ב') רשמית על רכישת הטכנולוגיות של הסטארטאפ הישראלי Decart (דקארט). החברות לא פרסמו פרטים נוספים על העסקה. דיווחים קודמים (גם כאן) הזכירו סכומים של עד 7.5 מיליארד דולר, עם זאת הטיב המלא של העסקה אינו ברור עדיין וגם הסכומים. עוד כמה סימני שאלה על העסקה – כאן. רכישה אחרי […] The post אמזון רוכשת את הטכנולוגיות של Decart הישראלית appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#8",
      "title": "רגע לפני שמחשבים קוונטיים שוברים את כל ההצפנות שלנו: הסטארטאפ הישראלי Q.security נחשף עם גיוס סיד",
      "published": "2026-11-23T13:00:42+00:00",
      "summary": "האיום הקוונטי הוא כבר מזמן לא תרגיל תיאורטי באקדמיה, וגם לא עוד איזו באזוורד שזורקים במצגות משקיעים. מחשבים קוונטיים עתידיים צפויים לפצח את אלגוריתמי ההצפנה והחתימה הדיגיטלית שמגינים כיום על רוב המידע ברשת. במילים אחרות, זו לא שאלה של האם, אלא מתי. מי שרוצה לעזור לחברות ולארגונים להתכונן ליום הזה היא חברת הסייבר הישראלית Q.security […] The post רגע לפני שמחשבים קוונטיים שוברים את כל ההצפנות שלנו: "
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#9",
      "title": "איך הצלחנו להריץ יותר מ-2.5 מיליארד בקשות יומיות בפרודקשן – בלי קריסה אחת",
      "published": "2026-11-23T12:44:58+00:00",
      "summary": "מאת תום צייגר כשמריצים מיליארדי משימות ביום, האתגר הוא לא רק לעבד אותן מהר, אלא גם לוודא שעומס של לקוח אחד לא הופך לצוואר בקבוק עבור כולם. כשכל פרויקט מייצר מיליוני פריטים, וכל אחד מהם צריך לעבור שרשרת של סריקה, עיבוד והעברת נתונים, גם החלטות ארכיטקטוניות קטנות עלולות להפוך לבעיות ענקיות בסקייל. אז איך בונים […] The post איך הצלחנו להריץ יותר מ-2.5 מיליארד בקשות יומיות בפרודקשן – בלי קריסה אחת app"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#10",
      "title": "עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44 מיליארד דולר",
      "published": "2026-11-23T11:57:36+00:00",
      "summary": "ענקית הסייבר האמריקאית CrowdStrike הודיעה היום (ב') על רכישת Zscaler בעסקת מניות בשווי של כ-43.9 מיליארד דולר, באחת מהעסקאות הגדולות ביותר בתולדות ענף הסייבר העולמי. העסקה משקפת שווי של כ-260 דולר למניית זיסקיילר ופרמיה של כ-34% על מחיר הסגירה שלה ביום שישי האחרון. בעלי המניות של קראודסטרייק יחזיקו בכ-84% מהחברה הממוזגת, בעוד שבעלי המניות של […] The post עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44"
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#11",
      "title": "עברתם חברה כדי לשדרג את השכר? תבדקו שלא הפסדתם אלף שקל בחודש",
      "published": "2026-11-23T10:03:41+00:00",
      "summary": "מאת מיטל כהן עצרתם פעם לשאול איך Job Hopping משפיע על הכסף שיחכה לכם אחרי שתפרשו? מעבר תכוף בין מקומות עבודה הוא פרקטיקה מקובלת בהייטק, ולעתים קרובות היא ממש הכרחית אם רוצים להתקדם, להתפתח מקצועית ולהרוויח יותר. אבל יש כמה החלטות שקשורות במעברים האלה, שעשויות להשפיע על שנים של חיסכון. הבעיה היא לא עצם המעבר, […] The post עברתם חברה כדי לשדרג את השכר? תבדקו שלא הפסדתם אלף שקל בחודש appeared first o"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#12",
      "title": "נגמרה החגיגה: גוגל מתחילה להקשות על התקנת אפליקציות מחוץ לחנות",
      "published": "2026-11-23T09:34:31+00:00",
      "summary": "אחד היתרונות הגדולים של משתמשי אנדרואיד על חבריהם, בעלי המכשיר עם התפוח הנגוס על גב המכשיר, הוא החופש להתקין אפליקציות מאיפה שהם רק רוצים. מצאתם אפליקציה מעניינת בגיטהאב? רוצים להוריד אפליקציה שלא נמצאת ב-Google Play או להשתמש בחנות אפליקציות חלופית? פשוט מורידים את קובץ ה-APK, מתקינים ונהנים. אלא שבקרוב התהליך הזה עשוי להפוך למורכב הרבה […] The post נגמרה החגיגה: גוגל מתחילה להקשות על התקנת אפליק"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#13",
      "title": "לאפל יש בעיה רצינית, והיא רק עכשיו מתחילה לעבוד עליה",
      "published": "2026-11-23T07:46:03+00:00",
      "summary": "אפל נמצאת בנקודה מאוד מעניינת. בעוד המניות של ענקיות הטכנולוגיה קורסות באופן מרהיב, מניית אפל מסכמת עלייה של יותר מ-26% מתחילת השנה. איכשהו, נראה שההימור של אפל, שהיה לא להמר על תחום ה-AI, השתלם לה בדיעבד. אולם כעת, אחרי כמה שינויים משמעותיים מאוד בשוק, יכול להיות שהיא נמצאת בדרך לצרה הרבה יותר גדולה. הסוכנים באים […] The post לאפל יש בעיה רצינית, והיא רק עכשיו מתחילה לעבוד עליה appeared first on "
     },
     {
-     "ref": "geektime#9",
+     "ref": "geektime#14",
      "title": "9 שנות קוד ב-7 ימי עבודה: כך העברנו בעזרת AI מערכת בפרודקשן מ-Python ל-Go",
      "published": "2026-11-22T16:07:00+00:00",
      "summary": "שבעה ימי עבודה – זה הזמן שלקח לנו להעביר את הקוד הפעיל שלנו בפרודקשן מ-Python ל-Go, באמצעות AI. התוצאה? ירידה של 80 אחוז בעלויות הענן ושיפור ביצועים של עד פי 11 בפונקציות מסוימות. עלות הטוקנים הסתכמה בכ-5% בלבד מהחיסכון שהשגנו. עד לאחרונה, פרויקט כזה היה דורש השקעה משמעותית של זמן ומשאבי פיתוח, אבל השימוש ב-AI […] The post 9 שנות קוד ב-7 ימי עבודה: כך העברנו בעזרת AI מערכת בפרודקשן מ-Python ל-Go a"
     },
     {
-     "ref": "geektime#10",
+     "ref": "geektime#15",
      "title": "חדש: עשיתם עבירת תנועה? הדוח מהמשטרה יגיע אליכם מייד לנייד",
      "published": "2026-11-22T13:32:21+00:00",
      "summary": "לקבל בדואר דוח תנועה מהמשטרה חודש אחרי העבירה זה דבר מתסכל למדי, בעיקר כי בשלב הזה קשה לזכור מי בכלל נהג ברכב ומה היו הנסיבות לעבירה. עכשיו, מתברר שמשטרת ישראל מבצעת שדרוג דיגיטלי קטן, שאמור לסייע לכם או קרובים אליכם, אם ביצעתם עבירת תנועה כלשהי (בואו, אנחנו יוצאים מנקודת הנחה שקוראי גיקטיים לא עושים עבירות […] The post חדש: עשיתם עבירת תנועה? הדוח מהמשטרה יגיע אליכם מייד לנייד appeared first on ג"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים)",
-     "published": "2026-11-22T09:32:36+00:00",
-     "summary": "מנהלי IT ואבטחת מידע עומדים היום מול דילמה דחופה: מצד אחד, קיים לחץ עסקי לאמץ סוכני AI ולהפיק מהם ערך במהירות. מצד שני, האימוץ הזה מגיע עם סכנות אבטחה משמעותיות – סוכנים שפועלים בלי פיקוח, חשיפת מידע רגיש וקושי לנטר את הפעילות. בארגונים רבים חסרה מסגרת Governance ברורה, ולכן הם תקועים באמצע הדרך שבין פיילוט […] The post בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים) appeared fir"
-    },
-    {
-     "ref": "geektime#12",
-     "title": "אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI",
-     "published": "2026-11-22T08:49:11+00:00",
-     "summary": "גם העמוד המוכר ביותר באינטרנט לא חסין בפני השפעות ה-AI והוא בדרך למתיחת פנים נדירה למדי. אחרי שגוגל נתפסה לא מוכנה במירוץ ה-AI, ואחרי הקאמבק, ואחרי שהיא שוב נתפסת כמפגרת אחרי המתחרות – היא מתחילה להטמיע את Gemini עמוק גם לתוך מוצר הדגל שלה, עמוד החיפוש. היכונו לעוד שינוי השינוי המשמעותי הראשון לעמוד הבית של […] The post אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#13",
-     "title": "טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה התרסקו",
-     "published": "2026-11-22T08:16:54+00:00",
-     "summary": "אחרי חודשים ארוכים שבהם מניות ה-AI סחבו את וול סטריט על הגב, נראה שלשוק ההון מתחילה להיגמר הסבלנות. ביום שישי האחרון ננעל שבוע מסחר מדמם במיוחד עבור ענקיות הטכנולוגיה, עם ירידות חדות במדדים המובילים בארה\"ב, מחיקה של טריליוני דולרים משווי החברות, והצלילה הגדולה ביותר של מניית אנבידיה (NVIDIA) מאז התפטרות ג'נסן הואנג. מה בעצם קרה […] The post טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה"
     }
    ]
   },
@@ -194,87 +206,75 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
-     "published": "2026-11-23T23:11:38+00:00",
-     "summary": "Article URL: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/ Comments URL: https://news.ycombinator.com/item?id=50620822 Points: 252 # Comments: 191"
+     "title": "2035 Came Early",
+     "published": "2026-11-24T06:30:33+00:00",
+     "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 354 # Comments: 121"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-     "published": "2026-11-23T22:32:29+00:00",
-     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 260 # Comments: 133"
+     "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+     "published": "2026-11-24T02:27:02+00:00",
+     "summary": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 432 # Comments: 163"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "VP ≠ VNP over Every Field",
-     "published": "2026-11-23T22:09:10+00:00",
-     "summary": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d... Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 274 # Comments: 233"
+     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+     "published": "2026-11-23T22:32:29+00:00",
+     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 515 # Comments: 272"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "GPUI is getting its own repository",
-     "published": "2026-11-23T20:52:54+00:00",
-     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 161 # Comments: 56"
+     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+     "published": "2026-11-23T21:01:16+00:00",
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 270 # Comments: 57"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-     "published": "2026-11-23T19:17:55+00:00",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 899 # Comments: 207"
+     "title": "GPUI is getting its own repository",
+     "published": "2026-11-23T20:52:54+00:00",
+     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 298 # Comments: 104"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Kagi Mail (public beta)",
-     "published": "2026-11-23T17:17:01+00:00",
-     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 372 # Comments: 278"
+     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+     "published": "2026-11-23T19:17:55+00:00",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 1077 # Comments: 252"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
      "published": "2026-11-23T17:07:26+00:00",
-     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1284 # Comments: 716"
+     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1752 # Comments: 1013"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Ladybird is now in alpha",
      "published": "2026-11-23T16:13:12+00:00",
-     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1536 # Comments: 360"
+     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 2082 # Comments: 492"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "published": "2026-11-23T14:00:18+00:00",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2226 # Comments: 3256"
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2635 # Comments: 3514"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-     "published": "2026-11-23T12:28:11+00:00",
-     "summary": "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 221 # Comments: 116"
+     "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+     "published": "2026-11-23T13:42:38+00:00",
+     "summary": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks. Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit): - DeepSWE: 39.8 / 41.0 / 41.9 / 28.6 - Terminal-Bench 2.1: "
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-     "published": "2026-11-23T11:31:54+00:00",
-     "summary": "https://x.com/codycollier/status/2124505859883716918 Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 289 # Comments: 165"
+     "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+     "published": "2026-11-23T10:06:43+00:00",
+     "summary": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 1138 # Comments: 371"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-     "published": "2026-11-23T10:06:43+00:00",
-     "summary": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 1078 # Comments: 350"
-    },
-    {
-     "ref": "hn_frontpage#12",
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "published": "2026-11-23T01:13:51+00:00",
-     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 954 # Comments: 164"
-    },
-    {
-     "ref": "hn_frontpage#13",
-     "title": "Nespresso's project to reduce grams of coffee per capsule",
-     "published": "2026-11-22T23:57:45+00:00",
-     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 289 # Comments: 302"
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 1018 # Comments: 174"
     }
    ]
   },
@@ -323,12 +323,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "AI Is Giving Optical Computing Another Shot",
      "published": "2026-11-17T14:00:03+00:00",
      "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. One projection suggests that the market will continue to grow exponent"
-    },
-    {
-     "ref": "ieee_spectrum#7",
-     "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
-     "published": "2026-11-17T11:00:04+00:00",
-     "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore operations. How power efficiency, RF signaling, and antenna design shape satellite-connected device de"
     }
    ]
   },
@@ -338,18 +332,24 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "mit_tech_review#0",
+     "title": "Data centers are getting their own natural gas power plants",
+     "published": "2026-11-24T11:00:00+00:00",
+     "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s…"
+    },
+    {
+     "ref": "mit_tech_review#1",
      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
      "published": "2026-11-23T17:36:08+00:00",
      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…"
     },
     {
-     "ref": "mit_tech_review#1",
+     "ref": "mit_tech_review#2",
      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
      "published": "2026-11-23T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…"
     },
     {
-     "ref": "mit_tech_review#2",
+     "ref": "mit_tech_review#3",
      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
      "published": "2026-11-23T11:00:00+00:00",
      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…"
@@ -362,30 +362,42 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "simon_willison#0",
+     "title": "datasette-charts 0.2a0",
+     "published": "2026-11-24T04:24:29+00:00",
+     "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Downl"
+    },
+    {
+     "ref": "simon_willison#1",
+     "title": "datasette-agent 0.7a1",
+     "published": "2026-11-24T03:45:57+00:00",
+     "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix"
+    },
+    {
+     "ref": "simon_willison#2",
      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
      "published": "2026-11-23T23:40:49+00:00",
      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the"
     },
     {
-     "ref": "simon_willison#1",
+     "ref": "simon_willison#3",
      "title": "Ladybird's first alpha release",
      "published": "2026-11-23T21:46:35+00:00",
      "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, "
     },
     {
-     "ref": "simon_willison#2",
+     "ref": "simon_willison#4",
      "title": "datasette-charts 0.1a0",
      "published": "2026-11-23T00:37:20+00:00",
      "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several dif"
     },
     {
-     "ref": "simon_willison#3",
+     "ref": "simon_willison#5",
      "title": "Select Styling Specimens",
      "published": "2026-11-22T19:45:06+00:00",
      "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After s"
     },
     {
-     "ref": "simon_willison#4",
+     "ref": "simon_willison#6",
      "title": "Muru",
      "published": "2026-11-21T23:56:28+00:00",
      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of "

@@ -95,6 +95,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-24T19:45:00Z",
+     "home": "Portsmouth",
+     "away": "West Ham",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-24T19:45:00Z",
      "home": "Cardiff",
      "away": "Preston NE",
      "status": "SCHEDULED",
@@ -111,8 +119,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-24T19:45:00Z",
-     "home": "Portsmouth",
-     "away": "West Ham",
+     "home": "Norwich",
+     "away": "QPR",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-24T19:45:00Z",
+     "home": "Sheffield Utd",
+     "away": "Southampton",
      "status": "SCHEDULED",
      "score": null
     },
@@ -133,19 +149,11 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-24T19:45:00Z",
-     "home": "Norwich",
-     "away": "QPR",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-24T19:45:00Z",
-     "home": "Sheffield Utd",
-     "away": "Southampton",
-     "status": "SCHEDULED",
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-24T20:00:00Z",
+     "home": "Feyenoord",
+     "away": "Porto",
+     "status": "TIMED",
      "score": null
     },
     {
@@ -169,14 +177,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-24T20:00:00Z",
      "home": "Man City",
      "away": "Napoli",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-24T20:00:00Z",
-     "home": "Feyenoord",
-     "away": "Porto",
      "status": "TIMED",
      "score": null
     },
@@ -549,26 +549,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    {
     "home": "New Orleans Pelicans",
     "away": "Phoenix Suns",
-    "score": "113-119",
-    "status": "OT1"
+    "score": "119-123",
+    "status": "Final"
    },
    {
     "home": "Houston Rockets",
     "away": "LA Clippers",
-    "score": "98-93",
-    "status": "4th Qtr"
+    "score": "116-104",
+    "status": "Final"
    },
    {
     "home": "Los Angeles Lakers",
     "away": "Utah Jazz",
-    "score": "30-20",
-    "status": "1st Qtr"
+    "score": "109-94",
+    "status": "Final"
    },
    {
     "home": "Sacramento Kings",
     "away": "San Antonio Spurs",
-    "score": "28-19",
-    "status": "1st Qtr"
+    "score": "107-123",
+    "status": "Final"
    }
   ],
   "games_today": [
@@ -652,153 +652,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Glens boss Ferguson apologises after seven-game ban",
+     "published": "2026-11-24T11:36:18+00:00",
+     "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Republic of Ireland boss Ward signs new contract",
+     "published": "2026-11-24T10:45:30+00:00",
+     "summary": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Four Midlands teams in the Championship top five - can it last?",
+     "published": "2026-11-24T10:27:17+00:00",
+     "summary": "With more than a third of the season gone, Stoke City, Birmingham City, Wolves and West Brom are all in the Championship promotion race. Who can keep it up?"
+    },
+    {
+     "ref": "bbc_football#3",
+     "title": "Which Premier League players are set for yellow card suspensions?",
+     "published": "2026-11-24T09:47:51+00:00",
+     "summary": "Seventeen players are on the brink of a one-match ban in the 2026-27 Premier League season."
+    },
+    {
+     "ref": "bbc_football#4",
+     "title": "Dead hippo to be honoured on football club tifo",
+     "published": "2026-11-24T09:43:38+00:00",
+     "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday."
+    },
+    {
+     "ref": "bbc_football#5",
+     "title": "The youngest Premier League goalscorers this season",
+     "published": "2026-11-24T09:10:34+00:00",
+     "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season."
+    },
+    {
+     "ref": "bbc_football#6",
+     "title": "Barnet forward Noel-Williams charged with rape",
+     "published": "2026-11-24T08:50:17+00:00",
+     "summary": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences."
+    },
+    {
+     "ref": "bbc_football#7",
+     "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
+     "published": "2026-11-24T08:36:50+00:00",
+     "summary": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts."
+    },
+    {
+     "ref": "bbc_football#8",
+     "title": "Can returning Beattie and Haughey make an impact?",
+     "published": "2026-11-24T08:08:33+00:00",
+     "summary": "BBC Sport NI looks at Michael McArdle's decision to recall striker Kerry Beattie and the uncapped Ella Haughey to his squad for a friendly double-header against Greece."
+    },
+    {
+     "ref": "bbc_football#9",
+     "title": "Podcast: Hibs & Dundee hurting as confidence grows at Rangers",
+     "published": "2026-11-24T08:00:00+00:00",
+     "summary": "Can Dundee respond to 8-0? Hibs chase a rare home win and Rangers turn up the heat."
+    },
+    {
+     "ref": "bbc_football#10",
+     "title": "Celtic duo Duran and Nygren attract interest - gossip",
+     "published": "2026-11-24T07:53:41+00:00",
+     "summary": "Premier League club keep an eye on Celtic summer signing as Serie A sides monitor the champion's Swedish midfielder..."
+    },
+    {
+     "ref": "bbc_football#11",
+     "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+     "published": "2026-11-24T06:57:16+00:00",
+     "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career."
+    },
+    {
+     "ref": "bbc_football#12",
+     "title": "Two goals in 15 games - what's going on with Gyokeres?",
+     "published": "2026-11-24T06:45:27+00:00",
+     "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres."
+    },
+    {
+     "ref": "bbc_football#13",
+     "title": "Who am I? Plus today's other quizzes",
+     "published": "2026-11-24T06:42:40+00:00",
+     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+     "ref": "bbc_football#14",
+     "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+     "published": "2026-11-24T06:16:53+00:00",
+     "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny."
+    },
+    {
+     "ref": "bbc_football#15",
      "title": "Who has made Troy's Premier League team of the week?",
      "published": "2026-11-23T23:26:35+00:00",
      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#16",
      "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
      "published": "2026-11-23T23:07:48+00:00",
      "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?"
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#17",
      "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
      "published": "2026-11-23T23:07:48+00:00",
      "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?"
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#18",
      "title": "Andrews praises 'versatile' Lewis-Potter",
      "published": "2026-11-23T22:59:14+00:00",
      "summary": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#19",
      "title": "Moyes questions Tarkowski red in Brentford loss",
      "published": "2026-11-23T22:54:51+00:00",
      "summary": "Everton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 loss by Brentford."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#20",
      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
      "published": "2026-11-23T22:43:39+00:00",
      "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?"
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#21",
      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
      "published": "2026-11-23T22:31:27+00:00",
      "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#22",
      "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
      "published": "2026-11-23T21:48:00+00:00",
      "summary": "Mark Chapman is joined by Conor Coady, Chris Sutton and Rory Smith."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#23",
      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
      "published": "2026-11-23T21:41:52+00:00",
      "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#24",
      "title": "De Bruyne's feelings for Man City will 'never change'",
      "published": "2026-11-23T21:05:23+00:00",
      "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules."
-    },
-    {
-     "ref": "bbc_football#10",
-     "title": "Hosting World Cup means decade of excitement - Weir",
-     "published": "2026-11-23T21:03:42+00:00",
-     "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland."
-    },
-    {
-     "ref": "bbc_football#11",
-     "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
-     "published": "2026-11-23T17:16:13+00:00",
-     "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 25th managerial appointment on his watch."
-    },
-    {
-     "ref": "bbc_football#12",
-     "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-     "published": "2026-11-23T16:30:59+00:00",
-     "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League"
-    },
-    {
-     "ref": "bbc_football#13",
-     "title": "When is the Euro 2028 qualifying draw?",
-     "published": "2026-11-23T16:25:50+00:00",
-     "summary": "Our Ask Me Anything team tell you all you need to know about the Euro 2028 qualifying draw."
-    },
-    {
-     "ref": "bbc_football#14",
-     "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
-     "published": "2026-11-23T16:17:17+00:00",
-     "summary": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
-     "published": "2026-11-23T16:17:17+00:00",
-     "summary": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership."
-    },
-    {
-     "ref": "bbc_football#16",
-     "title": "I've wanted to crawl under a rock and hide - Pressley",
-     "published": "2026-11-23T15:31:57+00:00",
-     "summary": "Steven Pressley says he felt embarrassed by Dundee's 8-0 \"humiliation\" by Hearts and that there is a \"fragility\" in his squad."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "'I've wanted to crawl under a rock and hide' - Pressley on Dundee debacle",
-     "published": "2026-11-23T15:31:57+00:00",
-     "summary": "Steven Pressley says he felt embarrassed by Dundee's 8-0 \"humiliation\" by Hearts and that there is a \"fragility\" in his squad."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "IFA 'positive' over upgrades needed for World Cup",
-     "published": "2026-11-23T15:26:23+00:00",
-     "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary upgrades to Windsor Park in time for the 2035 World Cup."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "IFA 'positive' over upgrades needed for World Cup",
-     "published": "2026-11-23T15:26:23+00:00",
-     "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary upgrades to Windsor Park in time for the 2035 World Cup."
-    },
-    {
-     "ref": "bbc_football#20",
-     "title": "Raya to miss Dortmund game but injury 'not serious'",
-     "published": "2026-11-23T15:23:09+00:00",
-     "summary": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-     "published": "2026-11-23T15:09:50+00:00",
-     "summary": "The United Kingdom will host a football World Cup for the first time since 1966."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Scotland to co-host 2035 Women's World Cup, Fifa confirms",
-     "published": "2026-11-23T15:09:50+00:00",
-     "summary": "The United Kingdom will host a football World Cup for the first time since 1966."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-     "published": "2026-11-23T15:09:50+00:00",
-     "summary": "The United Kingdom will host a football World Cup for the first time since 1966."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
-     "published": "2026-11-23T13:07:12+00:00",
-     "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark."
     }
    ]
   },
@@ -808,153 +808,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Messi booked for throwing the ball into Gonzalo Tapia's face as Columbus Crew beat Inter Miami 3-0 - Latin Times",
+     "published": "2026-11-24T11:33:59+00:00",
+     "summary": "Messi booked for throwing the ball into Gonzalo Tapia's face as Columbus Crew beat Inter Miami 3-0 Latin Times"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Inter Miami and Messi's problem - Laodong.vn",
+     "published": "2026-11-24T11:11:47+00:00",
+     "summary": "Inter Miami and Messi's problem Laodong.vn"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "False! Kevin De Bruyne has not joined Inter Miami - Dubawa",
+     "published": "2026-11-24T10:05:57+00:00",
+     "summary": "False! Kevin De Bruyne has not joined Inter Miami Dubawa"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "Major League Soccer to review Messi’s controversial clash with Columbus player - Blueprint Newspapers",
+     "published": "2026-11-24T09:55:28+00:00",
+     "summary": "Major League Soccer to review Messi’s controversial clash with Columbus player Blueprint Newspapers"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
+     "title": "MLS salaries revealed: Messi tops the list with €26m-a-year package - BeSoccer Livescore",
+     "published": "2026-11-24T09:30:02+00:00",
+     "summary": "MLS salaries revealed: Messi tops the list with €26m-a-year package BeSoccer Livescore"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "Jordi Alba - VAVEL.com",
+     "published": "2026-11-24T06:42:46+00:00",
+     "summary": "Jordi Alba VAVEL.com"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
+     "title": "Did Lionel Messi Once Again Escape a Red Card? LM10 Throws Ball in Opposing Player's Face - MensXP",
+     "published": "2026-11-24T05:34:46+00:00",
+     "summary": "Did Lionel Messi Once Again Escape a Red Card? LM10 Throws Ball in Opposing Player's Face MensXP"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
+     "title": "Messi throws the ball into opponent's face, gets away with yellow card - The Daily Star",
+     "published": "2026-11-24T04:04:26+00:00",
+     "summary": "Messi throws the ball into opponent's face, gets away with yellow card The Daily Star"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
+     "title": "Highlights: St. Louis CITY SC 3-2 Los Angeles Football Club (MLS), Major League Soccer - Forza Football",
+     "published": "2026-11-24T04:02:38+00:00",
+     "summary": "Highlights: St. Louis CITY SC 3-2 Los Angeles Football Club (MLS), Major League Soccer Forza Football"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
+     "title": "Sang-bin catches LAFC goalkeeper off guard with a stunning strike, Major League Soccer - Forza Football",
+     "published": "2026-11-24T04:02:38+00:00",
+     "summary": "Sang-bin catches LAFC goalkeeper off guard with a stunning strike, Major League Soccer Forza Football"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
+     "title": "Lionel Messi's 15 Goals Against Nashville Lead MLS - Football.com",
+     "published": "2026-11-24T03:06:12+00:00",
+     "summary": "Lionel Messi's 15 Goals Against Nashville Lead MLS Football.com"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
      "title": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? - Yahoo Sports",
      "published": "2026-11-24T00:43:56+00:00",
      "summary": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#12",
      "title": "Red-Card Uproar Clouds Playoff Exit for Lionel Messi - Yahoo Sports",
      "published": "2026-11-24T00:26:00+00:00",
      "summary": "Red-Card Uproar Clouds Playoff Exit for Lionel Messi Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#13",
      "title": "Three managers, same problems: How Inter Miami's dugout turmoil and tactical failures have left Lionel Messi on the brink of MLS playoff elimination - Goal.com",
      "published": "2026-11-24T00:02:51+00:00",
      "summary": "Three managers, same problems: How Inter Miami's dugout turmoil and tactical failures have left Lionel Messi on the brink of MLS playoff elimination Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#14",
      "title": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? - Yahoo Sports",
      "published": "2026-11-23T23:36:16+00:00",
      "summary": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#15",
      "title": "Columbus Crew's Laurent Courtois chides Lionel Messi on 'sad' behavior - The Columbus Dispatch",
      "published": "2026-11-23T23:28:00+00:00",
      "summary": "Columbus Crew's Laurent Courtois chides Lionel Messi on 'sad' behavior The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#16",
      "title": "Why does Lionel Messi keep escaping harsher punishment from MLS referees? - https://latination.com/",
      "published": "2026-11-23T22:04:56+00:00",
      "summary": "Why does Lionel Messi keep escaping harsher punishment from MLS referees? https://latination.com/"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#17",
      "title": "Want to see Lionel Messi take on Columbus Crew? Latest ticket prices, Game 2 - The Columbus Dispatch",
      "published": "2026-11-23T21:00:00+00:00",
      "summary": "Want to see Lionel Messi take on Columbus Crew? Latest ticket prices, Game 2 The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#18",
      "title": "MLS may review Lionel Messi's actions against Columbus Crew's Gonzalo Tapia - The Columbus Dispatch",
      "published": "2026-11-23T20:56:00+00:00",
      "summary": "MLS may review Lionel Messi's actions against Columbus Crew's Gonzalo Tapia The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#19",
+     "title": "Cristiano Ronaldo and Lionel Messi share unwanted record as 21st-century penalty list revealed - World Soccer Talk",
+     "published": "2026-11-23T20:51:05+00:00",
+     "summary": "Cristiano Ronaldo and Lionel Messi share unwanted record as 21st-century penalty list revealed World Soccer Talk"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
+     "title": "INTER MIAMI IN TROUBLE?! Playoff Loss Reaction vs. Columbus | What’s Next? - BVM Sports",
+     "published": "2026-11-23T20:49:13+00:00",
+     "summary": "INTER MIAMI IN TROUBLE?! Playoff Loss Reaction vs. Columbus | What’s Next? BVM Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
      "title": "The Pitch: Upsets Galore Set Up Massive Game 2s - MLSsoccer.com",
      "published": "2026-11-23T20:31:12+00:00",
      "summary": "The Pitch: Upsets Galore Set Up Massive Game 2s MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Disciplinary Meltdown Leaves Inter Miami Staring At Early Exit After Gonzalo Tapia Fires Columbus Crew To 3-0 Rout - Gooner Daily",
-     "published": "2026-11-23T19:55:54+00:00",
-     "summary": "Disciplinary Meltdown Leaves Inter Miami Staring At Early Exit After Gonzalo Tapia Fires Columbus Crew To 3-0 Rout Gooner Daily"
-    },
-    {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#22",
      "title": "Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2 - MLSsoccer.com",
      "published": "2026-11-23T19:23:18+00:00",
      "summary": "Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2 MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#23",
      "title": "Columbus STUN Miami with Game 1 upset | Audi MLS Cup Playoffs Rewind - MLSsoccer.com",
      "published": "2026-11-23T18:53:47+00:00",
      "summary": "Columbus STUN Miami with Game 1 upset | Audi MLS Cup Playoffs Rewind MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#24",
      "title": "Inter Miami on the Brink: What Messi Needs to Stay Alive in the MLS Playoffs - beIN SPORTS",
      "published": "2026-11-23T18:39:30+00:00",
      "summary": "Inter Miami on the Brink: What Messi Needs to Stay Alive in the MLS Playoffs beIN SPORTS"
-    },
-    {
-     "ref": "gnews_inter_miami#13",
-     "title": "Inter Miami CF - Columbus Crew 0 - 1 | RED CARD - Gonzalo Luján - Yahoo Sports",
-     "published": "2026-11-23T18:27:53+00:00",
-     "summary": "Inter Miami CF - Columbus Crew 0 - 1 | RED CARD - Gonzalo Luján Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#14",
-     "title": "MLS facing disaster with Lionel Messi and Inter Miami on brink of shock early playoff exit after heavy defeat - The Sun",
-     "published": "2026-11-23T18:23:36+00:00",
-     "summary": "MLS facing disaster with Lionel Messi and Inter Miami on brink of shock early playoff exit after heavy defeat The Sun"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
-     "title": "Columbus v Inter Miami CF Odds - FanDuel Sportsbook",
-     "published": "2026-11-23T18:19:47+00:00",
-     "summary": "Columbus v Inter Miami CF Odds FanDuel Sportsbook"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
-     "title": "The Verdict: Chaos, controversy and upsets. Welcome to the MLS playoffs - The Athletic - The New York Times",
-     "published": "2026-11-23T17:38:09+00:00",
-     "summary": "The Verdict: Chaos, controversy and upsets. Welcome to the MLS playoffs - The Athletic The New York Times"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
-     "title": "MLS Winners and Losers: Lionel Messi's Miami embarrassed, Nashville SC stunned and Vancouver Whitecaps show how it's done - Goal.com",
-     "published": "2026-11-23T16:24:29+00:00",
-     "summary": "MLS Winners and Losers: Lionel Messi's Miami embarrassed, Nashville SC stunned and Vancouver Whitecaps show how it's done Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "Unofficial Inter Miami x Vice City Kit Competition Reaches Final - Footy Headlines",
-     "published": "2026-11-23T15:40:00+00:00",
-     "summary": "Unofficial Inter Miami x Vice City Kit Competition Reaches Final Footy Headlines"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Messi Escapes Red Card After Throwing Ball Into Opponent's Face as Columbus Stun Inter Miami 3-0 in Playoffs - International Business Times Australia",
-     "published": "2026-11-23T15:11:08+00:00",
-     "summary": "Messi Escapes Red Card After Throwing Ball Into Opponent's Face as Columbus Stun Inter Miami 3-0 in Playoffs International Business Times Australia"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Columbus Crew coach insists Lionel Messi deserved a red card for throwing ball at opponent - Dailysports",
-     "published": "2026-11-23T11:35:00+00:00",
-     "summary": "Columbus Crew coach insists Lionel Messi deserved a red card for throwing ball at opponent Dailysports"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Late drama featuring Lewandowski: Chicago Fire fall to Charlotte in thrilling fashion - Goal.com",
-     "published": "2026-11-23T11:28:59+00:00",
-     "summary": "Late drama featuring Lewandowski: Chicago Fire fall to Charlotte in thrilling fashion Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "How to get Inter Club d'Escaldes vs AGF tickets: Conference League prices, fixture information, last-minute sales & more - Goal.com",
-     "published": "2026-11-23T09:34:41+00:00",
-     "summary": "How to get Inter Club d'Escaldes vs AGF tickets: Conference League prices, fixture information, last-minute sales & more Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Tapia's Brace Puts Messi's Inter Miami on Brink of Elimination - Yahoo Sports",
-     "published": "2026-11-23T07:00:00+00:00",
-     "summary": "Tapia's Brace Puts Messi's Inter Miami on Brink of Elimination Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Columbus boss Laurent Courtois claims Lionel Messi escaped blatant red card for hitting Gonzalo Tapia with ball in Inter Miami defeat - Goal.com",
-     "published": "2026-11-23T06:41:00+00:00",
-     "summary": "Columbus boss Laurent Courtois claims Lionel Messi escaped blatant red card for hitting Gonzalo Tapia with ball in Inter Miami defeat Goal.com"
     }
    ]
   },
@@ -964,153 +964,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Deni Avdija: Scoot Henderson is a big part of our team - Yahoo Sports",
+     "published": "2026-11-24T10:00:57+00:00",
+     "summary": "Deni Avdija: Scoot Henderson is a big part of our team Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
+     "title": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026 - FOX Sports",
+     "published": "2026-11-24T09:40:35+00:00",
+     "summary": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026 FOX Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
+     "title": "Deni Avdija: the three-point shot of Portland's forward · SNA - Sport News Africa",
+     "published": "2026-11-24T09:01:23+00:00",
+     "summary": "Deni Avdija: the three-point shot of Portland's forward · SNA Sport News Africa"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
+     "title": "Deni Avdija Highlights (31 Points, 7 Assists) Trail Blazers 128, 76ers 111 | Nov. 23, 2026 - NBA.com",
+     "published": "2026-11-24T08:53:52+00:00",
+     "summary": "Deni Avdija Highlights (31 Points, 7 Assists) Trail Blazers 128, 76ers 111 | Nov. 23, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#4",
+     "title": "Basketball player Deni Avdija scores 31 points in Portland’s winning game — Jerusalem Post - UA.NEWS",
+     "published": "2026-11-24T08:12:37+00:00",
+     "summary": "Basketball player Deni Avdija scores 31 points in Portland’s winning game — Jerusalem Post UA.NEWS"
+    },
+    {
+     "ref": "gnews_israeli_nba#5",
+     "title": "Deni Avdija says Trail Blazers are not afraid of anyone - TalkBasket.net",
+     "published": "2026-11-24T08:06:17+00:00",
+     "summary": "Deni Avdija says Trail Blazers are not afraid of anyone TalkBasket.net"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
+     "title": "Basketball: Deni Avdija's Trail Blazers defeat LeBron James' 76ers - The Jerusalem Post",
+     "published": "2026-11-24T07:18:44+00:00",
+     "summary": "Basketball: Deni Avdija's Trail Blazers defeat LeBron James' 76ers The Jerusalem Post"
+    },
+    {
+     "ref": "gnews_israeli_nba#7",
+     "title": "Deni Avdija torches 76ers as Blazers end winning streak - TalkBasket.net",
+     "published": "2026-11-24T07:07:40+00:00",
+     "summary": "Deni Avdija torches 76ers as Blazers end winning streak TalkBasket.net"
+    },
+    {
+     "ref": "gnews_israeli_nba#8",
+     "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 - Traverse City Record-Eagle",
+     "published": "2026-11-24T06:57:55+00:00",
+     "summary": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 Traverse City Record-Eagle"
+    },
+    {
+     "ref": "gnews_israeli_nba#9",
+     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - New Haven Register",
+     "published": "2026-11-24T06:31:19+00:00",
+     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 New Haven Register"
+    },
+    {
+     "ref": "gnews_israeli_nba#10",
+     "title": "NBA: Blazers snap Sixers streak, Thunder stumble - Cebu Daily News",
+     "published": "2026-11-24T06:15:00+00:00",
+     "summary": "NBA: Blazers snap Sixers streak, Thunder stumble Cebu Daily News"
+    },
+    {
+     "ref": "gnews_israeli_nba#11",
+     "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 - Stamford Advocate",
+     "published": "2026-11-24T05:53:14+00:00",
+     "summary": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 Stamford Advocate"
+    },
+    {
+     "ref": "gnews_israeli_nba#12",
+     "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 - The Killeen Daily Herald",
+     "published": "2026-11-24T05:27:50+00:00",
+     "summary": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 The Killeen Daily Herald"
+    },
+    {
+     "ref": "gnews_israeli_nba#13",
+     "title": "NBA scores today: Blazers vs 76ers, Lakers vs Jazz, and other games - GMA Network",
+     "published": "2026-11-24T05:24:22+00:00",
+     "summary": "NBA scores today: Blazers vs 76ers, Lakers vs Jazz, and other games GMA Network"
+    },
+    {
+     "ref": "gnews_israeli_nba#14",
+     "title": "Trail Blazers' Deni Avdija turns defense into offense to seal 30-point night vs. 76ers - Yardbarker",
+     "published": "2026-11-24T04:18:08+00:00",
+     "summary": "Trail Blazers' Deni Avdija turns defense into offense to seal 30-point night vs. 76ers Yardbarker"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
+     "title": "Deni Avdija Scores 31 Points In Win Over 76ers - FanDuel",
+     "published": "2026-11-24T03:40:38+00:00",
+     "summary": "Deni Avdija Scores 31 Points In Win Over 76ers FanDuel"
+    },
+    {
+     "ref": "gnews_israeli_nba#16",
+     "title": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026 - NBA.com",
+     "published": "2026-11-24T03:40:09+00:00",
+     "summary": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#17",
      "title": "Highlights From Deni Avdija 31-Point Game - NBA.com",
      "published": "2026-11-24T03:32:17+00:00",
      "summary": "Highlights From Deni Avdija 31-Point Game NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija leads Portland to huge road win against Philadelphia - HoopsHype",
      "published": "2026-11-24T03:18:00+00:00",
      "summary": "Deni Avdija leads Portland to huge road win against Philadelphia HoopsHype"
     },
     {
-     "ref": "gnews_israeli_nba#2",
-     "title": "Deni Avdija Highlights (31 Points, 7 Assists) Trail Blazers 128, 76ers 111 | Nov. 23, 2026 - NBA.com",
-     "published": "2026-11-24T02:56:30+00:00",
-     "summary": "Deni Avdija Highlights (31 Points, 7 Assists) Trail Blazers 128, 76ers 111 | Nov. 23, 2026 NBA.com"
+     "ref": "gnews_israeli_nba#19",
+     "title": "Watch: Deni Avdija drops 31 as Trail Blazers pull away from 76ers - Yardbarker",
+     "published": "2026-11-24T03:02:01+00:00",
+     "summary": "Watch: Deni Avdija drops 31 as Trail Blazers pull away from 76ers Yardbarker"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#20",
+     "title": "Deni Avdija scores game-high 31 points vs. 76ers - NBC Sports",
+     "published": "2026-11-24T02:58:35+00:00",
+     "summary": "Deni Avdija scores game-high 31 points vs. 76ers NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#21",
      "title": "Trail Blazers' Deni Avdija: Scores 31 points with seven assists - CBS Sports",
      "published": "2026-11-24T02:52:39+00:00",
      "summary": "Trail Blazers' Deni Avdija: Scores 31 points with seven assists CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija News: Scores 31 points with seven assists - RotoWire",
      "published": "2026-11-24T02:52:39+00:00",
      "summary": "Deni Avdija News: Scores 31 points with seven assists RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#5",
-     "title": "Deni Avdija (31 points), Trail Blazers end 76ers' win streak at 5 - Reuters",
-     "published": "2026-11-24T02:46:00+00:00",
-     "summary": "Deni Avdija (31 points), Trail Blazers end 76ers' win streak at 5 Reuters"
-    },
-    {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Trail Blazers 128-111 76ers (Nov 23, 2026) Game Recap - ESPN",
-     "published": "2026-11-24T02:44:29+00:00",
-     "summary": "Trail Blazers 128-111 76ers (Nov 23, 2026) Game Recap ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#7",
-     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - Toronto Star",
-     "published": "2026-11-24T02:43:04+00:00",
-     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 Toronto Star"
-    },
-    {
-     "ref": "gnews_israeli_nba#8",
-     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - morning-times.com",
-     "published": "2026-11-24T02:41:22+00:00",
-     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 morning-times.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#9",
-     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - The Killeen Daily Herald",
-     "published": "2026-11-24T02:41:22+00:00",
-     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 The Killeen Daily Herald"
-    },
-    {
-     "ref": "gnews_israeli_nba#10",
-     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - Eagle-Tribune",
-     "published": "2026-11-24T02:41:22+00:00",
-     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 Eagle-Tribune"
-    },
-    {
-     "ref": "gnews_israeli_nba#11",
-     "title": "Deni Avdija dials from long distance, 11/23/2026 - Yahoo Sports",
-     "published": "2026-11-24T02:35:22+00:00",
-     "summary": "Deni Avdija dials from long distance, 11/23/2026 Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
-     "title": "Deni Avdija with 31 points vs. Philadelphia 76ers, 11/23/2026 - Yahoo Sports",
-     "published": "2026-11-24T02:34:56+00:00",
-     "summary": "Deni Avdija with 31 points vs. Philadelphia 76ers, 11/23/2026 Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Deni Avdija scores game-high 31 points vs. 76ers - NBC Sports",
-     "published": "2026-11-24T02:31:28+00:00",
-     "summary": "Deni Avdija scores game-high 31 points vs. 76ers NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Player grades: Sixers come up short to Deni Avdija, Trail Blazers - cumberlink.com",
-     "published": "2026-11-24T02:24:33+00:00",
-     "summary": "Player grades: Sixers come up short to Deni Avdija, Trail Blazers cumberlink.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Player grades: Sixers come up short to Deni Avdija, Trail Blazers - Sixers Wire",
-     "published": "2026-11-24T02:24:00+00:00",
-     "summary": "Player grades: Sixers come up short to Deni Avdija, Trail Blazers Sixers Wire"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
-     "title": "Deni Avdija rocks the rim with slam - ESPN",
-     "published": "2026-11-24T02:15:38+00:00",
-     "summary": "Deni Avdija rocks the rim with slam ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Deni Avdija rocks the rim with slam - ESPN",
-     "published": "2026-11-24T02:15:38+00:00",
-     "summary": "Deni Avdija rocks the rim with slam ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
-     "title": "Deni Avdija And Trail Blazers Play 76ers On Nov. 23 - FanDuel",
-     "published": "2026-11-23T18:11:03+00:00",
-     "summary": "Deni Avdija And Trail Blazers Play 76ers On Nov. 23 FanDuel"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Deni Avdija flirts with triple-double in Saturday's loss to Knicks - FantasyPros",
-     "published": "2026-11-22T18:40:00+00:00",
-     "summary": "Deni Avdija flirts with triple-double in Saturday's loss to Knicks FantasyPros"
-    },
-    {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Ben Saraf News: Heading to Long Island - RotoWire",
-     "published": "2026-11-22T16:47:08+00:00",
-     "summary": "Ben Saraf News: Heading to Long Island RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Trail Blazers' Deni Avdija: Scores 20 points with five dimes - CBS Sports",
-     "published": "2026-11-22T03:57:48+00:00",
-     "summary": "Trail Blazers' Deni Avdija: Scores 20 points with five dimes CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Deni Avdija News: Scores 20 points with five dimes - RotoWire",
-     "published": "2026-11-22T03:57:48+00:00",
-     "summary": "Deni Avdija News: Scores 20 points with five dimes RotoWire"
-    },
-    {
      "ref": "gnews_israeli_nba#23",
-     "title": "Deni Avdija finishes through contact, 11/21/2026 - Yahoo Sports",
-     "published": "2026-11-22T03:04:18+00:00",
-     "summary": "Deni Avdija finishes through contact, 11/21/2026 Yahoo Sports"
+     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - Times Union",
+     "published": "2026-11-24T02:51:04+00:00",
+     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 Times Union"
     },
     {
      "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija with the and-1 bucket - ESPN",
-     "published": "2026-11-22T01:17:59+00:00",
-     "summary": "Deni Avdija with the and-1 bucket ESPN"
+     "title": "Deni Avdija (31 points), Trail Blazers end 76ers' win streak at 5 - Reuters",
+     "published": "2026-11-24T02:46:00+00:00",
+     "summary": "Deni Avdija (31 points), Trail Blazers end 76ers' win streak at 5 Reuters"
     }
    ]
   }
