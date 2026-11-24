@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -138,78 +138,88 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
-     "title": "Best non-fiction books of 2026",
-     "published": "2026-11-23T06:10:57+00:00",
-     "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […] The post Best non-fiction books of 2026 appeared first on Marginal REVOLUTION .",
-     "full_text_file": "essays/marginal_revolution_0.txt"
+     "title": "The AI gains that gdp misses",
+     "published": "2026-11-23T18:44:20+00:00",
+     "summary": "That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available degree of product variety rises sharply due to AI. But again, that effect is not captured […] The post The AI gains that gdp misses appeared first on Marginal REVOLUTION ."
     },
     {
      "ref": "marginal_revolution#1",
+     "title": "Monday assorted links",
+     "published": "2026-11-23T17:01:36+00:00",
+     "summary": "1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess players earn in prize money. 6. The rise and fall of the MBA. 7. Richard […] The post Monday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Still Unproven: Can Britain Build a Tunnel?",
+     "published": "2026-11-23T12:20:34+00:00",
+     "summary": "Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the second. Third irony: The tunnel still isn’t built. Hat tip: Alex Rich The post Still Unproven: Can Britain Build a Tunnel? appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#3",
+     "title": "The Tyranny of the Alphabet 2",
+     "published": "2026-11-23T12:17:39+00:00",
+     "summary": "I wrote about the Tyranny of the Alphabet many years ago. In economics the standard then was to list authors alphabetically: Faculty members in top departments with surnames beginning with letters earlier in the alphabet are substantially more likely to be tenured, be fellows of the Econometric Society, and even win Nobel prizes (let’s see, […] The post The Tyranny of the Alphabet 2 appeared first"
+    },
+    {
+     "ref": "marginal_revolution#4",
+     "title": "Best non-fiction books of 2026",
+     "published": "2026-11-23T06:10:57+00:00",
+     "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […] The post Best non-fiction books of 2026 appeared first on Marginal REVOLUTION .",
+     "full_text_file": "essays/marginal_revolution_4.txt"
+    },
+    {
+     "ref": "marginal_revolution#5",
      "title": "Increasing pay for lower wage workers",
      "published": "2026-11-22T19:24:24+00:00",
      "summary": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external […] The post Increasing pay fo"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#6",
      "title": "Sunday assorted links",
      "published": "2026-11-22T17:31:05+00:00",
      "summary": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes on user data vs. curated data. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#7",
      "title": "Danish daughters",
      "published": "2026-11-22T07:40:20+00:00",
      "summary": "Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons follow similar health trajectories, with comparable levels of pre-existing conditions and healthcare utilization. After the stroke, a survival gap opens and grows, […] The post Danish "
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#8",
      "title": "Will AI Growth Reach the Developing World?",
      "published": "2026-11-22T06:14:28+00:00",
-     "summary": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and […] The post Will AI Growth Reach the Developing World? appeared first on Margina",
-     "full_text_file": "essays/marginal_revolution_4.txt"
+     "summary": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and […] The post Will AI Growth Reach the Developing World? appeared first on Margina"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#9",
      "title": "Saturday assorted links",
      "published": "2026-11-21T16:41:52+00:00",
      "summary": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5. Good AI policy ideas from Joshua Saxe. 6. Podcast with SBF from prison, have not had a chance to listen, […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#10",
      "title": "A simple observation",
      "published": "2026-11-21T15:12:31+00:00",
      "summary": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that “capabilities” do not necessarily translate into significant social and economic outcomes. Yet cybersecurity stocks are up considerably over the last few months, due to heightened cyber risk. So the […] The post A simple observation appeared first on Marg"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#11",
      "title": "Paul Litvak’s Evidence Guide",
      "published": "2026-11-21T11:58:56+00:00",
      "summary": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is the site. This is happening quickly, people. Via Andrea. The post Paul Litvak’s Evidence Guide appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#12",
      "title": "*The Great Enrichment*",
      "published": "2026-11-21T07:25:41+00:00",
-     "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: …regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much improvement there truly was. From 1870 to […] The post *The Great Enrichment* appeared first on Margin",
-     "full_text_file": "essays/marginal_revolution_8.txt"
+     "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: …regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much improvement there truly was. From 1870 to […] The post *The Great Enrichment* appeared first on Margin"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#13",
      "title": "Emergent Ventures, 60th cohort",
      "published": "2026-11-21T06:13:27+00:00",
      "summary": "Faris Allafi, Abu Dhabi, 13, train AI models. Eliel Selin, Helsinki, 18, AI agents. Robert Boswall, London area, energy information for the UK. Alex Yang, Harvard, genetics for better organ transplants. Stanislaw Tomaszewski, Warsaw area, AI agents and the organization of trucking. Jonas Dolezal, London, nuclear fusion. Shawnak Shivakumar, Stanford, longevity research. Ruzgar Albayrak, Izmir, […] "
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "What should I ask Walter Isaacson?",
-     "published": "2026-11-20T18:44:40+00:00",
-     "summary": "Yes I will be doing a Conversation with him, in part to celebrate the reissue of his earlier book The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. And also to celebrate his new podcast, The Builders. He has other books too! So what should I ask him? The post What should I ask Walter Isaacson? appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Friday assorted links",
-     "published": "2026-11-20T15:26:56+00:00",
-     "summary": "1. Markets drive moods, and not vice versa? 2. AI literary scandals and the future of the Latin American novel. 3. New Stripe Press website. 4. Does Claude’s constitution mean anything? 5. Did the Baby Boom help cause the later divorce boom? 6. “Social adversity in early life has minimal, predominantly positive long-term consequences for […] The post Friday assorted links appeared first on Margina"
     }
    ]
   },
@@ -304,38 +314,40 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
+     "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+     "published": "2026-11-23T15:27:11+00:00",
+     "summary": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_0.txt"
+    },
+    {
+     "ref": "quanta#1",
      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
      "published": "2026-11-20T14:50:41+00:00",
      "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#1",
+     "ref": "quanta#2",
      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
      "published": "2026-11-18T15:51:40+00:00",
      "summary": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians. The post How M.C. Escher’s Art Creates Bizarre Mathematical Worlds first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
      "published": "2026-11-16T15:15:33+00:00",
      "summary": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "Can Network Science Transform Health and Nutrition?",
      "published": "2026-11-12T19:40:54+00:00",
      "summary": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food. The post Can Network Science Transform Health and Nutrition? first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "A New Era for the Dawn of Life",
-     "published": "2026-11-12T16:20:28+00:00",
-     "summary": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "Will AI Growth Reach the Developing World? An Economist Pushes Back on a Pessimistic Model",
   "Two Researchers Found the Only Four Things That Can Break a 'Perfectly Resilient' Network",
   "AI Companions Don't Replace Parents — They Expose Where Parenting Already Failed",
   "If AI Isn't Conscious, Maybe Achilles Wasn't Either",
@@ -364,8 +376,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "Grief Isn't Only for the Dead — It's What Happens Whenever an Imagined Future Disappears",
   "Democracy's Paradox Finally Has a Shape — and It's a Klein Bottle",
   "A short story asks: if a superintelligence conquered the world overnight, honestly and mostly gently, would resisting it even make sense?",
-  "Friction Isn't Progress's Enemy — It's the Engine That Drives It",
-  "Why Understanding Someone Doesn't Mean Sharing Their Thought"
+  "Friction Isn't Progress's Enemy — It's the Engine That Drives It"
  ]
 }
 </input>

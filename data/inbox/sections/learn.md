@@ -24,126 +24,137 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2011,
-   "text": "Arab Spring: After months of protests in Yemen, President Ali Abdullah Saleh (pictured) agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.",
+   "year": 2023,
+   "text": "Hibiscus Rising (pictured), a sculpture commemorating the life of David Oluwale, was unveiled in Leeds.",
    "context": [
-    "The Arab Spring was a series of pro-democracy anti-government protests, uprisings, and armed rebellions that spread across much of the Arab world in the early 2010s. It began in Tunisia in response to the death of Mohamed Bouazizi by self-immolation. From Tunisia, the protests initially spread to five other countries: Libya, Egypt, Yemen, Syria and Bahrain. The rulers deposed include: Zine El Abidine Ben Ali of Tunisia, Muammar Gaddafi of Libya, and Hosni Mubarak of Egypt, all in 2011; and Ali Abdullah Saleh of Yemen in 2012. Major uprisings and social violence occurred, including riots, civil wars, or insurgencies. Sustained street demonstrations took place in Morocco, Iraq, Algeria, Lebanon, Jordan, Kuwait, Oman and Sudan. Minor protests took place in Djibouti, Mauritania, Palestine, Saudi Arabia and the Western Sahara. A major slogan of the demonstrators in the Arab world is ash-shaʻb yurīd isqāṭ an-niẓām!."
+    "Hibiscus Rising (2023) is an outdoor sculpture in Leeds, England, by artist Yinka Shonibare which was unveiled on 24 November 2023 as part of LEEDS 2023. It commemorates the life and death of David Oluwale, a British-Nigerian man whose death in 1969 involved two members of Leeds City Police. Commissioned by LEEDS 2023 and the David Oluwale Memorial Association (DOMA), in partnership with Leeds City Council, the sculpture is, according to academic Dr. Emily Zobel Marshall, the first public artwork in the city to reflect its cultural diversity."
    ]
   },
   {
    "ref": "wikipedia#1",
    "year": 2009,
-   "text": "A crowd of people on their way to register Esmael Mangudadatu's candidacy for governor of Maguindanao, Philippines, were kidnapped and killed by supporters of his rival, resulting in 58 deaths.",
+   "text": "The Avdhela Project, an Aromanian digital library and cultural initiative, was launched in Bucharest, Romania.",
    "context": [
-    "Esmael \"Toto\" Gaguil Mangudadatu is a Filipino politician who is the representative of Maguindanao del Sur's lone district, having been elected in 2025. He previously served as the representative of the then-undivided Maguindanao's 2nd district from 2019 to 2022. He also served as the governor of Maguindanao from 2010 to 2019. In Buluan town, he served as the mayor from 1998 to 2007, and vice mayor from 2007 to 2010."
+    "The Avdhela Project, also known as the Library of Aromanian Culture, is a digital library and cultural initiative developed by the Predania Association. The Avdhela Project aims to collect, edit and open to the public academic works on the Aromanians based on a series of specific principles. It was launched on 24 November 2009 in Bucharest, Romania. Public events, the promotion of cultural works and the publication of audiovisual material are other activities carried out by the Avdhela Project in support of Aromanian culture."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2007,
-   "text": "MS Explorer became the first cruise ship to sink in the Southern Ocean.",
+   "year": 1976,
+   "text": "A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties.",
    "context": [
-    "MS Explorer or MV Explorer was a Liberian-registered cruise ship, used for Antarctic cruising. She was the first cruise ship to sink there, after impact with the Antarctic pack ice on 23 November 2007. All passengers and crew were rescued."
+    "The 1976 Çaldıran–Muradiye earthquake occurred at 14:22 local time on 24 November. The epicenter was located near Çaldıran, 20 km northeast of Muradiye, in the Van Province of eastern Turkey. The earthquake had a magnitude of 7.3 with a maximum intensity of X (Extreme) on the Mercalli intensity scale. The area of severe damage, where over 80% of the buildings were destroyed, covered an area of 2,000 square kilometres. There were between 4,000 and 5,000 casualties."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2003,
-   "text": "Rose Revolution: Eduard Shevardnadze resigned as President of Georgia following weeks of mass protests over disputed election results.",
+   "year": 1971,
+   "text": "After collecting a ransom payout of $200,000, D. B. Cooper parachuted out of the airplane he had hijacked over the Pacific Northwest and disappeared.",
    "context": [
-    "The Rose Revolution or Revolution of Roses was a nonviolent change of power that occurred in Georgia in November 2003. The event was brought about by widespread protests over the disputed parliamentary elections and culminated in the resignation of President Eduard Shevardnadze, which marked the end of Soviet-era leadership in the country. The revolution derives its name from the climactic moment, when demonstrators led by Mikheil Saakashvili stormed the Parliament session with red roses in hand."
+    "On November 24, 1971, an unidentified man using the alias Dan Cooper, later erroneously known as D. B. Cooper, hijacked Northwest Orient Airlines Flight 305, a Boeing 727 aircraft flying from Portland, Oregon, to Seattle, Washington. Cooper told the flight crew he had a bomb, and demanded $200,000 in ransom and four parachutes upon landing in Seattle."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1996,
-   "text": "Ethiopian Airlines Flight 961 was hijacked, then ran out of fuel and crashed into the Indian Ocean, killing 125 of the 175 people on board.",
+   "year": 1963,
+   "text": "During a live television broadcast, businessman Jack Ruby shot and fatally wounded Lee Harvey Oswald, who assassinated U.S. president John F. Kennedy, fueling numerous conspiracy theories.",
    "context": [
-    "Ethiopian Airlines Flight 961 was a scheduled international flight serving the route Addis Ababa–Nairobi–Brazzaville–Lagos–Abidjan. On 23 November 1996, the aircraft serving the flight, a Boeing 767, was hijacked en route from Addis Ababa to Nairobi by three Ethiopians seeking asylum in Australia. The plane crash-landed in the Indian Ocean near Grande Comore, Comoros Islands, due to fuel exhaustion. Of those onboard, 125 of 175 died in the ditching, including all three hijackers and six of the 12 crew. It was the first recorded instance of the ditching of a wide-body aircraft."
+    "Jack Leon Ruby was an American nightclub owner. He murdered Lee Harvey Oswald two days after the assassination of John F. Kennedy. He was born in Chicago, and operated nightclubs in Texas. According to the House Select Committee on Assassinations and journalists, Ruby had links to organized crime."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1980,
-   "text": "An earthquake struck the Irpinia region of Italy, killing at least 2,483 people, injuring more than 7,700 and leaving 250,000 homeless.",
+   "year": 1943,
+   "text": "World War II: Following the American capture of Makin Atoll, USS Liscome Bay was sunk by a torpedo from Japanese submarine I-175, killing 644.",
    "context": [
-    "The 1980 Irpinia earthquake took place in Italy on 23 November 1980, with a moment magnitude of 6.9 and a maximum Mercalli intensity of X (Extreme). It left at least 2,483 people dead, at least 7,700 injured, and 250,000 homeless."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1976,
-   "text": "Jacques Mayol became the first person to freedive to a depth of 100 metres (330 ft).",
+   "year": 1941,
+   "text": "The Holocaust: The Theresienstadt Ghetto (depicted) was founded as a waystation to Nazi extermination camps and a \"retirement settlement\" for elderly and prominent Jews to mislead their communities about the Final Solution.",
    "context": [
-    "Jacques Mayol was a French diver and the holder of many world records in free diving. The 1988 film The Big Blue, directed by Luc Besson, was inspired by his life story and that of his friend, Enzo Maiorca. Mayol was one of the screenwriters and authored the book Homo Delphinus: the Dolphin Within Man of his philosophy about the aquatic origins of humans."
+    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1963,
-   "text": "The first episode of Doctor Who, the world's longest-running science fiction television show, was broadcast on BBC television, starring William Hartnell as the first incarnation of the title role.",
+   "year": 1925,
+   "text": "The Eugene O'Neill Theatre (pictured) opened on Broadway, New York, with a production of the musical Mayflowers.",
    "context": [
-    "An Unearthly Child is the first serial of the British science fiction television series Doctor Who. It was first broadcast on BBC TV in four weekly parts from 23 November to 14 December 1963. Scripted by Australian writer Anthony Coburn, the serial introduces William Hartnell as the First Doctor and his original companions: Carole Ann Ford as the Doctor's granddaughter, Susan Foreman, with Jacqueline Hill and William Russell as school teachers Barbara Wright and Ian Chesterton. The first episode deals with Ian and Barbara's discovery of the Doctor and his time-space ship, the TARDIS, in a junkyard in contemporary London, and the remaining episodes are set amid a power struggle between warring Stone Age factions who have lost the secret of making fire."
+    "The Eugene O'Neill Theatre, previously the Forrest Theatre and the Coronet Theatre, is a Broadway theater at 230 West 49th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. The theater was designed by Herbert J. Krapp and was constructed for the Shubert brothers. It opened in 1925 as part of a hotel and theater complex named after 19th-century tragedian Edwin Forrest. The modern theater, named in honor of American playwright Eugene O'Neill, has 1,108 seats across two levels and is operated by ATG Entertainment. The auditorium interior is a New York City designated landmark."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1924,
-   "text": "The New York Times published evidence from Edwin Hubble (pictured) stating that the Andromeda Nebula, previously believed to be part of the Milky Way, is in fact another galaxy.",
+   "year": 1922,
+   "text": "Irish Civil War: Irish nationalist author Erskine Childers was executed by the Irish Free State for illegally carrying a semi-automatic pistol.",
    "context": [
-    "The New York Times (NYT) is a newspaper based in Manhattan, New York City. The New York Times covers domestic, national, and international news, and publishes opinion pieces and reviews. One of the longest-running newspapers in the United States, the Times serves as one of the country's newspapers of record. As of June 2026, The New York Times had 13.35 million total subscribers: 550,000 print and 12.8 million digital, both the highest numbers for any newspaper in the United States by a significant margin. The New York Times is published by the New York Times Company. Since 1896, the company has been chaired by the Ochs-Sulzberger family. The current chairman and the paper's publisher is A. G. Sulzberger. The Times is headquartered at The New York Times Building in Midtown Manhattan."
+    "The Irish Civil War was a conflict that followed the Irish War of Independence and accompanied the establishment of the Irish Free State, an entity independent from the United Kingdom but within the British Empire."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1876,
-   "text": "William \"Boss\" Tweed, a New York City politician who had been arrested for embezzlement, was handed over to US authorities after having escaped from prison and fled to Spain.",
+   "year": 1918,
+   "text": "The Podgorica Assembly convened in Montenegro, with the intention of uniting with the Kingdom of Serbia.",
    "context": [
-    "William Magear \"Boss\" Tweed was an American politician most notable for being the political boss of Tammany Hall, the Democratic Party's political machine that played a major role in the politics of 19th-century New York City and State."
+    "The Great People's Assembly of the Serb People in Montenegro, commonly known as the Podgorica Assembly, was an ad hoc popular assembly convened in November 1918, after the end of World War I in the Kingdom of Montenegro. The committee convened the assembly with the aim of facilitating an unconditional union of Montenegro and Serbia and removing Nikola I of Montenegro from the throne. The assembly was organised by a committee supported by and coordinating with the government of the Kingdom of Serbia. The unification was successful and preceded the establishment of the Kingdom of Serbs, Croats and Slovenes as a unified state of South Slavs by mere days. The unification was justified by the need to establish a single Serbian state for all Serbs, including Montenegro whose population as well as Nikola I felt that Montenegro belonged to the Serbian nation and largely supported the unification."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1867,
-   "text": "The Manchester Martyrs were hanged in Manchester, England, for involvement in a scheme to free two Irish nationalists from custody in which a police officer was killed.",
+   "year": 1906,
+   "text": "The second of two games between two Ohio football teams took place, after which accusations were made that players conspired to deliberately lose games.",
    "context": [
-    "The Manchester Martyrs were three Irish Republicans – William Philip Allen, Michael Larkin, and Michael O'Brien – who were hanged in 1867 following their conviction of murder after an attack on a police van in Manchester, England, in which a police officer was accidentally shot dead, an incident that was known at the time as the Manchester Outrages. The three men were members of the Irish Republican Brotherhood, also known as the Fenians, an organisation dedicated to ending British rule in Ireland, and were among a group of 30 to 40 Fenians who attacked a horse-drawn police van transporting two arrested leaders of the Brotherhood, Thomas J. Kelly and Timothy Deasy, to Belle Vue Gaol. Police Sergeant Charles Brett, travelling inside with the keys, was shot and killed while looking through the keyhole of the van as the attackers attempted to force the door open by shooting the lock."
+    "American football, referred to simply as football in the United States and Canada and also known as gridiron football, is a sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or throwing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. The offense must advance the ball at least ten yards in four downs or plays; if they fail, they turn over the football to the defense. If they succeed, they are given a new set of four downs to continue the drive. Points are scored primarily by advancing the ball into the opposing team's end zone for a touchdown or kicking the ball through the opponent's goalposts for a field goal. The team with the most points at the end of the game wins. In the case of a tie after four quarters, the game enters overtime."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1733,
-   "text": "African slaves in the Danish West Indies began an insurrection in one of the earliest and longest slave revolts in the Americas.",
+   "year": 1863,
+   "text": "American Civil War: Union forces captured Lookout Mountain, helping them break the Confederate siege of Chattanooga, Tennessee.",
    "context": [
-    "The Danish West Indies, also known as the Danish Virgin Islands or the Danish Antilles, were a Danish colony in the Caribbean, consisting of the islands of Saint Thomas with 83 square kilometres (32 sq mi), Saint John with 49 square kilometres (19 sq mi), and Saint Croix with 220 square kilometres (85 sq mi)."
+    "The American Civil War was fought in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1700,
-   "text": "A papal conclave, which had been deadlocked due to concerns over how a successor would respond to the impending death of Charles II of Spain, ended with the election of Clement XI.",
+   "year": 1859,
+   "text": "British naturalist Charles Darwin's On the Origin of Species was first published, and sold out its initial print run on the first day.",
    "context": [
-    "The 1700 papal conclave was convened following the death of Pope Innocent XII. It ended in the election of Cardinal Giovanni Albani as Pope Clement XI. The conclave saw a rise in the dominance of a zelanti faction in the College of Cardinals. It remained deadlocked for a month until the death of the childless Charles II of Spain. The cardinal electors anticipated that his death without a clear heir would cause a political crisis, and moved to elect a pope who would be seen as non-partisan."
+    "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species have descended from a common ancestor is now accepted and considered a fundamental scientific concept. In a joint presentation with Alfred Russel Wallace, he proposed that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1644,
-   "text": "In opposition to licensing and censorship during the English Civil War, John Milton's Areopagitica was published, arguing for the right to free expression.",
+   "year": 1643,
+   "text": "Thirty Years' War: Holy Roman Empire, Bavarian and Spanish forces led by Franz von Mercy defeated the French army in Germany led by Marshal Josias von Rantzau at the Battle of Tuttlingen.",
    "context": [
-    "The English Civil War or Great Rebellion was a series of civil wars and political machinations between Royalists and Parliamentarians in the Kingdom of England from 1642 to 1651. Part of the wider 1639 to 1653 Wars of the Three Kingdoms, the struggle consisted of the First English Civil War and the Second English Civil War. The Anglo-Scottish war of 1650 to 1652 is sometimes referred to as the Third English Civil War. The English Civil War also had a significant influence on the development of the English language. The conflict popularized political terms that are still used today, such as \"Cavalier\" for supporters of King Charles I and \"Roundhead\" for supporters of Parliament. The 1640s also saw a massive increase in the production of pamphlets, newsbooks, and political tracts, which is considered one of the first examples of mass communication in English. This period helped expand political vocabulary and introduced new words related to democracy, liberty, and religious toleration into everyday English."
+    "The Thirty Years' War, fought primarily in Central Europe between 1618 and 1648, was one of the most destructive conflicts in European history. An estimated 4.5 to 8 million soldiers and civilians died from the effects of battle, famine, or disease, with parts of Germany reporting population declines of more than 50%. Related conflicts include the Eighty Years' War, the War of the Mantuan Succession, the Franco–Spanish War, the Torstenson War, and Portuguese Restoration War."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1635,
-   "text": "Dutch pacification campaign on Formosa: Soldiers from the Dutch East India Company (flag depicted) razed the village of Mattau, now part of modern-day Tainan, Taiwan.",
+   "year": 1542,
+   "text": "Anglo-Scottish Wars: English forces captured about 1,200 Scots at the Battle of Solway Moss.",
    "context": [
-    "A series of military actions and diplomatic moves were undertaken in 1635 and 1636 by the United East India Company (VOC) in Dutch-era Taiwan (Formosa) aimed at subduing hostile aboriginal villages in the southwestern region of the island. Prior to the campaign, the Dutch had been in Formosa for eleven years, but did not control much of the island beyond their principal fortress at Tayouan, and an alliance with the town of Sinkan. The other aboriginal villages in the area conducted numerous attacks on the Dutch and their allies, with the chief belligerents being the village of Mattau, whose inhabitants in 1629 ambushed and slaughtered a group of sixty Dutch soldiers."
+    "The Anglo-Scottish Wars comprise the various battles between the Kingdom of England and the Kingdom of Scotland from the time of the Wars of Independence in the early 14th century through to the latter years of the 16th century."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1221,
+   "text": "Mongol invasion of the Khwarazmian Empire: Genghis Khan defeated Khwarazmian prince Jalal al-Din in the Battle of the Indus.",
+   "context": [
+    "Between 1219 and 1221, the Mongol forces under Genghis Khan invaded the lands of the Khwarazmian Empire in Central Asia. The campaign, which followed the annexation of the Qara Khitai Khanate, saw widespread devastation and atrocities. The invasion marked the completion of the Mongol conquest of Central Asia, and began the Mongol conquest of Persia."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Zombie company (חברת זומבי)",
+  "Sweat equity (הון יזע)",
+  "Burn the boats (לשרוף את הסירות)",
   "Haircut (תספורת)",
   "Death by a thousand cuts (מיתה באלף חתכים)",
   "Playing with house money (לשחק בכסף של הבית)",
@@ -230,10 +241,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Don't fight the Fed (אל תתעסק עם ה-Fed)",
   "Shadow banking (בנקאות צל)",
   "Talk your book (לדבר לטובת הפוזיציה שלך)",
-  "Picking up pennies in front of a steamroller (ללקט אגורות לפני מכבש)",
-  "Opex (הוצאות תפעוליות)",
-  "Due diligence (בדיקת נאותות)",
-  "Dead cat bounce (קפיצת החתול המת)"
+  "Picking up pennies in front of a steamroller (ללקט אגורות לפני מכבש)"
  ]
 }
 </input>
