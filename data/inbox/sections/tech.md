@@ -20,78 +20,84 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ars_technica#0",
-     "title": "Ukraine’s sea drones blow up Russian warship in Benghazi operation",
+     "title": "One terminal command gave my forgotten Android device a desk job",
+     "published": "2026-11-24T12:15:38+00:00",
+     "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work."
+    },
+    {
+     "ref": "ars_technica#1",
+     "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
      "published": "2026-11-24T12:00:57+00:00",
      "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea."
     },
     {
-     "ref": "ars_technica#1",
+     "ref": "ars_technica#2",
      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
      "published": "2026-11-23T21:58:34+00:00",
      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday."
     },
     {
-     "ref": "ars_technica#2",
+     "ref": "ars_technica#3",
      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
      "published": "2026-11-23T21:30:44+00:00",
      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
     },
     {
-     "ref": "ars_technica#3",
+     "ref": "ars_technica#4",
      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
      "published": "2026-11-23T20:34:51+00:00",
      "summary": "\"I would ask you to please reach out to Roscosmos directly.\""
     },
     {
-     "ref": "ars_technica#4",
+     "ref": "ars_technica#5",
      "title": "Surveillance pricing uses our personal data to make us pay more",
      "published": "2026-11-23T20:11:43+00:00",
      "summary": "Personalized pricing can mean unfair, and even biased, prices."
     },
     {
-     "ref": "ars_technica#5",
+     "ref": "ars_technica#6",
      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
      "published": "2026-11-23T19:38:13+00:00",
      "summary": "Amazon now uses its packages for political purposes."
     },
     {
-     "ref": "ars_technica#6",
+     "ref": "ars_technica#7",
      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
      "published": "2026-11-23T19:28:30+00:00",
      "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\""
     },
     {
-     "ref": "ars_technica#7",
+     "ref": "ars_technica#8",
      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
      "published": "2026-11-23T15:55:12+00:00",
      "summary": "\"All of you have lived stolen lives. But now you must give them back.\""
     },
     {
-     "ref": "ars_technica#8",
+     "ref": "ars_technica#9",
      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
      "published": "2026-11-23T15:46:18+00:00",
      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
     },
     {
-     "ref": "ars_technica#9",
+     "ref": "ars_technica#10",
      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
      "published": "2026-11-23T15:23:26+00:00",
      "summary": "COP31 ended without a consensus deal for the first time since 2009."
     },
     {
-     "ref": "ars_technica#10",
+     "ref": "ars_technica#11",
      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
      "published": "2026-11-23T13:54:22+00:00",
      "summary": "There were 352 position changes, including 35 for the lead."
     },
     {
-     "ref": "ars_technica#11",
+     "ref": "ars_technica#12",
      "title": "Tri-screen portable monitors aren’t for the faint of heart",
      "published": "2026-11-23T12:15:16+00:00",
      "summary": "Three extra screens boost multitasking but can distract and overwhelm."
     },
     {
-     "ref": "ars_technica#12",
+     "ref": "ars_technica#13",
      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
      "published": "2026-11-23T12:00:00+00:00",
      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents."
@@ -206,75 +212,81 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "2035 Came Early",
-     "published": "2026-11-24T06:30:33+00:00",
-     "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 354 # Comments: 121"
+     "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+     "published": "2026-11-24T11:13:55+00:00",
+     "summary": "Article URL: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50626578 Points: 181 # Comments: 83"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-     "published": "2026-11-24T02:27:02+00:00",
-     "summary": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 432 # Comments: 163"
+     "title": "2035 Came Early",
+     "published": "2026-11-24T06:30:33+00:00",
+     "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 371 # Comments: 127"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-     "published": "2026-11-23T22:32:29+00:00",
-     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 515 # Comments: 272"
+     "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+     "published": "2026-11-24T02:27:02+00:00",
+     "summary": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 452 # Comments: 167"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-     "published": "2026-11-23T21:01:16+00:00",
-     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 270 # Comments: 57"
+     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+     "published": "2026-11-23T22:32:29+00:00",
+     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 521 # Comments: 281"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "GPUI is getting its own repository",
-     "published": "2026-11-23T20:52:54+00:00",
-     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 298 # Comments: 104"
+     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+     "published": "2026-11-23T21:01:16+00:00",
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 274 # Comments: 57"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-     "published": "2026-11-23T19:17:55+00:00",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 1077 # Comments: 252"
+     "title": "GPUI is getting its own repository",
+     "published": "2026-11-23T20:52:54+00:00",
+     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 309 # Comments: 105"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-     "published": "2026-11-23T17:07:26+00:00",
-     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1752 # Comments: 1013"
+     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+     "published": "2026-11-23T19:17:55+00:00",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 1084 # Comments: 255"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Ladybird is now in alpha",
-     "published": "2026-11-23T16:13:12+00:00",
-     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 2082 # Comments: 492"
+     "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+     "published": "2026-11-23T17:07:26+00:00",
+     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1766 # Comments: 1027"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Nvidia Reinstates Jensen Huang as CEO",
-     "published": "2026-11-23T14:00:18+00:00",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2635 # Comments: 3514"
+     "title": "Ladybird is now in alpha",
+     "published": "2026-11-23T16:13:12+00:00",
+     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 2100 # Comments: 499"
     },
     {
      "ref": "hn_frontpage#9",
+     "title": "Nvidia Reinstates Jensen Huang as CEO",
+     "published": "2026-11-23T14:00:18+00:00",
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2645 # Comments: 3516"
+    },
+    {
+     "ref": "hn_frontpage#10",
      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
      "published": "2026-11-23T13:42:38+00:00",
      "summary": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks. Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit): - DeepSWE: 39.8 / 41.0 / 41.9 / 28.6 - Terminal-Bench 2.1: "
     },
     {
-     "ref": "hn_frontpage#10",
+     "ref": "hn_frontpage#11",
      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
      "published": "2026-11-23T10:06:43+00:00",
-     "summary": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 1138 # Comments: 371"
+     "summary": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 1140 # Comments: 372"
     },
     {
-     "ref": "hn_frontpage#11",
+     "ref": "hn_frontpage#12",
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "published": "2026-11-23T01:13:51+00:00",
-     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 1018 # Comments: 174"
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 1019 # Comments: 174"
     }
    ]
   },
