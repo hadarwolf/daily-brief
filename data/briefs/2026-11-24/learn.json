@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-24",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-24T03:52:16+00:00",
+  "stories": [
+    {
+      "id": "word-bootstrapping",
+      "kind": "word",
+      "en": {
+        "headline": "Bootstrapping (מיזם ממומן בכוחות עצמיים)",
+        "scroll": "Building and growing a company on its own revenue and the founders' savings, without outside investors.",
+        "coffee": "A bootstrapped company funds itself from sales and founder cash instead of venture money. It usually means slower growth, but founders keep full control and don't have to answer to a board. Example: \"The founders bootstrapped the company for three years before taking their first outside investment.\"",
+        "deep": "Use \"bootstrapping\" for any business built without external funding — not just tech startups; it applies just as well to a small agency or a one-person e-commerce shop. The common confusion is with \"seed-funded\": a seed-funded company has taken a first small investment round, while a bootstrapped one has taken none at all. People sometimes use the two loosely, but the distinction matters when discussing ownership — a bootstrapped founder typically owns close to 100% of the company, while even a lightly seed-funded one has already given some away.\n\nMore examples: \"It's hard to bootstrap a company that needs expensive hardware before it has any revenue.\" \"She bootstrapped her way to profitability before ever pitching a VC.\"\n\nThe Hebrew term is מיזם ממומן בכוחות עצמיים, literally \"a venture funded by its own strength\" — capturing the same idea of self-reliance rather than outside capital."
+      },
+      "he": {
+        "headline": "Bootstrapping (מיזם ממומן בכוחות עצמיים)",
+        "scroll": "בנייה וצמיחה של חברה מההכנסות שלה ומכספם של המייסדים, בלי משקיעים מהצד.",
+        "coffee": "חברה שעושה Bootstrapping ממנפת מכירות וכסף של המייסדים במקום הון סיכון. בדרך כלל זה אומר צמיחה איטית יותר, אבל המייסדים שומרים על שליטה מלאה ולא חייבים דין וחשבון לדירקטוריון. לדוגמה: \"The founders bootstrapped the company for three years before taking their first outside investment\" (המייסדים הקימו את החברה בכוחות עצמם שלוש שנים לפני שקיבלו השקעה ראשונה מהצד).",
+        "deep": "המונח Bootstrapping מתאים לכל עסק שנבנה בלי מימון חיצוני - לא רק לסטארטאפים טכנולוגיים, גם לסוכנות קטנה או לחנות מסחר אלקטרוני של אדם אחד. הבלבול הנפוץ הוא עם \"seed-funded\" (ממומן בסיד): חברה שגייסת סיד קיבלה סכום השקעה ראשוני קטן, בעוד חברת Bootstrapping לא קיבלה כלום. לעיתים משתמשים בשני המונחים בערבוביה, אבל ההבדל חשוב כשמדברים על בעלות - מייסד שעשה Bootstrapping מחזיק בדרך כלל בכל החברה, בעוד שגם מייסד שגייס סיד קטן כבר מכר חלק ממנה.\n\nעוד דוגמאות: \"It's hard to bootstrap a company that needs expensive hardware before it has any revenue\" (קשה להקים בכוחות עצמיים חברה שצריכה חומרה יקרה לפני שיש לה הכנסות). \"She bootstrapped her way to profitability before ever pitching a VC\" (היא הגיעה לרווחיות בכוחות עצמה עוד לפני שפנתה לקרן הון סיכון).\n\nהמונח העברי, מיזם ממומן בכוחות עצמיים, מבטא בדיוק את אותו רעיון של הסתמכות עצמית במקום הון מהצד."
+      },
+      "tags": [
+        "vocabulary",
+        "startups",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-dead-cat-bounce",
+      "kind": "word",
+      "en": {
+        "headline": "Dead cat bounce (קפיצת החתול המת)",
+        "scroll": "A brief, misleading price recovery during a longer decline, before the asset resumes falling.",
+        "coffee": "Markets rarely fall in a straight line — even a stock or index in a serious downtrend will pop up for a day or two before dropping again. Traders call that pop a dead cat bounce, the dark joke being that even a dead cat will bounce a little if it falls far enough. Example: \"Don't mistake this morning's rally for a real recovery — it looks like a dead cat bounce.\"",
+        "deep": "Use the term for short-lived rallies inside a larger downtrend, not for the start of a genuine recovery — the catch is that you usually can't tell which one you're in until afterward. The common confusion is calling any bounce in a falling market a \"dead cat bounce\": the label technically only fits in hindsight, once the price has resumed falling. Analysts commonly use it as a warning rather than a prediction, meaning \"be skeptical of this rally.\"\n\nMore examples: \"The stock jumped 8% after the earnings miss, but most analysts called it a dead cat bounce.\" \"Housing prices ticked up for one quarter, then a dead cat bounce turned into another leg down.\"\n\nThe Hebrew term, קפיצת החתול המת, is a direct translation of the English idiom and is used the same way in Israeli financial media."
+      },
+      "he": {
+        "headline": "Dead cat bounce (קפיצת החתול המת)",
+        "scroll": "עלייה קצרה ומטעה במהלך מגמת ירידה ממושכת, לפני שהנכס חוזר ליפול.",
+        "coffee": "שווקים לרוב לא נופלים בקו ישר - גם מניה או מדד שנמצאים במגמת ירידה חדה יזנקו ליום־יומיים לפני שיחזרו לרדת. סוחרים קוראים לזינוק הזה Dead cat bounce (קפיצת החתול המת), מהבדיחה השחורה שאפילו חתול מת יקפוץ קצת אם הוא נופל מגובה מספיק. לדוגמה: \"Don't mistake this morning's rally for a real recovery - it looks like a dead cat bounce\" (אל תטעו לחשוב שהעלייה של הבוקר היא התאוששות אמיתית - זה נראה כמו קפיצת חתול מת).",
+        "deep": "המונח מתאים לעליות קצרות בתוך מגמת ירידה גדולה יותר, ולא להתחלה של התאוששות אמיתית - הקושי הוא שבדרך כלל אי אפשר לדעת באיזה מהם נמצאים אלא בדיעבד. הבלבול הנפוץ הוא לתאר כל עלייה בשוק נופל כ\"קפיצת חתול מת\": הכינוי מתאים טכנית רק בהסתכלות לאחור, כשהמחיר חוזר ויורד. אנליסטים נוהגים להשתמש בו כאזהרה ולא כתחזית, במובן של \"יש להתייחס בחשד לעלייה הזו\".\n\nעוד דוגמאות: \"The stock jumped 8% after the earnings miss, but most analysts called it a dead cat bounce\" (המניה זינקה 8% אחרי פרסום תוצאות חלשות, אבל רוב האנליסטים כינו זאת קפיצת חתול מת). \"Housing prices ticked up for one quarter, then a dead cat bounce turned into another leg down\" (מחירי הדיור עלו לרבעון אחד, ואז קפיצת החתול המת הפכה לירידה נוספת).\n\nהמונח העברי, קפיצת החתול המת, הוא תרגום ישיר של הניב האנגלי ומשמש באותו אופן בתקשורת הכלכלית הישראלית."
+      },
+      "tags": [
+        "vocabulary",
+        "markets",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-punching-above-your-weight",
+      "kind": "word",
+      "en": {
+        "headline": "Punching above your weight (להילחם מעל המשקל שלך)",
+        "scroll": "Performing or competing at a level beyond what your size or resources would predict.",
+        "coffee": "Borrowed from boxing, where fighters compete in weight classes, the phrase describes a company, team or country achieving results that seem too big for its actual size. It's almost always a compliment. Example: \"With fifteen employees, that startup is punching above its weight against competitors ten times its size.\"",
+        "deep": "Use it for any comparison of results to resources — team size, budget, headcount, market cap — where the outcome beats expectations. The common confusion is with \"overachieving,\" which describes an individual's personal performance; \"punching above your weight\" is almost always relative to a competitor or a peer group, implying a size or resource mismatch, not just hard work.\n\nMore examples: \"Israel's tech sector punches above its weight globally given the country's small population.\" \"The firm's three-person legal team is punching above its weight against the client's in-house department.\"\n\nThe Hebrew equivalent, להילחם מעל המשקל שלך, keeps the same boxing imagery and is understood the same way in Hebrew business conversation."
+      },
+      "he": {
+        "headline": "Punching above your weight (להילחם מעל המשקל שלך)",
+        "scroll": "להשיג תוצאות או לתחרות בקנה מידה שגדול יותר ממה שהגודל או המשאבים שלך מרמזים.",
+        "coffee": "הניב שאול מעולם האיגרוף, שבו מתאגרפים מתחרים בקטגוריות משקל, ומתאר חברה, קבוצה או מדינה שמשיגות תוצאות שנראות גדולות מדי לגודלן האמיתי. זו כמעט תמיד מחמאה. לדוגמה: \"With fifteen employees, that startup is punching above its weight against competitors ten times its size\" (עם חמישה עשר עובדים, הסטארטאפ הזה נלחם מעל משקלו מול מתחרים גדולים ממנו בעשר).",
+        "deep": "השתמשו בביטוי כשמשווים תוצאות למשאבים - גודל צוות, תקציב, מספר עובדים, שווי שוק - וכאשר התוצאה עולה על הציפיות. הבלבול הנפוץ הוא עם \"עבודה קשה מהרגיל\" (overachieving), שמתאר ביצועים אישיים של אדם; \"להילחם מעל המשקל\" מתייחס כמעט תמיד להשוואה מול מתחרה או קבוצת ייחוס, ומרמז על פער בגודל או במשאבים, לא רק על מאמץ.\n\nעוד דוגמאות: \"Israel's tech sector punches above its weight globally given the country's small population\" (ענף ההייטק הישראלי נלחם מעל משקלו בעולם, בהתחשב בגודל האוכלוסייה הקטן של המדינה). \"The firm's three-person legal team is punching above its weight against the client's in-house department\" (צוות המשפטים של שלושת האנשים בחברה נלחם מעל משקלו מול המחלקה המשפטית הפנימית של הלקוח).\n\nהמקביל העברי, להילחם מעל המשקל שלך, שומר על אותה תמונה מעולם האיגרוף ומובן באותו אופן בשיח עסקי בעברית."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "business"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some products get more valuable the more people use them",
+        "scroll": "A product has network effects when each new user makes it more valuable to everyone already using it.",
+        "coffee": "Most products don't change in value based on who else uses them — a toaster works the same whether one person or a million people own one. Network effects break that rule: a messaging app, a marketplace or a social network becomes more useful to you specifically because other people are on it too. That's why these markets tend to tip toward one or two dominant winners, and why a smaller, technically better competitor can still lose.",
+        "deep": "## What it is\n\nA product exhibits network effects when the value each user gets from it rises as more people join. This is different from ordinary economies of scale, which lower a company's *cost* per unit as it grows. Network effects raise the *value* per user as the user base grows — the product itself gets better, not just cheaper to make.\n\n## A worked example\n\nTake a messaging app. If you're the only person using it, it's worthless — there's no one to message. If ten of your friends join, it becomes somewhat useful. If the app reaches a city, a country, then hundreds of millions of people, it becomes close to essential, because the odds that anyone you want to reach is already on it approach certainty. Each new user doesn't just use the product — they make it more valuable for every existing user, for free, without the company doing anything.\n\nThis is why messaging apps, social networks and marketplaces (where network effects run on both sides — more buyers attract more sellers, and vice versa) tend to consolidate into one or two dominant players per market, rather than splitting evenly among many competitors the way, say, toothpaste brands do.\n\n## Why it matters strategically\n\nA startup with a technically superior product can still lose to an inferior one that got to scale first, because users don't choose products in isolation — they choose where their contacts, trading partners or audience already are. This is also why early-stage network-effect businesses often give the product away or subsidize one side of the market (a strategy sometimes called \"land and expand\") purely to reach the scale where the effect kicks in.\n\n## The limits\n\nNetwork effects aren't infinite. Past a certain size, a network can become too crowded or noisy (sometimes called negative network effects), and users can also switch en masse if a sufficiently better alternative reaches critical mass — which is why incumbents with network effects still invest heavily in defending them rather than assuming they're permanent."
+      },
+      "he": {
+        "headline": "אפקט הרשת (network effects): מדוע מוצרים מסוימים נהיים שווים יותר ככל שיותר אנשים משתמשים בהם",
+        "scroll": "למוצר יש אפקט רשת (network effect) כשכל משתמש חדש מגדיל את הערך שלו לכל מי שכבר משתמש בו.",
+        "coffee": "ברוב המוצרים הערך לא משתנה בהתאם למי שעוד משתמש בהם - מצנם עובד אותו דבר בין אם יש לו בעלים אחד ובין אם מיליון. אפקט הרשת שובר את הכלל הזה: אפליקציית הודעות, שוק מסחר או רשת חברתית נהיים שימושיים יותר בדיוק בשבילך כי אנשים אחרים נמצאים בהם גם. בגלל זה שווקים כאלה נוטים להצטמצם לכיוון זוכה דומיננטי אחד או שניים, ומתחרה קטן וטוב יותר טכנית יכול בכל זאת להפסיד.",
+        "deep": "## מה זה\n\nלמוצר יש אפקט רשת כשהערך שכל משתמש מפיק ממנו עולה ככל שיותר אנשים מצטרפים. זה שונה מ\"חסכון לגודל\" (economies of scale) הרגיל, שמוריד את ה*עלות* ליחידה עבור החברה כשהיא גדלה. אפקט הרשת מעלה את ה*ערך* למשתמש כשבסיס המשתמשים גדל - המוצר עצמו נהיה טוב יותר, לא רק זול יותר לייצור.\n\n## דוגמה מפורטת\n\nניקח אפליקציית הודעות. אם אתם היחידים שמשתמשים בה, היא חסרת ערך - אין למי לשלוח הודעות. אם עשרה מהחברים שלכם מצטרפים, היא נהיית שימושית במידה מסוימת. אם האפליקציה מגיעה לעיר, למדינה, ואז למאות מיליוני אנשים, היא נהיית קרובה להיות הכרחית, כי הסיכוי שמי שתרצו ליצור איתו קשר נמצא בה כבר קרוב לוודאות. כל משתמש חדש לא רק משתמש במוצר - הוא מגדיל את הערך שלו לכל משתמש קיים, בחינם, בלי שהחברה עשתה דבר.\n\nבגלל זה אפליקציות הודעות, רשתות חברתיות ושווקי מסחר (שבהם אפקט הרשת פועל משני הצדדים - יותר קונים מושכים יותר מוכרים, ולהפך) נוטים להתכנס לשחקן דומיננטי אחד או שניים בכל שוק, ולא להתחלק באופן שווה בין מתחרים רבים כמו, למשל, מותגי משחת שיניים.\n\n## למה זה חשוב אסטרטגית\n\nסטארטאפ עם מוצר טוב יותר טכנית יכול בכל זאת להפסיד למוצר נחות שהגיע לקנה מידה גדול קודם, כי משתמשים לא בוחרים מוצרים בבידוד - הם בוחרים איפה אנשי הקשר, השותפים המסחריים או הקהל שלהם נמצאים כבר. בגלל זה חברות בשלב מוקדם שמסתמכות על אפקט רשת נותנות לעיתים את המוצר בחינם או מסבסדות צד אחד של השוק (אסטרטגיה שנקראת לעיתים \"land and expand\", לנחות ולהתרחב) רק כדי להגיע לקנה המידה שבו האפקט מתחיל לפעול.\n\n## המגבלות\n\nאפקט הרשת אינו בלתי מוגבל. מעבר לגודל מסוים, רשת יכולה להיות עמוסה או רועשת מדי (מה שנקרא לעיתים אפקט רשת שלילי), ומשתמשים יכולים גם לעבור בהמוניהם אם חלופה טובה מספיק מגיעה למסה קריטית - ולכן גם שחקנים מבוססים עם אפקט רשת ממשיכים להשקיע רבות בהגנה עליו ולא מניחים שהוא קבוע."
+      },
+      "tags": [
+        "concept",
+        "economics",
+        "network-effects"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-darwin-origin-of-species",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1859: Darwin publishes On the Origin of Species, sells out on day one",
+        "scroll": "On this day in 1859, Charles Darwin published On the Origin of Species, which sold out its entire first print run within a day.",
+        "coffee": "Charles Darwin's On the Origin of Species, published on 24 November 1859, laid out his theory that all species descend from common ancestors through a branching process of natural selection — the differential survival and reproduction of individuals whose traits suit them better to their environment. The book sold out its initial print run on the first day, an unusual reception for a dense work of natural history.\n\nDarwin had developed the theory decades earlier but delayed publishing, partly from caution about the religious and social backlash he expected. He was pushed to publish after naturalist Alfred Russel Wallace independently arrived at a similar theory, and the two presented their ideas jointly before Darwin rushed the book into print.\n\nThe theory of evolution by natural selection went on to become one of the foundational ideas of modern biology, reshaping how science explains the diversity of life — and remains, over 160 years later, one of the most consequential scientific publications in history.",
+        "deep": "## Background\n\nBy the mid-1800s, naturalists had long debated how species came to be and whether they changed over time, but no widely accepted mechanism existed. Charles Darwin, an English naturalist and geologist, had spent years studying variation in animals and plants, including observations gathered during his voyage on HMS Beagle in the 1830s, and had privately developed a theory of evolution by natural selection — the idea that individuals with traits better suited to their environment tend to survive and reproduce more successfully, gradually changing populations over generations.\n\n## The story\n\nDarwin held off publishing for roughly two decades, aware that the theory challenged prevailing religious and scientific views about the fixed, divinely created nature of species. The matter came to a head in 1858, when naturalist Alfred Russel Wallace, working independently and unaware of Darwin's decades of unpublished work, sent Darwin a manuscript describing a strikingly similar theory. Colleagues arranged for the two men's work to be presented jointly to the Linnean Society of London that year, and Darwin then moved quickly to publish his full argument.\n\nOn the Origin of Species appeared on 24 November 1859. Its initial print run of 1,250 copies sold out on the first day — a striking commercial reception for a scientific treatise, reflecting how primed public and scientific debate already was for the subject.\n\n## Second-order effects\n\nThe book's reception set off intense scientific and public debate that lasted decades, particularly over its implications for human origins (which Darwin addressed more directly in a later book) and its apparent conflict with religious accounts of creation. Natural selection gradually won over the scientific community as more evidence accumulated, eventually becoming integrated with genetics in the 20th century into the modern evolutionary synthesis — the framework still used across biology today.\n\n## What to watch next\n\nThe core mechanism Darwin described — differential survival and reproduction driving change in populations — remains central not just to biology but to fields far outside it that borrow evolutionary logic, from computer science (genetic algorithms) to economics (models of market competition). Darwin himself was honored after his death with burial in Westminster Abbey, a measure of how completely his once-controversial idea came to be accepted."
+      },
+      "he": {
+        "headline": "1859: דרווין מפרסם את מוצא המינים, המהדורה הראשונה נמכרת כליל ביום הראשון",
+        "scroll": "בתאריך זה ב-1859 פרסם צ'רלס דרווין את הספר מוצא המינים, שכל המהדורה הראשונה שלו נמכרה כליל ביום אחד.",
+        "coffee": "הספר מוצא המינים (On the Origin of Species) של צ'רלס דרווין, שפורסם ב-24 בנובמבר 1859, הציג את התיאוריה שכל המינים התפתחו מאבות משותפים בתהליך מתפצל של בחירה טבעית (natural selection) - שרידה והתרבות דיפרנציאלית של פרטים שתכונותיהם מתאימות יותר לסביבתם. הספר נמכר כליל במהדורתו הראשונה כבר ביום הפרסום, קבלה חריגה לחיבור צפוף בתולדות הטבע.\n\nדרווין פיתח את התיאוריה עשרות שנים קודם לכן אך דחה את פרסומה, בין היתר מתוך חשש מהתגובה הדתית והחברתית שציפה לה. הוא נדחף לפרסם אחרי שחוקר הטבע אלפרד ראסל וואלאס הגיע באופן עצמאי לתיאוריה דומה, ושני החוקרים הציגו את רעיונותיהם במשותף לפני שדרווין החיש את הוצאת הספר.\n\nתורת האבולוציה בבחירה טבעית הפכה לאחד הרעיונות הבסיסיים של הביולוגיה המודרנית, ושינתה את האופן שבו המדע מסביר את מגוון החיים - והיא נותרת, יותר מ-160 שנה לאחר מכן, אחת הפרסומים המדעיים המשמעותיים בהיסטוריה.",
+        "deep": "## רקע\n\nבאמצע המאה ה-19 חוקרי טבע התדיינו זה מכבר על אופן היווצרות המינים ועל השאלה אם הם משתנים עם הזמן, אך לא היה מנגנון מוסכם. צ'רלס דרווין, חוקר טבע וגיאולוג אנגלי, הקדיש שנים לחקר השונות בבעלי חיים ובצמחים, כולל תצפיות שאסף במהלך מסעו על ספינת המחקר HMS Beagle בשנות ה-1830, ופיתח באופן פרטי תיאוריה של אבולוציה בבחירה טבעית - הרעיון שפרטים עם תכונות המתאימות יותר לסביבתם שורדים ומתרבים בהצלחה רבה יותר, ומשנים בהדרגה אוכלוסיות על פני דורות.\n\n## הסיפור\n\nדרווין עיכב את הפרסום כעשרים שנה, מתוך מודעות לכך שהתיאוריה מאתגרת תפיסות דתיות ומדעיות מקובלות על אופי קבוע וברוא של המינים. הנושא הגיע לנקודת מפנה ב-1858, כשחוקר הטבע אלפרד ראסל וואלאס, שעבד באופן עצמאי ולא היה מודע לעבודתו הלא-מפורסמת של דרווין במשך עשרות שנים, שלח לדרווין כתב יד המתאר תיאוריה דומה להפליא. עמיתים דאגו לכך שעבודת שני האנשים תוצג במשותף בפני האגודה הלינאית של לונדון באותה שנה, ודרווין פעל אז במהירות לפרסם את הטיעון המלא שלו.\n\nמוצא המינים הופיע ב-24 בנובמבר 1859. המהדורה הראשונה, בת 1,250 עותקים, נמכרה כליל ביום הראשון - קבלה מסחרית בלתי שגרתית לחיבור מדעי, שמעידה על מידת ההכנה הציבורית והמדעית לדיון בנושא.\n\n## השלכות מסדר שני\n\nהקבלה לספר עוררה דיון מדעי וציבורי עז שנמשך עשרות שנים, בייחוד סביב השלכותיו על מוצא האדם (שבו דרווין התייחס ישירות יותר בספר מאוחר יותר) והסתירה הנראית עם תיאורי הבריאה הדתיים. הבחירה הטבעית צברה תמיכה בקהילה המדעית בהדרגה ככל שהצטברו עוד הוכחות, ובסופו של דבר שולבה עם הגנטיקה במאה ה-20 לכדי הסינתזה האבולוציונית המודרנית - המסגרת שעדיין משמשת בביולוגיה כיום.\n\n## מה לעקוב אחריו\n\nהמנגנון המרכזי שדרווין תיאר - שרידה והתרבות דיפרנציאלית המחוללות שינוי באוכלוסיות - נותר מרכזי לא רק בביולוגיה אלא גם בתחומים רבים מחוצה לה ששואלים את ההיגיון האבולוציוני, ממדעי המחשב (אלגוריתמים גנטיים) ועד כלכלה (מודלים של תחרות בשוק). דרווין עצמו הוכבד לאחר מותו בקבורה בווסטמינסטר אבי, מדד למידה שבה רעיון שהיה שנוי במחלוקת הפך למקובל לחלוטין."
+      },
+      "tags": [
+        "history",
+        "science",
+        "darwin"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1859: British naturalist Charles Darwin's On the Origin of Species was first published, and sold out its initial print run on the first day.",
+          "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
+        }
+      ]
+    }
+  ]
+}

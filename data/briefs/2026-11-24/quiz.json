@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-24",
+  "questions": [
+    {
+      "id": "q-ukraine-libya-strike",
+      "section": "geopolitics",
+      "story_id": "ukraine-strikes-russian-ship-libya",
+      "answer_index": 1,
+      "en": {
+        "question": "Why was Ukraine's strike on Russian vessels at a port in Libya notable, beyond the damage itself?",
+        "options": [
+          "It triggered a ceasefire negotiation within hours",
+          "It showed Ukraine can hit Russian military assets far outside Russia and the Black Sea",
+          "It was the first time Ukraine used naval drones",
+          "It pushed NATO to send troops to Libya"
+        ],
+        "explanation": "The strike's significance was less the damage than the distance: it showed Ukraine can reach Russian assets thousands of kilometers from the front line."
+      },
+      "he": {
+        "question": "מדוע התקיפה האוקראינית על כלי שיט רוסיים בנמל בלוב הייתה משמעותית, מעבר לנזק עצמו?",
+        "options": [
+          "האירוע הוביל למשא ומתן על הפסקת אש בתוך שעות",
+          "היא הוכיחה שאוקראינה מסוגלת לתקוף נכסים צבאיים רוסיים הרחק מרוסיה ומהים השחור",
+          "זה היה השימוש הראשון של אוקראינה בכטב\"מים ימיים",
+          "האירוע הניע את נאט\"ו לשלוח כוחות ללוב"
+        ],
+        "explanation": "המשמעות של התקיפה הייתה בעיקר המרחק ולא הנזק: היא הראתה שאוקראינה מסוגלת להגיע לנכסים רוסיים אלפי קילומטרים מקו החזית."
+      }
+    },
+    {
+      "id": "q-legal-advisor-law-repeal",
+      "section": "israeli_politics",
+      "story_id": "legal-advisor-law-repeal",
+      "answer_index": 3,
+      "en": {
+        "question": "Which law did the bloc outside Likud choose to repeal first in its preliminary Knesset vote?",
+        "options": [
+          "The law governing judicial appointments",
+          "The law on Knesset dissolution",
+          "The law limiting the prime minister's tenure",
+          "The law that curtailed the attorney general's powers"
+        ],
+        "explanation": "The bloc opened its repeal push with the law that had curtailed the attorney general's powers, timed just before unity-government talks with Likud."
+      },
+      "he": {
+        "question": "איזה חוק בחר הגוש שמחוץ לליכוד לבטל ראשון בהצבעה הטרומית בכנסת?",
+        "options": [
+          "חוק הממונה על מינויים משפטיים",
+          "חוק פיזור הכנסת",
+          "החוק המגביל את כהונת ראש הממשלה",
+          "החוק שצימצם את סמכויות היועץ המשפטי לממשלה"
+        ],
+        "explanation": "הגוש פתח את מסע הביטולים בחוק שצימצם את סמכויות היועץ המשפטי לממשלה, בתזמון שקדם למשא ומתן עם הליכוד על הקמת ממשלת אחדות."
+      }
+    },
+    {
+      "id": "q-nvidia-huang-key-person-risk",
+      "section": "business",
+      "story_id": "nvidia-huang-reinstated",
+      "answer_index": 2,
+      "en": {
+        "question": "What investor-confidence pattern does Nvidia's board reversal over Jensen Huang illustrate?",
+        "options": [
+          "A hostile takeover attempt by a rival chipmaker",
+          "A routine quarterly earnings miss",
+          "Key-person risk: markets swinging wildly based on who runs one company",
+          "Antitrust enforcement against a dominant chipmaker"
+        ],
+        "explanation": "The episode showed how much investor confidence, roughly $5 trillion in market value, hinged on a single executive's position."
+      },
+      "he": {
+        "question": "איזו תבנית של אמון משקיעים מדגימה חזרתו של ג'נסן הואנג לתפקיד מנכ\"ל אנבידיה?",
+        "options": [
+          "ניסיון רכישה עצמאית על ידי יצרנית שבבים מתחרה",
+          "החטאת תחזיות רבעוניות רגילה",
+          "סיכון תלות באדם מפתח: שווקים שמתנודדים בעוצמה בהתאם לשאלה מי מוביל חברה אחת",
+          "אכיפה אנטיטרסטית נגד יצרנית שבבים דומיננטית"
+        ],
+        "explanation": "הפרשה הדגימה כמה אמון משקיעים, כ-5 טריליון דולר בשווי שוק, היה תלוי במעמדו של מנהל בודד."
+      }
+    }
+  ]
+}

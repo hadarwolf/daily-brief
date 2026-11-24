@@ -1,0 +1,161 @@
+{
+  "section": "business",
+  "date": "2026-11-24",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-24T03:52:16+00:00",
+  "stories": [
+    {
+      "id": "nvidia-huang-reinstated",
+      "kind": "analysis",
+      "en": {
+        "headline": "Nvidia Rehires Jensen Huang as CEO After a White House Pressure Campaign, and Markets Erupt",
+        "scroll": "Nvidia's board reinstated co-founder Jensen Huang as CEO ten days after he resigned over an extramarital affair, following a Silicon Valley lobbying campaign that reached the White House; the stock jumped roughly 30% in a day.",
+        "coffee": "Jensen Huang resigned as Nvidia's CEO about ten days ago after revelations of extramarital affairs, including one with a woman suspected of spying for China. Nvidia's board initially accepted the resignation. It didn't hold: Silicon Valley investors who viewed Huang as irreplaceable for the AI industry ran what the Financial Times calls a \"war room\" lobbying campaign that reached President Trump and Vice President Vance, and Bloomberg reports the final push came after a $5 trillion slide in AI-related market value during Huang's absence. The board brought him back on Monday.\n\nThe market's answer was immediate: Nvidia's shares closed about 30% higher, adding nearly $1 trillion in value in a single session, and the rally pulled the whole \"AI trade\" along with it — the Nasdaq gained more than 6%, its best day in roughly a year and a half, while Asian chipmakers surged, gold extended its climb and corporate-debt markets rallied as a key fear gauge dropped.\n\nThis is a textbook case of key-person risk (הסיכון שגלום בתלות באדם מפתח): a $5 trillion swing in investor confidence over who sits in one chair. It's also a governance story — a politically organized campaign overturning a board's personnel decision within days, which the FT bluntly called \"a dangerous precedent.\" Trump himself profited by up to $15 million on Nvidia shares he held, by the FT's estimate. Lawmakers from both parties say the underlying investigations aren't going away: they want Huang to testify publicly about the circumstances of his departure and return.",
+        "deep": "## Background: when one person is the company\n\nMost public companies are built, at least on paper, to survive the departure of any single executive — that's the point of a board of directors and a management bench. \"Key-person risk\" is the exposure a company carries when its value is tied unusually tightly to one individual: their relationships, their technical judgment, their credibility with customers and investors. Founders of category-defining companies are the classic case, and few companies illustrate it as starkly right now as Nvidia, whose market value is larger than the GDP of most countries and whose identity is fused with Jensen Huang's.\n\n## The story\n\nAbout ten days before this week, Huang resigned as Nvidia's chief executive after revelations of extramarital affairs, one of them with a woman suspected of spying on behalf of China, according to Israeli financial daily TheMarker. Nvidia's board accepted the resignation. What followed was not a quiet leadership transition but a scramble. The Financial Times describes a \"war room\" assembled by Silicon Valley investors who regarded Huang as essential to the AI industry's momentum, and who lobbied the Trump administration — reaching both the president and Vice President JD Vance — to push for his return. The Wall Street Journal reported flatly that Trump \"engineered\" the reinstatement.\n\nThe pressure had a number behind it: Bloomberg reports that roughly $5 trillion in market value evaporated across AI-linked stocks while Huang was out, as investors treated his absence as a direct threat to the sector's trajectory, not just Nvidia's. By Monday, Nvidia's board reversed course and reinstated him as CEO. When news broke, Nvidia's own stock closed about 30% higher, adding close to $1 trillion in market value in a single day — one of the largest one-day value swings for any company in history.\n\n## Second-order effects\n\nThe reinstatement didn't stay contained to one stock. Because Nvidia is treated as the bellwether for the entire AI buildout, its rally pulled the broader \"AI trade\" back to life after a rough preceding week: the Nasdaq composite jumped more than 6% in its best single session in about a year and a half, Asian chipmakers tied to Nvidia's supply chain surged, and gold — often a hedge against risk — extended gains anyway on the broader rebound in sentiment. Credit markets moved too: a widely watched gauge of corporate-debt fear dropped sharply as tech company bonds rebounded, a sign that investors had been pricing real downside risk into Nvidia's ecosystem, not just its equity.\n\nThe governance dimension may matter longer than the stock move. Having a sitting U.S. president and vice president intervene to reverse a corporate board's personnel decision — reportedly profitably, in Trump's case, who the FT estimates made up to $15 million from his Nvidia holdings as the shares jumped — is an unusual entanglement of state power and corporate governance. FT commentary was blunt, calling the episode both proof that \"in the AI race, boardroom discipline is a luxury shareholders can't afford\" and, separately, \"a dangerous precedent.\" Whether that precedent gets cited the next time a politically important company faces a leadership crisis is an open question.\n\n## What to watch\n\nReinstatement doesn't erase the underlying problems. Lawmakers from both parties, per the FT and WSJ, say they still expect Huang to testify publicly about the affairs, his resignation and the circumstances of his return — and multiple investigations into Nvidia and its CEO remain open regardless of the board's decision. Watch for how Huang handles that scrutiny from a position of restored power, and whether the AI trade's rebound this week holds once the relief rally fades and investors go back to weighing the sector's actual demand and spending questions."
+      },
+      "he": {
+        "headline": "אנבידיה מחזירה את ג'נסן הואנג לתפקיד המנכ\"ל בעקבות מסע לחץ מהבית הלבן, והשווקים מגיבים בסערה",
+        "scroll": "דירקטוריון אנבידיה החזיר את הואנג לתפקיד המנכ\"ל כעשרה ימים אחרי שהתפטר בשל פרשת רומנים מחוץ לנישואים, בעקבות מסע שדולה של משקיעי סיליקון ואלי שהגיע עד הבית הלבן; מניית החברה זינקה בכ-30% ביום אחד.",
+        "coffee": "ג'נסן הואנג התפטר מתפקיד מנכ\"ל אנבידיה לפני כעשרה ימים בערך, לאחר שנחשפו רומנים שניהל מחוץ לנישואים, אחד מהם עם אישה החשודה בריגול לטובת סין. דירקטוריון החברה קיבל את ההתפטרות - אך זה לא נגמר כך. משקיעים מסיליקון ואלי שראו בהואנג דמות שאין לה תחליף להמשך קדימות ענף הבינה המלאכותית, הפעילו לדברי הפייננשל טיימס \"חדר מלחמה\" של לחץ פוליטי שהגיע עד לנשיא טראמפ ולסגן הנשיא ג'יי.די ואנס, ובלומברג מדווחת שהדחיפה הסופית הגיעה בעקבות נפילה של כ-5 טריליון דולר בשווי השוק של מניות הקשורות לבינה מלאכותית בזמן שהואנג היה מחוץ לתפקיד. ביום שני החזיר הדירקטוריון את הואנג לתפקיד.\n\nתגובת השוק הייתה מיידית: מניית אנבידיה נסגרה בעלייה של כ-30%, והוסיפה כ-1 טריליון דולר לשוויה בתוך יום מסחר אחד, והעלייה סחפה עימה את כל מה שמכונה \"סחר ה-AI\" - נאסד\"ק עלה ביותר מ-6%, היום הטוב ביותר שלו זה כשנה וחצי, מניות היצרניות האסייתיות של שבבים זינקו, הזהב המשיך לעלות ושוקי החוב הקונצרני התאוששו כאשר מדד חשוב למדידת החשש מקריסת חברות נחת בחדות.\n\nזה מקרה קלאסי של סיכון תלות באדם מפתח (key-person risk): תנודה של 5 טריליון דולר באמון המשקיעים, סביב השאלה מי יושב בכיסא אחד. זה גם סיפור של ממשל תאגידי (corporate governance) - מסע לחץ פוליטי מאורגן שהפך תוך ימים ספורים את החלטת כוח האדם של הדירקטוריון, מה שה-FT הגדיר בפשטות כ\"תקדים מסוכן\". לפי הערכת ה-FT, טראמפ עצמו הרוויח עד 15 מיליון דולר ממניות אנבידיה שבבעלותו. מחוקקים משני המפלגות אומרים שהחקירות הרלוונטיות לא נעלמות: הם רוצים שהואנג יעיד בפומבי על נסיבות עזיבתו וחזרתו.",
+        "deep": "## רקע: מתי חברה אחת היא בעצם אדם אחד\n\nרוב החברות הציבוריות נבנות, לפחות על הנייר, כך שישרדו את עזיבתו של כל מנהל בודד - לשם כך קיימים דירקטוריון וצוות הנהלה. \"סיכון תלות באדם מפתח\" (key-person risk) הוא החשיפה שחברה נושאת כאשר שוויה קשור בצורה חריגה לאדם אחד: לקשרים שלו, לשיקול הדעת הטכני שלו, לאמינות שלו בעיני לקוחות ומשקיעים. מקרה קלאסי הוא מייסדים של חברות שהגדירו תעשייה שלמה, ומעט חברות מדגימות זאת כעת בצורה כה חדה כמו אנבידיה, ששוויה בשוק גדול מהתוצר של רוב מדינות העולם, וזהותה שלובה בהואנג עצמו.\n\n## הסיפור\n\nכעשרה ימים לפני השבוע הזה התפטר הואנג מתפקיד המנכ\"ל, לאחר שנחשפו רומנים מחוץ לנישואים, אחד מהם עם אישה החשודה בריגול לטובת סין, כך דיווחה TheMarker. דירקטוריון אנבידיה קיבל את ההתפטרות. מה שקרה בהמשך לא היה מעבר שקט בהנהלה אלא ריצה מבוהלת. הפייננשל טיימס מתארת \"חדר מלחמה\" שהקימו משקיעי סיליקון ואלי שראו בהואנג גורם חיוני להמשך התנופה של ענף הבינה המלאכותית, ושהפעילו לחץ על ממשל טראמפ - והגיעו גם לנשיא עצמו וגם לסגן הנשיא ג'יי.די ואנס. הוול סטריט ג'ורנל דיווח בפשטות שטראמפ \"תִכנן\" את חזרתו של הואנג לתפקיד.\n\nללחץ היה גם מספר מאחוריו: בלומברג מדווחת שכ-5 טריליון דולר בשווי שוק נמחקו ממניות הקשורות לבינה מלאכותית בזמן שהואנג היה מחוץ לתפקיד, כאשר משקיעים התייחסו להיעדרו כאיום ישיר על מסלול הענף כולו, לא רק על אנבידיה. ביום שני הפך הדירקטוריון את ההחלטה והחזיר את הואנג לתפקיד המנכ\"ל. עם היוודע הדבר, מניית אנבידיה נסגרה בעלייה של כ-30%, והוסיפה כ-1 טריליון דולר לשוויה בתוך יום מסחר אחד - אחת מהתנודות היומיות הגדולות בשווי של חברה בהיסטוריה.\n\n## אפקטים מסדר שני\n\nהחזרת הואנג לא נשארה מוגבלת למניה אחת. מכיוון שאנבידיה נחשבת לחברת הדגל של כל בניית תשתיות הבינה המלאכותית, העלייה שלה החזירה לחיים את כל \"סחר ה-AI\" אחרי שבוע קשה: מדד הנאסד\"ק עלה ביותר מ-6% ביום המסחר הטוב ביותר שלו בכשנה וחצי, מניות יצרניות השבבים האסייתיות שקשורות לשרשרת האספקה של אנבידיה זינקו, והזהב - שמשמש בדרך כלל כגידור מפני סיכון - המשיך לעלות בכל זאת על רקע השיפור הכללי בסנטימנט. גם שוקי האשראי זזו: מדד נפוץ למעקב אחר חשש משוק האג\"ח הקונצרני צנח בחדות כשאיגרות החוב של חברות טכנולוגיה התאוששו, סימן לכך שמשקיעים תמחרו סיכון ממשי לכל המערכת של אנבידיה, לא רק למניה שלה.\n\nהממד של הממשל התאגידי עשוי להיות משמעותי יותר בטווח הארוך מתנועת המניה עצמה. מצב שבו נשיא ארצות הברית המכהן וסגנו מתערבים כדי להפוך החלטת כוח אדם של דירקטוריון תאגידי - וברווח, במקרה של טראמפ, שלפי הערכת ה-FT הרוויח עד 15 מיליון דולר ממניות אנבידיה שבבעלותו כשהן זינקו - הוא שילוב חריג בין כוח מדינה לממשל תאגידי. הפרשנות בפייננשל טיימס הייתה חדה, וכינתה את הפרשה גם הוכחה לכך ש\"במירוץ הבינה המלאכותית, משמעת דירקטוריון היא מותרות שבעלי מניות לא יכולים להרשות לעצמם\", וגם, בנפרד, \"תקדים מסוכן\". אם התקדים הזה יצוטט בפעם הבאה שחברה בעלת משקל פוליטי תעמוד בפני משבר הנהלה - זו שאלה פתוחה.\n\n## למה לשים לב בהמשך\n\nהחזרה לתפקיד לא מוחקת את הבעיות שברקע. מחוקקים משני המפלגות, לפי הפייננשל טיימס והוול סטריט ג'ורנל, אומרים שהם עדיין מצפים שהואנג יעיד בפומבי על הרומנים, התפטרותו ונסיבות חזרתו - וחקירות מרובות באנבידיה ובמנכ\"ל שלה נותרות פתוחות בלי קשר להחלטת הדירקטוריון. יש לעקוב אחרי האופן שבו הואנג יתמודד עם הבדיקה הציבורית הזו ממעמד של כוח מחודש, ואם ההתאוששות של סחר ה-AI השבוע תחזיק מעמד כשהעלייה ההקלתית תדעך והמשקיעים יחזרו לשקול את שאלות הביקוש וההוצאה האמיתיות של הענף."
+      },
+      "tags": [
+        "nvidia",
+        "corporate-governance",
+        "ai-trade",
+        "key-person-risk"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "אנבידיה מחזירה את ג'נסן הואנג לתפקיד המנכ\"ל; המניה מזנקת ביותר מ-30%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-23/ty-article/000001a2-08b9-d609-abfb-f9ff850a0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט סגרה היום הטוב ביותר זה שנה וחצי; נאסד\"ק טס ב-6.5%; אנבידיה זינקה ב-31%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-23/ty-article-live/000001a1-fcb1-d381-ade5-fff18e090000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "כך קיבלו עובדי אנבידיה את המנכ\"ל שחזר לחברה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-23/ty-article/.premium/000001a2-09e1-db94-a5fb-8df3523f0000"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
+          "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+          "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+          "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
+          "url": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "The startling return of Jensen Huang",
+          "url": "https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Huang is back because he left Nvidia no choice",
+          "url": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Return is a triumph of money over morals",
+          "url": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+          "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+          "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Nvidia’s Rally Ripples Across Markets",
+          "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Extends Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Trade Rebound Drives Limit Up Moves in Nvidia Supplier Stocks",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+          "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Credit Fear Gauge Drops as Huang’s Return Boosts AI Hopes",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/credit-heads-swivel-as-huang-return-ignites-tech-debt-rally"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3880.45,
+      "prev_close": 3861.51,
+      "change_pct": 0.49,
+      "as_of": "2026-11-23"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7237.1699,
+      "prev_close": 6910.3901,
+      "change_pct": 4.73,
+      "as_of": "2026-11-23"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2978,
+      "prev_close": 3.3401,
+      "change_pct": -1.27,
+      "as_of": "2026-11-24"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 86.64,
+      "prev_close": 92.57,
+      "change_pct": -6.41,
+      "as_of": "2026-11-23"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 60224.4688,
+      "prev_close": 61161.9102,
+      "change_pct": -1.53,
+      "as_of": "2026-11-24"
+    }
+  }
+}
