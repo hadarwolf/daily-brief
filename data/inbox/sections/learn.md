@@ -43,7 +43,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1976,
    "text": "A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties.",
    "context": [
-    "The 1976 Çaldıran–Muradiye earthquake occurred at 14:22 local time on 24 November. The epicenter was located near Çaldıran, 20 km northeast of Muradiye, in the Van Province of eastern Turkey. The earthquake had a magnitude of 7.3 with a maximum intensity of X (Extreme) on the Mercalli intensity scale. The area of severe damage, where over 80% of the buildings were destroyed, covered an area of 2,000 square kilometres. There were between 4,000 and 5,000 casualties."
+    "An earthquake with an epicenter near Çaldıran, 20 km northeast of Muradiye, in the Van Province of eastern Turkey, occurred at 14:22 local time on 24 November 1976. The earthquake had a magnitude of 7.3 with a maximum intensity of X (Extreme) on the Mercalli intensity scale. The area of severe damage, where over 80% of the buildings were destroyed, covered an area of 2,000 square kilometres. There were between 4,000 and 5,000 casualties."
    ]
   },
   {

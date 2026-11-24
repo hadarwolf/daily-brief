@@ -652,9 +652,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Palace docked points for using four sub windows in win",
-     "published": "2026-11-24T12:14:19+00:00",
-     "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\"."
+     "title": "Non-league player injured falling down badger hole",
+     "published": "2026-11-24T12:31:12+00:00",
+     "summary": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole."
     },
     {
      "ref": "bbc_football#1",
@@ -664,105 +664,105 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#2",
+     "title": "Palace docked points for using four sub windows in win",
+     "published": "2026-11-24T12:14:19+00:00",
+     "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\"."
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "Glens boss Ferguson apologises after seven-game ban",
      "published": "2026-11-24T11:36:18+00:00",
      "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Republic of Ireland boss Ward signs new contract",
      "published": "2026-11-24T10:45:30+00:00",
      "summary": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Four Midlands teams in the Championship top five - can it last?",
      "published": "2026-11-24T10:27:17+00:00",
      "summary": "With more than a third of the season gone, Stoke City, Birmingham City, Wolves and West Brom are all in the Championship promotion race. Who can keep it up?"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Which Premier League players are set for yellow card suspensions?",
      "published": "2026-11-24T09:47:51+00:00",
      "summary": "Seventeen players are on the brink of a one-match ban in the 2026-27 Premier League season."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Dead hippo to be honoured on football club tifo",
      "published": "2026-11-24T09:43:38+00:00",
      "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "The youngest Premier League goalscorers this season",
      "published": "2026-11-24T09:10:34+00:00",
      "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Barnet forward Noel-Williams charged with rape",
      "published": "2026-11-24T08:50:17+00:00",
      "summary": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
      "published": "2026-11-24T08:36:50+00:00",
      "summary": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
      "title": "Can returning Beattie and Haughey make an impact?",
      "published": "2026-11-24T08:08:33+00:00",
      "summary": "BBC Sport NI looks at Michael McArdle's decision to recall striker Kerry Beattie and the uncapped Ella Haughey to his squad for a friendly double-header against Greece."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Podcast: Hibs & Dundee hurting as confidence grows at Rangers",
      "published": "2026-11-24T08:00:00+00:00",
      "summary": "Can Dundee respond to 8-0? Hibs chase a rare home win and Rangers turn up the heat."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Celtic duo Duran and Nygren attract interest - gossip",
      "published": "2026-11-24T07:53:41+00:00",
      "summary": "Premier League club keep an eye on Celtic summer signing as Serie A sides monitor the champion's Swedish midfielder..."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
      "published": "2026-11-24T06:57:16+00:00",
      "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Two goals in 15 games - what's going on with Gyokeres?",
      "published": "2026-11-24T06:45:27+00:00",
      "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-24T06:42:40+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
      "published": "2026-11-24T06:16:53+00:00",
      "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Who has made Troy's Premier League team of the week?",
      "published": "2026-11-23T23:26:35+00:00",
      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
-     "published": "2026-11-23T23:07:48+00:00",
-     "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?"
     },
     {
      "ref": "bbc_football#19",
@@ -772,345 +772,255 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#20",
+     "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
+     "published": "2026-11-23T23:07:48+00:00",
+     "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?"
+    },
+    {
+     "ref": "bbc_football#21",
      "title": "Andrews praises 'versatile' Lewis-Potter",
      "published": "2026-11-23T22:59:14+00:00",
      "summary": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Moyes questions Tarkowski red in Brentford loss",
      "published": "2026-11-23T22:54:51+00:00",
      "summary": "Everton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 loss by Brentford."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
      "published": "2026-11-23T22:43:39+00:00",
      "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?"
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
      "published": "2026-11-23T22:31:27+00:00",
      "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
-     "published": "2026-11-23T21:48:00+00:00",
-     "summary": "Mark Chapman is joined by Conor Coady, Chris Sutton and Rory Smith."
     }
    ]
   },
   {
-   "outlet": "Google News — Inter Miami",
+   "outlet": "ESPN NBA",
    "lang": "en",
    "items": [
     {
-     "ref": "gnews_inter_miami#0",
-     "title": "Messi booked for throwing the ball into Gonzalo Tapia's face as Columbus Crew beat Inter Miami 3-0 - Latin Times",
-     "published": "2026-11-24T11:33:59+00:00",
-     "summary": "Messi booked for throwing the ball into Gonzalo Tapia's face as Columbus Crew beat Inter Miami 3-0 Latin Times"
+     "ref": "espn_nba#0",
+     "title": "Shai Gilgeous-Alexander and the 'fun' of weathering the storm",
+     "published": "2026-11-24T12:43:17+00:00",
+     "summary": "The Thunder's core has been decimated by injuries, leaving SGA with a burden unlike any he has faced with OKC."
     },
     {
-     "ref": "gnews_inter_miami#1",
-     "title": "Lionel Messi Makes MLS History with Back-to-Back Golden Boots - IceCric News",
-     "published": "2026-11-24T11:30:19+00:00",
-     "summary": "Lionel Messi Makes MLS History with Back-to-Back Golden Boots IceCric News"
+     "ref": "espn_nba#1",
+     "title": "NBA Rookie Rankings: Which stars are rising early in season?",
+     "published": "2026-11-24T12:42:06+00:00",
+     "summary": "Our first edition of rookie rankings features 10 players standing out early from a strong 2026 draft class."
     },
     {
-     "ref": "gnews_inter_miami#2",
-     "title": "Inter Miami and Messi's problem - Laodong.vn",
-     "published": "2026-11-24T11:11:47+00:00",
-     "summary": "Inter Miami and Messi's problem Laodong.vn"
+     "ref": "espn_nba#2",
+     "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
+     "published": "2026-11-24T12:42:06+00:00",
+     "summary": "How has the first month unfolded for nine first-year stars?"
     },
     {
-     "ref": "gnews_inter_miami#3",
-     "title": "False! Kevin De Bruyne has not joined Inter Miami - Dubawa",
-     "published": "2026-11-24T10:05:57+00:00",
-     "summary": "False! Kevin De Bruyne has not joined Inter Miami Dubawa"
+     "ref": "espn_nba#3",
+     "title": "Golliver's too-early NBA All-Star picks: The 24 most deserving players right now",
+     "published": "2026-11-24T12:38:32+00:00",
+     "summary": "So what if the All-Star Game is three months away? We're picking locks and position battles to watch across both conferences."
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Major League Soccer to review Messi’s controversial clash with Columbus player - Blueprint Newspapers",
-     "published": "2026-11-24T09:55:28+00:00",
-     "summary": "Major League Soccer to review Messi’s controversial clash with Columbus player Blueprint Newspapers"
+     "ref": "espn_nba#4",
+     "title": "Spurs rule Wembanyama, Fox out 90 minutes before victory over Kings",
+     "published": "2026-11-24T05:47:33+00:00",
+     "summary": "Less than two hours prior to tipoff Monday, the San Antonio Spurs ruled Victor Wembanyama and De'Aaron Fox out of their 123-107 win over the Sacramento Kings, but the club anticipates both will play in Wednesday's game against the Portland Trail Blazers."
     },
     {
-     "ref": "gnews_inter_miami#5",
-     "title": "MLS salaries revealed: Messi tops the list with €26m-a-year package - BeSoccer Livescore",
-     "published": "2026-11-24T09:30:02+00:00",
-     "summary": "MLS salaries revealed: Messi tops the list with €26m-a-year package BeSoccer Livescore"
+     "ref": "espn_nba#5",
+     "title": "Grizzlies rookie Boozer out with sprained right ankle",
+     "published": "2026-11-24T05:47:33+00:00",
+     "summary": "Grizzlies rookie forward Cameron Boozer has a sprained right ankle that will sideline him for at least a month."
     },
     {
-     "ref": "gnews_inter_miami#6",
-     "title": "Columbus v Inter Miami CF Odds - FanDuel Sportsbook",
-     "published": "2026-11-24T07:55:07+00:00",
-     "summary": "Columbus v Inter Miami CF Odds FanDuel Sportsbook"
+     "ref": "espn_nba#6",
+     "title": "Vocal Green swats back at online critics, fuels Warriors' victory over Celtics",
+     "published": "2026-11-24T05:47:33+00:00",
+     "summary": "After reinforcing his career​ accolades earlier in the day on social media, Golden State Warriors forward Draymond Green closed out an 88-87 win over the Boston Celtics on Sunday with a last-second defensive stop and rousing celebration from the veteran."
     },
     {
-     "ref": "gnews_inter_miami#7",
-     "title": "Highlights: St. Louis CITY SC 3-2 Los Angeles Football Club (MLS), Major League Soccer - Forza Football",
-     "published": "2026-11-24T04:02:38+00:00",
-     "summary": "Highlights: St. Louis CITY SC 3-2 Los Angeles Football Club (MLS), Major League Soccer Forza Football"
+     "ref": "espn_nba#7",
+     "title": "Nets guard Traore (hamstring) to be reevaluated in 8-10 weeks",
+     "published": "2026-11-24T05:47:33+00:00",
+     "summary": "Nets guard Nolan Traore has been diagnosed with a right hamstring strain and will be reevaluated in eight to 10 weeks, the team announced Monday."
     },
     {
-     "ref": "gnews_inter_miami#8",
-     "title": "Sang-bin catches LAFC goalkeeper off guard with a stunning strike, Major League Soccer - Forza Football",
-     "published": "2026-11-24T04:02:38+00:00",
-     "summary": "Sang-bin catches LAFC goalkeeper off guard with a stunning strike, Major League Soccer Forza Football"
+     "ref": "espn_nba#8",
+     "title": "Kings boost backcourt depth with Vincent signing",
+     "published": "2026-11-24T05:47:33+00:00",
+     "summary": "Guard Gabe Vincent signed a deal with the Sacramento Kings to fill their 15th roster spot, it was announced on Monday."
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Lionel Messi's 15 Goals Against Nashville Lead MLS - Football.com",
-     "published": "2026-11-24T03:06:12+00:00",
-     "summary": "Lionel Messi's 15 Goals Against Nashville Lead MLS Football.com"
+     "ref": "espn_nba#9",
+     "title": "👀 What the first month has revealed about all 30 teams",
+     "published": "2026-11-24T05:47:33+00:00",
+     "summary": "With the season's first month nearly in the books, Ben Golliver examines the biggest storyline so far for all 30 teams."
     },
     {
-     "ref": "gnews_inter_miami#10",
-     "title": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? - Yahoo Sports",
-     "published": "2026-11-24T00:43:56+00:00",
-     "summary": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? Yahoo Sports"
+     "ref": "espn_nba#10",
+     "title": "Embiid misses game with illness as 76ers fall to Trail Blazers",
+     "published": "2026-11-24T05:47:32+00:00",
+     "summary": "76ers center Joel Embiid missed Monday's game against the Trail Blazers because of an illness."
     },
     {
-     "ref": "gnews_inter_miami#11",
-     "title": "Red-Card Uproar Clouds Playoff Exit for Lionel Messi - Yahoo Sports",
-     "published": "2026-11-24T00:26:00+00:00",
-     "summary": "Red-Card Uproar Clouds Playoff Exit for Lionel Messi Yahoo Sports"
+     "ref": "espn_nba#11",
+     "title": "Cleveland Cavaliers become first NBA team to practice at Obama Presidential Center",
+     "published": "2026-11-23T23:09:01+00:00",
+     "summary": "The WNBA was the first professional sports league to use the court, playing there at All-Star Weekend in July."
     },
     {
-     "ref": "gnews_inter_miami#12",
-     "title": "Three managers, same problems: How Inter Miami's dugout turmoil and tactical failures have left Lionel Messi on the brink of MLS playoff elimination - Goal.com",
-     "published": "2026-11-24T00:02:51+00:00",
-     "summary": "Three managers, same problems: How Inter Miami's dugout turmoil and tactical failures have left Lionel Messi on the brink of MLS playoff elimination Goal.com"
+     "ref": "espn_nba#12",
+     "title": "Should you trade Davion Mitchell? Move on from De'Aaron Fox?",
+     "published": "2026-11-23T21:25:54+00:00",
+     "summary": "Steve Alexander looks at three players on the rise and three who are slumping and how fantasy managers should react."
     },
     {
-     "ref": "gnews_inter_miami#13",
-     "title": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? - Yahoo Sports",
-     "published": "2026-11-23T23:36:16+00:00",
-     "summary": "Did Lionel Messi deserve a red card in Inter Miami's opening playoff loss? Yahoo Sports"
+     "ref": "espn_nba#13",
+     "title": "Has Nikola Jokic been overtaken as the top player in fantasy basketball?",
+     "published": "2026-11-23T21:25:54+00:00",
+     "summary": "Nikola Jokic's numbers are down from his typical norm, but has he been passed by Wemby or Luka as the top player in fantasy?"
     },
     {
-     "ref": "gnews_inter_miami#14",
-     "title": "Columbus Crew's Laurent Courtois chides Lionel Messi on 'sad' behavior - The Columbus Dispatch",
-     "published": "2026-11-23T23:28:00+00:00",
-     "summary": "Columbus Crew's Laurent Courtois chides Lionel Messi on 'sad' behavior The Columbus Dispatch"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
-     "title": "Why does Lionel Messi keep escaping harsher punishment from MLS referees? - https://latination.com/",
-     "published": "2026-11-23T22:04:56+00:00",
-     "summary": "Why does Lionel Messi keep escaping harsher punishment from MLS referees? https://latination.com/"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
-     "title": "Want to see Lionel Messi take on Columbus Crew? Latest ticket prices, Game 2 - The Columbus Dispatch",
-     "published": "2026-11-23T21:00:00+00:00",
-     "summary": "Want to see Lionel Messi take on Columbus Crew? Latest ticket prices, Game 2 The Columbus Dispatch"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
-     "title": "MLS may review Lionel Messi's actions against Columbus Crew's Gonzalo Tapia - The Columbus Dispatch",
-     "published": "2026-11-23T20:56:00+00:00",
-     "summary": "MLS may review Lionel Messi's actions against Columbus Crew's Gonzalo Tapia The Columbus Dispatch"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "INTER MIAMI IN TROUBLE?! Playoff Loss Reaction vs. Columbus | What’s Next? - BVM Sports",
-     "published": "2026-11-23T20:49:13+00:00",
-     "summary": "INTER MIAMI IN TROUBLE?! Playoff Loss Reaction vs. Columbus | What’s Next? BVM Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "The Pitch: Upsets Galore Set Up Massive Game 2s - MLSsoccer.com",
-     "published": "2026-11-23T20:31:12+00:00",
-     "summary": "The Pitch: Upsets Galore Set Up Massive Game 2s MLSsoccer.com"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Disciplinary Meltdown Leaves Inter Miami Staring At Early Exit After Gonzalo Tapia Fires Columbus Crew To 3-0 Rout - Gooner Daily",
-     "published": "2026-11-23T19:55:54+00:00",
-     "summary": "Disciplinary Meltdown Leaves Inter Miami Staring At Early Exit After Gonzalo Tapia Fires Columbus Crew To 3-0 Rout Gooner Daily"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2 - MLSsoccer.com",
-     "published": "2026-11-23T19:23:18+00:00",
-     "summary": "Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2 MLSsoccer.com"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Columbus STUN Miami with Game 1 upset | Audi MLS Cup Playoffs Rewind - MLSsoccer.com",
-     "published": "2026-11-23T18:53:47+00:00",
-     "summary": "Columbus STUN Miami with Game 1 upset | Audi MLS Cup Playoffs Rewind MLSsoccer.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Inter Miami on the Brink: What Messi Needs to Stay Alive in the MLS Playoffs - beIN SPORTS",
-     "published": "2026-11-23T18:39:30+00:00",
-     "summary": "Inter Miami on the Brink: What Messi Needs to Stay Alive in the MLS Playoffs beIN SPORTS"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Inter Miami CF - Columbus Crew 0 - 1 | RED CARD - Gonzalo Luján - Yahoo Sports",
-     "published": "2026-11-23T18:27:53+00:00",
-     "summary": "Inter Miami CF - Columbus Crew 0 - 1 | RED CARD - Gonzalo Luján Yahoo Sports"
+     "ref": "espn_nba#14",
+     "title": "How a season without their 'admiral' showed the Rockets what they were missing",
+     "published": "2026-11-23T12:40:00+00:00",
+     "summary": "A healthy Fred VanVleet is commanding the surging Rockets after an ACL injury derailed his 2025-26 season. Here's why he's so important."
     }
    ]
   },
   {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
+   "outlet": "ESPN FC",
    "lang": "en",
    "items": [
     {
-     "ref": "gnews_israeli_nba#0",
-     "title": "Deni Avdija: Scoot Henderson is a big part of our team - Yahoo Sports",
-     "published": "2026-11-24T10:00:57+00:00",
-     "summary": "Deni Avdija: Scoot Henderson is a big part of our team Yahoo Sports"
+     "ref": "espn_soccer#0",
+     "title": "Women's World Cup returning to U.S. shows how the game has grown since 1999",
+     "published": "2026-11-24T12:33:52+00:00",
+     "summary": "Women's soccer was forever changed when the U.S. hosted the 1999 World Cup. With it returning in 2031, ESPN charts the game's explosive growth."
     },
     {
-     "ref": "gnews_israeli_nba#1",
-     "title": "Deni Avdija: the three-point shot of Portland's forward · SNA - Sport News Africa",
-     "published": "2026-11-24T09:01:23+00:00",
-     "summary": "Deni Avdija: the three-point shot of Portland's forward · SNA Sport News Africa"
+     "ref": "espn_soccer#1",
+     "title": "U.S. to co-host Women's World Cup in 2031; U.K. wins bid for 2035",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "The United States has been confirmed as co-hosts of the 2031 Women's World Cup, before the United Kingdom hosts the tournament four years later."
     },
     {
-     "ref": "gnews_israeli_nba#2",
-     "title": "Deni Avdija Highlights (31 Points, 7 Assists) Trail Blazers 128, 76ers 111 | Nov. 23, 2026 - NBA.com",
-     "published": "2026-11-24T08:53:52+00:00",
-     "summary": "Deni Avdija Highlights (31 Points, 7 Assists) Trail Blazers 128, 76ers 111 | Nov. 23, 2026 NBA.com"
+     "ref": "espn_soccer#2",
+     "title": "Houston says Herrera available for Dynamo playoff opener amid MLS probe",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "MLS is gathering information regarding the reported arrest of Houston Dynamo FC midfielder Héctor Herrera for suspicion of driving while intoxicated ahead of the team's first game of the playoffs."
     },
     {
-     "ref": "gnews_israeli_nba#3",
-     "title": "Basketball player Deni Avdija scores 31 points in Portland’s winning game — Jerusalem Post - UA.NEWS",
-     "published": "2026-11-24T08:12:37+00:00",
-     "summary": "Basketball player Deni Avdija scores 31 points in Portland’s winning game — Jerusalem Post UA.NEWS"
+     "ref": "espn_soccer#3",
+     "title": "Son Heung-Min: Thomas Müller spot-on about lack of pressure in MLS",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "LAFC forward Son Heung-Min has backed Thomas Müller's comments about the \"careless\" playing style in the MLS and the lack of pressure that players feel due to the absence of a promotion/relegation system."
     },
     {
-     "ref": "gnews_israeli_nba#4",
-     "title": "Deni Avdija says Trail Blazers are not afraid of anyone - TalkBasket.net",
-     "published": "2026-11-24T08:06:17+00:00",
-     "summary": "Deni Avdija says Trail Blazers are not afraid of anyone TalkBasket.net"
+     "ref": "espn_soccer#4",
+     "title": "Spirit fire González after losing NWSL Championship for 3rd straight season",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "The Washington Spirit have fired head coach Adrián González following the team's loss in Saturday's NWSL Championship."
     },
     {
-     "ref": "gnews_israeli_nba#5",
-     "title": "Basketball: Deni Avdija's Trail Blazers defeat LeBron James' 76ers - The Jerusalem Post",
-     "published": "2026-11-24T07:18:44+00:00",
-     "summary": "Basketball: Deni Avdija's Trail Blazers defeat LeBron James' 76ers The Jerusalem Post"
+     "ref": "espn_soccer#5",
+     "title": "Fiona the hippo to be honoured by FC Cincinnati with tifo after untimely death",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "FC Cincinnati will honor Cincinnati Zoo's famous hippo, Fiona, following her unexpected death last week."
     },
     {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Deni Avdija torches 76ers as Blazers end winning streak - TalkBasket.net",
-     "published": "2026-11-24T07:07:40+00:00",
-     "summary": "Deni Avdija torches 76ers as Blazers end winning streak TalkBasket.net"
+     "ref": "espn_soccer#6",
+     "title": "Footballer injured after falling down a badger hole in training",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "A non-league footballer sustained an injured ankle after falling into a badger hole during training."
     },
     {
-     "ref": "gnews_israeli_nba#7",
-     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - New Haven Register",
-     "published": "2026-11-24T06:31:19+00:00",
-     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 New Haven Register"
+     "ref": "espn_soccer#7",
+     "title": "Sources: Man Utd to appeal Yoro red card against Liverpool",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "Manchester United have notified the Football Association of their intention to appeal Leny Yoro's red card in the 4-0 defeat to Liverpool, sources have told ESPN."
     },
     {
-     "ref": "gnews_israeli_nba#8",
-     "title": "NBA: Blazers snap Sixers streak, Thunder stumble - Cebu Daily News",
-     "published": "2026-11-24T06:15:00+00:00",
-     "summary": "NBA: Blazers snap Sixers streak, Thunder stumble Cebu Daily News"
+     "ref": "espn_soccer#8",
+     "title": "Philadelphia's Cavan Sullivan wins MLS Young Player of the Year award",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "Philadelphia Union midfielder Cavan Sullivan has been selected as the MLS Young Player of the Year for his breakthrough performance as a 17-year-old."
     },
     {
-     "ref": "gnews_israeli_nba#9",
-     "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 - Stamford Advocate",
-     "published": "2026-11-24T05:53:14+00:00",
-     "summary": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 Stamford Advocate"
+     "ref": "espn_soccer#9",
+     "title": "🟥VAR review: Explaining Yoro's early red card vs. Liverpool",
+     "published": "2026-11-24T11:52:36+00:00",
+     "summary": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all."
     },
     {
-     "ref": "gnews_israeli_nba#10",
-     "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 - The Killeen Daily Herald",
-     "published": "2026-11-24T05:27:50+00:00",
-     "summary": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 The Killeen Daily Herald"
+     "ref": "espn_soccer#10",
+     "title": "Which USMNT players could follow Pochettino to Manchester United?",
+     "published": "2026-11-24T10:39:36+00:00",
+     "summary": "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?"
     },
     {
-     "ref": "gnews_israeli_nba#11",
-     "title": "NBA scores today: Blazers vs 76ers, Lakers vs Jazz, and other games - GMA Network",
-     "published": "2026-11-24T05:24:22+00:00",
-     "summary": "NBA scores today: Blazers vs 76ers, Lakers vs Jazz, and other games GMA Network"
+     "ref": "espn_soccer#11",
+     "title": "UCL-champs PSG drop one of this season's best kits in latest Jordan collab",
+     "published": "2026-11-24T10:11:09+00:00",
+     "summary": "PSG finally unveiled their 2026-27 third kit in collaboration with the Jordan brand. It was worth the wait."
     },
     {
-     "ref": "gnews_israeli_nba#12",
-     "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 - Herald Bulletin",
-     "published": "2026-11-24T05:15:15+00:00",
-     "summary": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111 Herald Bulletin"
+     "ref": "espn_soccer#12",
+     "title": "Champions League Power Rankings before MD5: Who's No. 1?",
+     "published": "2026-11-24T10:10:17+00:00",
+     "summary": "The UEFA Champions League is going at full speed, and we're beyond the halfway point of the league phase. Injuries are starting to pile up. Where does your club rank?"
     },
     {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Trail Blazers' Deni Avdija turns defense into offense to seal 30-point night vs. 76ers - Yardbarker",
-     "published": "2026-11-24T04:18:08+00:00",
-     "summary": "Trail Blazers' Deni Avdija turns defense into offense to seal 30-point night vs. 76ers Yardbarker"
+     "ref": "espn_soccer#13",
+     "title": "How B.J. Callaghan's long, winding coaching journey led to Nashville success",
+     "published": "2026-11-24T09:40:56+00:00",
+     "summary": "Callaghan was a fairly unassuming hire when he took over Nashville. Now he's a Supporters' Shield-winning coach being linked with the USMNT job."
     },
     {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Deni Avdija Scores 31 Points In Win Over 76ers - FanDuel",
-     "published": "2026-11-24T03:40:38+00:00",
-     "summary": "Deni Avdija Scores 31 Points In Win Over 76ers FanDuel"
+     "ref": "espn_soccer#14",
+     "title": "Lazio are top of Serie A despite their fans boycotting the team's owner",
+     "published": "2026-11-24T09:28:57+00:00",
+     "summary": "Lazio's success this season has been one of the big stories in Serie A, made more remarkable by the fact that their fans won't attend home games until the club is sold."
     },
     {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026 - NBA.com",
-     "published": "2026-11-24T03:40:09+00:00",
-     "summary": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026 NBA.com"
+     "ref": "espn_soccer#15",
+     "title": "We knew Man United were a mess before Liverpool loss. Plus: Epic Barça comeback",
+     "published": "2026-11-24T08:46:53+00:00",
+     "summary": "Mauricio Pochettino's debut as Man United manager didn't tell us anything we didn't already know when it came to the scale of rebuild required."
     },
     {
-     "ref": "gnews_israeli_nba#16",
-     "title": "Highlights From Deni Avdija 31-Point Game - NBA.com",
-     "published": "2026-11-24T03:32:17+00:00",
-     "summary": "Highlights From Deni Avdija 31-Point Game NBA.com"
+     "ref": "espn_soccer#16",
+     "title": "Why the Premier League's set-piece goals dried up -- and why Arsenal are still No. 1 anyway",
+     "published": "2026-11-24T08:46:02+00:00",
+     "summary": "Arsenal won the Premier League in controversial fashion last season, but the set-piece goals they counted on have disappeared. Why?"
     },
     {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Deni Avdija leads Portland to huge road win against Philadelphia - HoopsHype",
-     "published": "2026-11-24T03:18:00+00:00",
-     "summary": "Deni Avdija leads Portland to huge road win against Philadelphia HoopsHype"
+     "ref": "espn_soccer#17",
+     "title": "Liga MX playoff preview: Will Cruz Azul win back-to-back titles?",
+     "published": "2026-11-24T08:44:26+00:00",
+     "summary": "The Liga MX playoffs are back to close out 2026! Who are some of the favorites and who can cause a surprise in the Liguilla?"
     },
     {
-     "ref": "gnews_israeli_nba#18",
-     "title": "Watch: Deni Avdija drops 31 as Trail Blazers pull away from 76ers - Yardbarker",
-     "published": "2026-11-24T03:02:01+00:00",
-     "summary": "Watch: Deni Avdija drops 31 as Trail Blazers pull away from 76ers Yardbarker"
+     "ref": "espn_soccer#18",
+     "title": "Transfer rumors, news: PSG eye Estêvão and Luis Díaz amid injury woes",
+     "published": "2026-11-24T08:31:56+00:00",
+     "summary": "Paris Saint-Germain have added Bayern Munich's Luis Díaz and Chelsea's Estêvão to their shortlist. Transfer Talk has the latest."
     },
     {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Deni Avdija scores game-high 31 points vs. 76ers - NBC Sports",
-     "published": "2026-11-24T02:58:35+00:00",
-     "summary": "Deni Avdija scores game-high 31 points vs. 76ers NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Trail Blazers' Deni Avdija: Scores 31 points with seven assists - CBS Sports",
-     "published": "2026-11-24T02:52:39+00:00",
-     "summary": "Trail Blazers' Deni Avdija: Scores 31 points with seven assists CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Deni Avdija News: Scores 31 points with seven assists - RotoWire",
-     "published": "2026-11-24T02:52:39+00:00",
-     "summary": "Deni Avdija News: Scores 31 points with seven assists RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - Times Union",
-     "published": "2026-11-24T02:51:04+00:00",
-     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 Times Union"
-    },
-    {
-     "ref": "gnews_israeli_nba#23",
-     "title": "Deni Avdija (31 points), Trail Blazers end 76ers' win streak at 5 - Reuters",
-     "published": "2026-11-24T02:46:00+00:00",
-     "summary": "Deni Avdija (31 points), Trail Blazers end 76ers' win streak at 5 Reuters"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 - Oskaloosa Herald",
-     "published": "2026-11-24T02:41:22+00:00",
-     "summary": "Deni Avdija hits 5 3s and scores 31 points as Trail Blazers hand 76ers only their 4th loss, 128-111 Oskaloosa Herald"
+     "ref": "espn_soccer#19",
+     "title": "Man United will need big January transfer spending to avoid relegation",
+     "published": "2026-11-24T08:31:55+00:00",
+     "summary": "Manchester United have a choice: Spend £150 million on new players in January or lose £300 million if they get relegated at the end of the Premier League season."
     }
    ]
   }
