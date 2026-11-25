@@ -28,88 +28,88 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
-     "title": "Is mental illness universal?",
-     "published": "2026-11-24T11:00:00+00:00",
-     "summary": "Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific? - by Alexander Pereira Read on Aeon",
-     "full_text_file": "essays/aeon_0.txt"
+     "title": "The passing",
+     "published": "2026-11-25T11:01:00+00:00",
+     "summary": "With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#1",
+     "title": "Is mental illness universal?",
+     "published": "2026-11-24T11:00:00+00:00",
+     "summary": "Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific? - by Alexander Pereira Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
      "title": "The wind and the song: the treachery of AI",
      "published": "2026-11-23T11:01:00+00:00",
      "summary": "As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#3",
      "title": "A colossal oscillation",
      "published": "2026-11-23T11:00:00+00:00",
      "summary": "El Niño has upended global weather, shaping the fate of societies, for millennia. Is this past a clue to a turbulent future? - by Dagomar Degroot Read on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#4",
      "title": "My grandmother was a seal",
      "published": "2026-11-20T11:00:00+00:00",
      "summary": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature - by Jordan Lee Borgman Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#5",
      "title": "Wunderkammer",
      "published": "2026-11-19T11:01:00+00:00",
      "summary": "Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#6",
      "title": "At least it remembers",
      "published": "2026-11-19T11:00:00+00:00",
      "summary": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#7",
      "title": "Dreams of birds",
      "published": "2026-11-18T11:01:00+00:00",
      "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#8",
      "title": "Catwalks and crackdowns",
      "published": "2026-11-17T11:00:00+00:00",
      "summary": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop. This is the ‘art of presence’ - by Parisa Khoshnami Read on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#9",
      "title": "The last klavern",
      "published": "2026-11-16T11:01:00+00:00",
      "summary": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#10",
      "title": "The horse made the state",
      "published": "2026-11-16T11:00:00+00:00",
      "summary": "Civilisation wasn’t made possible by grain, but by transportation – and the conquest it enabled, from the steppe to the sea - by Lhamsuren Munkh-Erdene Read on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#11",
      "title": "Fugitive imagination",
      "published": "2026-11-13T11:00:00+00:00",
      "summary": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#12",
      "title": "My grandfather been tell me a lot of story about Lasseter",
      "published": "2026-11-12T11:01:00+00:00",
      "summary": "A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#12",
+     "ref": "aeon#13",
      "title": "Why anything exists",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Decoding Ediacaran fossils",
-     "published": "2026-11-11T11:01:00+00:00",
-     "summary": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’ - by Aeon Video Watch on Aeon"
     }
    ]
   },
@@ -229,67 +229,74 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Feeling at home in a new country makes you a stranger in the old",
-     "published": "2026-11-24T11:00:00+00:00",
-     "summary": "A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic - by Iuri Portalegre Read on Psyche",
+     "title": "Alone-together in Karachi",
+     "published": "2026-11-25T11:00:00+00:00",
+     "summary": "Here, women pass from father to husband, like property. My friend and I rented our own apartment instead - by Sadia Khatri Read on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
+     "title": "Feeling at home in a new country makes you a stranger in the old",
+     "published": "2026-11-24T11:00:00+00:00",
+     "summary": "A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic - by Iuri Portalegre Read on Psyche",
+     "full_text_file": "essays/psyche_1.txt"
+    },
+    {
+     "ref": "psyche#2",
      "title": "Learning to leave",
      "published": "2026-11-23T11:00:00+00:00",
      "summary": "My dog’s separation anxiety kept me housebound. To help him, I had to face my own fears of leaving - by Tracy Strauss Read on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#3",
      "title": "The end of Xanadu",
      "published": "2026-11-20T11:00:00+00:00",
      "summary": "The house my father built taught me to expect disaster. Seeing it come down was a release - by Henrick Karoliszyn Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#4",
      "title": "Traces of home",
      "published": "2026-11-18T11:00:00+00:00",
      "summary": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#5",
      "title": "The cultural rules that define us take shape in our homes",
      "published": "2026-11-17T11:00:00+00:00",
      "summary": "The physical space of the home says a lot about how people learn to live. This becomes even clearer when you travel - by Oliver Sweet Read on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#6",
      "title": "Against the tide",
      "published": "2026-11-16T11:01:00+00:00",
      "summary": "After a breakup, Gill contemplates a new, off-grid life on a remote Scottish island. Will the community accept her? - Directed by Giulia Candussi Watch on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#7",
      "title": "After Ma and Pa",
      "published": "2026-11-16T11:00:00+00:00",
      "summary": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go? - by Susan Hornik Read on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#8",
      "title": "The power of group thought",
      "published": "2026-11-13T11:01:00+00:00",
      "summary": "Are groups smarter than the sum of their parts? What homing pigeons’ flight paths can teach us about ‘weighted democracy’ - Video by The Well and the John Templeton Foundation Watch on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#9",
      "title": "My friend, my witness",
      "published": "2026-11-13T11:00:00+00:00",
      "summary": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#10",
      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#11",
      "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
@@ -304,8 +311,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#0",
      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
      "published": "2026-11-23T15:27:11+00:00",
-     "summary": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_0.txt"
+     "summary": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#1",

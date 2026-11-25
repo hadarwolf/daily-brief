@@ -84,27 +84,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#11",
-     "title": "UK Heating Bills Surge 26%, Adding to Inflation Pressure",
-     "published": "2026-11-25T07:51:47+00:00",
-     "summary": "UK regulator lifts energy price cap by 26%"
-    },
-    {
-     "ref": "bloomberg_markets#12",
      "title": "AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
      "published": "2026-11-25T07:28:30+00:00",
      "summary": "The Australian dollar is poised for its biggest monthly slide in more than 13 years as it extended losses on Wednesday, with the weakness in global stocks damping demand for currencies linked to growth."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#12",
      "title": "EasyJet Profit Hit By Iran War as Apollo Takeover Looms",
      "published": "2026-11-25T07:16:22+00:00",
      "summary": "EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier as it prepares to be taken over by a US private equity firm early next year."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#13",
      "title": "Danantara Reports $634 Billion Assets in Audited Accounts",
      "published": "2026-11-25T06:51:36+00:00",
      "summary": "Indonesia’s Danantara reported about $634 billion in consolidated assets at the end of 2025 in its first audited accounts, well below the roughly $1 trillion officials have often cited for the state investment agency central to President Prabowo Subianto’s overhaul of government-owned companies in Southeast Asia’s largest economy."
+    },
+    {
+     "ref": "bloomberg_markets#14",
+     "title": "Treasuries Rally as Tech Stock Losses Dent Risk Appetite",
+     "published": "2026-11-25T06:49:34+00:00",
+     "summary": "Treasuries rallied across the curve on Wednesday as renewed losses in technology shares dented investor appetite for risk assets."
     },
     {
      "ref": "bloomberg_markets#15",
@@ -145,7 +145,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "ft_home#0",
      "title": "Tech stocks slide as confidence in AI trade fades",
-     "published": "2026-11-25T10:19:56+00:00",
+     "published": "2026-11-25T11:00:47+00:00",
      "summary": "Nasdaq 100 set to open lower as weeks-long sell-off continues"
     },
     {
@@ -210,150 +210,150 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "הלמ\"ס: 60% מהמורים למתמטיקה ביסודי לא עומדים בתנאי הסף להוראת המקצוע",
+     "published": "2026-11-25T11:00:42+00:00",
+     "summary": "המצב החמור ביותר הוא בבתי הספר היסודיים הממלכתיים-דתיים ■ הלמ\"ס בוחנת את התאמת המורים לפי הגדרות מקלות, בעוד אם הייתה נבדקת לפי הדרישות שמשרד החינוך הציב — היה מתגלה שרוב המורים למתמטיקה, עברית ומדעים בבתי הספר היסודיים לא היו אמורים להתקבל לעבודה"
+    },
+    {
+     "ref": "themarker#1",
      "title": "מילדות במפעל נשק למוקד פרשת ריגול עולמית: סיפורה של אליס הואנג",
      "published": "2026-11-25T10:40:55+00:00",
      "summary": "האישה שעומדת במוקד פרשת הריגול באנבידיה גדלה בעיירה קטנה שנבנתה סביב מפעל נשק ■ העלייה המטאורית שלה בעולמות הפיננסים והטכנולוגיה מקבילה להתפתחות של סין עצמה"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "ברקע המשבר הניהולי בנגה: גם היועץ המשפטי נעם ברימן עוזב",
      "published": "2026-11-25T10:30:55+00:00",
      "summary": "ברימן הודיע באחרונה שהוא מבקשת לסיים את תפקידו מטעמים אישיים ■ עזיבתו מתרחשת כשלחברה אין מנכ\"ל קבוע זה שנתיים, וסמנכ\"לים נוספים פורשים בלי שממונה להם מחליף ■ נגה: \"מדובר בתהליכים ארגוניים טבעיים שהחברה נערכת אליהם מבעוד מועד\""
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#3",
      "title": "אר.פי אופטיקל צונחת לאחר שהפחיתה תחזיות; הרמטכ\"ל לשעבר אביב כוכבי מצטרף",
      "published": "2026-11-25T10:09:58+00:00"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#4",
      "title": "עליות באירופה; קריסה של כ-80% במניית חברת לואו-קוסט נורווגית",
      "published": "2026-11-25T10:02:00+00:00",
      "summary": "היורו והליש\"ט נחלשים מול הדולר; הצמיחה מאטה בכלכלה הגדולה ביבשת ■ הונאת בנקים וקשירת קשר לגניבת סודות מסחריים: וואווי הסינית הורשעה בבית משפט בארה\"ב ■ אסיה נסגרה בירידות חדות: סיאול נפלה ביותר מ–6%; סופטבנק צנחה ב–15% ■ בין חששות אספקה לעודף היצע: מחירי הנפט יורדים לאחר העליות אתמול"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#5",
      "title": "גיוס דחוף, עצירת הרכישות העצמיות ושינוי בדיווידנד: מה עומד מאחורי הקריסה במניית נורסטאר",
      "published": "2026-11-25T09:57:31+00:00",
      "summary": "חברת ההחזקות של חיים כצמן, נורסטאר, יוצאת לגיוס הון בהיקף של 80 מיליון שקל – דיסקאונט של כ-93% על מחיר השוק אתמול, ודילול בעלי המניות הקיימים ■ המהלך מגיע כשבוע לאחר כישלון הנפקת אג\"ח להמרה, ובמקביל להודעת החברה-הבת ג'י סיטי על ביטול יתרת הרכישה העצמית ומעבר לדיווידנד שנתי במקום רבעוני"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#6",
      "title": "משרד האוצר מזהיר: צה\"ל מכור למילואים וזה עלול להוביל ל\"דור אבוד\"",
      "published": "2026-11-25T09:52:15+00:00",
      "summary": "לפי נציגי האוצר, הפגיעה במשק היא מעבר לעלות הכלכלית, כשהחשש הוא שעול המילואים על המשרתים תוביל לכך שהם יוסטו מהמסלול המקובל של לימודים וקריירה"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#7",
      "title": "אחרי חגיגת השכר של מנכ\"ל הפניקס – הרשות מחמירה את הכללים",
      "published": "2026-11-25T09:49:10+00:00",
      "summary": "לפני הענקת אופציות של חברות אחרות בקבוצה לבכירים, יצטרכו המוסדיים לבחון חשש לניגודי עניינים ■ האופציות שניתנות על ידי חברות בנות לא כפופות לשכר בכירים ומגדילות את התגמול דרמטית ■ רשות שוק ההון: \"זו לא פרקטיקה נפוצה, המקרים הנקודתיים המחישו את הצורך בהסדרה\""
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#8",
      "title": "\"הייתי בוחרת בערכים לפני השיקול הכלכלי. אבל אם זה היה 5 טריליון דולר, אולי ההחלטה היתה משתנה\"",
      "published": "2026-11-25T09:43:58+00:00",
      "summary": "בראיון לפודקאסט \"האינטרסנטים\" אמרה שרית פירון, שותפה מנהלת בקרן Team8, שאינה בטוחה שהייתה עומדת בלחץ להחזיר את מנכ\"ל אנבידיה. עם זאת, היא מעריכה שהשוק היה מתאושש גם אילו הואנג לא היה מושב לתפקידו, וסבורה כי על הדירקטוריון לדאוג לכך שיהיו לו מחליפים ■ \"כשעל הכף מוטל משהו כל כך גדול כמו פגיעה בכלכלה עולמית, ההחלטה הזאת של הבורד הופכת להיות הרבה, הרבה יותר קשה\""
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#9",
      "title": "\"החזק בתולדותיה\": רווח נקי של 354 מיליון דולר לבזן ברבעון השלישי",
      "published": "2026-11-25T09:17:19+00:00",
      "summary": "הכנסות בזן זינקו ב–163% ל–3.1 מיליארד דולר, ומרווח הזיקוק שלה גדל פי שלושה ■ החברה מעריכה את הנזק הישיר מפגיעות הטילים ב–200–250 מיליון דולר ■ טורבינת הגז שהזמינה לשיקום תחנת הכוח עשויה להתחיל לפעול ב–2029, שנת היעד לפינוי בית הזיקוק"
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#10",
      "title": "הרווח הרבעוני של איילון ביטוח נחתך ב–57%",
      "published": "2026-11-25T09:12:37+00:00",
      "summary": "הרווח הכולל במגזר הביטוח הכללי ירד ב–62% ברבעון השלישי של 2026, וב–33% בתשעת החודשים הראשונים של השנה ■ קבוצת איילון מנהלת נכסים בהיקף כולל של כ–22.9 מיליארד שקל, גידול של כ–49% לעומת כ–15.3 מיליארד שקל בסוף 2025"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#11",
      "title": "טבע סוגרת את המחקר הגנרי בכפר סבא — ותפטר 150 עובדים עד 2027",
      "published": "2026-11-25T09:06:03+00:00"
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#12",
      "title": "שוק ההון חתך את הרווח של מנורה מבטחים ב–36% ברבעון השלישי",
      "published": "2026-11-25T08:58:12+00:00",
      "summary": "בתשעת החודשים הראשונים של 2026 חילקה מנורה מיליארד שקל כדיווידנד ■ התשואה על ההון בתקופה זו הייתה 23.6%, לעומת 30.4% בתקופה המקבילה אשתקד ■ הרווח המותאם לאחר מס עלה ב–17% והגיע ל–1.58 מיליארד שקל"
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#13",
      "title": "רשות המסים דורשת ממייסדי וויז עוד כ–8 מיליארד שקל",
      "published": "2026-11-25T08:44:07+00:00",
      "summary": "עסקת הרכישה של וויז על ידי גוגל עוררה מחלוקת סביב מקור הקניין הרוחני ותושבות המס של המייסדים ■ כדי לצמצם מחלוקות דומות, הרשות מציעה לחייב בוגרי יחידות טכנולוגיות נבחרות לרשום חברות בישראל בעשור מהשחרור ■ בהייטק חוששים שהמהלך יגרום ליזמים לדחות פיתוחים עד שיעברו לחו\"ל"
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#14",
      "title": "רווחי פוקס קפצו ב–20%: מיננה ורובי ביי, מותג הנערות שחבר לאגם בוחבוט, בקצב פתיחה מסחרר",
      "published": "2026-11-25T08:36:17+00:00",
      "summary": "חצי מצמיחת מגזר הליבה של פוקס ברבעון השלישי הגיעה מ–17 חנויות שנפתחו בתוך שנה, 8 מהן של רובי ביי — כולל 5 שנפתחו ברבעון ■ הרשת לתינוקות מיננה פתחה 8 חנויות ברבעון, ו–18 בשנה ■ \"אם אנחנו מאיצים פריסה, תעשו חשבון מה זה אומר\", אמר בעבר המנכ\"ל הראל ויזל"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#15",
      "title": "קרעי הוצא מהדיון: ההצעה לביטול חוק השידורים אושרה לקריאה ראשונה",
      "published": "2026-11-25T08:28:34+00:00",
      "summary": "קרעי פנה אתמול ליו\"ר הכנסת מתן כהנא וליועמ\"שית הכנסת שגית אפיק בניסיון נואש לעצור את ביטול החוק ■ משרד התקשורת טוען שביטול החוק יחזיר את השוק לאחור, אף שהחוק מעולם לא נכנס לתוקף ■ בייעוץ המשפטי לממשלה דורשים לגנוז אותו לחלוטין"
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#16",
      "title": "מקורות באנתרופיק ו–OpenAI מזהירים: המודלים הפנימיים שלנו מסוכנים מדי לציבור",
      "published": "2026-11-25T07:35:30+00:00",
      "summary": "עשרות מקורות ששוחחו עם \"אקסיוס\" מספרים כי החשש הגובר בחברות ה–AI המובילות הוא שהמודלים הפנימיים שלהן מסוכנים מדי, כולל נטייה גוברת לרמאות ולשקרים, וקוראים לא לשחרר אותם לציבור ולהאט את קצב הפיתוח ■ אנתרופיק: \"העבודה הקשה ביותר בבטיחות עדיין לפנינו\""
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#17",
      "title": "\"עשיתי כמה טעויות נוראות\": ג'נסן הואנג התנצל בפני העובדים וחשף שהוא בטיפול",
      "published": "2026-11-25T07:11:40+00:00",
      "summary": "יממה לאחר ששב להנהגת החברה, קיים הואנג אסיפת עובדים, בה הכחיש כי הוחזר לתפקיד בגלל לחץ שהפעיל טראמפ על הדירקטוריון והתייחס לדיווחים על סגנון הניהול האלים שלו: \"אני יכול להרחיק לכת\""
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#18",
      "title": "ירידות במסחר: ת\"א 125 משיל 1%; איילון צונחת 7%; הדולר מתחזק ל-3.38 שקלים",
      "published": "2026-11-25T06:37:30+00:00"
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#19",
      "title": "השוק נרגע מעט מפרשת הואנג — למשקיעים הישראלים נותרה בעיה אחת קטנה",
      "published": "2026-11-25T06:08:59+00:00",
      "summary": "נופר אנרג'י של עופר ינאי כבר איבדה 7 מיליארד שקל מערכה, רשות ניירות ערך עוצרת זינוק בעמלות סליקה, הרווח של חברות הגז מהעלייה הצפויה במחיר החשמל — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#20",
      "title": "מס הרכישה של דירות ביוון קפץ פי 5: אך זה ישפיע על משקיעים ישראלים?",
      "published": "2026-11-25T06:00:00+00:00",
      "summary": "מי שרוכש דירה ביוון ואינו תושב מס באיחוד האירופי ישלם מס רכישה של 15%, במקום 3% עד כה ■ דרכון אירופאי לא פותר את הבעיה: תושבות מס מושפעת ממקום המגורים, וניתוק תושבות לא בהכרח משתלם עבור עסקת נדל\"ן ■ מתי המס החדש נכנס לתוקף, ומה חשוב לבדוק לפני שסוגרים עסקה?"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#21",
      "title": "שוק ההון חבט בחברת הפניקס והרווח הכולל ברבעון השלישי ירד ב-34%",
      "published": "2026-11-25T05:50:22+00:00",
      "summary": "הרווח הכולל של הפניקס בתשעת החודשים הראשונים של השנה הסתכם ב-2.1 מיליארד שקל - ירידה של כ-9% לעומת התקופה המקבילה אשתקד ■ החברה תחלק דיווידנד של 300 מיליון שקל"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#22",
      "title": "למרות חוק השיקום מהרס הטילים — פרויקט ההתחדשות בתל אביב ספג פגיעה ביורוקרטית",
      "published": "2026-11-25T05:35:40+00:00",
      "summary": "הודות למאמצים של בעלי הדירות ברחוב יהודה הלוי 121, העירייה והחברה היזמית, פרויקט ההתחדשות עמד בלוחות הזמנים של חוק השיקום, מה שמקנה הטבות לדיירים ■ אלא שלטענת החברה, לשם הגעה לכדאיות כלכלית עדיין חסרים לפרויקט 10 מיליון שקל ■ עורך הדין של בעלי הדירות: \"מצפים שהמדינה תשלים את המהלך ותאפשר לפרויקט לצאת לדרך\""
     },
     {
-     "ref": "themarker#22",
+     "ref": "themarker#23",
      "title": "להחזיר את ההנפקות לגדולתן: מה דוחף חברות לשווקים הפרטיים?",
      "published": "2026-11-25T04:18:46+00:00",
      "summary": "חברות בארה\"ב יוצאות לבורסה פחות מבעבר, וכשהן עושות זאת הן כבר ותיקות יותר ■ מחקר אחד מייחס לנטל הרגולטורי רק 7% מהירידה בסיכוי שחברה פרטית תצא לבורסה בארה\"ב מאז 2000 ■ שפע ההון בשווקים הפרטיים מאפשר לסטארט־אפים לגייס סכומי עתק מקומץ משקיעים ולדחות את ההנפקה"
     },
     {
-     "ref": "themarker#23",
+     "ref": "themarker#24",
      "title": "חוסמים את הבורסה: רשות ני\"ע תעצור זינוק של פי עשרה בעמלות על סליקת ניירות הערך",
      "published": "2026-11-25T04:17:59+00:00",
      "summary": "הבורסה מתכוונת להזניק את העמלות על ניירות ערך לא־סחירים, שבהם משקיעות בעיקר קרנות כספיות ■ לפי הערכות של מנהלי הקרנות, עליית העמלות עשויה לשחוק 0.1% מהתשואה בקרנות אלה ■ הרשות: לא הונחה בפנינו תשתית שיש בה כדי להצדיק העלאת עמלות"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "אחרי שמחקה 7 מיליארד שקל בחצי שנה: המבחן של עופר ינאי בנופר",
-     "published": "2026-11-25T04:16:49+00:00",
-     "summary": "מכונת העסקות שהכפילה את מאזן נופר ליותר מ-13 מיליארד שקל והטיסה את המניה כמעט פי שלושה, הפכה לצניחה של 62% שחתכה 1.9 מיליארד שקל מאחזקות בעל השליטה, עופר ינאי ■ האם השוק חושש בצדק מהמינוף ומכך שלא יעמדו בתחזיות האופטימיות, או שינאי צודק כשהוא מעריך את שווייה האמיתי של החברה ב-15 מיליארד שקל?"
     }
    ]
   },
@@ -363,153 +363,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+     "published": "2026-11-25T11:03:00+00:00",
+     "summary": "The metal was heading for one of its worst monthly performances in more than a decade as investors retreated from riskier assets and tariff uncertainty clouded the global demand outlook."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "The Car Industry Has a Seat-Belt Problem It Can’t Fix",
+     "published": "2026-11-25T11:02:00+00:00",
+     "summary": "Plus, Jensen Huang’s vision for the new Nvidia is a lot like the old one, and our game tests whether you can secure your money for old age."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
+     "published": "2026-11-25T11:00:00+00:00",
+     "summary": "The chief executive wants to strike back against the U.K. after its cash-strapped government targeted banks for extra revenue."
+    },
+    {
+     "ref": "wsj_markets#3",
      "title": "Sterling Expected to Rise Against Euro in 2027",
      "published": "2026-11-25T10:38:00+00:00",
      "summary": "Sterling was weaker against the euro. The pound could strengthen against the euro given French fiscal risks and a positive U.K. outlook, JPM said, adding that it expects the euro to fall below 0.80 pounds in the first half of 2027."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#4",
      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
      "published": "2026-11-25T10:30:00+00:00",
      "summary": "The sharp correction to power stocks creates an opportunity for investors."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#5",
      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
      "published": "2026-11-25T09:56:46+00:00",
      "summary": "Investors await inflation data that could affect Fed's rate path, plus tariffs announcement"
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#6",
      "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
      "published": "2026-11-25T09:43:00+00:00",
      "summary": "U.S. Treasury and European government bond yields fell as investors awaited October personal consumption expenditures inflation data and the second estimate of third-quarter GDP."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#7",
      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
      "published": "2026-11-25T09:36:00+00:00",
      "summary": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#8",
      "title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
      "published": "2026-11-25T08:54:00+00:00",
      "summary": "Airtel Mobile Commerce is expected to join London’s premier FTSE 100 index as part of the next quarterly review replacing IG Group Holdings, according to indicative data from FTSE Russell."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#9",
      "title": "Oil Down as Supply Prospects Outweigh Gulf Risks",
      "published": "2026-11-25T08:51:00+00:00",
      "summary": "Oil prices fell as prospects of an oversupplied market outweighed concerns over persistent shipping attacks in the Persian Gulf."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#10",
      "title": "Gold Falls Close to $3,500 a Troy Ounce as Market Awaits Inflation Data",
      "published": "2026-11-25T08:39:00+00:00",
      "summary": "Gold prices fell amid broader market anxiety over potential U.S. tariff plans and expectations of higher interest rates."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#11",
      "title": "European Stock Indexes Mostly Higher as Industrials, Luxuries Gain",
      "published": "2026-11-25T08:35:00+00:00",
      "summary": "Energy-intensive stocks rose as oil prices fell, though tech stocks extended losses as the bounce following Jensen Huang’s reinstatement as Nvidia CEO continued to fade."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#12",
      "title": "Asian Stocks Lower on AI Doubts, Tariff Jitters",
      "published": "2026-11-25T05:52:00+00:00",
      "summary": "Relief from Jensen Huang’s Nvidia return waned and doubts about the artificial-intelligence trade crept in."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#13",
      "title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
      "published": "2026-11-25T02:00:00+00:00",
      "summary": "The U.S. economy would take a painful hit, but the magnitude of the fallout remains a live debate among economists."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#14",
      "title": "The WSJ Dollar Index Falls 0.27% to 98.75",
      "published": "2026-11-24T23:44:00+00:00",
      "summary": "The WSJ Dollar Index fell 0.27%, down two of the past three trading days."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#15",
      "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
      "published": "2026-11-24T22:07:00+00:00",
      "summary": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#16",
      "title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
      "published": "2026-11-24T22:03:00+00:00",
      "summary": "U.S. stocks finished mixed, with the Nasdaq and S&P 500 giving back some of Monday’s rally, as traders digested the implications of President Donald Trump’s push to reinstall Jensen Huang as head of Nvidia."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#17",
      "title": "Energy & Utilities Roundup: Market Talk",
      "published": "2026-11-24T21:59:00+00:00",
      "summary": "Find insight on oil futures, Oryx Midstream Services, Var Energi and more in the latest Market Talks covering Energy and Utilities."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#18",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-11-24T21:58:00+00:00",
      "summary": "Find insight on BHP, Antofagasta, ALS and more in the latest Market Talks covering Basic Materials."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#19",
      "title": "Financial Services Roundup: Market Talk",
      "published": "2026-11-24T21:56:00+00:00",
      "summary": "Find insight on U.S. spot bitcoin ETFs, Canadian banks, Spanish banks and more in the latest Market Talks covering Financial Services."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#20",
      "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
      "published": "2026-11-24T21:55:00+00:00",
      "summary": "The higher-than-expected figure underscores the challenges faced by the U.S.-backed interim government."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#21",
      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
      "published": "2026-11-24T21:53:00+00:00",
      "summary": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#22",
      "title": "Crude Futures Settle Higher on Shipping Risks",
      "published": "2026-11-24T21:51:00+00:00",
      "summary": "Oil futures picked up with continuing attacks on shipping in the Strait of Hormuz keeping some risk premium in prices, and limiting the downside in market expectations for a global supply surplus."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#23",
      "title": "Oil Prices Rebound as Shipping Risks Persist",
      "published": "2026-11-24T21:28:00+00:00",
      "summary": "Oil prices picked up from initial losses and settled higher Tuesday as traders weighed persistent threats to energy shipments in the Middle East against expectations of a global supply surplus."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#24",
      "title": "Nvidia’s Relief Rally Stalls",
      "published": "2026-11-24T21:23:00+00:00",
      "summary": "Plus, Anthropic dips below its IPO price, and the investors who won—and lost—in the Nvidia saga."
-    },
-    {
-     "ref": "wsj_markets#22",
-     "title": "U.S. Natural Gas Futures Recover Lost Ground",
-     "published": "2026-11-24T21:04:00+00:00",
-     "summary": "U.S. natural gas futures settled more than 4% higher, recovering from the prior day’s sharp drop with a current cold spell supporting heating demand."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-     "published": "2026-11-24T14:01:00+00:00",
-     "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "These Technical Measures Warned of Stock Market Whiplash",
-     "published": "2026-11-24T11:10:00+00:00",
-     "summary": "Plus, the Trillion Dollar Man"
     }
    ]
   }
@@ -517,9 +517,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3814.8101,
+   "last": 3811.8,
    "prev_close": 3847.1101,
-   "change_pct": -0.84,
+   "change_pct": -0.92,
    "as_of": "2026-11-25"
   },
   "SP500": {
@@ -531,23 +531,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3746,
+   "last": 3.3755,
    "prev_close": 3.2992,
-   "change_pct": 2.29,
+   "change_pct": 2.31,
    "as_of": "2026-11-25"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 87.84,
+   "last": 88.07,
    "prev_close": 91.4,
-   "change_pct": -3.89,
+   "change_pct": -3.64,
    "as_of": "2026-11-25"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 58818.7695,
+   "last": 58681.0898,
    "prev_close": 59747.7656,
-   "change_pct": -1.55,
+   "change_pct": -1.79,
    "as_of": "2026-11-25"
   }
  },

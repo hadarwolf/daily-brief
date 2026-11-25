@@ -262,49 +262,49 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
      "published": "2026-11-25T03:23:07+00:00",
-     "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 401 # Comments: 55"
+     "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 415 # Comments: 59"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
      "published": "2026-11-25T03:04:37+00:00",
-     "summary": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 213 # Comments: 76"
+     "summary": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 222 # Comments: 76"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "I've been drinking wine in my kitchen",
      "published": "2026-11-25T03:02:10+00:00",
-     "summary": "Article URL: https://scottaaronson.blog/?p=10362 Comments URL: https://news.ycombinator.com/item?id=50637874 Points: 208 # Comments: 182"
+     "summary": "Article URL: https://scottaaronson.blog/?p=10362 Comments URL: https://news.ycombinator.com/item?id=50637874 Points: 212 # Comments: 186"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
      "published": "2026-11-25T02:34:21+00:00",
-     "summary": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 245 # Comments: 100"
+     "summary": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 251 # Comments: 104"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
      "published": "2026-11-25T01:19:26+00:00",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 661 # Comments: 353"
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 675 # Comments: 362"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
      "published": "2026-11-25T00:54:49+00:00",
-     "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 261 # Comments: 45"
+     "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 270 # Comments: 45"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
      "published": "2026-11-24T21:02:22+00:00",
-     "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 270 # Comments: 84"
+     "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 273 # Comments: 85"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Ternary Bonsai 2.5 27B",
      "published": "2026-11-24T20:08:03+00:00",
-     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 456 # Comments: 141"
+     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 459 # Comments: 141"
     },
     {
      "ref": "hn_frontpage#8",
@@ -322,13 +322,13 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#10",
      "title": "GTA 6 Running on Windows",
      "published": "2026-11-24T13:19:31+00:00",
-     "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 406 # Comments: 483"
+     "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 409 # Comments: 486"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "An Italian folding bicycle design that fits into a suitcase",
      "published": "2026-11-23T12:40:08+00:00",
-     "summary": "Article URL: https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase Comments URL: https://news.ycombinator.com/item?id=50610820 Points: 185 # Comments: 121"
+     "summary": "Article URL: https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase Comments URL: https://news.ycombinator.com/item?id=50610820 Points: 186 # Comments: 123"
     }
    ]
   },
@@ -476,63 +476,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
+     "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+     "published": "2026-11-25T11:12:42+00:00",
+     "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to […]"
+    },
+    {
+     "ref": "the_verge#1",
      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
      "published": "2026-11-25T01:00:00+00:00",
      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the […]"
     },
     {
-     "ref": "the_verge#1",
+     "ref": "the_verge#2",
      "title": "The Verge’s 2026 gift guide for dads",
      "published": "2026-11-24T23:59:29+00:00",
      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this […]"
     },
     {
-     "ref": "the_verge#2",
+     "ref": "the_verge#3",
      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
      "published": "2026-11-24T23:25:46+00:00",
      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are […]"
     },
     {
-     "ref": "the_verge#3",
+     "ref": "the_verge#4",
      "title": "Huawei found guilty of stealing trade secrets",
      "published": "2026-11-24T22:23:27+00:00",
      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and […]"
     },
     {
-     "ref": "the_verge#4",
+     "ref": "the_verge#5",
      "title": "GTA VI PC recompilation project shut down by Take-Two",
      "published": "2026-11-24T21:39:14+00:00",
      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build […]"
     },
     {
-     "ref": "the_verge#5",
+     "ref": "the_verge#6",
      "title": "The Verge’s 2026 holiday gift guide for moms",
      "published": "2026-11-24T21:09:59+00:00",
      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]"
     },
     {
-     "ref": "the_verge#6",
+     "ref": "the_verge#7",
      "title": "TikTok was down",
      "published": "2026-11-24T20:27:27+00:00",
      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in […]"
     },
     {
-     "ref": "the_verge#7",
+     "ref": "the_verge#8",
      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
      "published": "2026-11-24T20:02:03+00:00",
      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]"
     },
     {
-     "ref": "the_verge#8",
+     "ref": "the_verge#9",
      "title": "The clock is running out for America’s most contentious spying law",
      "published": "2026-11-24T20:00:00+00:00",
      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization […]"
-    },
-    {
-     "ref": "the_verge#9",
-     "title": "Amazon is knocking almost $50 off six months of Apple TV",
-     "published": "2026-11-24T19:00:00+00:00",
-     "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you […]"
     }
    ]
   }
