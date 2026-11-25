@@ -18,69 +18,69 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "China Hits Back at New Trump Tariff Prospects",
+     "published": "2026-11-25T10:51:01+00:00",
+     "summary": "China called the prospect of new US tariffs on its exports “political maneuvering” and said the two nations should work together to maintain their trade truce. Jensen Huang struck a somber tone a day after his reinstatement as Nvidia CEO, apologizing to employees during an all-hands meeting and sharing that he’d been in daily therapy to address the behavior that led to his brief ouster from the to"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "ING Sees ‘Full Unwind’ in Emerging-Market Currencies Underway",
      "published": "2026-11-25T10:29:45+00:00",
      "summary": "Emerging-market currencies face mounting pressure from the technology selloff, the risk of shrinking interest rate premiums and the threat of fresh global tariffs, according to strategists at ING Bank."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "Dangote Hires Veteran Oil Trader Jonathan Zarembok From Equinor",
      "published": "2026-11-25T10:12:35+00:00",
      "summary": "Veteran oil trader Jonathan Zarembok is joining Dangote Group, which has a huge refinery in Nigeria and is expanding elsewhere in Africa, according to people familiar with the matter."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Deutsche Bank Is Among Biggest S&P 500 Bulls With 9,000 Target",
      "published": "2026-11-25T10:06:53+00:00",
      "summary": "Deutsche Bank AG’s Binky Chadha is among the most bullish stock forecasters on Wall Street, predicting the S&P 500 will recover from its rout to rally 25% by the end of next year."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Aareal Bank Nears Commercial Real Estate SRT With 12% Premium",
      "published": "2026-11-25T10:04:32+00:00",
      "summary": "Aareal Bank AG is set to pay investors a premium of more than 12% to hedge part of the risk on a commercial real estate lending book worth around €2.5 billion ($2.7 billion) in only its second such deal."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
      "published": "2026-11-25T08:59:08+00:00",
      "summary": "After a week of whiplash over Jensen Huang’s future and new US chip curbs, Beijing sent a clear message to Washington about their trade truce: China is holding up its side of the bargain — for now. Nectar Gan explains why China may be playing the long game. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "China’s Surprise Soyoil Export Boom Cools as India Turns to Palm",
      "published": "2026-11-25T08:53:51+00:00",
      "summary": "India’s appetite for Chinese soybean oil is fading as palm oil becomes more competitive, putting the brakes on Beijing’s surprise emergence as a major exporter."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "India Extends Duty-Free Sugar Imports as Dry Weather Hits Crop",
      "published": "2026-11-25T08:44:22+00:00",
      "summary": "India has extended the deadline for duty-free imports of raw sugar by three months as El Niño-induced dry weather curbs production in the world’s largest sugar-consuming nation."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
+     "title": "Stock Valuations to Remain Under Pressure, Safra’s Chen Says",
+     "published": "2026-11-25T08:33:44+00:00",
+     "summary": "Stock valuations are likely to stay under pressure through mid-2027, as tighter monetary policy compounds concerns about the sustainability and financing of AI spending, according to Bank J. Safra Sarasin."
+    },
+    {
+     "ref": "bloomberg_markets#9",
      "title": "Asia Finds a Surprise Currency Haven in AI-Defying Rupee",
      "published": "2026-11-25T08:30:41+00:00",
      "summary": "The Indian rupee is Asia’s top-performing currency this month, joining a rally in the nation’s equities as investors double down on a hedge against the artificial-intelligence trade."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
      "published": "2026-11-25T08:29:23+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "Murdoch-Backed Allen Career Is Said to Pick Banks for India IPO",
-     "published": "2026-11-25T08:26:23+00:00",
-     "summary": "Allen Career Institute Pvt., an education services company backed by James Murdoch and former Walt Disney Co. executive Uday Shankar, has picked banks for an initial public offering that could raise as much as $300 million, according to people familiar with the matter, adding to a busy pipeline of Indian share sales."
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
-     "published": "2026-11-25T08:25:56+00:00",
-     "summary": "Contemporary Amperex Technology Co. Ltd. shares plunged as concerns grew over its earnings outlook and signs emerged of forced selling by leveraged investors."
     },
     {
      "ref": "bloomberg_markets#11",
@@ -114,9 +114,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment",
-     "published": "2026-11-25T03:57:12+00:00",
-     "summary": "Copper, aluminum and tin all added to Tuesday’s fierce selloff in metals as tech stocks extended losses and traders braced for US inflation data that will feed the Federal Reserve’s next moves on interest rates."
+     "title": "Gold Declines Ahead of Inflation Data That Will Guide Fed Bets",
+     "published": "2026-11-24T23:51:22+00:00",
+     "summary": "Gold fell, as a selloff in stocks continued and investors waited for a key inflation print that could shape expectations of further Federal Reserve rate hikes."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -316,7 +316,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#18",
-     "title": "ירידות במסחר: ת\"א 125 משיל 1%; איילון צונחת 7%; הדולר מתחזק ל-3.38 שקלים",
+     "title": "ירידות במסחר: ת\"א 125 מאבד 1%; איילון צונחת 7%; הדולר מתחזק ל-3.38 שקלים",
      "published": "2026-11-25T06:37:30+00:00"
     },
     {
@@ -363,153 +363,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "The AI Grinch Won’t Steal Christmas, but Watch Next Year",
+     "published": "2026-11-25T11:31:00+00:00",
+     "summary": "Plus, Anthropic’s slide continues"
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Nvidia’s Role as an Underwriter of the AI Boom",
+     "published": "2026-11-25T11:25:00+00:00",
+     "summary": "Some of the best analysis and insight on investing, the wealth-management business and more."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "Sterling Could Rise if BOE Officials Signal December Rate Hike",
+     "published": "2026-11-25T11:25:00+00:00",
+     "summary": "Sterling fell but could strengthen if Bank of England policymakers indicate another interest-rate hike in December, MUFG Bank said."
+    },
+    {
+     "ref": "wsj_markets#3",
      "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
      "published": "2026-11-25T11:03:00+00:00",
      "summary": "The metal was heading for one of its worst monthly performances in more than a decade as investors retreated from riskier assets and tariff uncertainty clouded the global demand outlook."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#4",
      "title": "The Car Industry Has a Seat-Belt Problem It Can’t Fix",
      "published": "2026-11-25T11:02:00+00:00",
      "summary": "Plus, Jensen Huang’s vision for the new Nvidia is a lot like the old one, and our game tests whether you can secure your money for old age."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#5",
      "title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
      "published": "2026-11-25T11:00:00+00:00",
      "summary": "The chief executive wants to strike back against the U.K. after its cash-strapped government targeted banks for extra revenue."
     },
     {
-     "ref": "wsj_markets#3",
-     "title": "Sterling Expected to Rise Against Euro in 2027",
-     "published": "2026-11-25T10:38:00+00:00",
-     "summary": "Sterling was weaker against the euro. The pound could strengthen against the euro given French fiscal risks and a positive U.K. outlook, JPM said, adding that it expects the euro to fall below 0.80 pounds in the first half of 2027."
-    },
-    {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#6",
      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
      "published": "2026-11-25T10:30:00+00:00",
      "summary": "The sharp correction to power stocks creates an opportunity for investors."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#7",
      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
      "published": "2026-11-25T09:56:46+00:00",
      "summary": "Investors await inflation data that could affect Fed's rate path, plus tariffs announcement"
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#8",
      "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
      "published": "2026-11-25T09:43:00+00:00",
      "summary": "U.S. Treasury and European government bond yields fell as investors awaited October personal consumption expenditures inflation data and the second estimate of third-quarter GDP."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
      "published": "2026-11-25T09:36:00+00:00",
      "summary": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
      "published": "2026-11-25T08:54:00+00:00",
      "summary": "Airtel Mobile Commerce is expected to join London’s premier FTSE 100 index as part of the next quarterly review replacing IG Group Holdings, according to indicative data from FTSE Russell."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "Oil Down as Supply Prospects Outweigh Gulf Risks",
      "published": "2026-11-25T08:51:00+00:00",
      "summary": "Oil prices fell as prospects of an oversupplied market outweighed concerns over persistent shipping attacks in the Persian Gulf."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "Gold Falls Close to $3,500 a Troy Ounce as Market Awaits Inflation Data",
      "published": "2026-11-25T08:39:00+00:00",
      "summary": "Gold prices fell amid broader market anxiety over potential U.S. tariff plans and expectations of higher interest rates."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "European Stock Indexes Mostly Higher as Industrials, Luxuries Gain",
      "published": "2026-11-25T08:35:00+00:00",
      "summary": "Energy-intensive stocks rose as oil prices fell, though tech stocks extended losses as the bounce following Jensen Huang’s reinstatement as Nvidia CEO continued to fade."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "Asian Stocks Lower on AI Doubts, Tariff Jitters",
      "published": "2026-11-25T05:52:00+00:00",
      "summary": "Relief from Jensen Huang’s Nvidia return waned and doubts about the artificial-intelligence trade crept in."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
      "published": "2026-11-25T02:00:00+00:00",
      "summary": "The U.S. economy would take a painful hit, but the magnitude of the fallout remains a live debate among economists."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "The WSJ Dollar Index Falls 0.27% to 98.75",
      "published": "2026-11-24T23:44:00+00:00",
      "summary": "The WSJ Dollar Index fell 0.27%, down two of the past three trading days."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#17",
      "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
      "published": "2026-11-24T22:07:00+00:00",
      "summary": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#18",
      "title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
      "published": "2026-11-24T22:03:00+00:00",
      "summary": "U.S. stocks finished mixed, with the Nasdaq and S&P 500 giving back some of Monday’s rally, as traders digested the implications of President Donald Trump’s push to reinstall Jensen Huang as head of Nvidia."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#19",
      "title": "Energy & Utilities Roundup: Market Talk",
      "published": "2026-11-24T21:59:00+00:00",
      "summary": "Find insight on oil futures, Oryx Midstream Services, Var Energi and more in the latest Market Talks covering Energy and Utilities."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#20",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-11-24T21:58:00+00:00",
      "summary": "Find insight on BHP, Antofagasta, ALS and more in the latest Market Talks covering Basic Materials."
     },
     {
-     "ref": "wsj_markets#19",
-     "title": "Financial Services Roundup: Market Talk",
-     "published": "2026-11-24T21:56:00+00:00",
-     "summary": "Find insight on U.S. spot bitcoin ETFs, Canadian banks, Spanish banks and more in the latest Market Talks covering Financial Services."
-    },
-    {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
      "published": "2026-11-24T21:55:00+00:00",
      "summary": "The higher-than-expected figure underscores the challenges faced by the U.S.-backed interim government."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
      "published": "2026-11-24T21:53:00+00:00",
      "summary": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "Crude Futures Settle Higher on Shipping Risks",
      "published": "2026-11-24T21:51:00+00:00",
      "summary": "Oil futures picked up with continuing attacks on shipping in the Strait of Hormuz keeping some risk premium in prices, and limiting the downside in market expectations for a global supply surplus."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "Oil Prices Rebound as Shipping Risks Persist",
      "published": "2026-11-24T21:28:00+00:00",
      "summary": "Oil prices picked up from initial losses and settled higher Tuesday as traders weighed persistent threats to energy shipments in the Middle East against expectations of a global supply surplus."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Nvidia’s Relief Rally Stalls",
-     "published": "2026-11-24T21:23:00+00:00",
-     "summary": "Plus, Anthropic dips below its IPO price, and the investors who won—and lost—in the Nvidia saga."
     }
    ]
   }
@@ -517,9 +517,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3811.8,
+   "last": 3806.79,
    "prev_close": 3847.1101,
-   "change_pct": -0.92,
+   "change_pct": -1.05,
    "as_of": "2026-11-25"
   },
   "SP500": {
@@ -531,23 +531,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3755,
+   "last": 3.3791,
    "prev_close": 3.2992,
-   "change_pct": 2.31,
+   "change_pct": 2.42,
    "as_of": "2026-11-25"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 88.07,
+   "last": 88.12,
    "prev_close": 91.4,
-   "change_pct": -3.64,
+   "change_pct": -3.59,
    "as_of": "2026-11-25"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 58681.0898,
+   "last": 58449.1719,
    "prev_close": 59747.7656,
-   "change_pct": -1.79,
+   "change_pct": -2.17,
    "as_of": "2026-11-25"
   }
  },
