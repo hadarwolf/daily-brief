@@ -1,0 +1,76 @@
+{
+  "section": "business",
+  "date": "2026-11-25",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-25T03:53:58+00:00",
+  "stories": [
+    {
+      "id": "icahn-leverage-squeeze",
+      "kind": "analysis",
+      "en": {
+        "headline": "Carl Icahn's Empire Is a Live Lesson in How Leverage Cuts Both Ways",
+        "scroll": "Carl Icahn's fortune has sunk to $1.3 billion, proof that the leverage which built his empire can unwind it just as fast.",
+        "coffee": "Carl Icahn's personal fortune has fallen to about $1.3 billion, Bloomberg reports, as mounting debt squeezes his holding company, Icahn Enterprises (IEP). The decline marks one of the toughest stretches of the longtime corporate raider's career.\n\nThe mechanism is leverage: IEP finances much of its portfolio with borrowed money. When Icahn's bets pay off, debt lets him control more assets than his own capital would allow, amplifying gains. But when bets sour, the debt doesn't shrink with them — it stays fixed while the equity cushion built on top of it erodes, amplifying losses just as sharply.\n\nThe immediate test: IEP has $1.4 billion in bonds coming due in May, and the company has warned there is no assurance it can refinance them \"on acceptable terms — or at all.\" If credit markets balk, Icahn could be forced into asset sales at distressed prices — exactly the spiral leverage is designed to avoid when it works, and exactly what it causes when it doesn't.",
+        "deep": "## Background\n\nCarl Icahn built his reputation as a corporate raider as far back as the 1980s, mostly through hostile takeovers of companies he judged to be mismanaged or undervalued relative to their underlying assets. Icahn Enterprises (IEP) is his publicly traded holding company, structured as a master limited partnership, through which he holds stakes in energy, auto parts, real estate and other businesses. For decades, Icahn has used debt at the IEP level to size up his bets — borrowing against the portfolio to buy more of what he likes, rather than relying solely on the partnership's own equity.\n\nThat is leverage in its purest form: debt lets an investor control an asset base larger than their own money would otherwise buy. If the assets appreciate, the investor captures the full gain on the borrowed money too, multiplying returns relative to the equity put in. It's the same mechanic by which a homeowner with a mortgage benefits more, in percentage terms, from a rising home price than a buyer who paid cash. But leverage is symmetric: it multiplies losses with equal force, and unlike a loss on unlevered equity, a levered loss can wipe out an investor's position entirely once the debt exceeds the eroded value of the asset behind it.\n\n## The story\n\nAccording to Bloomberg, Icahn's personal fortune has fallen to about $1.3 billion as mounting debt pressures his business empire. Icahn Enterprises reported third-quarter earnings this month and flagged that it has no assurance it will be able to refinance $1.4 billion of bonds due in May \"on acceptable terms — or at all.\"\n\nThat phrase matters more than the dollar figure attached to it. Companies roll over debt constantly — issuing new bonds to pay off ones that are maturing — and usually treat that ability as close to automatic. A warning that refinancing isn't assured signals that lenders may be pricing IEP's risk higher than before: perhaps because the value of the assets backing that debt has fallen, or because credit investors are reassessing the durability of Icahn's returns after a stretch of underperformance relative to simpler index strategies.\n\n## Second-order effects\n\nIf IEP cannot refinance on favorable terms, it is left with a narrow set of options, each carrying a cost. It can pay a much higher interest rate to the bondholders willing to take on the risk, which squeezes the cash available to run the business. It can sell assets to raise cash directly, potentially at distressed prices if the sales happen under time pressure. Or it can borrow further against whatever assets remain, which deepens the leverage problem rather than solving it.\n\nForced asset sales are the most consequential of these, because they tend to happen at the worst possible moment — exactly when the broader portfolio is already under pressure, and buyers know the seller is motivated to close quickly. This is the leverage spiral running in reverse: the same debt that amplified gains on the way up now forces sales on the way down, which can depress the value of the remaining portfolio further and tighten the vise.\n\nThere is also a reputational dimension specific to Icahn. His brand as an activist investor rested for decades on being the one squeezing concessions out of weak companies, not the one facing the squeeze himself. A protracted refinancing fight would mark a symbolic reversal: one of Wall Street's most recognizable predators becoming subject to the exact mechanics he spent 40 years using against others.\n\n## What to watch next\n\nThe clearest signal to track is whether Icahn Enterprises successfully prices a new bond issue before May, and at what interest rate. A completed refinancing at only a modest premium to its last issuance would suggest the market still trusts IEP's underlying assets. A refinancing that only goes through at punitive rates, or an outright failure to refinance, would confirm the credit market's doubts and raise the pressure on IEP to start selling assets. The size and nature of any asset sales Icahn announces in the coming months — and whether they come by choice or under duress — will show how serious the squeeze on his empire really is."
+      },
+      "he": {
+        "headline": "האימפריה של קרל איקאן: שיעור חי במינוף (leverage) שפועל לשני הכיוונים",
+        "scroll": "הונו של קרל איקאן צנח ל-1.3 מיליארד דולר - הוכחה לכך שהמינוף (leverage) שבנה את האימפריה שלו יכול לפרק אותה במהירות דומה.",
+        "coffee": "הונו האישי של קרל איקאן, המשקיע הפעיל (activist investor) ששמו הפך לשם דבר בוול סטריט, צנח לכ-1.3 מיליארד דולר, כך מדווח בלומברג, כשחברת האחזקות שלו, Icahn Enterprises (IEP), נלחצת תחת עומס חובות גובר. הנפילה חותמת אחת מהתקופות הקשות ביותר בקריירה של איקאן.\n\nהמנגנון כאן הוא מינוף (leverage): IEP מממנת חלק גדול מתיק הנכסים שלה בכסף שאול. כשההשקעות של איקאן מצליחות, החוב מאפשר לו לשלוט בנכסים ששווים גבוה בהרבה מההון העצמי שהשקיע, וכך הוא מגדיל את הרווח היחסי. אבל כשההשקעות נחלשות, החוב לא מתכווץ איתן - הוא נשאר קבוע, בזמן שכרית ההון שמעליו נשחקת, כך שההפסד היחסי מוגדל באותה חדות.\n\nהמבחן הקרוב: ל-IEP יש איגרות חוב בשווי 1.4 מיליארד דולר שפורעות במאי, והחברה עצמה הזהירה שאין ביטחון שתוכל למחזר אותן בתנאים סבירים - או בכלל. אם שוקי האשראי יסרבו, איקאן עשוי להיאלץ למכור נכסים במחירי מצוקה כדי לגייס מזומן - בדיוק הסחרור שהמינוף נועד למנוע כשהדברים מסתדרים, ובדיוק מה שהוא גורם כשהם לא.",
+        "deep": "## רקע\n\nקרל איקאן בנה את שמו כ\"איל תאגידי\" (corporate raider) עוד משנות ה-80, בעיקר דרך רכישות בכפייה (hostile takeovers) של חברות שלדעתו ניוהלו בצורה גרועה או נסחרו בזול מדי לעומת שווי הנכסים האמיתי שלהן. Icahn Enterprises (IEP) היא חברת האחזקות הציבורית שלו, המאורגנת כשותפות מוגבלת נסחרת (master limited partnership), שמחזיקה דרכה בחלקים בחברות אנרגיה, רכיבי רכב, נדל\"ן ותחומים נוספים. במשך עשורים איקאן השתמש בחוב בשכבת ה-IEP כדי להגדיל את גודל ההשקעות שלו: הוא שאל כסף מול תיק הנכסים כדי לקנות יותר ממה שמצא חן בעיניו, במקום להסתפק רק בהון העצמי של השותפות.\n\nזהו מינוף (leverage) בצורתו הפשוטה ביותר: חוב מאפשר למשקיע לשלוט בבסיס נכסים גדול יותר מכספו שלו. אם שווי הנכסים עולה, המשקיע זוכה ברווח המלא גם על הכסף השאול, מה שמגדיל את התשואה היחסית להון העצמי שהשקיע. זה אותו עיקרון שבגללו בעל בית עם משכנתא נהנה, באחוזים, יותר מעליית מחירי הדיור מאשר קונה שמשלם מזומן. אבל מינוף הוא סימטרי: הוא מגדיל הפסדים באותה עוצמה שהוא מגדיל רווחים, ובניגוד להפסד על הון לא ממונף, הפסד ממונף יכול לחסל לחלוטין את ההשקעה ברגע שהחוב עולה על השווי שנשחק של הנכס שמגבה אותו.\n\n## הסיפור\n\nלפי בלומברג, הונו האישי של איקאן צנח לכ-1.3 מיליארד דולר כשהחוב הגובר מכביד על האימפריה העסקית שלו. Icahn Enterprises דיווחה בחודש זה על תוצאות הרבעון השלישי, ובדוח סימנה שאין לה ביטחון שתוכל למחזר (roll over) איגרות חוב בשווי 1.4 מיליארד דולר שפורעות במאי \"בתנאים סבירים - או בכלל\".\n\nהמשפט הזה חשוב יותר מהסכום עצמו. חברות מגלגלות חוב באופן שוטף - מנפיקות איגרות חוב חדשות כדי לפרוע את הישנות שמגיע זמנן - ובדרך כלל מתייחסות ליכולת הזו כמובנת מאליה. אזהרה שהמחזור אינו מובטח מרמזת שהמלווים מתמחרים את הסיכון של IEP גבוה יותר מבעבר - אולי בגלל ששווי הנכסים שמגבים את החוב ירד, ואולי בגלל ששוק האשראי מעריך מחדש את יכולתו של איקאן להמשיך להניב תשואות לאחר תקופה של תת-ביצוע (underperformance) יחסית לאסטרטגיות מדד פשוטות.\n\n## אפקטים מסדר שני\n\nאם IEP לא תוכל למחזר את החוב בתנאים נוחים, יעמדו בפניה כמה אפשרויות מצומצמות, כל אחת עם מחיר. היא יכולה לשלם ריבית גבוהה בהרבה לבעלי האג\"ח שיהיו מוכנים לקחת את הסיכון, מה שימשיך ללחוץ על המזומן הפנוי לעסק. היא יכולה למכור נכסים כדי לגייס מזומן ישירות, אולי במחירי מצוקה אם זה נעשה בלחץ זמן. או שהיא יכולה לקחת הלוואות נוספות מול הנכסים שנותרו, מה שמעמיק את בעיית המינוף במקום לפתור אותה.\n\nמכירות נכסים בכפייה הן האפשרות המשמעותית ביותר, כי הן קורות כרגיל ברגע הגרוע ביותר - בדיוק כשתיק הנכסים כולו נמצא תחת לחץ, והקונים יודעים שהמוכר פועל מתוך מצוקה. זהו סחרור המינוף בכיוון ההפוך: החוב שהגדיל רווחים בעלייה, מכריח כעת מכירות בירידה, מה שעלול להמשיך ולשחוק את שווי התיק הנותר ולהדק את הלחץ.\n\nיש גם ממד של תדמית ספציפי לאיקאן: המותג שלו כמשקיע פעיל נבנה במשך עשורים על היכולת לסחוט ויתורים מחברות חלשות - לא על להיות הצד הנדחק. מאבק מחזור ממושך יסמן היפוך סימבולי למי שהיה אחד הטורפים המוכרים ביותר בוול סטריט, שהופך כעת לנתון לאותם מכניזמים שהוא עצמו השתמש בהם נגד אחרים במשך ארבעים שנה.\n\n## מה לעקוב\n\nהסימן הברור ביותר לעקוב אחריו הוא האם Icahn Enterprises תצליח להנפיק איגרות חוב חדשות לפני מאי, ובאיזו ריבית. מחזור מוצלח בפרמיה מתונה לעומת ההנפקה הקודמת שלה יעיד שהשוק עדיין נותן אמון בנכסי הבסיס של IEP. מחזור שמתבצע רק בריבית עונשית, או כישלון מוחלט למחזר, יאשר את החששות בשוק האשראי ויגביר את הלחץ על IEP להתחיל למכור נכסים. הגודל והאופי של מכירות נכסים שאיקאן יכריז עליהן בחודשים הקרובים - ואם הן ייעשו מתוך לחץ או מתוך בחירה - יראו עד כמה הלחץ על האימפריה שלו באמת חריף."
+      },
+      "tags": [
+        "carl-icahn",
+        "leverage",
+        "debt-markets",
+        "activist-investing"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3847.1101,
+      "prev_close": 3880.45,
+      "change_pct": -0.86,
+      "as_of": "2026-11-24"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7201.0898,
+      "prev_close": 7237.1699,
+      "change_pct": -0.5,
+      "as_of": "2026-11-24"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.3549,
+      "prev_close": 3.2992,
+      "change_pct": 1.69,
+      "as_of": "2026-11-25"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 87.69,
+      "prev_close": 89.37,
+      "change_pct": -1.88,
+      "as_of": "2026-11-24"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 59429.5,
+      "prev_close": 61210.9844,
+      "change_pct": -2.91,
+      "as_of": "2026-11-25"
+    }
+  }
+}

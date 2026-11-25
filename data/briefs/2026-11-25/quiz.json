@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-25",
+  "questions": [
+    {
+      "id": "quiz-avdija-allstar",
+      "section": "sports",
+      "story_id": "avdija-allstar-form",
+      "answer_index": 1,
+      "en": {
+        "question": "What has fueled growing All-Star buzz around Deni Avdija this season?",
+        "options": [
+          "Being named Western Conference Player of the Week for the first time",
+          "A 31-point game, including five three-pointers, that helped end Philadelphia's winning streak",
+          "Signing a contract extension with Portland",
+          "A triple-double in a Christmas Day game against the Lakers"
+        ],
+        "explanation": "Avdija scored 31 points and hit five threes as Portland beat Philadelphia, a performance coverage has leaned on to project him as an All-Star candidate."
+      },
+      "he": {
+        "question": "מה הזניק את הדיבורים על אול-סטאר בנוגע לדני אבדיה בעונה הזו?",
+        "options": [
+          "זכייה בתואר שחקן השבוע של הקונפרנס המערבי בפעם הראשונה",
+          "משחק של 31 נקודות, כולל חמש שלשות, שעזר לעצור את רצף הניצחונות של פילדלפיה",
+          "חתימה על הארכת חוזה עם פורטלנד",
+          "טריפל-דאבל במשחק חג המולד מול הלייקרס"
+        ],
+        "explanation": "אבדיה קלע 31 נקודות וקלע חמש שלשות בניצחון של פורטלנד על פילדלפיה, ביצוע שעליו מתבססת הכתיבה שמציבה אותו כמועמד לאול-סטאר."
+      }
+    },
+    {
+      "id": "quiz-nvidia-huang-export",
+      "section": "geopolitics",
+      "story_id": "nvidia-huang-export-control-fight",
+      "answer_index": 2,
+      "en": {
+        "question": "What has the political fallout from Jensen Huang's reinstatement as Nvidia's CEO reopened a fight over?",
+        "options": [
+          "Nvidia's plan to relocate its headquarters out of the United States",
+          "New U.S. tariffs on Taiwanese semiconductor imports",
+          "Export controls on advanced AI chips to China, a fight now spreading to allied supply chains like the Dutch firm ASML",
+          "A proposed merger between Nvidia and ASML"
+        ],
+        "explanation": "Huang's return put export-control law and the 'open-weight' AI debate back at the center of Washington politics, with Dutch lawmakers now resisting a U.S. bill aimed at ASML."
+      },
+      "he": {
+        "question": "איזה עימות הציבה חזרתו של ג'נסן הואנג לתפקיד מנכ\"ל אנבידיה בחזרה למרכז הבמה?",
+        "options": [
+          "כוונה של אנבידיה להעביר את מטה החברה מחוץ לארצות הברית",
+          "מכסים אמריקאיים חדשים על יבוא שבבים מטייוואן",
+          "בקרת הייצוא של שבבי AI מתקדמים לסין, עימות שמתפשט כעת גם לשרשראות אספקה של בעלות ברית כמו חברת ASML ההולנדית",
+          "מיזוג מתוכנן בין אנבידיה ל-ASML"
+        ],
+        "explanation": "חזרתו של הואנג החזירה למרכז הפוליטיקה בוושינגטון את חוקי בקרת הייצוא ואת הדיון על 'משקלים פתוחים', וחברי פרלמנט הולנדים כעת מתנגדים להצעת חוק אמריקאית המכוונת כלפי ASML."
+      }
+    },
+    {
+      "id": "quiz-icahn-leverage",
+      "section": "business",
+      "story_id": "icahn-leverage-squeeze",
+      "answer_index": 0,
+      "en": {
+        "question": "Why has Carl Icahn's personal fortune taken such a hard hit recently?",
+        "options": [
+          "His holding company's heavy reliance on borrowed money is amplifying losses now that its bets have soured",
+          "A hostile takeover attempt against his company failed",
+          "He sold his entire stake in Icahn Enterprises to cover a tax bill",
+          "Regulators fined Icahn Enterprises for securities violations"
+        ],
+        "explanation": "Icahn Enterprises finances much of its portfolio with debt, which amplifies gains when bets pay off but amplifies losses just as sharply when they don't."
+      },
+      "he": {
+        "question": "מדוע הונו האישי של קרל איקאן ספג פגיעה כה חזקה לאחרונה?",
+        "options": [
+          "ההסתמכות הכבדה של חברת האחזקות שלו על כסף שאול מגדילה את ההפסדים כעת כשההשקעות שלה נחלשות",
+          "ניסיון השתלטות עוינת על החברה שלו נכשל",
+          "הוא מכר את כל אחזקותיו ב-Icahn Enterprises כדי לכסות חוב מס",
+          "רגולטורים הטילו קנס על Icahn Enterprises בגין הפרות ניירות ערך"
+        ],
+        "explanation": "חברת Icahn Enterprises מממנת חלק גדול מתיק הנכסים שלה בחוב, מה שמגדיל את הרווחים כשההשקעות מצליחות אך מגדיל באותה חדות את ההפסדים כשהן נכשלות."
+      }
+    }
+  ]
+}
