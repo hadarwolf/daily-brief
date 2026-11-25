@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -37,15 +37,13 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#1",
      "title": "The wind and the song: the treachery of AI",
      "published": "2026-11-23T11:01:00+00:00",
-     "summary": "As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#2",
      "title": "A colossal oscillation",
      "published": "2026-11-23T11:00:00+00:00",
-     "summary": "El Niño has upended global weather, shaping the fate of societies, for millennia. Is this past a clue to a turbulent future? - by Dagomar Degroot Read on Aeon",
-     "full_text_file": "essays/aeon_2.txt"
+     "summary": "El Niño has upended global weather, shaping the fate of societies, for millennia. Is this past a clue to a turbulent future? - by Dagomar Degroot Read on Aeon"
     },
     {
      "ref": "aeon#3",
@@ -146,81 +144,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
-     "title": "Best fiction 2026",
-     "published": "2026-11-24T07:33:57+00:00",
-     "summary": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa [new translation] Claudia Piñeiro, Cathedrals. Christian Kracht, Eurotrash [2025], and Air [2026]. Munir Hachemi, The Mulai. Olga Grjasnowa, My […] The post Best fiction 2026 appeared "
+     "title": "Gambling for Goals",
+     "published": "2026-11-24T19:33:13+00:00",
+     "summary": "Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test this theory […] The post Gambling for G"
     },
     {
      "ref": "marginal_revolution#1",
+     "title": "Tuesday assorted links",
+     "published": "2026-11-24T16:26:55+00:00",
+     "summary": "1. On language models writing their own weights. 2. “The Banksy of NBA media”? 3. Astra solves a historical mystery. 4. Some new Indian architecture. And more from Bloomberg. 5. The Icelandic tradition of liberty. 6. “Surprisingly though, data on real-world impacts of cyber attacks tells a less dire story.“ The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Best fiction 2026",
+     "published": "2026-11-24T07:33:57+00:00",
+     "summary": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa [new translation] Claudia Piñeiro, Cathedrals. Christian Kracht, Eurotrash [2025], and Air [2026]. Munir Hachemi, The Mulai. Egana Djabbarova, My […] The post Best fiction 2026 appeare"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "The Health Effects of Eating Red Meat",
      "published": "2026-11-24T06:15:54+00:00",
      "summary": "The subtitle of the paper is Natural Experiment in Alpha-Gal Syndrome, and the authors are Vishal Patel, Christopher M. Worsham, Michael Liu-Hass & Anupam Jena. The abstract: Observational associations between red meat consumption and cardiometabolic disease are confounded by diet and other health behaviors. Alpha-gal syndrome, a tick-borne allergy to mammalian meat, leads to an abrupt […] The pos"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "The AI gains that gdp misses",
      "published": "2026-11-23T18:44:20+00:00",
      "summary": "That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available degree of product variety rises sharply due to AI. But again, that effect is not captured […] The post The AI gains that gdp misses appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Monday assorted links",
      "published": "2026-11-23T17:01:36+00:00",
      "summary": "1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess players earn in prize money. 6. The rise and fall of the MBA. 7. Richard […] The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Still Unproven: Can Britain Build a Tunnel?",
      "published": "2026-11-23T12:20:34+00:00",
      "summary": "Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the second. Third irony: The tunnel still isn’t built. Hat tip: Alex Rich The post Still Unproven: Can Britain Build a Tunnel? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "The Tyranny of the Alphabet 2",
      "published": "2026-11-23T12:17:39+00:00",
      "summary": "I wrote about the Tyranny of the Alphabet many years ago. In economics the standard then was to list authors alphabetically: Faculty members in top departments with surnames beginning with letters earlier in the alphabet are substantially more likely to be tenured, be fellows of the Econometric Society, and even win Nobel prizes (let’s see, […] The post The Tyranny of the Alphabet 2 appeared first"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Best non-fiction books of 2026",
      "published": "2026-11-23T06:10:57+00:00",
      "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […] The post Best non-fiction books of 2026 appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Increasing pay for lower wage workers",
      "published": "2026-11-22T19:24:24+00:00",
      "summary": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external […] The post Increasing pay fo"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Sunday assorted links",
      "published": "2026-11-22T17:31:05+00:00",
      "summary": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes on user data vs. curated data. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Danish daughters",
      "published": "2026-11-22T07:40:20+00:00",
      "summary": "Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons follow similar health trajectories, with comparable levels of pre-existing conditions and healthcare utilization. After the stroke, a survival gap opens and grows, […] The post Danish "
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Will AI Growth Reach the Developing World?",
      "published": "2026-11-22T06:14:28+00:00",
      "summary": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and […] The post Will AI Growth Reach the Developing World? appeared first on Margina"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Saturday assorted links",
-     "published": "2026-11-21T16:41:52+00:00",
-     "summary": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5. Good AI policy ideas from Joshua Saxe. 6. Podcast with SBF from prison, have not had a chance to listen, […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "A simple observation",
-     "published": "2026-11-21T15:12:31+00:00",
-     "summary": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that “capabilities” do not necessarily translate into significant social and economic outcomes. Yet cybersecurity stocks are up considerably over the last few months, due to heightened cyber risk. So the […] The post A simple observation appeared first on Marg"
     }
    ]
   },
@@ -285,15 +283,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#9",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-     "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
-    },
-    {
-     "ref": "psyche#10",
      "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
+    },
+    {
+     "ref": "psyche#10",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
     },
     {
      "ref": "psyche#11",
@@ -342,6 +340,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "The DNA Repair Machinery That Secretly Powers Gene Editing",
   "Will AI Growth Reach the Developing World? An Economist Pushes Back on a Pessimistic Model",
   "Two Researchers Found the Only Four Things That Can Break a 'Perfectly Resilient' Network",
   "AI Companions Don't Replace Parents — They Expose Where Parenting Already Failed",
@@ -370,8 +369,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "Plan R: Split Who Builds Frontier AI From Who Profits From It",
   "Grief Isn't Only for the Dead — It's What Happens Whenever an Imagined Future Disappears",
   "Democracy's Paradox Finally Has a Shape — and It's a Klein Bottle",
-  "A short story asks: if a superintelligence conquered the world overnight, honestly and mostly gently, would resisting it even make sense?",
-  "Friction Isn't Progress's Enemy — It's the Engine That Drives It"
+  "A short story asks: if a superintelligence conquered the world overnight, honestly and mostly gently, would resisting it even make sense?"
  ]
 }
 </input>

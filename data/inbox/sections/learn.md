@@ -24,134 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2023,
-   "text": "Hibiscus Rising (pictured), a sculpture commemorating the life of David Oluwale, was unveiled in Leeds.",
+   "year": 2013,
+   "text": "English-Irish boy band One Direction released their third studio album Midnight Memories which debuted at number one on the Billboard 200 and became the best-selling album of 2013.",
    "context": [
-    "Hibiscus Rising (2023) is an outdoor sculpture in Leeds, England, by artist Yinka Shonibare which was unveiled on 24 November 2023 as part of LEEDS 2023. It commemorates the life and death of David Oluwale, a British-Nigerian man whose death in 1969 involved two members of Leeds City Police. Commissioned by LEEDS 2023 and the David Oluwale Memorial Association (DOMA), in partnership with Leeds City Council, the sculpture is, according to academic Dr. Emily Zobel Marshall, the first public artwork in the city to reflect its cultural diversity."
+    "One Direction, often shortened to 1D, was an English–Irish pop boy band formed in London in 2010. The group consisted of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson and Zayn Malik. The group sold over 70 million records worldwide, making them one of the best-selling boy bands of all time, before going on an indefinite hiatus in 2016."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2009,
-   "text": "The Avdhela Project, an Aromanian digital library and cultural initiative, was launched in Bucharest, Romania.",
+   "year": 1984,
+   "text": "Band Aid, a supergroup consisting of more than 30 leading British and Irish pop musicians, recorded the song \"Do They Know It's Christmas?\" to raise money for famine relief in Ethiopia.",
    "context": [
-    "The Avdhela Project, also known as the Library of Aromanian Culture, is a digital library and cultural initiative developed by the Predania Association. The Avdhela Project aims to collect, edit and open to the public academic works on the Aromanians based on a series of specific principles. It was launched on 24 November 2009 in Bucharest, Romania. Public events, the promotion of cultural works and the publication of audiovisual material are other activities carried out by the Avdhela Project in support of Aromanian culture."
+    "\"Do They Know It's Christmas?\" is a charity song written in 1984 by Bob Geldof and Midge Ure to raise money for the 1983–1985 famine in Ethiopia. It was first recorded by Band Aid, a supergroup consisting of popular British and Irish musicians, in a single day at Sarm West Studios in Notting Hill, London, in November 1984."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1976,
-   "text": "A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties.",
+   "year": 1981,
+   "text": "A group of Conservative members of Parliament wrote a letter outlining their opposition to the economic policy of Margaret Thatcher, leading to speculation over a split from the party.",
    "context": [
-    "An earthquake with an epicenter near Çaldıran, 20 km northeast of Muradiye, in the Van Province of eastern Turkey, occurred at 14:22 local time on 24 November 1976. The earthquake had a magnitude of 7.3 with a maximum intensity of X (Extreme) on the Mercalli intensity scale. The area of severe damage, where over 80% of the buildings were destroyed, covered an area of 2,000 square kilometres. There were between 4,000 and 5,000 casualties."
+    "The Gang of 25 or the Group of 25 was a cohort of British Conservative Party backbench members of Parliament (MPs) that threatened to vote against prime minister Margaret Thatcher's 1981 Autumn Statement. The statement contained monetarist measures to control inflation. Similar measures introduced since 1979 had reduced inflation but caused job losses in the manufacturing sector."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1971,
-   "text": "After collecting a ransom payout of $200,000, D. B. Cooper parachuted out of the airplane he had hijacked over the Pacific Northwest and disappeared.",
+   "year": 1975,
+   "text": "Upon Suriname's independence from the Netherlands, Johan Ferrier (pictured) became its first president.",
    "context": [
-    "On November 24, 1971, an unidentified man using the alias Dan Cooper, later erroneously known as D. B. Cooper, hijacked Northwest Orient Airlines Flight 305, a Boeing 727 aircraft flying from Portland, Oregon, to Seattle, Washington. Cooper told the flight crew he had a bomb, and demanded $200,000 in ransom and four parachutes upon landing in Seattle."
+    "Johan Henri Eliza Ferrier was a Surinamese politician who served as the first president of Suriname from 1975 to 1980. He was also the country's last governor-general before independence, serving from 1968 to 1975, before becoming the first president upon independence from the Kingdom of the Netherlands in 1975 and also served as the fifth prime minister from 1955 to 1958."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1963,
-   "text": "During a live television broadcast, businessman Jack Ruby shot and fatally wounded Lee Harvey Oswald, who assassinated U.S. president John F. Kennedy, fueling numerous conspiracy theories.",
+   "year": 1970,
+   "text": "After failing to instigate a military coup to restore the powers of the Emperor of Japan, author Yukio Mishima and a member of his militia committed ritual suicide.",
    "context": [
-    "Jack Leon Ruby was an American nightclub owner. He murdered Lee Harvey Oswald two days after the assassination of John F. Kennedy. He was born in Chicago, and operated nightclubs in Texas. According to the House Select Committee on Assassinations and journalists, Ruby had links to organized crime."
+    "The Mishima incident  occurred on November 25, 1970, when the Japanese author Yukio Mishima committed seppuku after calling on the Japan Self-Defense Forces to stage a coup d'état to abolish Article 9 of the Japanese Constitution and appealing to his own ideas and beliefs about reconstructing true national autonomy. The incident is sometimes called the Tatenokai incident , after the private militia led by Mishima whose members took part."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1943,
-   "text": "World War II: Following the American capture of Makin Atoll, USS Liscome Bay was sunk by a torpedo from Japanese submarine I-175, killing 644.",
+   "year": 1952,
+   "text": "Korean War: After 42 days of fighting, the Battle of Triangle Hill ended as American and South Korean units abandoned their attempt to capture the \"Iron Triangle\".",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC)."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1941,
-   "text": "The Holocaust: The Theresienstadt Ghetto (depicted) was founded as a waystation to Nazi extermination camps and a \"retirement settlement\" for elderly and prominent Jews to mislead their communities about the Final Solution.",
+   "year": 1951,
+   "text": "The left-wing Japanese novelist Wataru Kaji disappeared, leading to a government inquiry in which CIA involvement was investigated.",
    "context": [
-    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
+    "Wataru Kaji  was the nom de guerre for Mitsugi Seguchi, a Japanese writer, literary critic, and political activist."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1925,
-   "text": "The Eugene O'Neill Theatre (pictured) opened on Broadway, New York, with a production of the musical Mayflowers.",
+   "year": 1947,
+   "text": "McCarthyism: Executives from movie studios agreed to blacklist ten screenwriters and directors who were jailed for refusing to give testimony to the House Un-American Activities Committee.",
    "context": [
-    "The Eugene O'Neill Theatre, previously the Forrest Theatre and the Coronet Theatre, is a Broadway theater at 230 West 49th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. The theater was designed by Herbert J. Krapp and was constructed for the Shubert brothers. It opened in 1925 as part of a hotel and theater complex named after 19th-century tragedian Edwin Forrest. The modern theater, named in honor of American playwright Eugene O'Neill, has 1,108 seats across two levels and is operated by ATG Entertainment. The auditorium interior is a New York City designated landmark."
+    "McCarthyism is a political practice defined by the accusation and investigation of left-wing individuals of communist and Soviet influence on American institutions and of Soviet espionage in the United States during the late 1940s through the 1950s, heavily associated with the McCarthy era. After the mid-1950s, U.S. senator Joseph McCarthy, who had spearheaded the campaign, gradually lost his public popularity after several of his accusations were found to be false. The U.S. Supreme Court under Chief Justice Earl Warren made a series of rulings on civil and political rights that overturned several key laws and legislative directives, and helped bring an end to the Second Red Scare."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1922,
-   "text": "Irish Civil War: Irish nationalist author Erskine Childers was executed by the Irish Free State for illegally carrying a semi-automatic pistol.",
+   "year": 1936,
+   "text": "Nazi Germany and the Empire of Japan signed the Anti-Comintern Pact, agreeing that, if the Soviet Union attacked one of them, they would consult each other on measures to \"safeguard their common interests\".",
    "context": [
-    "The Irish Civil War was a conflict that followed the Irish War of Independence and accompanied the establishment of the Irish Free State, an entity independent from the United Kingdom but within the British Empire."
+    "The Anti-Comintern Pact, officially the Agreement against the Communist International, was an anti-communist pact concluded between Nazi Germany and the Empire of Japan on 25 November 1936 and directed against the Communist International (Comintern). It was signed by the German ambassador-at-large Joachim von Ribbentrop and the Japanese ambassador to Germany Kintomo Mushanokōji. Italy joined in 1937, but it was legally recognized as an original signatory by the terms of its entry. Spain and Hungary joined in 1939. Other countries joined during World War II."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1918,
-   "text": "The Podgorica Assembly convened in Montenegro, with the intention of uniting with the Kingdom of Serbia.",
+   "year": 1917,
+   "text": "World War I: German troops invaded Portuguese East Africa in an attempt to escape superior British forces to the north and resupply from captured Portuguese materiel.",
    "context": [
-    "The Great People's Assembly of the Serb People in Montenegro, commonly known as the Podgorica Assembly, was an ad hoc popular assembly convened in November 1918, after the end of World War I in the Kingdom of Montenegro. The committee convened the assembly with the aim of facilitating an unconditional union of Montenegro and Serbia and removing Nikola I of Montenegro from the throne. The assembly was organised by a committee supported by and coordinating with the government of the Kingdom of Serbia. The unification was successful and preceded the establishment of the Kingdom of Serbs, Croats and Slovenes as a unified state of South Slavs by mere days. The unification was justified by the need to establish a single Serbian state for all Serbs, including Montenegro whose population as well as Nikola I felt that Montenegro belonged to the Serbian nation and largely supported the unification."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1906,
-   "text": "The second of two games between two Ohio football teams took place, after which accusations were made that players conspired to deliberately lose games.",
+   "year": 1901,
+   "text": "Gustav Mahler's Symphony No. 4 premiered in Munich.",
    "context": [
-    "American football, referred to simply as football in the United States and Canada and also known as gridiron football, is a sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or throwing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. The offense must advance the ball at least ten yards in four downs or plays; if they fail, they turn over the football to the defense. If they succeed, they are given a new set of four downs to continue the drive. Points are scored primarily by advancing the ball into the opposing team's end zone for a touchdown or kicking the ball through the opponent's goalposts for a field goal. The team with the most points at the end of the game wins. In the case of a tie after four quarters, the game enters overtime."
+    "Gustav Mahler was an Austro-Bohemian Romantic composer, and one of the leading conductors of his generation. As a composer he acted as a bridge between the 19th-century tradition and the modernism of the early 20th century. While in his lifetime his status as a conductor was established beyond question, his own music gained wide popularity only after periods of relative neglect, which included a ban on its performance in much of Europe during the Nazi era. After 1945 his compositions were rediscovered by a new generation of listeners; Mahler then became one of the most frequently performed and recorded of all composers, a position he has sustained into the 21st century."
    ]
   },
   {
    "ref": "wikipedia#11",
+   "year": 1885,
+   "text": "Banff National Park (pictured), the oldest national park in Canada, was established as the Banff Hot Springs Reserve.",
+   "context": [
+    "Banff National Park is Canada's first national park, established in 1885 as Rocky Mountains Park. Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes. It is bordered by Jasper National Park to the north, Yoho National Park and Kootenay National Park to the west in British Columbia, and Kananaskis Country to the southeast. The main commercial centre of the park is the town of Banff, in the Bow River valley."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
    "year": 1863,
-   "text": "American Civil War: Union forces captured Lookout Mountain, helping them break the Confederate siege of Chattanooga, Tennessee.",
+   "text": "American Civil War: Confederate forces were defeated at the Battle of Missionary Ridge in Chattanooga, Tennessee, opening the door to the Union's invasion of the Deep South.",
    "context": [
     "The American Civil War was fought in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
-   "ref": "wikipedia#12",
-   "year": 1859,
-   "text": "British naturalist Charles Darwin's On the Origin of Species was first published, and sold out its initial print run on the first day.",
-   "context": [
-    "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species have descended from a common ancestor is now accepted and considered a fundamental scientific concept. In a joint presentation with Alfred Russel Wallace, he proposed that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey."
-   ]
-  },
-  {
    "ref": "wikipedia#13",
-   "year": 1643,
-   "text": "Thirty Years' War: Holy Roman Empire, Bavarian and Spanish forces led by Franz von Mercy defeated the French army in Germany led by Marshal Josias von Rantzau at the Battle of Tuttlingen.",
+   "year": 1795,
+   "text": "Stanisław II Augustus (pictured), the last king of Poland, was forced to abdicate after the Third Partition of the Polish–Lithuanian Commonwealth.",
    "context": [
-    "The Thirty Years' War, fought primarily in Central Europe between 1618 and 1648, was one of the most destructive conflicts in European history. An estimated 4.5 to 8 million soldiers and civilians died from the effects of battle, famine, or disease, with parts of Germany reporting population declines of more than 50%. Related conflicts include the Eighty Years' War, the War of the Mantuan Succession, the Franco–Spanish War, the Torstenson War, and Portuguese Restoration War."
+    "Stanisław II August, known also by his regnal Latin name Stanislaus II Augustus, and as Stanisław August Poniatowski, was King of Poland and Grand Duke of Lithuania from 1764 to 1795, and the last monarch of the Polish–Lithuanian Commonwealth."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1542,
-   "text": "Anglo-Scottish Wars: English forces captured about 1,200 Scots at the Battle of Solway Moss.",
+   "year": 1759,
+   "text": "The second of two strong earthquakes struck the Levant and destroyed all the villages in the Beqaa Valley.",
    "context": [
-    "The Anglo-Scottish Wars comprise the various battles between the Kingdom of England and the Kingdom of Scotland from the time of the Wars of Independence in the early 14th century through to the latter years of the 16th century."
+    "The 1759 Near East earthquakes shook a large portion of the Levant in October and November of that year. This geographical crossroads in the Eastern Mediterranean were at the time under the rule of the Ottoman Empire. The ruins of Baalbek, a settlement in the Beqaa Valley of Lebanon east of the Litani River, were badly damaged. These 1759 events, along with the earlier 1202 Syria earthquake, are likely the strongest historical earthquakes in the region."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1221,
-   "text": "Mongol invasion of the Khwarazmian Empire: Genghis Khan defeated Khwarazmian prince Jalal al-Din in the Battle of the Indus.",
+   "year": 1678,
+   "text": "Trunajaya rebellion: Mataram and Dutch troops successfully assaulted the rebel stronghold of Kediri in eastern Java.",
    "context": [
-    "Between 1219 and 1221, the Mongol forces under Genghis Khan invaded the lands of the Khwarazmian Empire in Central Asia. The campaign, which followed the annexation of the Qara Khitai Khanate, saw widespread devastation and atrocities. The invasion marked the completion of the Mongol conquest of Central Asia, and began the Mongol conquest of Persia."
+    "The Trunajaya Rebellion or Trunajaya War was a conflict in the 1670s led by the Madurese prince Trunajaya and Makassarese fighters against the Mataram Sultanate and the Dutch East India Company (VOC) in Java."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1491,
+   "text": "Reconquista: The signing of the Treaty of Granada (depicted) effectively concluded the Granada War between Castile-Aragon and the Emirate of Granada.",
+   "context": [
+    "The Reconquista or the fall of al-Andalus was a series of military campaigns by northern Iberian Christian polities against Muslim-ruled al-Andalus, which had been part of the Visigothic Kingdom before the Muslim Conquest of 711. The Reconquista concluded in 1492 with the capture of Granada by the Catholic Monarchs of Spain, thereby ending the presence of any Muslim rule on the Iberian Peninsula."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Bootstrapping (מיזם ממומן בכוחות עצמיים)",
+  "Dead cat bounce (קפיצת החתול המת)",
+  "Punching above your weight (להילחם מעל המשקל שלך)",
   "Zombie company (חברת זומבי)",
   "Sweat equity (הון יזע)",
   "Burn the boats (לשרוף את הסירות)",
@@ -238,10 +249,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Eating someone's lunch (לאכול למישהו את הארוחה)",
   "Negative carry (קארי שלילי)",
   "Barbell strategy (אסטרטגיית המשקולת)",
-  "Don't fight the Fed (אל תתעסק עם ה-Fed)",
-  "Shadow banking (בנקאות צל)",
-  "Talk your book (לדבר לטובת הפוזיציה שלך)",
-  "Picking up pennies in front of a steamroller (ללקט אגורות לפני מכבש)"
+  "Don't fight the Fed (אל תתעסק עם ה-Fed)"
  ]
 }
 </input>
