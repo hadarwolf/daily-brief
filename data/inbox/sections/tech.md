@@ -146,105 +146,111 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת",
+     "published": "2026-11-25T10:41:51+00:00",
+     "summary": "אם גם אתם מצאתם את עצמכם בוהים במסך ריק לפני כשבועיים ותוהים למה לעזאזל האאוטלוק שלכם לא זז או למה הטימס התנתק, תתנחמו בזה שאתם לא בצוותי ההנדסה של מיקרוסופט, כי מתברר שמאחורי הקלעים במיקרוסופט המצב מלחיץ הרבה יותר. מיילים פנימיים שהגיעו לרויטרס חושפים עכשיו שבעקבות התקלה שנמשכה 24 שעות, הכריזה מיקרוסופט על מצב חירום […] The post מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת appeared first on ג"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "מפתחים Deep Tech ומחפשים משקיעים ולקוחות? זה בשבילכם",
+     "published": "2026-11-25T09:28:27+00:00",
+     "summary": "מסחור טכנולוגיות Deep Tech הוא תהליך מורכב. סטארטאפים רבים מתחילים את דרכם עם היכרות מוגבלת של הלקוחות והשוק הפוטנציאלי, גישה מצומצמת למקבלי החלטות בתאגידים והצעת ערך ומודל עסקי שעדיין דורשים חידוד לפני כניסה לשוק. הם לא צריכים רק צ'ק או חיבור למשקיע נוסף, אלא זקוקים לשותף אסטרטגי שמסוגל ללוות אותם לאורך הדרך, מהמעבדה אל השוק. […] The post מפתחים Deep Tech ומחפשים משקיעים ולקוחות? זה בשבילכם appea"
+    },
+    {
+     "ref": "geektime#2",
+     "title": "דוח ה-AI של שירות התעסוקה: 211% יותר מתכנתים דורשי עבודה",
+     "published": "2026-11-25T09:06:53+00:00",
+     "summary": "פעם אמרו שכלי AI לא יחליפו מתכנתים, אלא רק \"יהפכו אותם ליעילים יותר\" או \"יחליפו את מי שלא משתמש ב-AI\". ובכן, דוח חדש שמפרסם היום (ד') שירות התעסוקה מצייר תמונה קצת יותר מורכבת לעובדים בתעשיית ההייטק המקומית. לפי הנתונים, 56% מהשימוש שנבדק ב-Claude במקצוע \"פיתוח התוכנה וניתוח היישומים\" מוגדר כ\"אוטומציה\", כלומר האצלת ביצוע המשימה למערכת, […] The post דוח ה-AI של שירות התעסוקה: 211% יותר מתכנתים דורש"
+    },
+    {
+     "ref": "geektime#3",
+     "title": "פיצ'ר האפליקציות החדש של אנת'רופיק הוא איום ישיר על אפל וגוגל",
+     "published": "2026-11-25T07:56:36+00:00",
+     "summary": "בשנה האחרונה נדמה שבכל פעם ש-Anthropic משיקה פיצ'ר חדש ל-Claude, האינטרנט ממהר כבר להספיד תעשיות שלמות ולהכניס את הבורסות ברחבי העולם לסחרור. אבל הפעם, אנת'רופיק מכוונת את התותחים שלה למקום אחר לגמרי, עם פיצ'ר חדש שיסייע אולי למשתמשים, אבל עשוי גם לאיים על חנויות האפליקציות של אפל וגוגל. כל אחד יכול ליצור ולפרסם אפליקציה אם […] The post פיצ'ר האפליקציות החדש של אנת'רופיק הוא איום ישיר על אפל וגוגל"
+    },
+    {
+     "ref": "geektime#4",
      "title": "גוגל רוצה ליצור לכם ערוץ טלוויזיה. והכוכבים? אתם",
      "published": "2026-11-24T16:31:28+00:00",
      "summary": "ראיתם ביוטיוב את תקציר המשחק של דני אבדיה מהלילה, כשהוא ניצח את לברון ג'יימס? מעולה. כי אם החלום של גוגל יתגשם, הסרטון הבא שיצוף לכם כשתפתחו את אפליקציות יוטיוב בטלוויזיה יהיה בכלל סרטון AI על משחק אחר של הכדורסלן הישראלי הגדול בכל הזמנים, שבו אתם פוגשים את אבדיה על הפרקט במדיסון סקוור גארדן. נשמע מוטרף? […] The post גוגל רוצה ליצור לכם ערוץ טלוויזיה. והכוכבים? אתם appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#5",
      "title": "\"הסוכן הוא רק הצינור\": יוצאי אימפרבה מגייסים 10 מיליון דולר כדי לשמור על סוכני ה-AI שלכם",
      "published": "2026-11-24T13:10:48+00:00",
      "summary": "לא. אף אחד במשרד לא רוצה לשמוע על האייג'נט שבנית שמכין רשימת קניות בסופר ומתאם לך דייטים עם בן או בת הזוג. הבנו את הקטע. אבל אם בניתם כבר סוכנים שמשמשים אתכם במקום העבודה שלכם, זה כבר יותר מעניין. זה כנראה מספיק מעניין כדי שבכירי אימפרבה לשעבר יציעו פלטפורמה שלמה שתשגיח על הסוכנים שלכם, ויגייסו […] The post \"הסוכן הוא רק הצינור\": יוצאי אימפרבה מגייסים 10 מיליון דולר כדי לשמור על סוכני ה-AI שלכם ap"
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#6",
      "title": "גייסו 53 מיליון דולר כדי שהאייג'נטים יפסיקו לנפח לכם את החשבון",
      "published": "2026-11-24T13:00:14+00:00",
      "summary": "סוכני AI כבר כותבים ומריצים קוד בארגונים בקצב מסחרר, אבל מישהו צריך לנהל את כל עומס המחשוב הזה בלי לשרוף את התקציב. סטארטאפ ישראלי חדש בשם Zipher (זייפר), שנחשף היום (ג') עם גיוס משמעותי, רוצה לתת לסוכנים שלו לנהל את העבודה מאחורי הקלעים – ולחתוך בעלויות הענן. אותה משימה, חשבון אחר \"ב-Zipher הלקוח מגדיר יעדי […] The post גייסו 53 מיליון דולר כדי שהאייג'נטים יפסיקו לנפח לכם את החשבון appeared first"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#7",
      "title": "נפתחה ההרשמה לתוכנית ה-Deep Tech MBA של אוניברסיטת תל אביב",
      "published": "2026-11-24T12:07:35+00:00",
      "summary": "אם אתם קוראים את זה, כנראה שיש לכם מומחיות טכנולוגית בעולמות הפיתוח והמחקר. אבל האם אתם יודעים להפוך אותה ליכולת לנהל עסק או יחידה עסקית, או להוביל מיזם המתבסס על טכנולוגיה עמוקה? פיתוח טכנולוגיה פורצת דרך הוא רק חלק מהדרך להפוך רעיון לחברה מצליחה. בתחומים כמו AI, סייבר, רובוטיקה, ביוטכנולוגיה, טכנולוגיות רפואיות, אקלים ו-Deep Tech, […] The post נפתחה ההרשמה לתוכנית ה-Deep Tech MBA של אוניברסיטת ת"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#8",
      "title": "עוד 320 מיליון דולר להשקעות בסטארטאפים ישראלים",
      "published": "2026-11-24T10:03:47+00:00",
      "summary": "מתוך כ-200 קרנות הון סיכון בישראל, פחות מעשר מתמקדות בשלבי צמיחה מאוחרים, זאת למרות שהיקף ההשקעות בתחום זינק לכ-10 מיליארד דולר בשנה שעברה. למגרש הזה נכנסת קרן Key1 Capital, שהודיעה על סגירה ראשונה של 320 מיליון דולר לקרן השנייה שלה. על פי הודעת הקרן, כ-95% מההתחייבויות להשקעה הגיעו מגופים מוסדיים, פאמילי אופיסס ויזמים שכבר השקיעו […] The post עוד 320 מיליון דולר להשקעות בסטארטאפים ישראלים appeare"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#9",
      "title": "ה-CISO של אמזון: \"חסמנו 2,900 צפון-קוריאנים שניסו להתקבל לעבודה\"",
      "published": "2026-11-24T09:16:34+00:00",
      "summary": "מאת שחר פלד \"חסמנו לפחות 2,900 גורמים מצפון-קוריאה שניסו להתקבל לעבודה באמזון\", סיפר סי-ג'יי מוזס, מנהל אבטחת המידע של ענקית האיקומרס ושירותי הענן האמריקאית. \"הם משתמשים ב-AI כדי לבנות זהויות בדויות שנראות אמינות, ולהתקבל לעבודה בחברות כמו שלנו\", הסביר. \"הכסף שהם מקבלים מהעבודה בחברות האלה חוזר לצפון-קוריאה ומממן את הפעילות הצבאית של המשטר. ה-AI מאפשר […] The post ה-CISO של אמזון: \"חסמנו 2,900 צפו"
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#10",
      "title": "תחקיר חדש חושף את פרויקט המיפוי הסודי של Google Maps ביהודה ושומרון",
      "published": "2026-11-24T08:19:30+00:00",
      "summary": "מפות באפליקציות אמורות לשקף את המציאות בשטח, אבל בלא מעט איזורים בעולם – החל מאוקראינה ומפרץ אמריקה-מקסיקו ועד יהודה ושומרון – כל קו על המסך הוא פוטנציאל להפוך למוקש פוליטי. תחקיר חדש חושף כיצד מנהל מוצר ב-Google Maps השקיע יותר משש שנים בניסיון לשנות את הניווט לטובת התושבים הפלסטינים שגרים באיזור – ומה קרה לכל […] The post תחקיר חדש חושף את פרויקט המיפוי הסודי של Google Maps ביהודה ושומרון appear"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#11",
      "title": "\"ישו של ה-GPU קם לתחייה\": בכירי הטק חוגגים את חזרתו של ג'נסן",
      "published": "2026-11-24T07:06:42+00:00",
      "summary": "אחרי 11 ימים של דרמה שכללה חשיפת רומנים, התנצלות פומבית של אחד האנשים החזקים בעולם, חשש לריגול סיני ואפילו התערבות של נשיא ארה\"ב, אתמול (ב') חזר ג'נסן הואנג לכיסא מנכ\"ל אנבידיה. הדירקטוריון, שרק בשבוע שעבר נזכיר שלל את האפשרות הזאת, הצביע פה אחד בעד החזרתו, והתגובות בעמק הסיליקון לא איחרו להגיע. אם לשפוט לפי הציוצים, […] The post \"ישו של ה-GPU קם לתחייה\": בכירי הטק חוגגים את חזרתו של ג'נסן appeare"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#12",
      "title": "עסקת אמזון ודקארט: סימני השאלה הגדולים שנותרו",
      "published": "2026-11-23T16:43:17+00:00",
      "summary": "אין ספק ש-Decart הישראלית היא אחד מהסיפורים המרשימים ויוצאי הדופן בשנים האחרונות בהייטק הישראלי. החברה, שהוקמה רק בספטמבר 2023 על ידי דין ואוריין לייטרסדורף ומשה שלו, הצליחה תוך פחות משלוש שנים להציג טכנולוגיה מרשימה ובשלה, לזנק (בסבב הגיוס האחרון) לשווי מוערך של 4 מיליארד דולר ולגייס כ-400 מיליון דולר משמות ענקיים כמו סקויה, בנצ'מרק, אנבידיה […] The post עסקת אמזון ודקארט: סימני השאלה הגדולים שנו"
     },
     {
-     "ref": "geektime#9",
+     "ref": "geektime#13",
      "title": "ברייקינג: דירקטוריון NVIDIA החזיר את ג'נסן הואנג לתפקיד המנכ\"ל",
      "published": "2026-11-23T14:06:23+00:00",
      "summary": "דירקטוריון אנבידיה הודיע היום (ב') בהפתעה על החזרת ג'נסן הואנג לתפקיד מנכ\"ל אנבידיה וחבר הדירקטוריון – שבוע וחצי אחרי שהתפטר על רקע רומנים עם אישה החשודה בריגול למען סין ובכירה שעבדה תחתיו. ההחלטה התקבלה פה אחד, ובדירקטוריון ציינו כי הגיעה לאחר שיחות איתו וקבלת התייחסות מבכירים בממשל האמריקאי. במקביל, בדירקטוריון מציינים כי החקירה העצמאית בנושא […] The post ברייקינג: דירקטוריון NVIDIA החזיר את ג'נ"
     },
     {
-     "ref": "geektime#10",
+     "ref": "geektime#14",
      "title": "אמזון רוכשת את הטכנולוגיות של Decart הישראלית",
      "published": "2026-11-23T13:49:12+00:00",
      "summary": "אחרי הדיווחים וההדלפות, אמזון הודיעה היום (ב') רשמית על רכישת הטכנולוגיות של הסטארטאפ הישראלי Decart (דקארט). החברות לא פרסמו פרטים נוספים על העסקה. דיווחים קודמים (גם כאן) הזכירו סכומים של עד 7.5 מיליארד דולר, עם זאת הטיב המלא של העסקה אינו ברור עדיין וגם הסכומים. עוד כמה סימני שאלה על העסקה – כאן. רכישה אחרי […] The post אמזון רוכשת את הטכנולוגיות של Decart הישראלית appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#11",
+     "ref": "geektime#15",
      "title": "רגע לפני שמחשבים קוונטיים שוברים את כל ההצפנות שלנו: הסטארטאפ הישראלי Q.security נחשף עם גיוס סיד",
      "published": "2026-11-23T13:00:42+00:00",
      "summary": "האיום הקוונטי הוא כבר מזמן לא תרגיל תיאורטי באקדמיה, וגם לא עוד איזו באזוורד שזורקים במצגות משקיעים. מחשבים קוונטיים עתידיים צפויים לפצח את אלגוריתמי ההצפנה והחתימה הדיגיטלית שמגינים כיום על רוב המידע ברשת. במילים אחרות, זו לא שאלה של האם, אלא מתי. מי שרוצה לעזור לחברות ולארגונים להתכונן ליום הזה היא חברת הסייבר הישראלית Q.security […] The post רגע לפני שמחשבים קוונטיים שוברים את כל ההצפנות שלנו: "
     },
     {
-     "ref": "geektime#12",
+     "ref": "geektime#16",
      "title": "איך הצלחנו להריץ יותר מ-2.5 מיליארד בקשות יומיות בפרודקשן – בלי קריסה אחת",
      "published": "2026-11-23T12:44:58+00:00",
      "summary": "מאת תום צייגר כשמריצים מיליארדי משימות ביום, האתגר הוא לא רק לעבד אותן מהר, אלא גם לוודא שעומס של לקוח אחד לא הופך לצוואר בקבוק עבור כולם. כשכל פרויקט מייצר מיליוני פריטים, וכל אחד מהם צריך לעבור שרשרת של סריקה, עיבוד והעברת נתונים, גם החלטות ארכיטקטוניות קטנות עלולות להפוך לבעיות ענקיות בסקייל. אז איך בונים […] The post איך הצלחנו להריץ יותר מ-2.5 מיליארד בקשות יומיות בפרודקשן – בלי קריסה אחת app"
     },
     {
-     "ref": "geektime#13",
+     "ref": "geektime#17",
      "title": "עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44 מיליארד דולר",
      "published": "2026-11-23T11:57:36+00:00",
      "summary": "ענקית הסייבר האמריקאית CrowdStrike הודיעה היום (ב') על רכישת Zscaler בעסקת מניות בשווי של כ-43.9 מיליארד דולר, באחת מהעסקאות הגדולות ביותר בתולדות ענף הסייבר העולמי. העסקה משקפת שווי של כ-260 דולר למניית זיסקיילר ופרמיה של כ-34% על מחיר הסגירה שלה ביום שישי האחרון. בעלי המניות של קראודסטרייק יחזיקו בכ-84% מהחברה הממוזגת, בעוד שבעלי המניות של […] The post עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44"
-    },
-    {
-     "ref": "geektime#14",
-     "title": "עברתם חברה כדי לשדרג את השכר? תבדקו שלא הפסדתם אלף שקל בחודש",
-     "published": "2026-11-23T10:03:41+00:00",
-     "summary": "מאת מיטל כהן עצרתם פעם לשאול איך Job Hopping משפיע על הכסף שיחכה לכם אחרי שתפרשו? מעבר תכוף בין מקומות עבודה הוא פרקטיקה מקובלת בהייטק, ולעתים קרובות היא ממש הכרחית אם רוצים להתקדם, להתפתח מקצועית ולהרוויח יותר. אבל יש כמה החלטות שקשורות במעברים האלה, שעשויות להשפיע על שנים של חיסכון. הבעיה היא לא עצם המעבר, […] The post עברתם חברה כדי לשדרג את השכר? תבדקו שלא הפסדתם אלף שקל בחודש appeared first o"
-    },
-    {
-     "ref": "geektime#15",
-     "title": "נגמרה החגיגה: גוגל מתחילה להקשות על התקנת אפליקציות מחוץ לחנות",
-     "published": "2026-11-23T09:34:31+00:00",
-     "summary": "אחד היתרונות הגדולים של משתמשי אנדרואיד על חבריהם, בעלי המכשיר עם התפוח הנגוס על גב המכשיר, הוא החופש להתקין אפליקציות מאיפה שהם רק רוצים. מצאתם אפליקציה מעניינת בגיטהאב? רוצים להוריד אפליקציה שלא נמצאת ב-Google Play או להשתמש בחנות אפליקציות חלופית? פשוט מורידים את קובץ ה-APK, מתקינים ונהנים. אלא שבקרוב התהליך הזה עשוי להפוך למורכב הרבה […] The post נגמרה החגיגה: גוגל מתחילה להקשות על התקנת אפליק"
-    },
-    {
-     "ref": "geektime#16",
-     "title": "לאפל יש בעיה רצינית, והיא רק עכשיו מתחילה לעבוד עליה",
-     "published": "2026-11-23T07:46:03+00:00",
-     "summary": "אפל נמצאת בנקודה מאוד מעניינת. בעוד המניות של ענקיות הטכנולוגיה קורסות באופן מרהיב, מניית אפל מסכמת עלייה של יותר מ-26% מתחילת השנה. איכשהו, נראה שההימור של אפל, שהיה לא להמר על תחום ה-AI, השתלם לה בדיעבד. אולם כעת, אחרי כמה שינויים משמעותיים מאוד בשוק, יכול להיות שהיא נמצאת בדרך לצרה הרבה יותר גדולה. הסוכנים באים […] The post לאפל יש בעיה רצינית, והיא רק עכשיו מתחילה לעבוד עליה appeared first on "
     }
    ]
   },
@@ -254,69 +260,75 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-     "published": "2026-11-25T01:19:26+00:00",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 217 # Comments: 69"
+     "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+     "published": "2026-11-25T03:23:07+00:00",
+     "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 401 # Comments: 55"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Heart attack and stroke risk detectable decades in advance",
-     "published": "2026-11-24T21:51:21+00:00",
-     "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 177 # Comments: 79"
+     "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+     "published": "2026-11-25T03:04:37+00:00",
+     "summary": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 213 # Comments: 76"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "published": "2026-11-24T21:02:22+00:00",
-     "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 197 # Comments: 58"
+     "title": "I've been drinking wine in my kitchen",
+     "published": "2026-11-25T03:02:10+00:00",
+     "summary": "Article URL: https://scottaaronson.blog/?p=10362 Comments URL: https://news.ycombinator.com/item?id=50637874 Points: 208 # Comments: 182"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Ternary Bonsai 2.5 27B",
-     "published": "2026-11-24T20:08:03+00:00",
-     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 368 # Comments: 126"
+     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+     "published": "2026-11-25T02:34:21+00:00",
+     "summary": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 245 # Comments: 100"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Active intrusion campaign against Check Point security management servers",
-     "published": "2026-11-24T16:32:17+00:00",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 271 # Comments: 139"
+     "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+     "published": "2026-11-25T01:19:26+00:00",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 661 # Comments: 353"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Jetty Pro",
-     "published": "2026-11-24T16:23:02+00:00",
-     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 285 # Comments: 125"
+     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+     "published": "2026-11-25T00:54:49+00:00",
+     "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 261 # Comments: 45"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "A training engine for your local model, using your idle compute",
-     "published": "2026-11-24T15:03:40+00:00",
-     "summary": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 191 # Comments: 64"
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "published": "2026-11-24T21:02:22+00:00",
+     "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 270 # Comments: 84"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "GTA 6 Running on Windows",
-     "published": "2026-11-24T13:19:31+00:00",
-     "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 314 # Comments: 400"
+     "title": "Ternary Bonsai 2.5 27B",
+     "published": "2026-11-24T20:08:03+00:00",
+     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 456 # Comments: 141"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "LLM agents work for their parent companies, not for you",
-     "published": "2026-11-24T12:40:15+00:00",
-     "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 940 # Comments: 392"
+     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+     "published": "2026-11-24T16:45:44+00:00",
+     "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy? Now I've got 24h to prove we didn't. Has anyone dealt with this too? How can you prove that you ar"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Worshipping at the altar of Brendan Gregg",
-     "published": "2026-11-24T10:50:14+00:00",
-     "summary": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg Comments URL: https://news.ycombinator.com/item?id=50626413 Points: 228 # Comments: 45"
+     "title": "Active intrusion campaign against Check Point security management servers",
+     "published": "2026-11-24T16:32:17+00:00",
+     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 284 # Comments: 141"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Quad9 pulled their DNS service from France",
-     "published": "2026-11-24T08:33:14+00:00",
-     "summary": "Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/ Comments URL: https://news.ycombinator.com/item?id=50625384 Points: 367 # Comments: 216"
+     "title": "GTA 6 Running on Windows",
+     "published": "2026-11-24T13:19:31+00:00",
+     "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 406 # Comments: 483"
+    },
+    {
+     "ref": "hn_frontpage#11",
+     "title": "An Italian folding bicycle design that fits into a suitcase",
+     "published": "2026-11-23T12:40:08+00:00",
+     "summary": "Article URL: https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase Comments URL: https://news.ycombinator.com/item?id=50610820 Points: 185 # Comments: 121"
     }
    ]
   },
@@ -368,9 +380,9 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "mit_tech_review#0",
-     "title": "Raising the stakes for enterprise networks with AI modernization",
-     "published": "2026-11-24T15:15:16+00:00",
-     "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…"
+     "title": "AI is straining America’s open records systems",
+     "published": "2026-11-25T10:00:00+00:00",
+     "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…"
     },
     {
      "ref": "mit_tech_review#1",

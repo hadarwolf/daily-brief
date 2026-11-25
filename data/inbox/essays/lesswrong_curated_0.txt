@@ -156,6 +156,8 @@ I think this is... not the most accessibly written version of itself. It's dense
 
 Why use a percentage-based reallocation instead of a compute cap? It seems to me that what we really care about is the maximum number of FLOPs used to train a model. We're already tracking compute usage, so it seems more direct and equitable across companies to impose an absolute cap rather than one based on a percentage of available compute.
 
+Update: wrote a post diving more into the pros and cons of compute reallocation and a compute cap
+
 A minor comment (maybe just a footnote) - auditing & compute-resource scope should be broad enough that if an AI company switched to using large numbers of GPUs which are just below the minimum capability needed to be reported (e.g. buying large numbers of consumer-grade GPUs and classifying them as internal IT/office expenses rather than compute expenses), it'd get noticed at the scale necessary to meaningfully contribute to total compute.
 
 This is an interesting proposal. One possible issue is: whoever sets the cap needs to know progress per unit of compute, and that's what labs would be motivated to hide. For example, if a lab discovers an algorithmic advantage (one that allows them to do capabilities R&D with fewer FLOPs), they would have a disincentive to reveal it, as doing so might cause the cap to be lowered.
