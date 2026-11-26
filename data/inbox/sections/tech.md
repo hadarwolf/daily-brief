@@ -146,84 +146,90 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים",
+     "published": "2026-11-26T12:00:30+00:00",
+     "summary": "שלוש שעות ישבתי בקולנוע ועברתי סקאלה לא הגיונית של רגשות כלפי אישה, שחשבתי שאני יודע כבר הכל על הסיפור שלה, אחרי שסיקרתי אותה ב-7 השנים האחרונות. קוראים לה אליזבת הולמס, כנראה שמעתם עליה. בשקט בשקט הסכימה ליזי (אני מרשה לעצמי) שאחד הקומיקאים והבמאים ההזויים והמתוחכמים בעולם ילווה אותה, בתקופה אולי הכי רגישה שיש – בימים […] The post בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים app"
+    },
+    {
+     "ref": "geektime#1",
      "title": "תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM",
      "published": "2026-11-26T09:43:58+00:00",
      "summary": "דרכונים בתיק? צ'ק. סוללה ניידת? צ'ק. איירטאג? צ'ק. ומה לגבי חבילת גלישה? אולי שילמתם מאות שקלים מיותרים לחברת הסלולר שלכם, אולי החלטתם להתחיל את הטיול שלכם בחיפוש אחר סים מקומי באחת מהחנויות, ואולי עשיתם את הדבר ההגיוני יותר לרוב, ובחרתם eSim של חברות כמו Airalo ואחרות. אבל עכשיו נראה שאולי בפעם הבאה שתטוסו תהיה עוד […] The post תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM appeared first on"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#2",
      "title": "ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון מסוגו",
      "published": "2026-11-26T08:42:18+00:00",
      "summary": "החזון של אילון מאסק (ושל אחרים לפניו) לשלוט במחשבים ולהזיז איברים בגוף בכוח המחשבה בלבד הולך והופך לאט לאט ממדע בדיוני למציאות. חברת Neuralink הודיעה אתמול (ד') שקיבלה אישור ממנהל המזון והתרופות האמריקאי, ה-FDA, להשיק את LINK, הניסוי הגדול הראשון שלה בארצות הברית. במסגרת הניסוי היא תבדוק את ה-BCI או ממשק המוח-מחשב שלה על מספר […] The post ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון "
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#3",
      "title": "הפריצה הגדולה ל-1Password: כל מה שאתם צריכים לדעת (ולעשות)",
      "published": "2026-11-26T07:42:53+00:00",
      "summary": "אחד הדברים הטובים ביותר שאתם יכולים לעשות לאבטחת המידע שלכם זה להשתמש במנהל סיסמאות. במקום למחזר סיסמאות, לשכוח אותן ולהזין אותן בכל פעם מחדש, מנהלי הסיסמאות יכולים לג'נרט לכם סיסמאות חזקות הרבה יותר, לשמור על ה-Passkeys שלכם, להתחבר באמצעותם ולהזין עבורכם את הסיסמאות בלי שתצטרכו לזכור אותן. לשימוש יומיומי בדרך כלל מספיק לזכור את סיסמת […] The post הפריצה הגדולה ל-1Password: כל מה שאתם צריכים לדעת"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#4",
      "title": "הכפתור החדש של פיירפוקס בכלל לא מיועד לפורנו. מה פתאום",
      "published": "2026-11-25T16:38:46+00:00",
      "summary": "כן. הנתונים מראים ששום דבר לא יזיז אתכם מכרום, אבל אולי? מוזילה הכריזה הלילה (ג') על עדכון חדש לדפדפן שלה, ובראשו פיצ'ר חדש: כפתור חדש שפשוט ימחק את כל העקבות שלכם ברגע. מעניין למה תשתמשו בזה. כפתור אש חברת Mozilla הכריזה על פיירפוקס 161, הגרסה החדשה של הדפדפן שממשיך להיאבק בכרום, ויחד איתה מגיע כפתור […] The post הכפתור החדש של פיירפוקס בכלל לא מיועד לפורנו. מה פתאום appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#5",
      "title": "וואטסאפ השיקה בישראל הודעות מתוזמנות",
      "published": "2026-11-25T15:21:23+00:00",
      "summary": "וואטסאפ הודיעה היום (ה') שהיא משיקה רשמית גם בישראל את האפשרות החדשה לתזמון הודעות טקסט, תמונות או וידאו. הפיצ'ר החדש מגיע אחרי שהוא כבר הגיע למשתמשים ראשונים בתוכנית הבטא של וואטסאפ לפני מספר שבועות. עד שבועיים מראש בעזרת הפיצ'ר החדש תוכלו לכתוב הודעה ובמקום לשלוח אותה מייד, לבחור מתי היא תישלח. חלון הזמנים למשלוח נע […] The post וואטסאפ השיקה בישראל הודעות מתוזמנות appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#6",
      "title": "הישראלים שמאחורי היוניקורן שאנבידיה לא תאהב",
      "published": "2026-11-25T13:35:48+00:00",
      "summary": "אם חשבתם שסבב סיד של 10 או 15 מיליון דולר הוא אירוע חריג, כדאי שתכירו את Marlowe, סטארטאפ צעיר, שנחשף אתמול (ג') עם גיוסים בהיקף של 277 מיליון דולר, לפי שווי של 1.15 מיליארד דולר. מאחורי ההשקעה המטורפת הזו נמצאת נוכחות ישראלית מרשימה שכוללת כמה שמות מוכרים מאוד מהאקוסיסטם המקומי. בין היתר השקיע בחברה ליאור […] The post הישראלים שמאחורי היוניקורן שאנבידיה לא תאהב appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#7",
      "title": "מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת",
      "published": "2026-11-25T10:41:51+00:00",
      "summary": "אם גם אתם מצאתם את עצמכם בוהים במסך ריק לפני כשבועיים ותוהים למה לעזאזל האאוטלוק שלכם לא זז או למה הטימס התנתק, תתנחמו בזה שאתם לא בצוותי ההנדסה של מיקרוסופט, כי מתברר שמאחורי הקלעים במיקרוסופט המצב מלחיץ הרבה יותר. מיילים פנימיים שהגיעו לרויטרס חושפים עכשיו שבעקבות התקלה שנמשכה 24 שעות, הכריזה מיקרוסופט על מצב חירום […] The post מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת appeared first on ג"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#8",
      "title": "מפתחים Deep Tech ומחפשים משקיעים ולקוחות? זה בשבילכם",
      "published": "2026-11-25T09:28:27+00:00",
      "summary": "מסחור טכנולוגיות Deep Tech הוא תהליך מורכב. סטארטאפים רבים מתחילים את דרכם עם היכרות מוגבלת של הלקוחות והשוק הפוטנציאלי, גישה מצומצמת למקבלי החלטות בתאגידים והצעת ערך ומודל עסקי שעדיין דורשים חידוד לפני כניסה לשוק. הם לא צריכים רק צ'ק או חיבור למשקיע נוסף, אלא זקוקים לשותף אסטרטגי שמסוגל ללוות אותם לאורך הדרך, מהמעבדה אל השוק. […] The post מפתחים Deep Tech ומחפשים משקיעים ולקוחות? זה בשבילכם appea"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#9",
      "title": "דוח ה-AI של שירות התעסוקה: 211% יותר מתכנתים דורשי עבודה",
      "published": "2026-11-25T09:06:53+00:00",
      "summary": "פעם אמרו שכלי AI לא יחליפו מתכנתים, אלא רק \"יהפכו אותם ליעילים יותר\" או \"יחליפו את מי שלא משתמש ב-AI\". ובכן, דוח חדש שמפרסם היום (ד') שירות התעסוקה מצייר תמונה קצת יותר מורכבת לעובדים בתעשיית ההייטק המקומית. לפי הנתונים, 56% מהשימוש שנבדק ב-Claude במקצוע \"פיתוח התוכנה וניתוח היישומים\" מוגדר כ\"אוטומציה\", כלומר האצלת ביצוע המשימה למערכת, […] The post דוח ה-AI של שירות התעסוקה: 211% יותר מתכנתים דורש"
     },
     {
-     "ref": "geektime#9",
+     "ref": "geektime#10",
      "title": "פיצ'ר האפליקציות החדש של אנת'רופיק הוא איום ישיר על אפל וגוגל",
      "published": "2026-11-25T07:56:36+00:00",
      "summary": "בשנה האחרונה נדמה שבכל פעם ש-Anthropic משיקה פיצ'ר חדש ל-Claude, האינטרנט ממהר כבר להספיד תעשיות שלמות ולהכניס את הבורסות ברחבי העולם לסחרור. אבל הפעם, אנת'רופיק מכוונת את התותחים שלה למקום אחר לגמרי, עם פיצ'ר חדש שיסייע אולי למשתמשים, אבל עשוי גם לאיים על חנויות האפליקציות של אפל וגוגל. כל אחד יכול ליצור ולפרסם אפליקציה אם […] The post פיצ'ר האפליקציות החדש של אנת'רופיק הוא איום ישיר על אפל וגוגל"
     },
     {
-     "ref": "geektime#10",
+     "ref": "geektime#11",
      "title": "גוגל רוצה ליצור לכם ערוץ טלוויזיה. והכוכבים? אתם",
      "published": "2026-11-24T16:31:28+00:00",
      "summary": "ראיתם ביוטיוב את תקציר המשחק של דני אבדיה מהלילה, כשהוא ניצח את לברון ג'יימס? מעולה. כי אם החלום של גוגל יתגשם, הסרטון הבא שיצוף לכם כשתפתחו את אפליקציות יוטיוב בטלוויזיה יהיה בכלל סרטון AI על משחק אחר של הכדורסלן הישראלי הגדול בכל הזמנים, שבו אתם פוגשים את אבדיה על הפרקט במדיסון סקוור גארדן. נשמע מוטרף? […] The post גוגל רוצה ליצור לכם ערוץ טלוויזיה. והכוכבים? אתם appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#11",
+     "ref": "geektime#12",
      "title": "\"הסוכן הוא רק הצינור\": יוצאי אימפרבה מגייסים 10 מיליון דולר כדי לשמור על סוכני ה-AI שלכם",
      "published": "2026-11-24T13:10:48+00:00",
      "summary": "לא. אף אחד במשרד לא רוצה לשמוע על האייג'נט שבנית שמכין רשימת קניות בסופר ומתאם לך דייטים עם בן או בת הזוג. הבנו את הקטע. אבל אם בניתם כבר סוכנים שמשמשים אתכם במקום העבודה שלכם, זה כבר יותר מעניין. זה כנראה מספיק מעניין כדי שבכירי אימפרבה לשעבר יציעו פלטפורמה שלמה שתשגיח על הסוכנים שלכם, ויגייסו […] The post \"הסוכן הוא רק הצינור\": יוצאי אימפרבה מגייסים 10 מיליון דולר כדי לשמור על סוכני ה-AI שלכם ap"
     },
     {
-     "ref": "geektime#12",
+     "ref": "geektime#13",
      "title": "גייסו 53 מיליון דולר כדי שהאייג'נטים יפסיקו לנפח לכם את החשבון",
      "published": "2026-11-24T13:00:14+00:00",
      "summary": "סוכני AI כבר כותבים ומריצים קוד בארגונים בקצב מסחרר, אבל מישהו צריך לנהל את כל עומס המחשוב הזה בלי לשרוף את התקציב. סטארטאפ ישראלי חדש בשם Zipher (זייפר), שנחשף היום (ג') עם גיוס משמעותי, רוצה לתת לסוכנים שלו לנהל את העבודה מאחורי הקלעים – ולחתוך בעלויות הענן. אותה משימה, חשבון אחר \"ב-Zipher הלקוח מגדיר יעדי […] The post גייסו 53 מיליון דולר כדי שהאייג'נטים יפסיקו לנפח לכם את החשבון appeared first"
     },
     {
-     "ref": "geektime#13",
+     "ref": "geektime#14",
      "title": "נפתחה ההרשמה לתוכנית ה-Deep Tech MBA של אוניברסיטת תל אביב",
      "published": "2026-11-24T12:07:35+00:00",
      "summary": "אם אתם קוראים את זה, כנראה שיש לכם מומחיות טכנולוגית בעולמות הפיתוח והמחקר. אבל האם אתם יודעים להפוך אותה ליכולת לנהל עסק או יחידה עסקית, או להוביל מיזם המתבסס על טכנולוגיה עמוקה? פיתוח טכנולוגיה פורצת דרך הוא רק חלק מהדרך להפוך רעיון לחברה מצליחה. בתחומים כמו AI, סייבר, רובוטיקה, ביוטכנולוגיה, טכנולוגיות רפואיות, אקלים ו-Deep Tech, […] The post נפתחה ההרשמה לתוכנית ה-Deep Tech MBA של אוניברסיטת ת"
@@ -238,67 +244,73 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
      "published": "2026-11-26T03:36:58+00:00",
-     "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 274 # Comments: 152"
+     "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 295 # Comments: 160"
     },
     {
      "ref": "hn_frontpage#1",
+     "title": "Minipg: PostgreSQL as a Single Executable",
+     "published": "2026-11-26T03:00:48+00:00",
+     "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 153 # Comments: 24"
+    },
+    {
+     "ref": "hn_frontpage#2",
      "title": "Tell HN: Lots of Ask HNs again",
      "published": "2026-11-26T00:43:34+00:00",
      "summary": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments) Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items? - https://news.ycombinator.com/item?id=50280719 - Oct 2026 (3 comments) I believe I fo"
     },
     {
-     "ref": "hn_frontpage#2",
+     "ref": "hn_frontpage#3",
      "title": "Collection of preserved UI style guides",
      "published": "2026-11-26T00:40:00+00:00",
-     "summary": "Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 215 # Comments: 24"
-    },
-    {
-     "ref": "hn_frontpage#3",
-     "title": "Bare Metal Qwen",
-     "published": "2026-11-25T22:15:34+00:00",
-     "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 162 # Comments: 39"
+     "summary": "Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 230 # Comments: 24"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Much shorter version of GRH Lean verification from Anthropic",
-     "published": "2026-11-25T21:48:10+00:00",
-     "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 467 # Comments: 253"
+     "title": "Bare Metal Qwen",
+     "published": "2026-11-25T22:15:34+00:00",
+     "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 167 # Comments: 39"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "The New York Times warns photographers not to update Photoshop over AI features",
-     "published": "2026-11-25T21:18:02+00:00",
-     "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 407 # Comments: 342"
+     "title": "Much shorter version of GRH Lean verification from Anthropic",
+     "published": "2026-11-25T21:48:10+00:00",
+     "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 469 # Comments: 255"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Slow Ubuntu security response times",
-     "published": "2026-11-25T20:38:00+00:00",
-     "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 312 # Comments: 149"
+     "title": "The New York Times warns photographers not to update Photoshop over AI features",
+     "published": "2026-11-25T21:18:02+00:00",
+     "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 420 # Comments: 351"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-     "published": "2026-11-25T20:35:50+00:00",
-     "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 154 # Comments: 63"
+     "title": "Slow Ubuntu security response times",
+     "published": "2026-11-25T20:38:00+00:00",
+     "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 321 # Comments: 154"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-     "published": "2026-11-25T19:11:27+00:00",
-     "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1601 # Comments: 1397"
+     "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+     "published": "2026-11-25T20:35:50+00:00",
+     "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 157 # Comments: 63"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "The polynomial Hirsch conjecture is false [pdf]",
-     "published": "2026-11-25T17:34:34+00:00",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50644980 Points: 159 # Comments: 44"
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+     "published": "2026-11-25T19:11:27+00:00",
+     "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1621 # Comments: 1425"
     },
     {
      "ref": "hn_frontpage#10",
+     "title": "The polynomial Hirsch conjecture is false [pdf]",
+     "published": "2026-11-25T17:34:34+00:00",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50644980 Points: 162 # Comments: 44"
+    },
+    {
+     "ref": "hn_frontpage#11",
      "title": "1Password Security Incident",
      "published": "2026-11-25T17:18:26+00:00",
-     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1454 # Comments: 631"
+     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1468 # Comments: 637"
     }
    ]
   },
@@ -329,12 +341,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
      "published": "2026-11-19T19:00:02+00:00",
      "summary": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her job. Dong, an IEEE senior member, is an extension regional specialist with the Colorado State University Extension , CSU’s outreach arm. She works in Logan County and serves a 10-county farming area in "
-    },
-    {
-     "ref": "ieee_spectrum#4",
-     "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
-     "published": "2026-11-19T12:00:03+00:00",
-     "summary": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and OpenAI were “racing straight to self-improving superintelligence and gambling with our lives.” Evan Hubing"
     }
    ]
   },
@@ -464,63 +470,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
+     "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+     "published": "2026-11-26T12:00:00+00:00",
+     "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving violation that could get a […]"
+    },
+    {
+     "ref": "the_verge#1",
      "title": "X is finally getting its first parental controls",
      "published": "2026-11-26T10:45:50+00:00",
      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits, require approval for new followers, and limit […]"
     },
     {
-     "ref": "the_verge#1",
+     "ref": "the_verge#2",
      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
      "published": "2026-11-26T09:54:40+00:00",
      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]"
     },
     {
-     "ref": "the_verge#2",
+     "ref": "the_verge#3",
      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
      "published": "2026-11-26T00:04:34+00:00",
      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required […]"
     },
     {
-     "ref": "the_verge#3",
+     "ref": "the_verge#4",
      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
      "published": "2026-11-25T23:56:44+00:00",
      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it […]"
     },
     {
-     "ref": "the_verge#4",
+     "ref": "the_verge#5",
      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
      "published": "2026-11-25T21:51:26+00:00",
      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]"
     },
     {
-     "ref": "the_verge#5",
+     "ref": "the_verge#6",
      "title": "The Verge’s 2026 holiday gift guide for travelers",
      "published": "2026-11-25T21:48:00+00:00",
      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one […]"
     },
     {
-     "ref": "the_verge#6",
+     "ref": "the_verge#7",
      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
      "published": "2026-11-25T20:31:48+00:00",
      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a […]"
     },
     {
-     "ref": "the_verge#7",
+     "ref": "the_verge#8",
      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
      "published": "2026-11-25T19:45:51+00:00",
      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several […]"
     },
     {
-     "ref": "the_verge#8",
+     "ref": "the_verge#9",
      "title": "1Password breach leaked customer names and emails, but not passwords",
      "published": "2026-11-25T19:10:15+00:00",
      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager […]"
-    },
-    {
-     "ref": "the_verge#9",
-     "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-     "published": "2026-11-25T18:00:00+00:00",
-     "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the […]"
     }
    ]
   }

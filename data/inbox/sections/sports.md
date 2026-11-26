@@ -61,6 +61,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-25T20:00:00Z",
+     "home": "Shaktar",
+     "away": "Fenerbahçe",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-25T20:00:00Z",
      "home": "PSG",
      "away": "Roma",
      "status": "FINISHED",
@@ -93,10 +101,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-25T20:00:00Z",
-     "home": "Shaktar",
-     "away": "Fenerbahçe",
+     "home": "Atleti",
+     "away": "Viking",
      "status": "FINISHED",
-     "score": "0-1"
+     "score": "2-0"
     },
     {
      "competition": "UEFA Champions League",
@@ -113,14 +121,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Man United",
      "status": "FINISHED",
      "score": "2-2"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-25T20:00:00Z",
-     "home": "Atleti",
-     "away": "Viking",
-     "status": "FINISHED",
-     "score": "2-0"
     }
    ],
    "today": [
@@ -564,153 +564,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Fifa confirms internal data stolen in cyber attack",
+     "published": "2026-11-26T11:30:07+00:00",
+     "summary": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "Who is close to a yellow card suspension in Champions League?",
      "published": "2026-11-26T11:21:53+00:00",
      "summary": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League"
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
+     "title": "BBC Women's Football Weekly",
+     "published": "2026-11-26T11:18:00+00:00",
+     "summary": "Three Lionesses join Ellen, Ben & Em ahead of their 2027 World Cup play-off final."
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "Weekly sports quiz: What year will the UK host the Women's World Cup?",
      "published": "2026-11-26T08:02:45+00:00",
      "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?"
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "Podcast: Celtic's European curse & Hearts' Monaco mission",
      "published": "2026-11-26T08:00:00+00:00",
      "summary": "Can Celtic end their European away-day misery as Hearts welcome Monaco?"
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Dundee United's Farrugia out until new year - gossip",
      "published": "2026-11-26T07:42:21+00:00",
      "summary": "Injury blow for Dundee United midfielder as Monaco boss pinpoints Hearts danger men."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "Why KMI Panel frustrates referees too - and impacts their salary",
      "published": "2026-11-26T07:28:18+00:00",
      "summary": "For Premier League referees, the KMI Panel is more important than you might realise. It determines a significant portion of their salary."
     },
     {
-     "ref": "bbc_football#5",
-     "title": "The Portuguese second-tier team hosting Celtic in Europe",
-     "published": "2026-11-26T07:26:12+00:00",
-     "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?"
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "The Portuguese second-tier team hosting Celtic in Europe",
-     "published": "2026-11-26T07:26:12+00:00",
-     "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?"
-    },
-    {
      "ref": "bbc_football#7",
+     "title": "The Portuguese second-tier team hosting Celtic in Europe",
+     "published": "2026-11-26T07:26:12+00:00",
+     "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?"
+    },
+    {
+     "ref": "bbc_football#8",
+     "title": "The Portuguese second-tier team hosting Celtic in Europe",
+     "published": "2026-11-26T07:26:12+00:00",
+     "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?"
+    },
+    {
+     "ref": "bbc_football#9",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-26T06:53:51+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#10",
      "title": "'Laughing gas has ended careers' - so how common is it in football?",
      "published": "2026-11-26T06:18:30+00:00",
      "summary": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#11",
      "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
      "published": "2026-11-26T00:24:48+00:00",
      "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?"
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#12",
      "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
      "published": "2026-11-26T00:22:28+00:00",
      "summary": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
      "published": "2026-11-25T23:38:42+00:00",
      "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "'All coming together' - Isak repaying Liverpool faith",
      "published": "2026-11-25T23:25:30+00:00",
      "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
      "published": "2026-11-25T23:16:18+00:00",
      "summary": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Martinez secures Inter win against Stuttgart",
      "published": "2026-11-25T23:02:15+00:00",
      "summary": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
      "published": "2026-11-25T22:32:51+00:00",
      "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "PSG held by Roma as in-form Malen scores again",
      "published": "2026-11-25T22:27:14+00:00",
      "summary": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
      "published": "2026-11-25T22:24:57+00:00",
      "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Isak scores twice as clinical Liverpool beat Brugge",
      "published": "2026-11-25T22:12:19+00:00",
      "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "Gordon stars in comfortable Barca win over Sabah",
      "published": "2026-11-25T22:07:02+00:00",
      "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Borussia Dortmund fight back to draw with Arsenal",
      "published": "2026-11-25T22:05:57+00:00",
      "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "Blunt Villa beaten by late Galatasaray winner",
      "published": "2026-11-25T22:05:53+00:00",
      "summary": "Deniz Gul scores a late winner for Galatasaray as Aston Villa slip to successive Champions League defeats."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Cherki rescues point for Man City against Napoli",
      "published": "2026-11-25T22:05:49+00:00",
      "summary": "Rayan Cherki's late equaliser rescues a point for Manchester City at home to Napoli in the Champions League, who have now won just one of their past seven games in all competitions."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Real Madrid put in five-star second half to win against PSV",
-     "published": "2026-11-25T22:05:45+00:00",
-     "summary": "Jude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Ferguson's Glentoran reign hits early turbulence",
-     "published": "2026-11-25T21:41:00+00:00",
-     "summary": "Duncan Ferguson's short tenure at Glentoran is already proving anything but straightforward with just one win so far and the former Everton striker now suspended for seven games."
     }
    ]
   },
@@ -744,9 +744,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Columbus Crew host Inter Miami in Eastern Conference semifinals - Oskaloosa Herald",
+     "title": "Columbus Crew host Inter Miami in Eastern Conference semifinals - Bluefield Daily Telegraph",
      "published": "2026-11-26T07:16:08+00:00",
-     "summary": "Columbus Crew host Inter Miami in Eastern Conference semifinals Oskaloosa Herald"
+     "summary": "Columbus Crew host Inter Miami in Eastern Conference semifinals Bluefield Daily Telegraph"
     },
     {
      "ref": "gnews_inter_miami#5",
@@ -840,15 +840,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#20",
-     "title": "Suarez Negotiates Inter Miami Future as Barcelona Record Nears - Limapagi",
-     "published": "2026-11-25T20:49:00+00:00",
-     "summary": "Suarez Negotiates Inter Miami Future as Barcelona Record Nears Limapagi"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
      "title": "Suarez Holds Inter Miami Talks as Raphinha Nears Barca Record - bsinews.id",
      "published": "2026-11-25T20:49:00+00:00",
      "summary": "Suarez Holds Inter Miami Talks as Raphinha Nears Barca Record bsinews.id"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "Suarez Negotiates Inter Miami Future as Barcelona Record Nears - Limapagi",
+     "published": "2026-11-25T20:49:00+00:00",
+     "summary": "Suarez Negotiates Inter Miami Future as Barcelona Record Nears Limapagi"
     },
     {
      "ref": "gnews_inter_miami#22",
@@ -876,63 +876,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Charles Barkley heaps praise on Deni Avdija, Blazers after NBA Cup upset over Spurs - ClutchPoints",
+     "published": "2026-11-26T11:48:45+00:00",
+     "summary": "Charles Barkley heaps praise on Deni Avdija, Blazers after NBA Cup upset over Spurs ClutchPoints"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
+     "title": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger - ClutchPoints",
+     "published": "2026-11-26T11:25:34+00:00",
+     "summary": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger ClutchPoints"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
      "title": "'Baruch Hashem': Shaq Greets Deni Avdija in Hebrew After 33-Point Night - Haaretz",
      "published": "2026-11-26T10:47:00+00:00",
      "summary": "'Baruch Hashem': Shaq Greets Deni Avdija in Hebrew After 33-Point Night Haaretz"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#3",
      "title": "\"He doesn't have a conscience\" – Charles Barkley compares Deni Avdija to Drazen Petrovic after his game-winner vs. Spurs - Basketball Network",
      "published": "2026-11-26T10:26:31+00:00",
      "summary": "\"He doesn't have a conscience\" – Charles Barkley compares Deni Avdija to Drazen Petrovic after his game-winner vs. Spurs Basketball Network"
     },
     {
-     "ref": "gnews_israeli_nba#2",
-     "title": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger - ClutchPoints",
-     "published": "2026-11-26T09:56:15+00:00",
-     "summary": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger ClutchPoints"
-    },
-    {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Charles Barkley Gushes Over Deni Avdija After Portland Trail Blazers Beat Victor Wembanyama's San Antonio Spurs - NDTV Sports",
      "published": "2026-11-26T09:36:01+00:00",
      "summary": "Charles Barkley Gushes Over Deni Avdija After Portland Trail Blazers Beat Victor Wembanyama's San Antonio Spurs NDTV Sports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija Scores 33 Points In Win Over Spurs - FanDuel",
      "published": "2026-11-26T09:30:37+00:00",
      "summary": "Deni Avdija Scores 33 Points In Win Over Spurs FanDuel"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija Puts Blazers Ahead For Good At The Line - Yardbarker",
      "published": "2026-11-26T09:19:43+00:00",
      "summary": "Deni Avdija Puts Blazers Ahead For Good At The Line Yardbarker"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ - Heavy.com",
      "published": "2026-11-26T09:12:34+00:00",
      "summary": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ Heavy.com"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch - Ynetnews",
      "published": "2026-11-26T08:32:58+00:00",
      "summary": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "A league of his own: NBA analysts crown Deni Avdija a true superstar - The Jerusalem Post",
      "published": "2026-11-26T08:18:48+00:00",
      "summary": "A league of his own: NBA analysts crown Deni Avdija a true superstar The Jerusalem Post"
-    },
-    {
-     "ref": "gnews_israeli_nba#9",
-     "title": "Charles Barkley heaps praise on Deni Avdija, Blazers after NBA Cup upset over Spurs - ClutchPoints",
-     "published": "2026-11-26T08:03:37+00:00",
-     "summary": "Charles Barkley heaps praise on Deni Avdija, Blazers after NBA Cup upset over Spurs ClutchPoints"
     },
     {
      "ref": "gnews_israeli_nba#10",
