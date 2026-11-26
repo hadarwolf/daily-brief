@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-26",
+  "questions": [
+    {
+      "id": "quiz-trump-tariff-wave",
+      "section": "geopolitics",
+      "story_id": "trump-tariff-wave",
+      "answer_index": 0,
+      "en": {
+        "question": "Trump's new round of tariffs mainly targets whom?",
+        "options": [
+          "China, the European Union, and roughly a dozen other major trading partners",
+          "Only Taiwan, to pressure it into a new trade deal",
+          "Only Russia and North Korea, as a response to their nuclear cooperation",
+          "Developing countries in Africa and Latin America only"
+        ],
+        "explanation": "The administration announced a new round of tariffs on China, the EU, and about a dozen other jurisdictions among America's largest trading partners, reviving a trade confrontation that had looked like it was cooling off."
+      },
+      "he": {
+        "question": "את מי מכוון בעיקר סבב המכסים החדש של טראמפ?",
+        "options": [
+          "סין, האיחוד האירופי וכ-12 שותפות סחר גדולות נוספות",
+          "רק את טאיוואן, כדי להפעיל עליה לחץ להסכם סחר חדש",
+          "רק את רוסיה וצפון קוריאה, כתגובה לשיתוף הפעולה הגרעיני ביניהן",
+          "רק מדינות מתפתחות באפריקה ובאמריקה הלטינית"
+        ],
+        "explanation": "הממשל הכריז על סבב מכסים חדש המכוון לסין, לאיחוד האירופי ולכ-12 מדינות נוספות הנמנות עם שותפות הסחר הגדולות של ארצות הברית, ובכך החזיר לחיים התפרצות סחר שנראתה כמתקרבת לרגיעה."
+      }
+    },
+    {
+      "id": "quiz-netanyahu-trial-judges-recommendation",
+      "section": "israeli_politics",
+      "story_id": "netanyahu-trial-judges-recommendation",
+      "answer_index": 2,
+      "en": {
+        "question": "What did the judges in Netanyahu's corruption trial tell the Attorney General?",
+        "options": [
+          "That he should be convicted on all three cases without delay",
+          "That Netanyahu should resign before any ruling is issued",
+          "That conviction odds in Case 4000 are low enough to reconsider the bribery charge, and they doubt an offense occurred in Case 2000",
+          "That the entire trial should be dismissed immediately on procedural grounds"
+        ],
+        "explanation": "The judges said conviction odds in Case 4000 are low enough to warrant reconsidering the bribery charge, voiced doubt that an offense occurred in Case 2000, and pushed for a plea deal in Case 1000."
+      },
+      "he": {
+        "question": "מה אמרו השופטים במשפטו של נתניהו ליועצת המשפטית לממשלה?",
+        "options": [
+          "שיש להרשיע אותו בשלושת התיקים ללא דיחוי",
+          "שעל נתניהו להתפטר לפני שיינתן כל פסק דין",
+          "שסיכויי ההרשעה בתיק 4000 נמוכים עד כדי צורך לשקול מחדש את אישום השוחד, ושיש להם ספק אם נעברה עבירה בתיק 2000",
+          "שיש לבטל את המשפט כולו באופן מיידי מטעמים פרוצדורליים"
+        ],
+        "explanation": "השופטים אמרו שסיכויי ההרשעה בתיק 4000 נמוכים במידה שמצדיקה לשקול מחדש את אישום השוחד, הביעו ספק אם נעברה עבירה בתיק 2000, ודחפו את הצדדים להסדר טיעון בתיק 1000."
+      }
+    },
+    {
+      "id": "quiz-ai-theory-breakthroughs",
+      "section": "tech",
+      "story_id": "ai-theory-breakthroughs",
+      "answer_index": 2,
+      "en": {
+        "question": "What makes this wave of theoretical CS and math claims unusual, according to the story?",
+        "options": [
+          "The claims were discovered by a university committee before being published",
+          "They were all produced by a single research lab working in secret for a decade",
+          "Proof-checking tools and AI assistance let people verify a claim's formal structure online almost as fast as it appears, long before peer review",
+          "The math community has already confirmed all of the claims are correct"
+        ],
+        "explanation": "None of the claims are peer-reviewed or settled; what's new is the speed, as proof-checking tools and AI assistance compress the gap between a claim appearing online and someone verifying at least its formal structure."
+      },
+      "he": {
+        "question": "מה הופך את גל הטענות התיאורטיות הזה במדעי המחשב ובמתמטיקה לחריג, לפי הכתבה?",
+        "options": [
+          "הטענות התגלו על ידי ועדה אקדמית לפני הפרסום",
+          "כל הטענות הופקו על ידי מעבדת מחקר אחת שעבדה בסתר במשך עשור",
+          "כלי בדיקת הוכחות ועזרי בינה מלאכותית מאפשרים לאמת את המבנה הפורמלי של טענה ברשת כמעט באותה מהירות שבה היא מתפרסמת, הרבה לפני ביקורת עמיתים",
+          "קהילת המתמטיקאים כבר אישרה שכל הטענות נכונות"
+        ],
+        "explanation": "אף אחת מהטענות לא עברה ביקורת עמיתים ולא הוכרעה; מה שחדש הוא המהירות - כלי בדיקת הוכחות ועזרי בינה מלאכותית מכווצים את הפער בין פרסום טענה לבין אימות המבנה הפורמלי שלה."
+      }
+    }
+  ]
+}

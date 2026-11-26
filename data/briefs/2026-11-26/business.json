@@ -1,0 +1,111 @@
+{
+  "section": "business",
+  "date": "2026-11-26",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-26T03:56:48+00:00",
+  "stories": [
+    {
+      "id": "ai-boom-leverage-cracks",
+      "kind": "analysis",
+      "en": {
+        "headline": "The AI Boom's Debt Is Starting to Crack",
+        "scroll": "Banks have frozen billions in Asia-Pacific data-center loans and a leveraged hedge fund lost 65% in a quarter, exposing how much of the AI boom runs on debt.",
+        "coffee": "Two events this week show how much of the AI boom is financed by debt rather than equity. Banks have paused multibillion-dollar financing deals for data centers across Asia-Pacific following Nvidia's chip-smuggling-linked controversy and new US restrictions on AI chip sales to Chinese companies — a sharp reversal after loan volumes to the region's data-center builders jumped from near zero in 2023 to $49 billion. Separately, hedge fund Situational Awareness told investors it lost 65% after fees in the third quarter from highly leveraged AI bets, a loss that nearly caused the fund to collapse in July.\n\nBoth episodes point to the same mechanism: leverage. The AI buildout runs partly on borrowed money, and what Bloomberg calls the \"AI carry trade\" is starting to lose its reliability — the Nasdaq plunged as much as 4.5% in a single session this week before paring losses, and copper, a proxy for AI-driven industrial demand, only partly rebounded off an 11-month low.\n\nWatch whether banks resume Asia-Pacific data-center lending once chip-export rules are clearer, what hyperscalers say about capex in upcoming earnings, and whether more leveraged funds disclose losses like Situational Awareness's.",
+        "deep": "## Background\n\nNearly all of 2026's AI capital expenditure boom has been described as a story about equity: trillion-dollar market caps, chipmaker earnings, hyperscaler free cash flow. But a large and growing share of it runs on debt. Banks lend directly to the companies building data centers, and investors borrow to amplify bets that the AI trade keeps working — a position commonly called a carry trade, where money is borrowed cheaply to fund an asset expected to keep paying a steady return. Leverage (borrowed money layered on top of an investment) is a normal part of financing a capital-intensive buildout like data centers, chips, and power infrastructure. It works well when the underlying bet keeps paying off. It turns dangerous when that bet wobbles, because losses — and margin calls, a lender's demand for more collateral when a position moves against it — get multiplied, not just absorbed.\n\n## The story\n\nThis week produced two concrete signs that the debt side of the AI boom is under strain. First, banks have paused multibillion-dollar financing deals for building data centers across Asia-Pacific, following the fallout from Nvidia's chip-smuggling-linked controversy and new US restrictions on AI chip sales to Chinese tech companies. The retreat is notable because of how fast that lending had grown: loan volume to data-center companies in the Asia-Pacific region jumped from almost nothing in 2023 to $49 billion, a pace that assumed continued, unimpeded chip supply.\n\nSecond, on the trading side, a hedge fund called Situational Awareness told investors it lost 65% after fees in the third quarter, the result of highly leveraged bets on artificial-intelligence companies that nearly caused the fund to collapse back in July. Bloomberg separately reported that the broader \"AI carry trade\" — one of Wall Street's most dependable wagers through 2026 — is starting to lose its surefire status. The volatility showed up across markets: the Nasdaq Composite plunged as much as 4.5% in a single session before paring losses, US stocks finished mixed to lower even as Nvidia's ousted CEO was reinstated, and Asian markets only stabilized the next morning as Wall Street recovered some ground overnight. Copper, which traders increasingly watch as a proxy for AI-driven demand for industrial metals, rebounded more than 3% off an 11-month low — but the rebound itself was described as tracking a shaky tech-stock bounce rather than resolving the underlying question about demand.\n\n## Second-order effects\n\nThe two stories are connected by the same mechanism, leverage, but they bite in different places. A financing freeze on data centers is a supply-side problem: if banks won't lend, construction slows, timelines slip, and the chipmakers and power-infrastructure suppliers counting on that demand see it arrive later or smaller than modeled. A leveraged hedge fund losing two-thirds of its capital in a quarter is a demand-side and liquidity problem: forced selling to meet margin calls can push asset prices down mechanically, independent of any new information about the companies involved, which is part of why volatility spiked even though fundamentals hadn't obviously changed. Banks that extended the financing now face their own counterparty risk — the chance the borrower on the other side of the loan can't repay — which is one reason a freeze, once it starts, tends to spread across lenders rather than staying contained to one deal.\n\n## What to watch next\n\nThree things will show whether this is a pause or a turning point. First, whether banks resume Asia-Pacific data-center lending once there's more clarity on US chip-export rules, or whether the freeze spreads to other regions. Second, hyperscaler capital-spending guidance in the next earnings round — a pullback there would validate the market's doubts, while unchanged guidance would suggest this week's moves were a liquidity scare rather than a demand problem. Third, whether other highly leveraged funds disclose losses similar to Situational Awareness's; one fund's near-collapse is an anecdote, but a pattern across several funds would indicate the AI carry trade had become more crowded, and more fragile, than it looked from the outside."
+      },
+      "he": {
+        "headline": "מינוף ה-AI מתחיל להיסדק: בנקים מקפיאים מימון, קרנות ממונפות נשרפות",
+        "scroll": "בנקים הקפיאו מימון בהיקף מיליארדי דולרים למרכזי נתונים באסיה, וקרן גידור ממונפת הפסידה 65% ברבעון - סימן לכך שחלק גדול מבועת ה-AI בנוי על חוב, לא רק על הון עצמי.",
+        "coffee": "שני אירועים השבוע מראים כמה מבועת ה-AI ממומנת בחוב ולא בהון עצמי. בנקים הקפיאו עסקות מימון של מיליארדי דולרים להקמת מרכזי נתונים באסיה-פסיפיק, בעקבות פרשת ההברחה המקושרת לאנבידיה וההגבלות החדשות שהטילה וושינגטון על מכירת שבבי AI לחברות סיניות - תפנית חדה אחרי שהיקף ההלוואות לחברות מרכזי נתונים באזור זינק מרמה אפסית ב-2023 לכ-49 מיליארד דולר. במקביל, קרן הגידור Situational Awareness הודיעה למשקיעיה שהפסידה 65% אחרי עמלות ברבעון השלישי, בשל הימורים ממונפים מאוד על חברות AI - הפסד שכמעט הוביל לקריסת הקרן ביולי.\n\nשני המקרים מצביעים על אותו מנגנון: מינוף (leverage). חלק מבניית תשתיות ה-AI רץ על כספים מגויסים, ו\"עסקת הקארי של ה-AI\" (AI carry trade), כפי שבלומברג מגדירה אותה, מתחילה לאבד מהאמינות שלה - הנאסד\"ק צנח בכ-4.5% במהלך מסחר אחד השבוע לפני שמחק חלק מההפסדים, והנחושת, שמשמשת מדד לביקוש תעשייתי המונע מ-AI, התאוששה רק בחלקה מרמת שפל של 11 חודשים.\n\nלתת עין על: האם בנקים יחזרו למימון מרכזי נתונים באסיה-פסיפיק כשכללי ייצוא השבבים יתבררו; מה חברות הטכנולוגיה הגדולות יאמרו על הוצאות ההון (capex) שלהן בעונת הדוחות הקרובה; והאם קרנות ממונפות נוספות יחשפו הפסדים כמו אלה של Situational Awareness.",
+        "deep": "## רקע\n\nכל סיפור בועת הוצאות ההון (capex) של 2026 בתחום ה-AI מתואר בדרך כלל כסיפור של הון עצמי: שווי שוק של טריליונים, רווחי יצרניות השבבים, תזרים המזומנים החופשי של חברות הטכנולוגיה הגדולות. אבל חלק גדול וגדל ממנו רץ על חוב. בנקים מעניקים הלוואות ישירות לחברות שבונות מרכזי נתונים, ומשקיעים שואלים כספים כדי להגדיל את ההשקעה שלהם בהנחה שמגמת ה-AI תמשיך להצליח - עסקה המוכרת כ\"עסקת קארי\" (carry trade), שבה כסף מגויס בעלות נמוכה כדי למנף נכס שמניחים שימשיך להניב תשואה יציבה. מינוף (leverage) - כסף מגויס שמוטל מעל ההשקעה עצמה - הוא חלק טבעי במימון פרויקטי תשתית הוניים כמו מרכזי נתונים, שבבים ותשתית חשמל. הוא עובד טוב כל עוד ההנחה הבסיסית ממשיכה להתממש. הוא הופך למסוכן כשההנחה הזו מתנדנדת, כי אז הפסדים - ו\"דרישות ביטחונות\" (margin calls, דרישה של מלווה לביטחונות נוספים כשעמדה זזה לרעתו) - מוכפלים ולא רק נבלעים.\n\n## הסיפור\n\nהשבוע נרשמו שני סימנים קונקרטיים לכך שצד החוב של בועת ה-AI נמצא בלחץ. ראשית, בנקים הקפיאו עסקות מימון של מיליארדי דולרים להקמת מרכזי נתונים באזור אסיה-פסיפיק, בעקבות פרשת ההברחה של שבבים המקושרת לאנבידיה וההגבלות החדשות שהטילה וושינגטון על מכירת שבבי AI לחברות טכנולוגיה סיניות. הנסיגה בולטת בגלל הקצב שבו האשראי הזה צמח: היקף ההלוואות לחברות מרכזי נתונים באזור אסיה והאוקיינוס השקט זינק מרמה אפסית בשנת 2023 לכ-49 מיליארד דולר, קצב שהניח המשכיות בלתי מופרעת באספקת השבבים.\n\nשנית, בצד המסחר, קרן גידור (hedge fund) בשם Situational Awareness הודיעה למשקיעיה שהפסידה 65% אחרי עמלות ברבעון השלישי, כתוצאה מהתערבות ממונפת מאוד במניות חברות בינה מלאכותית - הפסד שכמעט הוביל לקריסת הקרן ביולי. בלומברג דיווחה בנפרד כי \"עסקת הקארי של ה-AI\" הרחבה יותר - אחד ההימורים האמינים ביותר בוול סטריט במהלך 2026 - מתחילה לאבד את מעמדה הבטוח. התנודתיות ניכרה בכל השווקים: מדד הנאסד\"ק צנח בכ-4.5% במהלך מסחר אחד לפני שמחק חלק מההפסדים, מניות אמריקאיות ננעלו במגמה מעורבת עד שלילית חרף השבת מנכ\"ל אנבידיה המודח לתפקידו, ושווקי אסיה התאוששו רק בבוקר שלמחרת. נחושת, שסוחרים עוקבים אחריה יותר ויותר כמדד לביקוש תעשייתי המונע מ-AI, התאוששה ביותר מ-3% מרמת שפל של 11 חודשים - אך גם ההתאוששות הזו תוארה כנגררת אחרי זינוק רעוע במניות הטכנולוגיה, ולא כפתרון לשאלת הביקוש עצמה.\n\n## אפקטים מסדר שני\n\nשני הסיפורים מחוברים באותו מנגנון - מינוף - אך הם פוגעים במקומות שונים. הקפאת מימון למרכזי נתונים היא בעיה בצד ההיצע: אם בנקים לא מלווים, הבנייה מתעכבת, לוחות הזמנים נדחים, ויצרניות השבבים וספקי תשתית החשמל שסמכו על הביקוש הזה רואים אותו מגיע מאוחר יותר או קטן יותר מהמתוכנן. הפסד כבד לקרן גידור ממונפת ברבעון אחד הוא בעיית ביקוש ונזילות: מכירות כפויות כדי לעמוד בדרישות ביטחונות יכולות להוריד מחירי נכסים באופן מכני, בלי שום מידע חדש באמת על החברות המעורבות - וזה חלק מהסיבה שהתנודתיות התפרצה גם כשהיסודות הכלכליים לא השתנו בבירור. בנקים שהעמידו את המימון עומדים כעת בפני סיכון צד נגדי (counterparty risk) משלהם - הסיכוי שהלווה בצד השני של ההלוואה לא יוכל להחזירה - וזו אחת הסיבות שהקפאה, כשהיא מתחילה, נוטה להתפשט בין מלווים ולא להישאר מוגבלת לעסקה אחת.\n\n## מה לעקוב בהמשך\n\nשלושה דברים יראו אם זו הפסקה זמנית או נקודת מפנה. ראשית, האם בנקים יחזרו למימון מרכזי נתונים באסיה-פסיפיק כשתהיה בהירות רבה יותר לגבי כללי ייצוא השבבים האמריקאיים, או שההקפאה תתפשט לאזורים נוספים. שנית, תחזיות הוצאות ההון של חברות הטכנולוגיה הגדולות בעונת הדוחות הקרובה - נסיגה שם תאמת את החששות בשוק, בעוד תחזיות ללא שינוי יעידו שתנודות השבוע היו בעיקר בהלת נזילות ולא בעיית ביקוש אמיתית. שלישית, האם קרנות ממונפות נוספות יחשפו הפסדים בסדר גודל דומה לזה של Situational Awareness; קריסה כמעט-מוחלטת של קרן אחת היא אנקדוטה, אבל תבנית שחוזרת על פני כמה קרנות תעיד שעסקת הקארי של ה-AI הייתה צפופה ושבירה יותר משנראה מהצד."
+      },
+      "tags": [
+        "ai",
+        "leverage",
+        "credit-markets",
+        "data-centers"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "הוקפאו עסקות מימון במיליארדי דולרים לבניית מרכזי נתונים",
+          "url": "https://www.themarker.com/wallstreet/2026-11-25/ty-article/.premium/000001a2-13cf-d0a2-afb7-53df9c710000"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Cracks in AI Stocks Sink the Once Reliable Carry Trade",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+          "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+          "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Stocks advance in Asia after volatile US trading over AI risks",
+          "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper Rebounds From Lowest This Year as Volatility Grips Metals",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3792.3799,
+      "prev_close": 3847.1101,
+      "change_pct": -1.42,
+      "as_of": "2026-11-25"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7182.7798,
+      "prev_close": 7201.0898,
+      "change_pct": -0.25,
+      "as_of": "2026-11-25"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.3622,
+      "prev_close": 3.3486,
+      "change_pct": 0.41,
+      "as_of": "2026-11-26"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 91.08,
+      "prev_close": 91.4,
+      "change_pct": -0.35,
+      "as_of": "2026-11-25"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 60648.8984,
+      "prev_close": 59747.7656,
+      "change_pct": 1.51,
+      "as_of": "2026-11-26"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-11-26",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-26T03:56:48+00:00",
+  "stories": [
+    {
+      "id": "word-poison-pill",
+      "kind": "word",
+      "en": {
+        "headline": "Poison pill (גלולת רעל)",
+        "scroll": "A poison pill is a defense that makes a hostile takeover brutally expensive unless the target company's board agrees to it.",
+        "coffee": "A poison pill is a legal mechanism a company's board adopts to make a hostile takeover punishingly expensive, without asking shareholders to vote on it first. The most common version is a \"shareholder rights plan\": if an unwelcome buyer crosses a set ownership threshold, usually 10-15%, every other shareholder gets the right to buy new shares at a steep discount. That floods the market with cheap stock, dilutes the bidder's stake, and can double or triple the real cost of the deal overnight.\n\nBoards like poison pills because they buy time to negotiate a better price, find a friendlier buyer, or simply say no. Critics call them entrenchment devices that let underperforming management dodge accountability instead of answering to the market for it.\n\nExample: \"When the activist investor crossed the 15% threshold, the board triggered a poison pill, flooding the market with new shares and tripling the cost of a hostile bid.\"",
+        "deep": "Use it when discussing takeover defense, corporate governance, or activist-investor fights — it signals the board is resisting, not necessarily that a deal is dead.\n\nA common confusion: a poison pill isn't the same as a golden parachute, which pays executives a big severance if they're ousted after a takeover, or a white knight, a friendlier buyer the board invites in instead. A poison pill works alongside those tools but does a different job — it raises the price, rather than softening the landing or finding an alternative buyer.\n\nMore examples: \"Twitter's board adopted a poison pill within days of Elon Musk disclosing his stake, buying time to evaluate the offer.\" \"Some investors see poison pills as a red flag that management is protecting itself, not shareholders.\"\n\nThe term comes from Cold War spy fiction, where agents carried an actual poison pill to avoid capture — in business it's figurative, but the deterrent logic is the same. In Hebrew: גלולת רעל."
+      },
+      "he": {
+        "headline": "גלולת רעל (Poison Pill)",
+        "scroll": "גלולת רעל היא מכניזם הגנה שהופך רכישה עוינת ליקרה באופן קיצוני, אלא אם דירקטוריון החברה המתמודדת מסכים לה.",
+        "coffee": "גלולת רעל (Poison Pill) היא כלי משפטי שדירקטוריון מאמץ כדי להפוך רכישה עוינת ליקרה כל כך שהיא כבר לא משתלמת - בלי לשאול את בעלי המניות בהצבעה מוקדמת. הגרסה הנפוצה נקראת \"תוכנית זכויות לבעלי מניות\": אם קונה לא רצוי חוצה סף אחזקה מוגדר, בדרך כלל 10-15%, כל שאר בעלי המניות מקבלים זכות לקנות מניות חדשות בהנחה משמעותית. זה מציף את השוק במניות זולות, מדלל את האחזקה של הרוכש, ויכול להכפיל או לשלש בן לילה את המחיר האמיתי של העסקה.\n\nדירקטוריונים אוהבים גלולות רעל כי הן קונות זמן - למשא ומתן על מחיר טוב יותר, לחיפוש קונה נעים יותר, או סתם לסירוב. מבקרים טוענים שזה כלי שמנציח הנהגה לא יעילה ומגן על ההנהלה יותר מאשר על בעלי המניות, במקום לחייב אותה לעמוד במבחן השוק.\n\nלדוגמה: כשמשקיע אקטיביסטי חצה סף של 15%, הדירקטוריון הפעיל גלולת רעל, הציף את השוק במניות חדשות ושילש את עלות ההצעה העוינת.",
+        "deep": "כדאי להשתמש במונח כשמדברים על הגנת רכישה, ממשל תאגידי, או מאבקים עם משקיעים אקטיביסטים - זה מסמן שהדירקטוריון מתנגד, לא בהכרח שהעסקה מתה.\n\nבלבול נפוץ: גלולת רעל אינה זהה למצנח זהב (Golden Parachute), שמעניק לבכירים פיצויי פיטורים גדולים אם הם מודחים אחרי רכישה, או לאביר לבן (White Knight), קונה נעים יותר שהדירקטוריון מזמין במקום הרוכש העוין. גלולת רעל פועלת לצד הכלים האלה אבל עושה עבודה אחרת - היא מעלה את המחיר, במקום לרכך את הנפילה או למצוא רוכש חלופי.\n\nעוד דוגמאות: \"הדירקטוריון של טוויטר אימץ גלולת רעל ימים אחדים אחרי שאילון מאסק חשף את אחזקתו, כדי לקנות זמן להעריך את ההצעה.\" \"חלק מהמשקיעים רואים בגלולות רעל דגל אדום לכך שההנהלה מגנה על עצמה, ולא על בעלי המניות.\"\n\nהמונח מקורו בסיפורי מרגלים מתקופת המלחמה הקרה, שם סוכנים נשאו גלולת רעל ממשית כדי להימנע מלהיתפס - בעולם העסקים זה מטפורי, אבל ההיגיון המרתיע דומה."
+      },
+      "tags": [
+        "business",
+        "finance",
+        "m-and-a",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-war-chest",
+      "kind": "word",
+      "en": {
+        "headline": "War chest (קופת מלחמה)",
+        "scroll": "A war chest is the large cash reserve a company stockpiles to fund acquisitions, fight competitors, or survive a downturn without borrowing.",
+        "coffee": "A war chest is simply a big pile of cash (or easily sellable assets) that a company deliberately holds onto rather than spending or returning to shareholders. The point isn't to sit idle — it's optionality: the ability to buy a competitor, launch an expensive product push, survive a price war, or ride out a recession without needing to raise money on someone else's terms.\n\nTech giants are the classic example: Apple and Google have held tens of billions in cash specifically so they can move fast on acquisitions or outspend rivals when it matters. The term works outside finance too — a legal team saving money for a court fight, or a political campaign stockpiling donations, both have \"war chests.\" Investors sometimes grumble about a war chest that just sits there unused for years.\n\nExample: \"With $150 billion in cash, the company has a war chest big enough to outlast any price war its rivals start.\"",
+        "deep": "Use \"war chest\" when the emphasis is on readiness for a looming fight — a bidding war, a price war, a legal battle, a downturn — not just general savings.\n\nA common confusion: don't mix it up with dry powder, a private-equity term for capital already committed by investors and waiting to be deployed into specific deals. Dry powder is narrower (it's investment capital with a clock on it); a war chest is broader and can just mean a company's own cash sitting on its balance sheet for any future fight, not necessarily an investment.\n\nMore examples: \"The startup raised an extra $50 million as a war chest before expanding into Europe, expecting local incumbents to fight back hard.\" \"Analysts asked why the company was sitting on such a large war chest instead of returning cash to shareholders.\"\n\nIn Hebrew: קופת מלחמה."
+      },
+      "he": {
+        "headline": "קופת מלחמה (War Chest)",
+        "scroll": "קופת מלחמה היא רזרבת מזומן גדולה שחברה מצטברת כדי לרכוש מתחרים, להילחם בתחרות או לשרוד משבר בלי להזדקק להלוואות.",
+        "coffee": "קופת מלחמה (War Chest) היא בפשטות ערימת מזומן גדולה (או נכסים שקל למכור) שחברה שומרת ביודעין במקום להוציא או להחזיר לבעלי המניות. המטרה אינה שהכסף ישב בחיבוק ידיים - אלא גמישות: היכולת לרכוש מתחרה, להשיק מהלך שיווקי יקר, לשרוד מלחמת מחירים, או לעבור מיתון בלי להיזקק לגיוס כספים בתנאים של מישהו אחר.\n\nחברות הטכנולוגיה הגדולות הן הדוגמה הקלאסית: אפל וגוגל שומרות עשרות מיליארדי דולרים במזומן בדיוק בשביל זה - לנוע מהר ברכישות או להוציא יותר ממתחרים כשזה חשוב. המונח עובד גם מחוץ לעולם הפיננסי - צוות משפטי שחוסך כסף למאבק בבית משפט, או קמפיין פוליטי שמצטבר תרומות, גם להם יש \"קופת מלחמה\". משקיעים מתלוננים לפעמים על קופת מלחמה שפשוט יושבת בלי להיות מנוצלת שנים.\n\nלדוגמה: \"עם 150 מיליארד דולר במזומן, לחברה יש קופת מלחמה גדולה מספיק כדי לשרוד כל מלחמת מחירים שהמתחרים שלה יתחילו.\"",
+        "deep": "משתמשים ב\"קופת מלחמה\" כשהדגש הוא על מוכנות לקרב שמתקרב - מלחמת הצעות, מלחמת מחירים, קרב משפטי, מיתון - ולא רק על חיסכון כללי.\n\nבלבול נפוץ: אל תתבלבלו עם אבק שריפה (Dry Powder), מונח מעולם ההשקעות הפרטיות (private equity) שמתייחס להון שמשקיעים כבר התחייבו לו ומחכה להיות מושקע בעסקאות ספציפיות. אבק שריפה הוא מונח צר יותר (הון השקעה עם שעון רץ); קופת מלחמה היא רחבה יותר ויכולה להתייחס סתם למזומן של החברה עצמה שיושב במאזן לכל קרב עתידי, לא בהכרח השקעה.\n\nעוד דוגמאות: \"הסטארטאפ גייס 50 מיליון דולר נוספים כקופת מלחמה לפני ההתרחבות לאירופה, בציפייה שהשחקנים המקומיים יילחמו בחזרה.\" \"אנליסטים שאלו למה החברה יושבת על קופת מלחמה כזאת גדולה במקום להחזיר מזומן לבעלי המניות.\""
+      },
+      "tags": [
+        "business",
+        "finance",
+        "vocabulary",
+        "strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-herding-cats",
+      "kind": "word",
+      "en": {
+        "headline": "Herding cats (לרכז חתולים)",
+        "scroll": "\"Herding cats\" describes trying to coordinate a group of people who each insist on doing things their own way.",
+        "coffee": "\"Herding cats\" is business slang for trying to manage or align a group of people — stakeholders, departments, freelancers, board members — who are all independent-minded and reluctant to follow a single direction. The image is deliberate: cats, unlike sheep, don't herd. Each one wanders off on its own, no matter how hard you try to organize them.\n\nIt shows up constantly in product and project management, where getting five teams to agree on one roadmap, or getting a dozen investors to sign the same term sheet, can feel exactly like that, especially when every person involved has a legitimate but conflicting priority. It's usually said with a mix of exasperation and humor, not as a formal complaint, and it's often the manager's own polite way of admitting a meeting went nowhere.\n\nExample: \"Getting all five product teams to agree on one roadmap was like herding cats — everyone had a different priority.\"",
+        "deep": "Use it informally, in conversation or a casual email, when describing the chaos of coordinating many independent actors — never in a formal document, where it reads as too colloquial.\n\nA common confusion: don't mix it up with boiling the ocean, another idiom about an overly ambitious task, but a different kind of problem. Boiling the ocean is about scope — trying to do far too much at once. Herding cats is about coordination — trying to align people who each want something different, even if the scope is small.\n\nMore examples: \"Scheduling a call with six co-founders across four time zones was herding cats.\" \"The committee spent two meetings just trying to agree on an agenda — pure herding cats.\"\n\nIn Hebrew: לרכז חתולים (or the more literal \"לנהל עדר חתולים\")."
+      },
+      "he": {
+        "headline": "לרכז חתולים (Herding Cats)",
+        "scroll": "\"לרכז חתולים\" מתאר ניסיון לתאם קבוצת אנשים שכל אחד מהם מתעקש לעשות דברים בדרך שלו.",
+        "coffee": "\"לרכז חתולים\" (Herding Cats) הוא ביטוי סלנג עסקי לניסיון לנהל או לתאם קבוצת אנשים - בעלי עניין, מחלקות, פרילנסרים, חברי דירקטוריון - שכולם עצמאיים בדעתם ולא נוטים ללכת בכיוון אחד. הדימוי מכוון: בניגוד לכבשים, חתולים לא מתארגנים בעדר. כל אחד מהם מתפזר לכיוון שלו, לא משנה כמה מנסים לסדר אותם.\n\nהביטוי צץ כל הזמן בניהול מוצר ופרויקטים, כשלגרום לחמש קבוצות מוצר להסכים על מפת דרכים אחת, או לגרום לתריסר משקיעים לחתום על אותו מסמך תנאים, מרגיש בדיוק כך. בדרך כלל אומרים את זה בתערובת של תסכול והומור, לא כתלונה רשמית, ולעתים זו הדרך המנומסת של מנהל להגיד שהפגישה לא הגיעה לשום מקום.\n\nלדוגמה: \"לגרום לחמש קבוצות המוצר להסכים על מפת דרכים אחת היה כמו לרכז חתולים - לכל אחד היתה סדר עדיפויות אחר.\"",
+        "deep": "משתמשים בביטוי בשיחה או במייל קז'ואלי, לא במסמך רשמי, שם הוא יישמע מדי עגה.\n\nבלבול נפוץ: אל תתבלבלו עם לבשל את הצפרדע (Boil the Frog) ועם להרתיח את האוקיינוס (Boil the Ocean) - שני ביטויים אחרים על משימות, אבל על בעיה שונה. להרתיח את האוקיינוס הוא על היקף - ניסיון לעשות יותר מדי בבת אחת. לרכז חתולים הוא על תיאום - ניסיון ליישר קו בין אנשים שכל אחד רוצה דבר אחר, גם אם ההיקף עצמו קטן.\n\nעוד דוגמאות: \"לתאם שיחה עם שישה מקימי חברה בארבעה אזורי זמן שונים היה כמו לרכז חתולים.\" \"הוועדה בילתה שתי פגישות רק בניסיון להסכים על סדר יום - לרכז חתולים במיטבו.\""
+      },
+      "tags": [
+        "business",
+        "vocabulary",
+        "idiom",
+        "management"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why the biggest product usually keeps winning",
+        "scroll": "A network effect means a product gets more valuable to everyone as more people use it, letting early leaders snowball into near-monopolies.",
+        "coffee": "A network effect exists when a product becomes more valuable to each user simply because more people use it — not because the product itself got better. WhatsApp is a direct network effect: it's useful because your friends and family are already on it, and it becomes more useful with every person who joins. A ride-hailing app like Uber has an indirect network effect: more riders attract more drivers, and more drivers make the app more useful to riders, in a self-reinforcing loop.\n\nThis is why tech markets often tip toward one dominant player instead of settling into many competitors the way, say, restaurants do. Once a network product gets ahead, catching up isn't just about building a better product — a challenger has to convince a critical mass of people to switch at the same time, which is far harder.\n\nIt's also why regulators scrutinize dominant platforms so closely: a strong network effect can turn an early lead into a durable, hard-to-dislodge monopoly.",
+        "deep": "## What a network effect is\n\nA network effect occurs when each additional user of a product makes that product more valuable to every other user. This is different from ordinary economies of scale, where a company gets cheaper to run as it grows — network effects make the product itself better, not just cheaper to produce, as the user base expands.\n\n## Direct vs. indirect network effects\n\nA direct network effect connects users to each other in the same role: a phone, a messaging app, a social network. More people on WhatsApp means more people you can reach, full stop.\n\nAn indirect network effect connects two different groups through a platform. A marketplace like Uber or Amazon has riders/buyers on one side and drivers/sellers on the other. More riders attract more drivers (they can earn more, more often), and more drivers mean shorter wait times, which attracts more riders. Neither side needs to know the other exists — the platform just needs enough of both.\n\n## A worked example\n\nImagine a messaging app with 10 users. Metcalfe's law says the number of possible connections grows roughly with the square of users: 10 users support up to 45 possible one-to-one connections (10×9÷2). Grow to 100 users and that jumps to 4,950 possible connections — a tenfold increase in users produces roughly a hundredfold increase in potential value. That's the mathematical heart of why network products can go from niche to unstoppable within a short window: value isn't growing linearly with users, it's growing roughly quadratically.\n\n## Why it matters today\n\nNetwork effects are the core reason a handful of platforms dominate search, social media, app stores, and ride-hailing instead of the market splitting evenly among many competitors. They're also central to antitrust debates: critics argue that network effects let incumbents like major app stores or social platforms entrench their position regardless of whether they keep innovating, because switching costs for users — convincing everyone you know to move with you — are enormous.\n\n## The limits\n\nNetwork effects aren't unconditional. They can saturate (there's little extra value once everyone relevant is already on the network), and some networks suffer negative network effects — a crowded app, a congested road, or a social feed full of spam can get worse, not better, as more people pile in. And a network's dominance can collapse quickly if a critical mass of users leaves at once, as happened to networks like Myspace or Orkut — proof that a network effect is a powerful moat, not an indestructible one."
+      },
+      "he": {
+        "headline": "אפקט רשת: למה המוצר הגדול בדרך כלל ממשיך לנצח",
+        "scroll": "אפקט רשת (Network Effect) הוא מצב שבו מוצר נהיה שווה יותר לכל המשתמשים ככל שיותר אנשים משתמשים בו, מה שנותן למובילים המוקדמים יתרון שמתעצם מעצמו.",
+        "coffee": "אפקט רשת (Network Effect) מתקיים כשמוצר נהיה שווה יותר לכל משתמש פשוט בגלל שיותר אנשים משתמשים בו - לא בגלל שהמוצר עצמו השתפר. וואטסאפ הוא אפקט רשת ישיר: הוא שימושי כי החברים והמשפחה שלכם כבר נמצאים בו, והוא נהיה שימושי יותר עם כל אדם שמצטרף. אפליקציית הזמנת נסיעות כמו אובר יש לה אפקט רשת עקיף: יותר נוסעים מושכים יותר נהגים, ויותר נהגים הופכים את האפליקציה לשימושית יותר לנוסעים, במעגל שמזין את עצמו.\n\nזו הסיבה ששווקי טכנולוגיה נוטים להיטות לכיוון שחקן דומיננטי אחד, במקום להתפזר בין הרבה מתחרים כמו, למשל, מסעדות. כשמוצר מבוסס-רשת מקבל יתרון מוקדם, להדביק את הפער אינו עניין של לבנות מוצר טוב יותר בלבד - מתחרה חדש צריך לשכנע מסה קריטית של אנשים לעבור באותו הזמן, וזה הרבה יותר קשה.\n\nזו גם הסיבה שרגולטורים בוחנים כה מקרוב פלטפורמות דומיננטיות: אפקט רשת חזק יכול להפוך יתרון מוקדם למונופול יציב וקשה לעקור.",
+        "deep": "## מה זה אפקט רשת\n\nאפקט רשת (Network Effect) מתקיים כשכל משתמש נוסף במוצר הופך אותו לשווה יותר לכל שאר המשתמשים. זה שונה מחיסכון לגודל (economies of scale) הרגיל, שבו חברה נהיית זולה יותר לתפעול כשהיא גדלה - אפקט רשת הופך את המוצר עצמו לטוב יותר, לא רק זול יותר לייצור, כשבסיס המשתמשים גדל.\n\n## אפקט רשת ישיר מול עקיף\n\nאפקט רשת ישיר מחבר משתמשים אחד לשני באותו תפקיד: טלפון, אפליקציית הודעות, רשת חברתית. יותר אנשים בוואטסאפ פשוט אומר שיש יותר אנשים שאפשר להגיע אליהם.\n\nאפקט רשת עקיף מחבר שתי קבוצות שונות דרך פלטפורמה. שוק כמו אובר או אמזון יש לו נוסעים/קונים בצד אחד ונהגים/מוכרים בצד השני. יותר נוסעים מושכים יותר נהגים (הם יכולים להרוויח יותר, לעתים קרובות יותר), ויותר נהגים אומר זמני המתנה קצרים יותר, מה שמושך יותר נוסעים. אף אחד מהצדדים לא צריך לדעת שהשני קיים - הפלטפורמה רק צריכה מספיק משניהם.\n\n## דוגמה מספרית\n\nנניח אפליקציית הודעות עם 10 משתמשים. חוק מטקאלף (Metcalfe's Law) אומר שמספר החיבורים האפשריים גדל בערך לפי ריבוע מספר המשתמשים: 10 משתמשים תומכים בעד 45 חיבורים אפשריים (10×9÷2). גדילה ל-100 משתמשים מזניקה את זה ל-4,950 חיבורים אפשריים - גידול של פי עשרה במשתמשים מניב גידול של בערך פי מאה בערך הפוטנציאלי. זה הלב המתמטי לכך שמוצרי רשת יכולים לעבור מנישתיים לבלתי ניתנים לעקיפה בתוך חלון זמן קצר: הערך לא צומח בקו ישר עם המשתמשים, הוא צומח בערך בריבועי.\n\n## למה זה חשוב היום\n\nאפקט רשת הוא הסיבה המרכזית לכך שקבוצה קטנה של פלטפורמות שולטת בחיפוש, ברשתות חברתיות, בחנויות אפליקציות ובהזמנת נסיעות, במקום שהשוק יתפזר באופן שווה בין הרבה מתחרים. זה גם מרכזי בדיונים על הגבלים עסקיים (antitrust): מבקרים טוענים שאפקט רשת מאפשר לשחקנים מבוססים, כמו חנויות אפליקציות גדולות או רשתות חברתיות, לבצר את מעמדם בלי קשר לשאלה אם הם ממשיכים לחדש, כי עלויות המעבר למשתמשים - לשכנע את כל מי שאתם מכירים לעבור איתכם - הן עצומות.\n\n## הגבולות\n\nאפקט רשת אינו בלתי מוגבל. הוא יכול להגיע לרוויה (אין הרבה ערך נוסף כשכולם הרלוונטיים כבר ברשת), וברשתות מסוימות יש אפילו אפקט רשת שלילי - אפליקציה עמוסה, כביש פקוק, או פיד חברתי מלא בספאם יכולים להיות גרועים יותר, לא טובים יותר, כשיותר אנשים נדחסים אליהם. והדומיננטיות של רשת יכולה לקרוס במהירות אם מסה קריטית של משתמשים עוזבת בבת אחת, כמו שקרה לרשתות כמו מייספייס או אורקוט - הוכחה שאפקט רשת הוא חפיר חזק, אבל לא בלתי ניתן להריסה."
+      },
+      "tags": [
+        "economics",
+        "network-effects",
+        "tech",
+        "business"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-mumbai-attacks-2008",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2008: Ten gunmen began a four-day siege of Mumbai that killed 175 people",
+        "scroll": "On 26 November 2008, ten Lashkar-e-Taiba gunmen began coordinated attacks across Mumbai that killed 175 people over four days.",
+        "coffee": "On the night of 26 November 2008, ten gunmen from the Pakistan-based militant group Lashkar-e-Taiba arrived in Mumbai by boat and launched a coordinated assault on twelve sites across the city, including two luxury hotels, the main railway station, a Jewish community center, and a café popular with foreigners. The siege lasted four days, killed 175 people — 166 civilians and nine attackers — and wounded more than 300.\n\nThe attacks, which came to be known as 26/11, were notable for their scale and coordination: small teams armed with assault rifles and grenades held multiple locations simultaneously while live television broadcast the standoff worldwide. The sole captured gunman, Ajmal Kasab, was later tried and executed in India.\n\nThe attacks hardened India's security posture, strained India-Pakistan relations for years afterward, and became a global case study in urban terrorism and hostage-rescue response — still referenced whenever cities plan for coordinated, multi-site attacks.",
+        "deep": "## What happened\n\nOn the evening of 26 November 2008, ten young men trained by the Pakistan-based militant group Lashkar-e-Taiba crossed the Arabian Sea by boat, hijacked a fishing trawler near the Mumbai coast, and split into teams that struck twelve targets across the city almost simultaneously: the Taj Mahal Palace and Oberoi Trident hotels, Chhatrapati Shivaji railway terminus, the Leopold Café, a Jewish outreach center called Nariman House, a hospital, and a cinema among them.\n\nUnlike a bombing that ends in minutes, this was a siege. Gunmen barricaded themselves inside the hotels with hostages, and Indian security forces — later joined by national commandos — fought room by room for three days before regaining full control on 29 November. By the end, 175 people were dead, including 166 civilians, nine of the ten attackers, and several police officers; more than 300 were wounded.\n\n## Why it mattered\n\nThe attacks were watched live on television around the world, turning a localized assault into a globally witnessed event in real time — a first for an attack of this scale. The choice of targets, including a hotel favored by foreign business travelers and a center serving the Jewish community, made clear the attackers wanted maximum international attention, not just local damage.\n\nThe sole surviving attacker, Ajmal Kasab, was captured, tried, and executed in India in 2012, providing rare direct evidence of the planning and the group behind it.\n\n## Aftermath\n\nIndia accused Pakistan-based Lashkar-e-Taiba of planning the attacks with support from current and former Pakistani intelligence officials, a charge Pakistan denied, and diplomatic relations between the two nuclear-armed neighbors froze for years. India overhauled its counter-terrorism architecture afterward, creating the National Investigation Agency and commando hubs in major cities specifically to respond faster to this kind of coordinated urban siege.\n\nThe attacks remain a reference point for security planners worldwide studying how to respond to simultaneous, multi-site hostage situations in dense urban environments — a scenario cities from Paris to Nairobi have since had to confront in their own attacks."
+      },
+      "he": {
+        "headline": "2008: מצור של ארבעה ימים הפך את מומבאי לזירת אחד הפיגועים הקטלניים ביותר בעשורים האחרונים",
+        "scroll": "ב-26 בנובמבר 2008 החלו עשרה מחבלים של לשכר-א-טייבה בפיגוע מתואם במומבאי שהרג 175 בני אדם במשך ארבעה ימים.",
+        "coffee": "בליל ה-26 בנובמבר 2008 הגיעו למומבאי בסירה עשרה מחבלים של הארגון הפקיסטני לשכר-א-טייבה (Lashkar-e-Taiba) ופתחו בהתקפה מתואמת על שנים עשר אתרים ברחבי העיר, בהם שני בתי מלון יוקרתיים, תחנת הרכבת המרכזית, מרכז יהודי קהילתי ובית קפה פופולרי בין תושבי חוץ. המצור נמשך ארבעה ימים, הרג 175 בני אדם - 166 אזרחים ותשעה מחבלים - והותיר יותר מ-300 פצועים.\n\nהפיגועים, שכונו 26/11, התבלטו בהיקפם ובתיאום ביניהם: צוותים קטנים חמושים ברובים אוטומטיים ורימונים השתלטו על כמה מוקדים בו-זמנית, בזמן שטלוויזיה חיה שידרה את העימות לעולם כולו. המחבל היחיד שנתפס בחיים, אג'מל קסאב, הועמד למשפט בהודו והוצא להורג.\n\nהפיגועים החמירו את מדיניות הביטחון של הודו, הכבידו על היחסים עם פקיסטן לשנים רבות, והפכו למקרה מבחן עולמי לתגובה לפיגועי טרור אורבניים רב-זירתיים - נקודת התייחסות שממשיכה לעלות כל אימת שערים מתכננות תגובה לפיגוע מתואם במוקדים רבים.",
+        "deep": "## מה קרה\n\nבערב ה-26 בנובמבר 2008 חצו עשרה צעירים שהוכשרו על ידי הארגון הפקיסטני לשכר-א-טייבה את ים ערב בסירה, חטפו סירת דיג סמוך לחופי מומבאי, ופוצלו לצוותים שפגעו בשנים עשר מטרות ברחבי העיר כמעט בבת אחת: מלונות טאג' מהל פאלאס ואוברוי טרידנט, תחנת הרכבת המרכזית צ'טרפאטי שיוואג'י, בית הקפה לאופולד, מרכז הקירוב היהודי נריאמן האוס, בית חולים, ואולם קולנוע, בין היתר.\n\nבניגוד לפיגוע פיצוץ שמסתיים בתוך דקות, זה היה מצור. המחבלים התבצרו בתוך המלונות עם בני ערובה, וכוחות הביטחון ההודים - שאליהם הצטרפו בהמשך כוחות קומנדו לאומיים - נלחמו חדר-חדר במשך שלושה ימים לפני שהשתלטו שוב באופן מלא ב-29 בנובמבר. בסיכומו של דבר נספו 175 בני אדם, בהם 166 אזרחים, תשעה מעשרת המחבלים, וכמה שוטרים; יותר מ-300 נפצעו.\n\n## למה זה היה משמעותי\n\nהפיגועים שודרו בשידור חי בטלוויזיה בעולם כולו, מה שהפך התקפה מקומית לאירוע שהעולם צפה בו בזמן אמת - תקדים לפיגוע בסדר גודל כזה. בחירת המטרות, כולל מלון המועדף על אנשי עסקים זרים ומרכז המשרת את הקהילה היהודית, הבהירה שהמחבלים חיפשו תשומת לב בין-לאומית מקסימלית, לא רק נזק מקומי.\n\nהמחבל היחיד שנתפס בחיים, אג'מל קסאב, נשפט והוצא להורג בהודו ב-2012, מה שסיפק עדות ישירה ונדירה לתכנון ולארגון שמאחורי הפיגוע.\n\n## ההשלכות\n\nהודו האשימה את לשכר-א-טייבה הפקיסטני בתכנון הפיגועים בתמיכת גורמים במודיעין הפקיסטני, הווה ובעבר - האשמה שפקיסטן הכחישה, והיחסים הדיפלומטיים בין שתי המדינות הגרעיניות קפאו לשנים. הודו שיפצה לאחר מכן את מערך נגד הטרור שלה, הקימה את הסוכנות הלאומית לחקירות (NIA) ומרכזי קומנדו בערים גדולות במיוחד כדי להגיב מהר יותר לסוג כזה של מצור אורבני מתואם.\n\nהפיגועים נותרים נקודת ייחוס למתכנני ביטחון בעולם שבוחנים איך להגיב למצבי בני ערובה מתואמים ברב-זירות בסביבות אורבניות צפופות - תרחיש שערים מפריז ועד ניירובי נאלצו להתמודד איתו בפיגועים שלהן."
+      },
+      "tags": [
+        "terrorism",
+        "india",
+        "geopolitics",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2008: A coordinated group of shooting and bombing attacks across Mumbai began, ultimately killing 175 people and wounding more than 300 others.",
+          "url": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks"
+        }
+      ]
+    }
+  ]
+}
