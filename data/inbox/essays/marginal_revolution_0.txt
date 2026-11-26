@@ -1,0 +1,21 @@
+Here is the audio, video, and transcript. From the episode summary:
+
+Tyler and Moxie discuss whether AI could break cryptography, Marlinspike’s own private AI chat service, his case for surveilling AI models instead of the humans using them, his skepticism of airport facial recognition, the case he tentatively makes for consent-based over centralized surveillance, why he thinks law enforcement should stay deliberately imperfect, what makes Signal different from WhatsApp, his doubts about cryptocurrency as it’s currently used, a Pentagon group chat scandal he seems almost pleased about, nearly drowning alone in San Francisco Bay, what Starlink has taken from solo sailing, hitchhiking across America in the late ’90s, a mysterious period of being secretly flagged every time he flew internationally, what he’s building next, and more.
+
+COWEN: Now say when people use agents, and there’s a certain level of accountability we want for agents. If the agents hack someone else’s privacy, we want some kind of recourse, liability. Can there be privacy in a world with agents and accountability at the same time?
+
+MARLINSPIKE: This is a line that’s very difficult to navigate private or unprivate of what does AI safety mean. I think that it’s probably possible to navigate in the private AI world, but it’s just as difficult and thorny as in the nonprivate AI world.
+
+COWEN: If we want to trace what agents have done and then trace what you told the agent, if the law is to have that power, definitionally, it’s not truly private, right?
+
+MARLINSPIKE: You’re talking about loss of control as your concern?
+
+COWEN: People telling their agents to do evil things.
+
+MARLINSPIKE: Okay. This is a big challenge because there’s a version of AI safety that is concerned with this question. This question is an interesting one. The fear is that people have an equal ability. When you think about things like cyber or cyber risks, this is what you’re suggesting, where suddenly people can use an agent to compromise computer systems, these are things that have always been possible. It just required humans with specific talent or ability.
+
+What AI does is democratize that ability, where now anybody has access to this talent. It’s interesting that that’s actually a scary thought of the democratization of ability. There’s something, for some reason, that makes you think that someone having to develop that ability on their own makes them somehow less dangerous or less likely to use it in an inappropriate way. Right now, the AI safety approach to this question is mass surveillance.
+
+MARLINSPIKE: I think that’s a really dangerous approach. The current approach is basically we don’t want bad people to do bad things. What we’re going to do is classify everything that everyone does on a score of badness, and we’re going to rank that from most bad to least bad. We’re going to have an army of human reviewers that just go through and are looking at everything and evaluating the badness. You’re building a machinery of mass surveillance that is larger and more efficient than any other mass surveillance machinery in history. That just seems like a dangerous thing to be constructing.
+
+Interesting throughout, a very good episode.
