@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -144,82 +144,82 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "AI in research",
+     "published": "2026-11-25T18:51:23+00:00",
+     "summary": "We found that recent frontier models are now consistently proposing research designs that human and LLM graders alike judge more compelling than what the very top expert in the field has been developing. Yet these outstanding AI research designs are still often in service of new research questions that graders found substantially less valuable than […] The post AI in research appeared first on Mar"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Wednesday assorted links",
+     "published": "2026-11-25T17:20:25+00:00",
+     "summary": "1. Macrohistory in six facts. 2. Patrick Collison on Tocqueville. 3. The minimum wage: current vs. lifetime perspectives. By Francisco Libano-Monteiro, on the economics job market from LSE. 4. Kurt Rosenwinkel, Ruby My Dear. 5. Profile of Perry Mehrling. 6. The jagged frontier. The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "How did the United States become a lawyerly society?",
      "published": "2026-11-25T10:18:10+00:00",
      "summary": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after. We attribute this shift to three related changes in the legal environment: a wave of new legislation and regulation […] The post How did the United States become a lawyerly society?"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Avoiding disempowerment through protectionism?",
      "published": "2026-11-25T05:44:00+00:00",
      "summary": "Recently many people are debating whether AI will lead to our disempowerment. One simple example is that we might use AI to pursue or solve various intellectual tasks for us, rather than doing it ourselves. So say there are twenty important math problems, and we let the AIs (with some human guidance) take a crack […] The post Avoiding disempowerment through protectionism? appeared first on Margina",
-     "full_text_file": "essays/marginal_revolution_1.txt"
+     "full_text_file": "essays/marginal_revolution_3.txt"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Gambling for Goals",
      "published": "2026-11-24T19:33:13+00:00",
      "summary": "Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test this theory […] The post Gambling for G"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Tuesday assorted links",
      "published": "2026-11-24T16:26:55+00:00",
      "summary": "1. On language models writing their own weights. 2. “The Banksy of NBA media”? 3. Astra solves a historical mystery. 4. Some new Indian architecture. And more from Bloomberg. 5. The Icelandic tradition of liberty. 6. “Surprisingly though, data on real-world impacts of cyber attacks tells a less dire story.“ The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Best fiction 2026",
      "published": "2026-11-24T07:33:57+00:00",
      "summary": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa [new translation] Claudia Piñeiro, Cathedrals. Christian Kracht, Eurotrash [2025], and Air [2026]. Munir Hachemi, The Mulai. Egana Djabbarova, My […] The post Best fiction 2026 appeare"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "The Health Effects of Eating Red Meat",
      "published": "2026-11-24T06:15:54+00:00",
      "summary": "The subtitle of the paper is Natural Experiment in Alpha-Gal Syndrome, and the authors are Vishal Patel, Christopher M. Worsham, Michael Liu-Hass & Anupam Jena. The abstract: Observational associations between red meat consumption and cardiometabolic disease are confounded by diet and other health behaviors. Alpha-gal syndrome, a tick-borne allergy to mammalian meat, leads to an abrupt […] The pos"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "The AI gains that gdp misses",
      "published": "2026-11-23T18:44:20+00:00",
      "summary": "That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available degree of product variety rises sharply due to AI. But again, that effect is not captured […] The post The AI gains that gdp misses appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Monday assorted links",
      "published": "2026-11-23T17:01:36+00:00",
      "summary": "1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess players earn in prize money. 6. The rise and fall of the MBA. 7. Richard […] The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Still Unproven: Can Britain Build a Tunnel?",
      "published": "2026-11-23T12:20:34+00:00",
      "summary": "Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the second. Third irony: The tunnel still isn’t built. Hat tip: Alex Rich The post Still Unproven: Can Britain Build a Tunnel? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "The Tyranny of the Alphabet 2",
      "published": "2026-11-23T12:17:39+00:00",
      "summary": "I wrote about the Tyranny of the Alphabet many years ago. In economics the standard then was to list authors alphabetically: Faculty members in top departments with surnames beginning with letters earlier in the alphabet are substantially more likely to be tenured, be fellows of the Econometric Society, and even win Nobel prizes (let’s see, […] The post The Tyranny of the Alphabet 2 appeared first"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Best non-fiction books of 2026",
      "published": "2026-11-23T06:10:57+00:00",
      "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […] The post Best non-fiction books of 2026 appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Increasing pay for lower wage workers",
-     "published": "2026-11-22T19:24:24+00:00",
-     "summary": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external […] The post Increasing pay fo"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Sunday assorted links",
-     "published": "2026-11-22T17:31:05+00:00",
-     "summary": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes on user data vs. curated data. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -309,38 +309,40 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
+     "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+     "published": "2026-11-25T14:00:49+00:00",
+     "summary": "Scientists are inventing new ways to search for the missing mass of the universe. The post Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_0.txt"
+    },
+    {
+     "ref": "quanta#1",
      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
      "published": "2026-11-23T15:27:11+00:00",
      "summary": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#1",
+     "ref": "quanta#2",
      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
      "published": "2026-11-20T14:50:41+00:00",
      "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
      "published": "2026-11-18T15:51:40+00:00",
      "summary": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians. The post How M.C. Escher’s Art Creates Bizarre Mathematical Worlds first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
      "published": "2026-11-16T15:15:33+00:00",
      "summary": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "Can Network Science Transform Health and Nutrition?",
-     "published": "2026-11-12T19:40:54+00:00",
-     "summary": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food. The post Can Network Science Transform Health and Nutrition? first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "Can Culture Rewire the Brain Behind Mental Illness?",
   "The DNA Repair Machinery That Secretly Powers Gene Editing",
   "Will AI Growth Reach the Developing World? An Economist Pushes Back on a Pessimistic Model",
   "Two Researchers Found the Only Four Things That Can Break a 'Perfectly Resilient' Network",
@@ -369,8 +371,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "The Physics of Getting Fired: What Chaos Theory Teaches About Career Shocks and Fairness",
   "Plan R: Split Who Builds Frontier AI From Who Profits From It",
   "Grief Isn't Only for the Dead — It's What Happens Whenever an Imagined Future Disappears",
-  "Democracy's Paradox Finally Has a Shape — and It's a Klein Bottle",
-  "A short story asks: if a superintelligence conquered the world overnight, honestly and mostly gently, would resisting it even make sense?"
+  "Democracy's Paradox Finally Has a Shape — and It's a Klein Bottle"
  ]
 }
 </input>

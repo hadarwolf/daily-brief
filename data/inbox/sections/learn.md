@@ -24,142 +24,161 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2013,
-   "text": "English-Irish boy band One Direction released their third studio album Midnight Memories which debuted at number one on the Billboard 200 and became the best-selling album of 2013.",
+   "year": 2011,
+   "text": "In a friendly-fire incident, a skirmish occurred between U.S.-led NATO forces and Pakistani security forces at two military checkposts along the Afghanistan–Pakistan border.",
    "context": [
-    "One Direction, often shortened to 1D, was an English–Irish pop boy band formed in London in 2010. The group consisted of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson and Zayn Malik. The group sold over 70 million records worldwide, making them one of the best-selling boy bands of all time, before going on an indefinite hiatus in 2016."
+    "In military terminology, friendly fire or fratricide is an unintentional attack by allied or neutral forces on friendly troops while attempting to attack enemy or hostile targets. Many NATO militaries refer to these incidents as blue on blue. Examples include misidentifying the target as hostile, cross-fire while engaging an enemy, and long-range ranging errors or inaccuracy. Accidental fire not intended to attack enemy or hostile targets, or deliberate firing on one's own troops for disciplinary reasons, is not called friendly fire, and neither is unintentional harm to civilian or neutral targets, which is sometimes referred to as collateral damage. Training accidents and bloodless incidents also do not qualify as friendly fire in terms of casualty reporting."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1984,
-   "text": "Band Aid, a supergroup consisting of more than 30 leading British and Irish pop musicians, recorded the song \"Do They Know It's Christmas?\" to raise money for famine relief in Ethiopia.",
+   "year": 2011,
+   "text": "Mars Science Laboratory, a NASA mission carrying the rover Curiosity (pictured) on board, was launched from Cape Canaveral.",
    "context": [
-    "\"Do They Know It's Christmas?\" is a charity song written in 1984 by Bob Geldof and Midge Ure to raise money for the 1983–1985 famine in Ethiopia. It was first recorded by Band Aid, a supergroup consisting of popular British and Irish musicians, in a single day at Sarm West Studios in Notting Hill, London, in November 1984."
+    "Mars Science Laboratory (MSL) is a robotic space probe mission to Mars launched by NASA on November 26, 2011, which successfully landed Curiosity, a Mars rover, in Gale Crater on August 6, 2012. The overall objectives include investigating Mars's habitability, studying its climate and geology, and collecting data for a human mission to Mars. The rover carries a variety of scientific instruments designed by an international team."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1981,
-   "text": "A group of Conservative members of Parliament wrote a letter outlining their opposition to the economic policy of Margaret Thatcher, leading to speculation over a split from the party.",
+   "year": 2008,
+   "text": "A coordinated group of shooting and bombing attacks across Mumbai began, ultimately killing 175 people and wounding more than 300 others.",
    "context": [
-    "The Gang of 25 or the Group of 25 was a cohort of British Conservative Party backbench members of Parliament (MPs) that threatened to vote against prime minister Margaret Thatcher's 1981 Autumn Statement. The statement contained monetarist measures to control inflation. Similar measures introduced since 1979 had reduced inflation but caused job losses in the manufacturing sector."
+    "The 2008 Mumbai attacks, colloquially known as 26/11, were a coordinated series of twelve Islamic terrorist attacks carried out in Mumbai, Maharashtra, India, from 26 to 29 November 2008, by ten members of Lashkar-e-Taiba. A total of 175 people died, including 166 civilians and nine of the attackers, and more than 300 people were injured."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1975,
-   "text": "Upon Suriname's independence from the Netherlands, Johan Ferrier (pictured) became its first president.",
+   "year": 1983,
+   "text": "Six robbers broke into a Brink's-Mat warehouse at Heathrow Airport in London and stole £26 million in gold, diamonds and cash.",
    "context": [
-    "Johan Henri Eliza Ferrier was a Surinamese politician who served as the first president of Suriname from 1975 to 1980. He was also the country's last governor-general before independence, serving from 1968 to 1975, before becoming the first president upon independence from the Kingdom of the Netherlands in 1975 and also served as the fifth prime minister from 1955 to 1958."
+    "The Brink's Company is an American cash handling company, headquartered in Richmond, Virginia. Its operations include cash-in-transit, ATM replenishment & maintenance, and cash management & payment services, such as vault outsourcing, money processing, intelligent safe services, and international transportation of valuables."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1970,
-   "text": "After failing to instigate a military coup to restore the powers of the Emperor of Japan, author Yukio Mishima and a member of his militia committed ritual suicide.",
+   "year": 1979,
+   "text": "Pakistan International Airlines Flight 740, crashed shortly after takeoff near Taif, Saudi Arabia, killing all 156 people on board.",
    "context": [
-    "The Mishima incident  occurred on November 25, 1970, when the Japanese author Yukio Mishima committed seppuku after calling on the Japan Self-Defense Forces to stage a coup d'état to abolish Article 9 of the Japanese Constitution and appealing to his own ideas and beliefs about reconstructing true national autonomy. The incident is sometimes called the Tatenokai incident , after the private militia led by Mishima whose members took part."
+    "On 26 November 1979, Pakistan International Airlines Flight 740, a Boeing 707 operating a scheduled international passenger flight from Kano, Nigeria, to Karachi, Pakistan, via Jeddah, Saudi Arabia, crashed near Taif after attempting to return to Jeddah International Airport following an in-flight fire, killing all 145 passengers and 11 crew members."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1952,
-   "text": "Korean War: After 42 days of fighting, the Battle of Triangle Hill ended as American and South Korean units abandoned their attempt to capture the \"Iron Triangle\".",
+   "year": 1977,
+   "text": "A speaker claiming to represent the \"Intergalactic Association\" interrupted a broadcast of Southern Television in South East England.",
    "context": [
-    "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC)."
+    "The Southern Television broadcast interruption was a broadcast signal intrusion, or pirate broadcast, that occurred on 26 November 1977 in parts of southern England in the United Kingdom. The audio of a Southern Television broadcast was replaced by a voice claiming to represent the \"Ashtar Galactic Command\", delivering a message instructing humanity to abandon its weapons and live in peace with one another so it could participate in a \"future awakening\" and \"achieve a higher state of evolution\". After five and a half minutes, the broadcast returned to its scheduled programme, the 1947 Looney Tunes cartoon Goofy Gophers."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1951,
-   "text": "The left-wing Japanese novelist Wataru Kaji disappeared, leading to a government inquiry in which CIA involvement was investigated.",
+   "year": 1965,
+   "text": "Astérix (prototype pictured), the first French satellite, was launched into orbit by a Diamant rocket from Hammaguir, Algeria.",
    "context": [
-    "Wataru Kaji  was the nom de guerre for Mitsugi Seguchi, a Japanese writer, literary critic, and political activist."
+    "Astérix or A-1 is the first French satellite. It was launched on 26 November 1965 by a Diamant A rocket from the CIEES launch site at Hammaguir, Algeria. With Astérix, France became the sixth country to have an artificial satellite and the third country to launch a satellite on its own rocket. Its main purpose was to test the Diamant launcher, though it was also designed to study the ionosphere. Astérix continues to orbit Earth as of 2026 and is expected to remain in orbit for centuries."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1947,
-   "text": "McCarthyism: Executives from movie studios agreed to blacklist ten screenwriters and directors who were jailed for refusing to give testimony to the House Un-American Activities Committee.",
+   "year": 1942,
+   "text": "A riot involving infantrymen, military police, and local law enforcement officers killed three people in Phoenix, Arizona.",
    "context": [
-    "McCarthyism is a political practice defined by the accusation and investigation of left-wing individuals of communist and Soviet influence on American institutions and of Soviet espionage in the United States during the late 1940s through the 1950s, heavily associated with the McCarthy era. After the mid-1950s, U.S. senator Joseph McCarthy, who had spearheaded the campaign, gradually lost his public popularity after several of his accusations were found to be false. The U.S. Supreme Court under Chief Justice Earl Warren made a series of rulings on civil and political rights that overturned several key laws and legislative directives, and helped bring an end to the Second Red Scare."
+    "On November 26, 1942, a riot occurred in Phoenix, Arizona, United States, involving United States Army infantrymen, military police, and members of the Phoenix Police Department. The incident left three people dead and approximately a dozen injured."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1936,
-   "text": "Nazi Germany and the Empire of Japan signed the Anti-Comintern Pact, agreeing that, if the Soviet Union attacked one of them, they would consult each other on measures to \"safeguard their common interests\".",
+   "year": 1942,
+   "text": "Casablanca, starring Humphrey Bogart and Ingrid Bergman, premiered at the Hollywood Theatre in New York City to coincide with the Allied invasion of French North Africa and the capture of Casablanca.",
    "context": [
-    "The Anti-Comintern Pact, officially the Agreement against the Communist International, was an anti-communist pact concluded between Nazi Germany and the Empire of Japan on 25 November 1936 and directed against the Communist International (Comintern). It was signed by the German ambassador-at-large Joachim von Ribbentrop and the Japanese ambassador to Germany Kintomo Mushanokōji. Italy joined in 1937, but it was legally recognized as an original signatory by the terms of its entry. Spain and Hungary joined in 1939. Other countries joined during World War II."
+    "Casablanca is a 1942 American romantic drama film directed by Michael Curtiz and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid. Filmed and set during World War II, it focuses on an American expatriate (Bogart) who must choose between his love for a woman (Bergman) and helping her husband (Henreid), a Czechoslovak resistance leader, escape from the Vichy-controlled city of Casablanca to continue his fight against the Nazis. The screenplay is based on Everybody Comes to Rick's, an unproduced stage play by Murray Burnett and Joan Alison. The supporting cast features Claude Rains, Conrad Veidt, Sydney Greenstreet, Peter Lorre, and Dooley Wilson."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1917,
-   "text": "World War I: German troops invaded Portuguese East Africa in an attempt to escape superior British forces to the north and resupply from captured Portuguese materiel.",
+   "year": 1942,
+   "text": "World War II: The first meeting of the Anti-Fascist Council for the National Liberation of Yugoslavia was convened at Bihać in northwestern Bosnia.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons and tanks."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1901,
-   "text": "Gustav Mahler's Symphony No. 4 premiered in Munich.",
+   "year": 1940,
+   "text": "The Iron Guard killed 64 political detainees at a penitentiary near Bucharest and followed up with several high-profile assassinations, including that of former Romanian prime minister Nicolae Iorga.",
    "context": [
-    "Gustav Mahler was an Austro-Bohemian Romantic composer, and one of the leading conductors of his generation. As a composer he acted as a bridge between the 19th-century tradition and the modernism of the early 20th century. While in his lifetime his status as a conductor was established beyond question, his own music gained wide popularity only after periods of relative neglect, which included a ban on its performance in much of Europe during the Nazi era. After 1945 his compositions were rediscovered by a new generation of listeners; Mahler then became one of the most frequently performed and recorded of all composers, a position he has sustained into the 21st century."
+    "The Iron Guard was a far-right, revolutionary, fascist paramilitary organization and political party active in the Kingdom of Romania during the interwar period and the Second World War. Founded in 1927 by Corneliu Zelea Codreanu as the Legion of the Archangel Michael or the Legionary Movement, the movement was strongly anti-democratic, anti-communist, and antisemitic, and its ideology inspired both political violence and forms of Christian terrorism. It differed from other European far-right movements of the period due to its spiritual basis, as the Iron Guard was deeply imbued with Romanian Orthodox Christian mysticism."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1885,
-   "text": "Banff National Park (pictured), the oldest national park in Canada, was established as the Banff Hot Springs Reserve.",
+   "year": 1939,
+   "text": "The Soviet Red Army shelled the village of Mainila and then claimed that the fire originated from Finland, giving them a casus belli to launch the Winter War a few days later.",
    "context": [
-    "Banff National Park is Canada's first national park, established in 1885 as Rocky Mountains Park. Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes. It is bordered by Jasper National Park to the north, Yoho National Park and Kootenay National Park to the west in British Columbia, and Kananaskis Country to the southeast. The main commercial centre of the park is the town of Banff, in the Bow River valley."
+    "The Workers' and Peasants' Red Army, often referred by its shortened name as the Red Army, was the army and air force of the Russian Soviet Republic and, from 1922, the Soviet Union. The army was established in January 1918 by a decree of the Council of People's Commissars to oppose the military forces of the new nation's adversaries during the Russian Civil War, especially the various groups collectively known as the White Army. In February 1946, the Red Army was renamed the \"Soviet Army\". Following the dissolution of the Soviet Union, it was split between the post-Soviet states, with its bulk becoming the Russian Ground Forces, commonly considered to be the successor of the Soviet Army."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1863,
-   "text": "American Civil War: Confederate forces were defeated at the Battle of Missionary Ridge in Chattanooga, Tennessee, opening the door to the Union's invasion of the Deep South.",
+   "year": 1921,
+   "text": "The Bolshevik–Makhnovist conflict resumes with a surprise attack by the Red Army against the Makhnovshchina.",
    "context": [
-    "The American Civil War was fought in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "The Bolshevik–Makhnovist conflict was a period of political and military conflict between the Ukrainian Soviet Socialist Republic and the Makhnovshchina, for control over southern Ukraine. The Bolsheviks aimed to eliminate the Makhnovshchina and neutralise its peasant base. In turn, the Makhnovists fought against the implementation of the Red Terror and the policy of war communism."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1795,
-   "text": "Stanisław II Augustus (pictured), the last king of Poland, was forced to abdicate after the Third Partition of the Polish–Lithuanian Commonwealth.",
+   "year": 1917,
+   "text": "Being unable to resolve disputes with Eddie Livingstone, owner of the Toronto Blueshirts, the other ice hockey clubs of Canada's National Hockey Association officially agreed to break away and form the National Hockey League.",
    "context": [
-    "Stanisław II August, known also by his regnal Latin name Stanislaus II Augustus, and as Stanisław August Poniatowski, was King of Poland and Grand Duke of Lithuania from 1764 to 1795, and the last monarch of the Polish–Lithuanian Commonwealth."
+    "Edward James Livingstone was a Canadian sports team owner and manager. He was the principal owner of the Toronto Shamrocks and the Toronto Blueshirts professional ice hockey clubs of the National Hockey Association (NHA), where his battles with his fellow owners led them to create the National Hockey League."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1759,
-   "text": "The second of two strong earthquakes struck the Levant and destroyed all the villages in the Beqaa Valley.",
+   "year": 1914,
+   "text": "A large internal explosion destroyed HMS Bulwark near Sheerness, killing 741 people on board.",
    "context": [
-    "The 1759 Near East earthquakes shook a large portion of the Levant in October and November of that year. This geographical crossroads in the Eastern Mediterranean were at the time under the rule of the Ottoman Empire. The ruins of Baalbek, a settlement in the Beqaa Valley of Lebanon east of the Litani River, were badly damaged. These 1759 events, along with the earlier 1202 Syria earthquake, are likely the strongest historical earthquakes in the region."
+    "HMS Bulwark was one of five London-class pre-dreadnought battleships built for the Royal Navy at the end of the 19th century. The Londons were a sub-class of the Formidable-class pre-dreadnoughts. Completed in 1902 she was initially assigned to the Mediterranean Fleet as its flagship. The ship then served with the Channel and Home Fleets from 1907 to 1910, usually as a flagship. From 1910 to 1914, she was in reserve in the Home Fleet."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1678,
-   "text": "Trunajaya rebellion: Mataram and Dutch troops successfully assaulted the rebel stronghold of Kediri in eastern Java.",
+   "year": 1852,
+   "text": "A massive earthquake struck the Dutch East Indies, creating a tsunami that washed away villages, ships and residents.",
    "context": [
-    "The Trunajaya Rebellion or Trunajaya War was a conflict in the 1670s led by the Madurese prince Trunajaya and Makassarese fighters against the Mataram Sultanate and the Dutch East India Company (VOC) in Java."
+    "The 1852 Banda Sea earthquake struck on 26 November at 07:40 local time, affecting coastal communities on the Banda Islands. It caused violent shaking lasting five minutes, and was assigned XI on the Modified Mercalli intensity scale in the Maluku Islands. A tsunami measuring up to 8 m (26 ft) slammed into the islands of Banda Neira, Saparua, Haruku and Ceram. The tsunami caused major damage, washing away many villages, ships and residents. At least 60 people were killed in the earthquake and tsunami. The earthquake had an estimated moment magnitude of 7.5 or 8.4–8.8, according to various academic studies."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1491,
-   "text": "Reconquista: The signing of the Treaty of Granada (depicted) effectively concluded the Granada War between Castile-Aragon and the Emirate of Granada.",
+   "year": 1851,
+   "text": "The French navy bombarded the city of Salé, Morocco, damaging its infrastructure and the Great Mosque of Salé.",
    "context": [
-    "The Reconquista or the fall of al-Andalus was a series of military campaigns by northern Iberian Christian polities against Muslim-ruled al-Andalus, which had been part of the Visigothic Kingdom before the Muslim Conquest of 711. The Reconquista concluded in 1492 with the capture of Granada by the Catholic Monarchs of Spain, thereby ending the presence of any Muslim rule on the Iberian Peninsula."
+    "The Bombardment of Salé was a French naval attack against the Moroccan city of Salé that took place between 26 and 27 November 1851. After seven hours of fighting, the Moroccan artillery suffered severe damage, and the French bombarded the city through the night, damaging the city's infrastructure and the Great Mosque of Salé."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1842,
+   "text": "The University of Notre Dame (building pictured) was founded by Edward Sorin of the Congregation of Holy Cross as an all-male institution in the U.S. state of Indiana.",
+   "context": [
+    "The University of Notre Dame du Lac is a private Catholic research university in Notre Dame, Indiana, United States. The university was founded in 1842 by members of the Congregation of Holy Cross, a Catholic religious order of priests and brothers. Its main campus covers 1,261 acres in a suburban setting and has landmarks such as the Golden Dome main building, Sacred Heart Basilica, the Grotto of Our Lady of Lourdes, the Word of Life mosaic mural, and Notre Dame Stadium."
+   ]
+  },
+  {
+   "ref": "wikipedia#18",
+   "year": 1835,
+   "text": "Texas Revolution: Texian forces attacked a Mexican pack train, capturing 40 saddlebags of grass.",
+   "context": [
+    "The Texas Revolution was a rebellion by Anglo-American immigrants as well as Hispanic Texans against the centralist government of Mexico in the Mexican state of Coahuila y Tejas. Although the uprising was part of a larger revolt that included other provinces opposed to the regime of President Miguel Barragán and General Antonio López de Santa Anna, the Mexican government believed the United States had instigated the Texas insurrection with the goal of annexation. The Mexican Congress passed the Tornel Decree, declaring that any foreigners fighting against Mexican troops \"will be deemed pirates and dealt with as such, being citizens of no nation presently at war with the Republic and fighting under no recognized flag\". Only the province of Texas succeeded in breaking with Mexico, establishing the Republic of Texas. It was eventually annexed by the United States about a decade later."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Shrinkflation (כיווץ אינפלציוני)",
+  "Due diligence (בדיקת נאותות)",
+  "Scorched-earth strategy (אסטרטגיית אדמה חרוכה)",
   "Bootstrapping (מיזם ממומן בכוחות עצמיים)",
   "Dead cat bounce (קפיצת החתול המת)",
   "Punching above your weight (להילחם מעל המשקל שלך)",
@@ -246,10 +265,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Paper tiger (נמר של ניר)",
   "Clawback (קלובק)",
   "In the black / in the red (ברווח / בגירעון)",
-  "Eating someone's lunch (לאכול למישהו את הארוחה)",
-  "Negative carry (קארי שלילי)",
-  "Barbell strategy (אסטרטגיית המשקולת)",
-  "Don't fight the Fed (אל תתעסק עם ה-Fed)"
+  "Eating someone's lunch (לאכול למישהו את הארוחה)"
  ]
 }
 </input>

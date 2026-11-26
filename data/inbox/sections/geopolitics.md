@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Climate change - AP News",
-     "published": "2026-11-25T11:40:39+00:00",
-     "summary": "Climate change AP News"
+     "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda - AP News",
+     "published": "2026-11-26T02:55:00+00:00",
+     "summary": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "New York City - AP News",
-     "published": "2026-11-25T11:37:21+00:00",
-     "summary": "New York City AP News"
+     "title": "Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027 - AP News",
+     "published": "2026-11-26T02:11:00+00:00",
+     "summary": "Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027 AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "2026 World Cup schedule and results - AP News",
-     "published": "2026-11-25T11:37:18+00:00",
-     "summary": "2026 World Cup schedule and results AP News"
+     "title": "US-led consortium agrees to acquire assets from Russian oil company Lukoil - AP News",
+     "published": "2026-11-26T02:08:00+00:00",
+     "summary": "US-led consortium agrees to acquire assets from Russian oil company Lukoil AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "2026 World Cup venue map - AP News",
-     "published": "2026-11-25T11:37:16+00:00",
-     "summary": "2026 World Cup venue map AP News"
+     "title": "Nigeria seizes $220 million worth of meth and arrests 5 Mexican suspects in a major drug bust - AP News",
+     "published": "2026-11-26T01:41:00+00:00",
+     "summary": "Nigeria seizes $220 million worth of meth and arrests 5 Mexican suspects in a major drug bust AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "Women’s sports - AP News",
-     "published": "2026-11-25T11:37:13+00:00",
-     "summary": "Women’s sports AP News"
+     "title": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever - AP News",
+     "published": "2026-11-26T01:31:00+00:00",
+     "summary": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "Violence - AP News",
-     "published": "2026-11-25T11:37:12+00:00",
-     "summary": "Violence AP News"
+     "title": "A postponed Macy’s Thanksgiving Day Parade to celebrate a milestone with Blue Hippo and Bluey - AP News",
+     "published": "2026-11-26T01:23:00+00:00",
+     "summary": "A postponed Macy’s Thanksgiving Day Parade to celebrate a milestone with Blue Hippo and Bluey AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-11-25T11:34:27+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+     "title": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture - AP News",
+     "published": "2026-11-26T01:12:00+00:00",
+     "summary": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-25T11:34:27+00:00",
-     "summary": "Minnesota AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "Golf | Latest News, Stats, and More - AP News",
-     "published": "2026-11-25T11:34:25+00:00",
-     "summary": "Golf | Latest News, Stats, and More AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "Accidents - AP News",
-     "published": "2026-11-25T11:17:23+00:00",
-     "summary": "Accidents AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-25T11:17:21+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-25T11:02:17+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "College sports - AP News",
-     "published": "2026-11-25T10:54:50+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Immigration - AP News",
-     "published": "2026-11-25T10:51:29+00:00",
-     "summary": "Immigration AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Libyan naval officers die following Ukrainian drone attack, and other Mideast news - AP News",
-     "published": "2026-11-25T10:38:00+00:00",
-     "summary": "Libyan naval officers die following Ukrainian drone attack, and other Mideast news AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Iran war - AP News",
-     "published": "2026-11-25T10:33:55+00:00",
-     "summary": "Iran war AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Eurostar cancels Paris-London trains after staff go on unannounced strike - AP News",
-     "published": "2026-11-25T10:02:00+00:00",
-     "summary": "Eurostar cancels Paris-London trains after staff go on unannounced strike AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street - AP News",
-     "published": "2026-11-25T09:49:00+00:00",
-     "summary": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Brazil - AP News",
-     "published": "2026-11-25T09:47:06+00:00",
-     "summary": "Brazil AP News"
-    },
-    {
-     "ref": "ap_world#19",
      "title": "Sports - Europe - AP News",
-     "published": "2026-11-25T09:08:48+00:00",
+     "published": "2026-11-26T01:07:32+00:00",
      "summary": "Sports - Europe AP News"
     },
     {
+     "ref": "ap_world#8",
+     "title": "Angelina Jolie and Brad Pitt settle winery fight lawsuit that surfaced abuse allegations - AP News",
+     "published": "2026-11-26T01:02:00+00:00",
+     "summary": "Angelina Jolie and Brad Pitt settle winery fight lawsuit that surfaced abuse allegations AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Tariffs and global trade - AP News",
+     "published": "2026-11-26T00:54:32+00:00",
+     "summary": "Tariffs and global trade AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Nvidia CEO’s comeback fuels debate over misogyny and impunity for the rich and powerful - AP News",
+     "published": "2026-11-26T00:53:00+00:00",
+     "summary": "Nvidia CEO’s comeback fuels debate over misogyny and impunity for the rich and powerful AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "United Kingdom - AP News",
+     "published": "2026-11-26T00:48:42+00:00",
+     "summary": "United Kingdom AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "After 3 decades, Essence Music Festival bidding farewell to New Orleans - AP News",
+     "published": "2026-11-26T00:40:00+00:00",
+     "summary": "After 3 decades, Essence Music Festival bidding farewell to New Orleans AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "Donald Trump - AP News",
+     "published": "2026-11-26T00:38:32+00:00",
+     "summary": "Donald Trump AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding - AP News",
+     "published": "2026-11-26T00:12:00+00:00",
+     "summary": "King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV following his benching - AP News",
+     "published": "2026-11-25T23:57:00+00:00",
+     "summary": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV following his benching AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip - AP News",
+     "published": "2026-11-25T23:44:00+00:00",
+     "summary": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical - AP News",
+     "published": "2026-11-25T23:42:00+00:00",
+     "summary": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical AP News"
+    },
+    {
+     "ref": "ap_world#18",
+     "title": "Broncos pivot after Steelers bench and release Aaron Rodgers - AP News",
+     "published": "2026-11-25T23:29:00+00:00",
+     "summary": "Broncos pivot after Steelers bench and release Aaron Rodgers AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "Vance serves up turkey and ‘unfiltered’ conversation to Air Force troops at an Ohio base - AP News",
+     "published": "2026-11-25T23:24:00+00:00",
+     "summary": "Vance serves up turkey and ‘unfiltered’ conversation to Air Force troops at an Ohio base AP News"
+    },
+    {
      "ref": "ap_world#20",
-     "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-     "published": "2026-11-25T08:36:09+00:00",
-     "summary": "Associated Press News: Breaking News | Latest News Today AP News"
+     "title": "Major League Baseball sues players' union ahead of lockout, trying to block possible antitrust suit - AP News",
+     "published": "2026-11-25T23:14:00+00:00",
+     "summary": "Major League Baseball sues players' union ahead of lockout, trying to block possible antitrust suit AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Lack of snow forces cancellation of World Cup skiing races in Canada next month - AP News",
-     "published": "2026-11-25T08:01:00+00:00",
-     "summary": "Lack of snow forces cancellation of World Cup skiing races in Canada next month AP News"
+     "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65 - AP News",
+     "published": "2026-11-25T23:12:00+00:00",
+     "summary": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65 AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "29 miners believed trapped by flooding in an unauthorized gold mine in Indonesia - AP News",
-     "published": "2026-11-25T07:59:21+00:00",
-     "summary": "29 miners believed trapped by flooding in an unauthorized gold mine in Indonesia AP News"
+     "title": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving - AP News",
+     "published": "2026-11-25T23:12:00+00:00",
+     "summary": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Macy’s Thanksgiving Day Parade to celebrate a milestone with Blue Hippo, Bluey and Megan Moroney - AP News",
-     "published": "2026-11-25T07:41:25+00:00",
-     "summary": "Macy’s Thanksgiving Day Parade to celebrate a milestone with Blue Hippo, Bluey and Megan Moroney AP News"
+     "title": "King tides and high surf batter California coast, in photos - AP News",
+     "published": "2026-11-25T23:10:00+00:00",
+     "summary": "King tides and high surf batter California coast, in photos AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut - AP News",
-     "published": "2026-11-25T07:24:00+00:00",
-     "summary": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut AP News"
+     "title": "Brandon Aiyuk agrees on a deal to join the Washington Commanders’ practice squad - AP News",
+     "published": "2026-11-25T23:09:00+00:00",
+     "summary": "Brandon Aiyuk agrees on a deal to join the Washington Commanders’ practice squad AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-     "published": "2026-11-25T12:20:17+00:00",
-     "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm."
-    },
-    {
-     "ref": "bbc_world#1",
-     "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-     "published": "2026-11-25T11:45:16+00:00",
-     "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal."
-    },
-    {
-     "ref": "bbc_world#2",
-     "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-     "published": "2026-11-25T11:29:40+00:00",
-     "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda."
-    },
-    {
-     "ref": "bbc_world#3",
-     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-     "published": "2026-11-25T10:52:09+00:00",
-     "summary": "The verdict follows a months-long trial in New York."
-    },
-    {
-     "ref": "bbc_world#4",
-     "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-     "published": "2026-11-25T07:26:54+00:00",
-     "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past."
-    },
-    {
-     "ref": "bbc_world#5",
-     "title": "Two children among six dead after plane crash off Mississippi coast",
-     "published": "2026-11-25T07:08:22+00:00",
-     "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said."
-    },
-    {
-     "ref": "bbc_world#6",
-     "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-     "published": "2026-11-25T06:00:36+00:00",
-     "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "US attorney general dodges questions about Nvidia investigation",
-     "published": "2026-11-25T03:44:07+00:00",
-     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
-    },
-    {
-     "ref": "bbc_world#8",
-     "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-     "published": "2026-11-25T03:28:37+00:00",
-     "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station."
-    },
-    {
-     "ref": "bbc_world#9",
-     "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-     "published": "2026-11-25T03:15:12+00:00",
-     "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty."
-    },
-    {
-     "ref": "bbc_world#10",
-     "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-     "published": "2026-11-25T01:51:43+00:00",
-     "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies."
-    },
-    {
-     "ref": "bbc_world#11",
-     "title": "Thomas Markle charged in US for possessing child sex abuse images",
-     "published": "2026-11-25T01:40:42+00:00",
-     "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
-    },
-    {
-     "ref": "bbc_world#12",
-     "title": "Trump's rescue of Nvidia's Huang brings political risks",
-     "published": "2026-11-25T01:03:05+00:00",
-     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates."
-    },
-    {
-     "ref": "bbc_world#13",
-     "title": "The rising cost of putting food on the table in India",
-     "published": "2026-11-25T01:02:13+00:00",
-     "summary": "India's food inflation is broadening, squeezing household budgets."
-    },
-    {
-     "ref": "bbc_world#14",
-     "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-     "published": "2026-11-25T01:00:36+00:00",
-     "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions."
-    },
-    {
-     "ref": "bbc_world#15",
-     "title": "Clashing political visions reflect a divided Spain ahead of election",
-     "published": "2026-11-25T00:58:34+00:00",
-     "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time."
-    },
-    {
-     "ref": "bbc_world#16",
-     "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-     "published": "2026-11-25T00:56:51+00:00",
-     "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
-    },
-    {
-     "ref": "bbc_world#17",
-     "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-     "published": "2026-11-25T00:54:13+00:00",
-     "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war."
-    },
-    {
-     "ref": "bbc_world#18",
-     "title": "US preparing to unveil plan for new tariffs on global trading partners",
-     "published": "2026-11-25T00:38:01+00:00",
+     "title": "US announces new tariffs on host of countries including China",
+     "published": "2026-11-26T03:01:40+00:00",
      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU."
     },
     {
+     "ref": "bbc_world#1",
+     "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+     "published": "2026-11-26T02:06:10+00:00",
+     "summary": "Somalia relies heavily on foreign funding and military support for its very survival."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "California warns of flooding as King Tides peak over Thanksgiving",
+     "published": "2026-11-26T01:22:55+00:00",
+     "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "The US pastor who wants to see women's right to vote overturned",
+     "published": "2026-11-26T00:24:25+00:00",
+     "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians."
+    },
+    {
+     "ref": "bbc_world#4",
+     "title": "Spanish elections: What you need to know and what's at stake",
+     "published": "2026-11-26T00:23:49+00:00",
+     "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office."
+    },
+    {
+     "ref": "bbc_world#5",
+     "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+     "published": "2026-11-26T00:23:27+00:00",
+     "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election."
+    },
+    {
+     "ref": "bbc_world#6",
+     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+     "published": "2026-11-26T00:23:05+00:00",
+     "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising."
+    },
+    {
+     "ref": "bbc_world#7",
+     "title": "Has global jihadism failed, or is it simply changing shape?",
+     "published": "2026-11-26T00:22:18+00:00",
+     "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?"
+    },
+    {
+     "ref": "bbc_world#8",
+     "title": "Macy's postpones Thanksgiving parade due to weather",
+     "published": "2026-11-25T23:57:03+00:00",
+     "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms."
+    },
+    {
+     "ref": "bbc_world#9",
+     "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+     "published": "2026-11-25T23:26:50+00:00",
+     "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice."
+    },
+    {
+     "ref": "bbc_world#10",
+     "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+     "published": "2026-11-25T23:18:27+00:00",
+     "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later."
+    },
+    {
+     "ref": "bbc_world#11",
+     "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+     "published": "2026-11-25T22:18:06+00:00",
+     "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+    },
+    {
+     "ref": "bbc_world#12",
+     "title": "North Korea expels Swiss diplomat in sanctions row",
+     "published": "2026-11-25T21:51:17+00:00",
+     "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing."
+    },
+    {
+     "ref": "bbc_world#13",
+     "title": "US stocks fall further as fears over AI intensify",
+     "published": "2026-11-25T21:43:18+00:00",
+     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+    },
+    {
+     "ref": "bbc_world#14",
+     "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+     "published": "2026-11-25T20:11:46+00:00",
+     "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says."
+    },
+    {
+     "ref": "bbc_world#15",
+     "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+     "published": "2026-11-25T19:47:39+00:00",
+     "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
+    },
+    {
+     "ref": "bbc_world#16",
+     "title": "What we know about Trump's Thanksgiving tariffs",
+     "published": "2026-11-25T19:38:05+00:00",
+     "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs."
+    },
+    {
+     "ref": "bbc_world#17",
+     "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+     "published": "2026-11-25T18:41:33+00:00",
+     "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong."
+    },
+    {
+     "ref": "bbc_world#18",
+     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+     "published": "2026-11-25T17:30:16+00:00",
+     "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
+    },
+    {
      "ref": "bbc_world#19",
-     "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-     "published": "2026-11-24T23:05:11+00:00",
-     "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen."
+     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+     "published": "2026-11-25T16:42:11+00:00",
+     "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant."
     },
     {
      "ref": "bbc_world#20",
-     "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-     "published": "2026-11-24T23:03:59+00:00",
-     "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith."
+     "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+     "published": "2026-11-25T16:23:03+00:00",
+     "summary": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan."
     },
     {
      "ref": "bbc_world#21",
-     "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
-     "published": "2026-11-24T22:07:30+00:00",
-     "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk."
+     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+     "published": "2026-11-25T14:46:41+00:00",
+     "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine."
     },
     {
      "ref": "bbc_world#22",
-     "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-     "published": "2026-11-24T19:10:31+00:00",
-     "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support."
+     "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+     "published": "2026-11-25T14:06:13+00:00",
+     "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say."
     },
     {
      "ref": "bbc_world#23",
-     "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-     "published": "2026-11-24T18:07:46+00:00",
-     "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+     "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+     "published": "2026-11-25T12:21:49+00:00",
+     "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
     },
     {
      "ref": "bbc_world#24",
-     "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-     "published": "2026-11-24T15:35:53+00:00",
-     "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
+     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+     "published": "2026-11-25T10:52:09+00:00",
+     "summary": "The verdict follows a months-long trial in New York."
     }
    ]
   },
@@ -360,27 +360,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
-     "title": "China Is Preparing for the End of Détente",
-     "published": "2026-11-25T09:00:00+00:00",
-     "summary": "After Trump, a hawkish backlash awaits."
-    },
-    {
-     "ref": "foreign_affairs#1",
      "title": "The Global Antiauthoritarian Wave Is an Illusion",
      "published": "2026-11-25T09:00:00+00:00",
      "summary": "Democracy can’t be saved at the ballot box."
     },
     {
-     "ref": "foreign_affairs#2",
-     "title": "The Real Nvidia Scandal",
-     "published": "2026-11-24T09:00:00+00:00",
-     "summary": "How China exploited a massive loophole in U.S. national security—and how Congress can close it."
+     "ref": "foreign_affairs#1",
+     "title": "China Is Preparing for the End of Détente",
+     "published": "2026-11-25T09:00:00+00:00",
+     "summary": "After Trump, a hawkish backlash awaits."
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#2",
      "title": "The Paradox of Iranian Power",
      "published": "2026-11-24T09:00:00+00:00",
      "summary": "Why the Islamic Republic can’t make peace."
+    },
+    {
+     "ref": "foreign_affairs#3",
+     "title": "The Real Nvidia Scandal",
+     "published": "2026-11-24T09:00:00+00:00",
+     "summary": "How China exploited a massive loophole in U.S. national security—and how Congress can close it."
     },
     {
      "ref": "foreign_affairs#4",
@@ -402,21 +402,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "foreign_affairs#7",
+     "title": "The Only Way to End the Netanyahu Era",
+     "published": "2026-11-19T09:00:00+00:00",
+     "summary": "Arab citizens of Israel can bring change, but they can’t do it alone."
+    },
+    {
+     "ref": "foreign_affairs#8",
      "title": "The Paradox of American Credibility",
      "published": "2026-11-19T09:00:00+00:00",
      "summary": "How fighting weakens Washington’s reputation—and backing down may strengthen it."
     },
     {
-     "ref": "foreign_affairs#8",
+     "ref": "foreign_affairs#9",
      "title": "Avoiding Colombia’s Escalation Trap",
      "published": "2026-11-19T09:00:00+00:00",
      "summary": "Why a U.S.-backed offensive against armed groups could backfire."
-    },
-    {
-     "ref": "foreign_affairs#9",
-     "title": "The Only Way to End the Netanyahu Era",
-     "published": "2026-11-19T09:00:00+00:00",
-     "summary": "Arab citizens of Israel can bring change, but they can’t do it alone."
     }
    ]
   },
@@ -426,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "In Lebanon, the opening of a second airport reflects political shifts - Reuters",
-     "published": "2026-11-25T12:03:43+00:00",
-     "summary": "In Lebanon, the opening of a second airport reflects political shifts Reuters"
+     "title": "Indian shares set to extend gains on strong foreign flows; US tariffs in focus - Reuters",
+     "published": "2026-11-26T02:41:00+00:00",
+     "summary": "Indian shares set to extend gains on strong foreign flows; US tariffs in focus Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region, state TV reports - Reuters",
-     "published": "2026-11-25T11:57:56+00:00",
-     "summary": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region, state TV reports Reuters"
+     "title": "Rupee to dip on oil rise, AI trade finding tentative footing - Reuters",
+     "published": "2026-11-26T02:38:00+00:00",
+     "summary": "Rupee to dip on oil rise, AI trade finding tentative footing Reuters"
     },
     {
      "ref": "reuters_world#2",
-     "title": "'Russia wants more than Ukraine,\" says Germany's Merz as he defends aid for Kyiv - Reuters",
-     "published": "2026-11-25T11:38:00+00:00",
-     "summary": "'Russia wants more than Ukraine,\" says Germany's Merz as he defends aid for Kyiv Reuters"
+     "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says - Reuters",
+     "published": "2026-11-26T02:33:00+00:00",
+     "summary": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says Reuters"
     },
     {
      "ref": "reuters_world#3",
-     "title": "Migrant arrivals in Spain's Canary Islands break single-day record - Reuters",
-     "published": "2026-11-25T11:31:47+00:00",
-     "summary": "Migrant arrivals in Spain's Canary Islands break single-day record Reuters"
+     "title": "Data centre rush drives biggest rise in Australian business investment since mining boom - Reuters",
+     "published": "2026-11-26T02:30:12+00:00",
+     "summary": "Data centre rush drives biggest rise in Australian business investment since mining boom Reuters"
     },
     {
      "ref": "reuters_world#4",
-     "title": "Catalan separatist Puigdemont to return to Spain after election - Reuters",
-     "published": "2026-11-25T11:11:37+00:00",
-     "summary": "Catalan separatist Puigdemont to return to Spain after election Reuters"
+     "title": "Uber appoints outsider Rakesh Ranjan as president for India and South Asia - Reuters",
+     "published": "2026-11-26T02:09:00+00:00",
+     "summary": "Uber appoints outsider Rakesh Ranjan as president for India and South Asia Reuters"
     },
     {
      "ref": "reuters_world#5",
-     "title": "Bulgaria intercepts first irregular migrant boat in months - Reuters",
-     "published": "2026-11-25T11:08:08+00:00",
-     "summary": "Bulgaria intercepts first irregular migrant boat in months Reuters"
+     "title": "Chinese firms pose growing competitive threat to Japanese firms, JETRO survey shows - Reuters",
+     "published": "2026-11-26T02:00:00+00:00",
+     "summary": "Chinese firms pose growing competitive threat to Japanese firms, JETRO survey shows Reuters"
     },
     {
      "ref": "reuters_world#6",
-     "title": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans - Reuters",
-     "published": "2026-11-25T11:04:50+00:00",
-     "summary": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans Reuters"
+     "title": "Dollar steady as sliding yields temper safe-haven bid - Reuters",
+     "published": "2026-11-26T01:44:00+00:00",
+     "summary": "Dollar steady as sliding yields temper safe-haven bid Reuters"
     },
     {
      "ref": "reuters_world#7",
-     "title": "Kremlin rejects ex-UK PM Johnson's call for a token Western force in Ukraine as unacceptable - Reuters",
-     "published": "2026-11-25T10:51:44+00:00",
-     "summary": "Kremlin rejects ex-UK PM Johnson's call for a token Western force in Ukraine as unacceptable Reuters"
+     "title": "Asia shares bounce, AI and tariffs lurk in background - Reuters",
+     "published": "2026-11-26T01:35:00+00:00",
+     "summary": "Asia shares bounce, AI and tariffs lurk in background Reuters"
     },
     {
      "ref": "reuters_world#8",
-     "title": "Head of Russia's Murmansk region is placed in pre-trial detention on major corruption charges - Reuters",
-     "published": "2026-11-25T10:46:36+00:00",
-     "summary": "Head of Russia's Murmansk region is placed in pre-trial detention on major corruption charges Reuters"
+     "title": "US judge blocks FCC from threatening Disney-owned ABC stations - Reuters",
+     "published": "2026-11-26T00:34:00+00:00",
+     "summary": "US judge blocks FCC from threatening Disney-owned ABC stations Reuters"
     },
     {
      "ref": "reuters_world#9",
-     "title": "Drone strikes kill 19 civilians in southeastern Sudan, says rights group - Reuters",
-     "published": "2026-11-25T10:40:40+00:00",
-     "summary": "Drone strikes kill 19 civilians in southeastern Sudan, says rights group Reuters"
+     "title": "For Trump, doubling down on tariffs is about power, not popularity - Reuters",
+     "published": "2026-11-25T23:31:00+00:00",
+     "summary": "For Trump, doubling down on tariffs is about power, not popularity Reuters"
     },
     {
      "ref": "reuters_world#10",
-     "title": "South African leader wins reprieve in impeachment threat over cash in sofa - Reuters",
-     "published": "2026-11-25T10:37:39+00:00",
-     "summary": "South African leader wins reprieve in impeachment threat over cash in sofa Reuters"
+     "title": "Taiwan says it is confident of keeping previously agreed tariffs with US - Reuters",
+     "published": "2026-11-25T23:31:00+00:00",
+     "summary": "Taiwan says it is confident of keeping previously agreed tariffs with US Reuters"
     },
     {
      "ref": "reuters_world#11",
-     "title": "Italy rebukes Ukraine over attacks on Russian ships in Libya - Reuters",
-     "published": "2026-11-25T10:29:43+00:00",
-     "summary": "Italy rebukes Ukraine over attacks on Russian ships in Libya Reuters"
+     "title": "New York court upholds Mayor Mamdani's rent freeze - Reuters",
+     "published": "2026-11-25T23:16:00+00:00",
+     "summary": "New York court upholds Mayor Mamdani's rent freeze Reuters"
     },
     {
      "ref": "reuters_world#12",
-     "title": "Life Insurance Corp of India names Sonija M. S. as CFO - Reuters",
-     "published": "2026-11-25T10:12:13+00:00",
-     "summary": "Life Insurance Corp of India names Sonija M. S. as CFO Reuters"
+     "title": "Former Nazi guest house 'Eagle's Nest' being renovated after blaze - Reuters",
+     "published": "2026-11-25T22:57:44+00:00",
+     "summary": "Former Nazi guest house 'Eagle's Nest' being renovated after blaze Reuters"
     },
     {
      "ref": "reuters_world#13",
-     "title": "Eurostar cancels London, Paris, Brussels trains due to strike - Reuters",
-     "published": "2026-11-25T09:45:00+00:00",
-     "summary": "Eurostar cancels London, Paris, Brussels trains due to strike Reuters"
+     "title": "Brazil announces new credit rules to curb household indebtedness - Reuters",
+     "published": "2026-11-25T22:52:35+00:00",
+     "summary": "Brazil announces new credit rules to curb household indebtedness Reuters"
     },
     {
      "ref": "reuters_world#14",
-     "title": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology - Reuters",
-     "published": "2026-11-25T09:22:00+00:00",
-     "summary": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology Reuters"
+     "title": "Russian forces hit Kyiv with ballistic missiles, mayor says - Reuters",
+     "published": "2026-11-25T22:07:09+00:00",
+     "summary": "Russian forces hit Kyiv with ballistic missiles, mayor says Reuters"
     },
     {
      "ref": "reuters_world#15",
-     "title": "Israeli strike kills Hamas official, his wife and children - Reuters",
-     "published": "2026-11-25T09:09:44+00:00",
-     "summary": "Israeli strike kills Hamas official, his wife and children Reuters"
+     "title": "Barrick International CEO meets Mali PM in first visit since standoff - Reuters",
+     "published": "2026-11-25T22:02:42+00:00",
+     "summary": "Barrick International CEO meets Mali PM in first visit since standoff Reuters"
     },
     {
      "ref": "reuters_world#16",
-     "title": "Jordan sentences man to death over attack that killed officer - Reuters",
-     "published": "2026-11-25T08:32:00+00:00",
-     "summary": "Jordan sentences man to death over attack that killed officer Reuters"
+     "title": "Senegal parliament adopts resolution opposing president's decision to implement budget - Reuters",
+     "published": "2026-11-25T21:23:43+00:00",
+     "summary": "Senegal parliament adopts resolution opposing president's decision to implement budget Reuters"
     },
     {
      "ref": "reuters_world#17",
-     "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises - Reuters",
-     "published": "2026-11-25T08:29:22+00:00",
-     "summary": "Iran says it is prepared to withstand US blockade, seeks to curb price rises Reuters"
+     "title": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says - Reuters",
+     "published": "2026-11-25T21:22:00+00:00",
+     "summary": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says Reuters"
     },
     {
      "ref": "reuters_world#18",
-     "title": "All hostages held in Colombian supermarket freed, AFP reports - Reuters",
-     "published": "2026-11-25T07:47:00+00:00",
-     "summary": "All hostages held in Colombian supermarket freed, AFP reports Reuters"
+     "title": "US FinCEN takes some systems offline after cyber incident, official says - Reuters",
+     "published": "2026-11-25T20:42:56+00:00",
+     "summary": "US FinCEN takes some systems offline after cyber incident, official says Reuters"
     },
     {
      "ref": "reuters_world#19",
-     "title": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery - Reuters",
-     "published": "2026-11-25T07:24:00+00:00",
-     "summary": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery Reuters"
+     "title": "Head of Russia's Murmansk region placed in pre-trial detention on corruption charges - Reuters",
+     "published": "2026-11-25T20:32:27+00:00",
+     "summary": "Head of Russia's Murmansk region placed in pre-trial detention on corruption charges Reuters"
     },
     {
      "ref": "reuters_world#20",
-     "title": "Millions set for soaring energy bills in Britain after 26% price cap hike - Reuters",
-     "published": "2026-11-25T07:19:00+00:00",
-     "summary": "Millions set for soaring energy bills in Britain after 26% price cap hike Reuters"
+     "title": "How China got access to Nvidia's AI chips despite rules to stop them - Reuters",
+     "published": "2026-11-25T19:58:10+00:00",
+     "summary": "How China got access to Nvidia's AI chips despite rules to stop them Reuters"
     },
     {
      "ref": "reuters_world#21",
-     "title": "South African rand eases, with US inflation data in focus - Reuters",
-     "published": "2026-11-25T06:13:00+00:00",
-     "summary": "South African rand eases, with US inflation data in focus Reuters"
+     "title": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans - Reuters",
+     "published": "2026-11-25T19:56:20+00:00",
+     "summary": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans Reuters"
     },
     {
      "ref": "reuters_world#22",
-     "title": "India's Chartered Speed targets December IPO after Iran war disruption - Reuters",
-     "published": "2026-11-25T06:12:00+00:00",
-     "summary": "India's Chartered Speed targets December IPO after Iran war disruption Reuters"
+     "title": "Belgian court orders electronic monitoring for Canadian NATO intern in espionage case - Reuters",
+     "published": "2026-11-25T19:21:35+00:00",
+     "summary": "Belgian court orders electronic monitoring for Canadian NATO intern in espionage case Reuters"
     },
     {
      "ref": "reuters_world#23",
-     "title": "African insurgents take war to the skies with off-the-shelf drones - Reuters",
-     "published": "2026-11-25T06:00:00+00:00",
-     "summary": "African insurgents take war to the skies with off-the-shelf drones Reuters"
+     "title": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal - Reuters",
+     "published": "2026-11-25T19:12:55+00:00",
+     "summary": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal Reuters"
     },
     {
      "ref": "reuters_world#24",
-     "title": "EU plans €50 billion tech fund to challenge US and China, FT reports - Reuters",
-     "published": "2026-11-25T05:19:00+00:00",
-     "summary": "EU plans €50 billion tech fund to challenge US and China, FT reports Reuters"
+     "title": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war - Reuters",
+     "published": "2026-11-25T19:09:43+00:00",
+     "summary": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war Reuters"
     }
    ]
   }

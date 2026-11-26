@@ -1,6 +1,6 @@
 {
- "date": "2026-11-25",
- "prepared_at": "2026-11-25T12:22:23+00:00",
+ "date": "2026-11-26",
+ "prepared_at": "2026-11-26T03:39:07+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -12,76 +12,54 @@
  ],
  "skipped_sections": [],
  "order": [
-  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
   "tech",
+  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": true,
-  "events": [
-   {
-    "sport": "soccer",
-    "competition": "UEFA Champions League",
-    "home": "Sabah FK",
-    "away": "Barça",
-    "kickoff_utc": "2026-11-25T17:45:00Z"
-   },
-   {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Milwaukee Bucks",
-    "away": "Brooklyn Nets",
-    "kickoff_utc": "2026-11-26T01:00:00.000Z"
-   },
-   {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Portland Trail Blazers",
-    "away": "San Antonio Spurs",
-    "kickoff_utc": "2026-11-26T03:00:00.000Z"
-   }
-  ]
+  "is_match_day": false,
+  "events": []
  },
  "markets": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3800.1799,
+   "last": 3792.3799,
    "prev_close": 3847.1101,
-   "change_pct": -1.22,
+   "change_pct": -1.42,
    "as_of": "2026-11-25"
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7201.0898,
-   "prev_close": 7237.1699,
-   "change_pct": -0.5,
-   "as_of": "2026-11-24"
+   "last": 7182.7798,
+   "prev_close": 7201.0898,
+   "change_pct": -0.25,
+   "as_of": "2026-11-25"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3768,
-   "prev_close": 3.2992,
-   "change_pct": 2.35,
-   "as_of": "2026-11-25"
+   "last": 3.3622,
+   "prev_close": 3.3486,
+   "change_pct": 0.41,
+   "as_of": "2026-11-26"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 88.63,
+   "last": 91.08,
    "prev_close": 91.4,
-   "change_pct": -3.03,
+   "change_pct": -0.35,
    "as_of": "2026-11-25"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 58406.9297,
+   "last": 60648.8984,
    "prev_close": 59747.7656,
-   "change_pct": -2.24,
-   "as_of": "2026-11-25"
+   "change_pct": 1.51,
+   "as_of": "2026-11-26"
   }
  },
- "essays_fetched": 5
+ "essays_fetched": 6
 }
