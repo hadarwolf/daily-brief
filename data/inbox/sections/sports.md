@@ -83,14 +83,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-2"
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-25T20:00:00Z",
-     "home": "Stoke",
-     "away": "Millwall",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-25T20:00:00Z",
      "home": "Shaktar",
@@ -121,6 +113,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Stuttgart",
      "status": "FINISHED",
      "score": "2-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-25T20:00:00Z",
+     "home": "Stoke",
+     "away": "Millwall",
+     "status": "FINISHED",
+     "score": "2-1"
     }
    ],
    "today": [
@@ -715,410 +715,158 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    ]
   },
   {
-   "outlet": "ESPN NBA",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_nba#0",
-     "title": "76ers' Brown exits win over Heat with recurrence of hamstring issue",
-     "published": "2026-11-26T04:47:18+00:00",
-     "summary": "Jaylen Brown exited Philadelphia's NBA Cup game Wednesday night against Miami and was ruled out because of left hamstring tightness."
-    },
-    {
-     "ref": "espn_nba#1",
-     "title": "Reaves rejoins Lakers for full practice, status for Spurs matchup TBD",
-     "published": "2026-11-26T04:47:18+00:00",
-     "summary": "Austin Reaves returned to his first full practice since suffering a left heel bruise, although his status for Friday's game vs. the Spurs is uncertain."
-    },
-    {
-     "ref": "espn_nba#2",
-     "title": "Knicks assistant coach Jent returns to team",
-     "published": "2026-11-26T04:47:18+00:00",
-     "summary": "Chris Jent was back on New York's bench for Wednesday night's NBA Cup win against Cleveland after a monthlong absence."
-    },
-    {
-     "ref": "espn_nba#3",
-     "title": "NBA, amid push for Europe league, launches $11B arena initiative",
-     "published": "2026-11-26T04:47:18+00:00",
-     "summary": "The long-planned NBA-backed league in Europe took another step toward becoming reality with the unveiling of a plan that targets nearly $11 billion in funding for the development and renovation of arenas around the continent."
-    },
-    {
-     "ref": "espn_nba#4",
-     "title": "🍼 'Baby Hali': Tyrese, Jade Haliburton announce they are expecting their first child",
-     "published": "2026-11-26T04:47:18+00:00",
-     "summary": "The couple wed in August after seven years of dating and announced the news that they're expecting on Instagram."
-    },
-    {
-     "ref": "espn_nba#5",
-     "title": "Timberwolves' Ball limps off in win after hurting left ankle",
-     "published": "2026-11-26T04:47:17+00:00",
-     "summary": "The Timberwolves did not have an update on the status of LaMelo Ball's left ankle after he was injured late Wednesday night's win over the Thunder."
-    },
-    {
-     "ref": "espn_nba#6",
-     "title": "LeBron dusts 'off the cape' to save 76ers with triple-double",
-     "published": "2026-11-26T04:47:17+00:00",
-     "summary": "The soon-to-be 42-year-old LeBron James showed his ability to put the 76ers on his back with a 25-point triple-double in Wednesday's NBA Cup win over Miami."
-    },
-    {
-     "ref": "espn_nba#7",
-     "title": "Updated NBA championship, MVP odds: Spurs remain favorites; Wemby odds-on MVP fave",
-     "published": "2026-11-25T20:33:19+00:00",
-     "summary": "The Spurs remain atop the oddsboard, while Victor Wembanyama and Luka Doncic are making MVP a two-man race."
-    },
-    {
-     "ref": "espn_nba#8",
-     "title": "Winning time: Tracy Morgan bought Knicks Rolexes after Finals victory",
-     "published": "2026-11-25T20:31:20+00:00",
-     "summary": "Morgan also discussed in an appearance on \"Live with Kelly and Mark\" his experience traveling to Knicks road playoff games -- seven private jets and all."
-    },
-    {
-     "ref": "espn_nba#9",
-     "title": "How to take advantage when LeBron, Embiid or Brown sit",
-     "published": "2026-11-25T12:49:22+00:00",
-     "summary": "Andre Snellings looks at how the 76ers are handling rotations, resting players and dishing out minutes, and explains how to take advantage of it."
-    },
-    {
-     "ref": "espn_nba#10",
-     "title": "Karabell's notebook: Was Paul George this season's biggest draft-day steal?",
-     "published": "2026-11-25T12:49:22+00:00",
-     "summary": "Eric Karabell empties out the notebook with all that he's noticing around the NBA and what it means for fantasy."
-    },
-    {
-     "ref": "espn_nba#11",
-     "title": "NBA Power Rankings: One player, coach or exec for whom each team is most thankful",
-     "published": "2026-11-25T12:45:00+00:00",
-     "summary": "Here's where all 30 teams rank this week -- and the one person each franchise should be thanking most."
-    },
-    {
-     "ref": "espn_nba#12",
-     "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
-     "published": "2026-11-24T15:57:04+00:00",
-     "summary": "How has the first month unfolded for nine first-year stars?"
-    },
-    {
-     "ref": "espn_nba#13",
-     "title": "NBA Rookie Rankings: Which stars are rising early in season?",
-     "published": "2026-11-24T15:57:03+00:00",
-     "summary": "Our first edition of rookie rankings features 10 players standing out early from a strong 2026 draft class."
-    },
-    {
-     "ref": "espn_nba#14",
-     "title": "Golliver's too-early NBA All-Star picks: The 24 most deserving players right now",
-     "published": "2026-11-24T12:38:32+00:00",
-     "summary": "So what if the All-Star Game is three months away? We're picking locks and position battles to watch across both conferences."
-    }
-   ]
-  },
-  {
-   "outlet": "ESPN FC",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_soccer#0",
-     "title": "Athletic wing backs and back threes: Explaining women's soccer's latest tactical trends",
-     "published": "2026-11-26T09:36:57+00:00",
-     "summary": "Women's soccer is evolving all the time, and this season is no different. Here are the new ideas that top teams are using to outsmart opponents."
-    },
-    {
-     "ref": "espn_soccer#1",
-     "title": "Soccer's main characters this week: Bellingham is in a new stratosphere",
-     "published": "2026-11-26T09:32:11+00:00",
-     "summary": "Why are goals trending up in Europe? Is it because Jude Bellingham can seemingly score them from anywhere? Bill Connelly takes a look at the week that was."
-    },
-    {
-     "ref": "espn_soccer#2",
-     "title": "Liverpool are all smiles as Wirtz, Isak start to click",
-     "published": "2026-11-26T09:32:11+00:00",
-     "summary": "Another match, another fine set of displays. Is investment in Liverpool's forward line beginning to pay off?"
-    },
-    {
-     "ref": "espn_soccer#3",
-     "title": "VAR review: Why Man United should've gotten winner vs. Sporting",
-     "published": "2026-11-26T09:10:57+00:00",
-     "summary": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all."
-    },
-    {
-     "ref": "espn_soccer#4",
-     "title": "Champions League talking points: Should Man United be happy with chaotic draw?",
-     "published": "2026-11-26T09:03:40+00:00",
-     "summary": "Gab Marcotti, Mark Ogden, Sam Tighe and Alex Kirkland run the rule over Man United's draw with Sporting, plus all the other moments that mattered from Matchday 5."
-    },
-    {
-     "ref": "espn_soccer#5",
-     "title": "New coach, same mayhem: Man United remain their own worst enemy",
-     "published": "2026-11-26T09:03:40+00:00",
-     "summary": "Man United showed signs of progress under Mauricio Pochettino, but familiar mistakes cost them a UCL win."
-    },
-    {
-     "ref": "espn_soccer#6",
-     "title": "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-     "published": "2026-11-26T09:00:07+00:00",
-     "summary": "Barcelona are interested in a loan move for Manchester United defender Ayden Heaven. Transfer Talk has the latest."
-    },
-    {
-     "ref": "espn_soccer#7",
-     "title": "Which USMNT players could follow Pochettino to Manchester United?",
-     "published": "2026-11-26T08:58:29+00:00",
-     "summary": "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?"
-    },
-    {
-     "ref": "espn_soccer#8",
-     "title": "Bayern Munich made a mistake taking Jamal Musiala's injuries public",
-     "published": "2026-11-26T07:25:05+00:00",
-     "summary": "The uproar over Bayern Munich's callous attitude toward Jamal Musiala's health issues has shown a nasty side of the club when it comes to how they care for their players."
-    },
-    {
-     "ref": "espn_soccer#9",
-     "title": "Pochettino: Man United were 'punished a lot' by officials in Sporting draw",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "Mauricio Pochettino said Manchester United were \"punished\" by the officials in the 2-2 draw with Sporting CP as he was denied a first win as head coach."
-    },
-    {
-     "ref": "espn_soccer#10",
-     "title": "Luis Enrique calls Roma PSG's toughest test of the season after winning streak ends",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "Paris Saint-Germain coach Luis Enrique said Roma was his team's \"toughest match of this season\" after a hard-fought 2-2 Champions League draw on Wednesday."
-    },
-    {
-     "ref": "espn_soccer#11",
-     "title": "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "MLS team owners have agreed on a new playoff format for the 2027-28 season featuring 16 teams, a source confirmed to ESPN."
-    },
-    {
-     "ref": "espn_soccer#12",
-     "title": "Fernandes' 'strange' divot-assisted goal left even Man United star confused",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "Bruno Fernandes said even he was caught out by his bizarre divot-assisted goal in Manchester United's Champions League draw at Sporting CP on Wednesday."
-    },
-    {
-     "ref": "espn_soccer#13",
-     "title": "'He's in a great moment': Iraola praises Isak after brace in Liverpool rout",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "Liverpool boss Andoni Iraola believes striker Alexander Isak is in a \"great moment\" after he scored twice in the 3-0 victory over Club Brugge."
-    },
-    {
-     "ref": "espn_soccer#14",
-     "title": "Pep 'embarrassed' to turn down Italy job, says national team 'next step'",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team."
-    },
-    {
-     "ref": "espn_soccer#15",
-     "title": "Gordon enjoys 'very special' Baku again to lead Barcelona rout",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "Baku brought the best out of Anthony Gordon once again as the England forward netted twice in Barcelona's 4-1 Champions League victory over Sabah."
-    },
-    {
-     "ref": "espn_soccer#16",
-     "title": "Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "Luis Suárez said there are \"no excuses left\" for Inter Miami as the defending MLS Cup champion stares at a possible first-round playoff exit."
-    },
-    {
-     "ref": "espn_soccer#17",
-     "title": "⚽ 'Ted Lasso' to return for Season 5 on Apple TV",
-     "published": "2026-11-26T01:00:51+00:00",
-     "summary": "A release date for the upcoming season of the award-winning show has yet to be announced."
-    },
-    {
-     "ref": "espn_soccer#18",
-     "title": "Concacaf W Championship: How USWNT can qualify for World Cup, matchups, format",
-     "published": "2026-11-26T00:40:56+00:00",
-     "summary": "The United States can seal its place at the 2027 Women's World Cup at the Concacaf W Championship. Here's everything you need to know."
-    },
-    {
-     "ref": "espn_soccer#19",
-     "title": "Who are Sabah? Barça's Champions League opponents from near Iranian border",
-     "published": "2026-11-25T22:18:51+00:00",
-     "summary": "Sabah, a club near the Iranian border that didn't exist a decade ago, with a coach who owes his career to a Lithuanian quiz show, are in this season Champions League. How did they make it?"
-    },
-    {
-     "ref": "espn_soccer#20",
-     "title": "Meet Brazilian soccer star who's played for clubs on six continents",
-     "published": "2026-11-25T22:18:51+00:00",
-     "summary": "null"
-    },
-    {
-     "ref": "espn_soccer#21",
-     "title": "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side",
-     "published": "2026-11-25T13:22:06+00:00",
-     "summary": "Your favorite team isn't going to win MLS Cup, so we dug into our catalog of statistics to pinpoint three chaos clubs to follow for the postseason."
-    },
-    {
-     "ref": "espn_soccer#22",
-     "title": "How B.J. Callaghan's long, winding coaching journey led to Nashville success",
-     "published": "2026-11-25T13:22:06+00:00",
-     "summary": "Callaghan was a fairly unassuming hire when he took over Nashville. Now he's a Supporters' Shield-winning coach being linked with the USMNT job."
-    },
-    {
-     "ref": "espn_soccer#23",
-     "title": "Man United crisis explained: How did it start? Who is to blame? Is Pochettino the answer?",
-     "published": "2026-11-25T09:14:07+00:00",
-     "summary": "Struggling Manchester United find themselves in a familiar place and fans are getting tired of the cycle repeating itself. But can Mauricio Pochettino find the answer, or do the issues run deeper?"
-    },
-    {
-     "ref": "espn_soccer#24",
-     "title": "Another U.S.-held Copa América is great for USMNT but not South America",
-     "published": "2026-11-24T18:05:13+00:00",
-     "summary": "For the third time in 12 years, the Copa América will be held in the U.S. That's exciting for the USMNT but it robs South America of the game it loves."
-    }
-   ]
-  },
-  {
    "outlet": "Google News — Inter Miami",
    "lang": "en",
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Red-hot Crew face playoff test from Inter Miami, Lionel Messi - Field Level Media",
+     "published": "2026-11-26T09:39:49+00:00",
+     "summary": "Red-hot Crew face playoff test from Inter Miami, Lionel Messi Field Level Media"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 - FOX Sports",
+     "published": "2026-11-26T09:32:45+00:00",
+     "summary": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "Major MLS playoff overhaul confirmed as league axes wild card round and best-of-three series - Goal.com",
+     "published": "2026-11-26T09:06:19+00:00",
+     "summary": "Major MLS playoff overhaul confirmed as league axes wild card round and best-of-three series Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Vancouver Whitecaps vs Real Salt Lake - beIN SPORTS",
      "published": "2026-11-26T08:44:36+00:00",
      "summary": "Vancouver Whitecaps vs Real Salt Lake beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#4",
+     "title": "Tapia scores twice, Columbus beats Messi and Inter Miami 3-0 in Game 1 of best-of-3 playoff series - Herald Bulletin",
+     "published": "2026-11-26T08:37:35+00:00",
+     "summary": "Tapia scores twice, Columbus beats Messi and Inter Miami 3-0 in Game 1 of best-of-3 playoff series Herald Bulletin"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
      "title": "Columbus Crew vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 27 Nov 2026 - Sportsgambler",
      "published": "2026-11-26T08:31:27+00:00",
      "summary": "Columbus Crew vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 27 Nov 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#2",
-     "title": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 - FOX Sports",
-     "published": "2026-11-26T08:02:45+00:00",
-     "summary": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 FOX Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#3",
-     "title": "Columbus Crew host Inter Miami in Eastern Conference semifinals - Oskaloosa Herald",
+     "ref": "gnews_inter_miami#6",
+     "title": "Columbus Crew host Inter Miami in Eastern Conference semifinals - Bluefield Daily Telegraph",
      "published": "2026-11-26T07:16:08+00:00",
-     "summary": "Columbus Crew host Inter Miami in Eastern Conference semifinals Oskaloosa Herald"
+     "summary": "Columbus Crew host Inter Miami in Eastern Conference semifinals Bluefield Daily Telegraph"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#7",
      "title": "Columbus Crew host Inter Miami in Eastern Conference semifinals - FOX Sports",
      "published": "2026-11-26T07:03:19+00:00",
      "summary": "Columbus Crew host Inter Miami in Eastern Conference semifinals FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#8",
+     "title": "Luis Suárez makes his feelings clear about Messi, MLS and his future in Miami - Diario AS",
+     "published": "2026-11-26T06:58:08+00:00",
+     "summary": "Luis Suárez makes his feelings clear about Messi, MLS and his future in Miami Diario AS"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
      "title": "Miami vs. Columbus Crew: free picks & statistics 11/28/2026 - RealGM",
      "published": "2026-11-26T06:39:24+00:00",
      "summary": "Miami vs. Columbus Crew: free picks & statistics 11/28/2026 RealGM"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#10",
      "title": "Columbus v Inter Miami CF Odds - FanDuel Sportsbook",
      "published": "2026-11-26T06:34:36+00:00",
      "summary": "Columbus v Inter Miami CF Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#7",
-     "title": "Why Pressure at Inter Miami Is Built by Design - 247Sports",
-     "published": "2026-11-26T04:27:55+00:00",
-     "summary": "Why Pressure at Inter Miami Is Built by Design 247Sports"
+     "ref": "gnews_inter_miami#11",
+     "title": "CLBvsMIA 11-27-2026 | MLS Match Recap - MLSsoccer.com",
+     "published": "2026-11-26T05:49:12+00:00",
+     "summary": "CLBvsMIA 11-27-2026 | MLS Match Recap MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#12",
+     "title": "Hunt Construction Sues Miami Freedom Park Over $584K - Wisevoter",
+     "published": "2026-11-26T03:57:24+00:00",
+     "summary": "Hunt Construction Sues Miami Freedom Park Over $584K Wisevoter"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami train indoors ahead of must-win playoff game against Columbus - News.com.au",
      "published": "2026-11-26T03:30:38+00:00",
      "summary": "Inter Miami train indoors ahead of must-win playoff game against Columbus News.com.au"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "MLS to adopt new 16-team playoff format in 2027-28 - Yahoo Sports",
-     "published": "2026-11-26T02:11:00+00:00",
-     "summary": "MLS to adopt new 16-team playoff format in 2027-28 Yahoo Sports"
+     "ref": "gnews_inter_miami#14",
+     "title": "MLS to adopt new 16-team playoff format in 2027-28 - Miami Herald",
+     "published": "2026-11-26T02:11:40+00:00",
+     "summary": "MLS to adopt new 16-team playoff format in 2027-28 Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#15",
      "title": "Watch Columbus Crew vs Inter Miami Live: Streaming, TV Channel & Start Time - FOX One",
      "published": "2026-11-26T01:39:57+00:00",
      "summary": "Watch Columbus Crew vs Inter Miami Live: Streaming, TV Channel & Start Time FOX One"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#16",
+     "title": "Columbus Crew vs Inter Miami CF: previous stats | MLS - Liga USA 2026 - Diario AS",
+     "published": "2026-11-26T01:33:33+00:00",
+     "summary": "Columbus Crew vs Inter Miami CF: previous stats | MLS - Liga USA 2026 Diario AS"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami confront possible playoff exit: \"It's time to deliver\" - MLSsoccer.com",
      "published": "2026-11-26T01:31:27+00:00",
      "summary": "Inter Miami confront possible playoff exit: \"It's time to deliver\" MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#18",
      "title": "Prediction Columbus Crew vs Inter Miami: analysis, odds and betting tips - BetMines",
      "published": "2026-11-26T01:30:45+00:00",
      "summary": "Prediction Columbus Crew vs Inter Miami: analysis, odds and betting tips BetMines"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#19",
+     "title": "Columbus Crew vs Inter Miami prediction, Major League Soccer - The Playoffs",
+     "published": "2026-11-26T01:00:00+00:00",
+     "summary": "Columbus Crew vs Inter Miami prediction, Major League Soccer The Playoffs"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
      "title": "Columbus Crew vs Inter Miami Prediction & Picks - Major League Soccer - SportyTrader",
      "published": "2026-11-26T01:00:00+00:00",
      "summary": "Columbus Crew vs Inter Miami Prediction & Picks - Major League Soccer SportyTrader"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#21",
      "title": "David Beckham's $1 billion Miami stadium project faced a $584,217 lawsuit over allegedly unpaid construct - The Times of India",
      "published": "2026-11-26T00:32:00+00:00",
      "summary": "David Beckham's $1 billion Miami stadium project faced a $584,217 lawsuit over allegedly unpaid construct The Times of India"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#22",
      "title": "Miami & Nashville on the ropes, West favorites shine & more from Round One - MLSsoccer.com",
      "published": "2026-11-25T22:06:14+00:00",
      "summary": "Miami & Nashville on the ropes, West favorites shine & more from Round One MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#23",
      "title": "Weekly MLS Winners and Losers: Lionel Messi, Inter Miami on Brink of Elimination - Sports Illustrated",
      "published": "2026-11-25T21:30:00+00:00",
      "summary": "Weekly MLS Winners and Losers: Lionel Messi, Inter Miami on Brink of Elimination Sports Illustrated"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#24",
      "title": "Suarez Negotiates New Inter Miami Contract Ahead of MLS Exit - www.suaralandak.co.id",
      "published": "2026-11-25T21:12:00+00:00",
      "summary": "Suarez Negotiates New Inter Miami Contract Ahead of MLS Exit www.suaralandak.co.id"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "Inter Miami CF Tickets - Inter Miami CF",
-     "published": "2026-11-25T20:58:40+00:00",
-     "summary": "Inter Miami CF Tickets Inter Miami CF"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats - Yahoo Sports",
-     "published": "2026-11-25T20:52:50+00:00",
-     "summary": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Suarez Holds Inter Miami Talks as Raphinha Nears Barca Record - bsinews.id",
-     "published": "2026-11-25T20:49:00+00:00",
-     "summary": "Suarez Holds Inter Miami Talks as Raphinha Nears Barca Record bsinews.id"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Suarez Negotiates Inter Miami Future as Barcelona Record Nears - Limapagi",
-     "published": "2026-11-25T20:49:00+00:00",
-     "summary": "Suarez Negotiates Inter Miami Future as Barcelona Record Nears Limapagi"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "The Rondo: Lionel Messi’s Inter Miami face early exit, FC Cincinnati crash the party - but is MLS playoff chaos good for the league? - Goal.com",
-     "published": "2026-11-25T19:59:55+00:00",
-     "summary": "The Rondo: Lionel Messi’s Inter Miami face early exit, FC Cincinnati crash the party - but is MLS playoff chaos good for the league? Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "MATCH GUIDE | Crew vs. Inter Miami | Round One, Game 2 - Columbus Crew",
-     "published": "2026-11-25T19:34:20+00:00",
-     "summary": "MATCH GUIDE | Crew vs. Inter Miami | Round One, Game 2 Columbus Crew"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Columbus Inter Miami Soccer - Bluefield Daily Telegraph",
-     "published": "2026-11-25T19:32:45+00:00",
-     "summary": "Columbus Inter Miami Soccer Bluefield Daily Telegraph"
     }
    ]
   },
@@ -1128,69 +876,69 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "'Baruch Hashem': Shaq Greets Deni Avdija in Hebrew After 33-Point Night - Haaretz",
+     "published": "2026-11-26T10:47:00+00:00",
+     "summary": "'Baruch Hashem': Shaq Greets Deni Avdija in Hebrew After 33-Point Night Haaretz"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "\"He doesn't have a conscience\" – Charles Barkley compares Deni Avdija to Drazen Petrovic after his game-winner vs. Spurs - Basketball Network",
      "published": "2026-11-26T10:26:31+00:00",
      "summary": "\"He doesn't have a conscience\" – Charles Barkley compares Deni Avdija to Drazen Petrovic after his game-winner vs. Spurs Basketball Network"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
+     "title": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger - ClutchPoints",
+     "published": "2026-11-26T09:56:15+00:00",
+     "summary": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger ClutchPoints"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
      "title": "Charles Barkley Gushes Over Deni Avdija After Portland Trail Blazers Beat Victor Wembanyama's San Antonio Spurs - NDTV Sports",
      "published": "2026-11-26T09:36:01+00:00",
      "summary": "Charles Barkley Gushes Over Deni Avdija After Portland Trail Blazers Beat Victor Wembanyama's San Antonio Spurs NDTV Sports"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija Scores 33 Points In Win Over Spurs - FanDuel",
      "published": "2026-11-26T09:30:37+00:00",
      "summary": "Deni Avdija Scores 33 Points In Win Over Spurs FanDuel"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija Puts Blazers Ahead For Good At The Line - Yardbarker",
      "published": "2026-11-26T09:19:43+00:00",
      "summary": "Deni Avdija Puts Blazers Ahead For Good At The Line Yardbarker"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#6",
      "title": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ - Heavy.com",
      "published": "2026-11-26T09:12:34+00:00",
      "summary": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ Heavy.com"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#7",
      "title": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch - Ynetnews",
      "published": "2026-11-26T08:32:58+00:00",
      "summary": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Deni Avdija Inspires Trail Blazers to 116-111 Victory Over Spurs - SportsRation",
-     "published": "2026-11-26T08:25:42+00:00",
-     "summary": "Deni Avdija Inspires Trail Blazers to 116-111 Victory Over Spurs SportsRation"
-    },
-    {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "A league of his own: NBA analysts crown Deni Avdija a true superstar - The Jerusalem Post",
      "published": "2026-11-26T08:18:48+00:00",
      "summary": "A league of his own: NBA analysts crown Deni Avdija a true superstar The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Charles Barkley heaps praise on Deni Avdija, Blazers after NBA Cup upset over Spurs - ClutchPoints",
      "published": "2026-11-26T08:03:37+00:00",
      "summary": "Charles Barkley heaps praise on Deni Avdija, Blazers after NBA Cup upset over Spurs ClutchPoints"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "“We’re going to have to trust each other” – Damian Lillard breaks down his clutch assist to Deni Avdija in Trail Blazers' win - Basketball Network",
      "published": "2026-11-26T07:57:00+00:00",
      "summary": "“We’re going to have to trust each other” – Damian Lillard breaks down his clutch assist to Deni Avdija in Trail Blazers' win Basketball Network"
-    },
-    {
-     "ref": "gnews_israeli_nba#10",
-     "title": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers - KSDK",
-     "published": "2026-11-26T07:19:52+00:00",
-     "summary": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers KSDK"
     },
     {
      "ref": "gnews_israeli_nba#11",
@@ -1200,21 +948,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#12",
+     "title": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers - localmemphis.com",
+     "published": "2026-11-26T07:07:00+00:00",
+     "summary": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers localmemphis.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#13",
      "title": "NBA Cup: Deni Avdija, Damian Lillard lead Trail Blazers past Spurs - Inquirer.net",
      "published": "2026-11-26T07:07:00+00:00",
      "summary": "NBA Cup: Deni Avdija, Damian Lillard lead Trail Blazers past Spurs Inquirer.net"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija with a monster 33/12/7 game vs Spurs - NBC Sports",
      "published": "2026-11-26T07:03:43+00:00",
      "summary": "Deni Avdija with a monster 33/12/7 game vs Spurs NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Blazers hand Spurs first road loss after Deni Avdija’s dagger - Yahoo Sports",
-     "published": "2026-11-26T07:01:00+00:00",
-     "summary": "Blazers hand Spurs first road loss after Deni Avdija’s dagger Yahoo Sports"
     },
     {
      "ref": "gnews_israeli_nba#15",
@@ -1230,15 +978,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#17",
-     "title": "Deni Avdija goes glass on a clutch 3 for Portland - ESPN",
-     "published": "2026-11-26T06:27:32+00:00",
-     "summary": "Deni Avdija goes glass on a clutch 3 for Portland ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija Postgame Interview | Portland Trail Blazers 116, San Antonio Spurs 111 | Nov. 25, 2026 - NBA.com",
      "published": "2026-11-26T06:14:16+00:00",
      "summary": "Deni Avdija Postgame Interview | Portland Trail Blazers 116, San Antonio Spurs 111 | Nov. 25, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
+     "title": "Deni Avdija goes glass on a clutch 3 for Portland - ESPN",
+     "published": "2026-11-26T06:13:24+00:00",
+     "summary": "Deni Avdija goes glass on a clutch 3 for Portland ESPN"
     },
     {
      "ref": "gnews_israeli_nba#19",
@@ -1248,33 +996,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#20",
-     "title": "Deni Avdija goes glass on a clutch 3 for Portland - ESPN",
-     "published": "2026-11-26T06:12:04+00:00",
-     "summary": "Deni Avdija goes glass on a clutch 3 for Portland ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Portland defeats San Antonio 116-111… Deni Avdija shines with 33 points and 12 rebounds : NBA : JKN - 재경일보",
-     "published": "2026-11-26T06:10:45+00:00",
-     "summary": "Portland defeats San Antonio 116-111… Deni Avdija shines with 33 points and 12 rebounds : NBA : JKN 재경일보"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger - ClutchPoints",
-     "published": "2026-11-26T06:03:05+00:00",
-     "summary": "Blazers news: Portland hands Spurs first road loss after Deni Avdija's dagger ClutchPoints"
-    },
-    {
-     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija with 33 points vs. San Antonio Spurs, 11/25/2026 - Yahoo Sports",
      "published": "2026-11-26T05:51:25+00:00",
      "summary": "Deni Avdija with 33 points vs. San Antonio Spurs, 11/25/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija dials from long distance, 11/25/2026 - Yahoo Sports",
      "published": "2026-11-26T05:51:09+00:00",
      "summary": "Deni Avdija dials from long distance, 11/25/2026 Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
+     "title": "NBA Basketball: Deni Avdija Scores 33 Points, Portland Defeats San Antonio - Ynetnews",
+     "published": "2026-11-26T05:45:44+00:00",
+     "summary": "NBA Basketball: Deni Avdija Scores 33 Points, Portland Defeats San Antonio Ynetnews"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
+     "title": "Deni Avdija Props, Odds and Key Stats vs. Spurs on Nov. 25 - SSBCrack",
+     "published": "2026-11-26T05:12:22+00:00",
+     "summary": "Deni Avdija Props, Odds and Key Stats vs. Spurs on Nov. 25 SSBCrack"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Near triple-double and clutch heroics: Deni Avdija takes down Spurs - Israel Hayom",
+     "published": "2026-11-26T05:10:00+00:00",
+     "summary": "Near triple-double and clutch heroics: Deni Avdija takes down Spurs Israel Hayom"
     }
    ]
   }
