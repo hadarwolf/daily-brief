@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "China and other U.S. trading partners hit back at Trump’s new tariff plans - AP News",
-     "published": "2026-11-26T10:06:05+00:00",
-     "summary": "China and other U.S. trading partners hit back at Trump’s new tariff plans AP News"
+     "title": "Taiwan local elections focus on domestic issues as China watches closely - AP News",
+     "published": "2026-11-26T11:00:00+00:00",
+     "summary": "Taiwan local elections focus on domestic issues as China watches closely AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Donald Trump - AP News",
-     "published": "2026-11-26T09:56:12+00:00",
-     "summary": "Donald Trump AP News"
+     "title": "AP Top Stories November 26 - AP News",
+     "published": "2026-11-26T10:52:00+00:00",
+     "summary": "AP Top Stories November 26 AP News"
     },
     {
      "ref": "ap_world#2",
+     "title": "Moment pier in San Francisco collapses in heavy waves caused by King Tides - AP News",
+     "published": "2026-11-26T10:15:00+00:00",
+     "summary": "Moment pier in San Francisco collapses in heavy waves caused by King Tides AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "China and other U.S. trading partners hit back at Trump’s new tariff plans - AP News",
+     "published": "2026-11-26T10:00:00+00:00",
+     "summary": "China and other U.S. trading partners hit back at Trump’s new tariff plans AP News"
+    },
+    {
+     "ref": "ap_world#4",
      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65 - AP News",
      "published": "2026-11-26T09:47:00+00:00",
      "summary": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65 AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#5",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-11-26T09:31:12+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Donald Trump - AP News",
+     "published": "2026-11-26T09:27:22+00:00",
+     "summary": "Donald Trump AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "International trade - AP News",
+     "published": "2026-11-26T09:21:33+00:00",
+     "summary": "International trade AP News"
+    },
+    {
+     "ref": "ap_world#8",
      "title": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture - AP News",
      "published": "2026-11-26T09:16:00+00:00",
      "summary": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#9",
      "title": "Tariffs and global trade - AP News",
-     "published": "2026-11-26T09:09:00+00:00",
+     "published": "2026-11-26T09:14:30+00:00",
      "summary": "Tariffs and global trade AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-11-26T08:54:01+00:00",
-     "summary": "Artificial intelligence AP News"
+     "ref": "ap_world#10",
+     "title": "Chicago hosts New York following Kantserov’s 2-goal game - AP News",
+     "published": "2026-11-26T09:10:00+00:00",
+     "summary": "Chicago hosts New York following Kantserov’s 2-goal game AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#11",
+     "title": "King tides and high surf batter California coast, in photos - AP News",
+     "published": "2026-11-26T09:05:00+00:00",
+     "summary": "King tides and high surf batter California coast, in photos AP News"
+    },
+    {
+     "ref": "ap_world#12",
      "title": "World shares push higher, while markets in US will be closed for Thanksgiving - AP News",
      "published": "2026-11-26T08:51:00+00:00",
      "summary": "World shares push higher, while markets in US will be closed for Thanksgiving AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#13",
      "title": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate - AP News",
      "published": "2026-11-26T08:45:00+00:00",
      "summary": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#14",
+     "title": "Haydn Barron takes the 1st-round lead at the Australian PGA golf tournament - AP News",
+     "published": "2026-11-26T08:26:00+00:00",
+     "summary": "Haydn Barron takes the 1st-round lead at the Australian PGA golf tournament AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Bangkok authorities say there has been a large explosion at a major oil facility in the Thai capital - AP News",
      "published": "2026-11-26T08:19:00+00:00",
      "summary": "Bangkok authorities say there has been a large explosion at a major oil facility in the Thai capital AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#16",
+     "title": "Sports - Europe - AP News",
+     "published": "2026-11-26T08:02:41+00:00",
+     "summary": "Sports - Europe AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "TIM REYNOLDS - AP News",
+     "published": "2026-11-26T07:51:19+00:00",
+     "summary": "TIM REYNOLDS AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist - AP News",
      "published": "2026-11-26T07:33:00+00:00",
      "summary": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist AP News"
     },
     {
-     "ref": "ap_world#10",
-     "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories - AP News",
-     "published": "2026-11-26T07:24:00+00:00",
-     "summary": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories AP News"
-    },
-    {
-     "ref": "ap_world#11",
+     "ref": "ap_world#19",
      "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners - AP News",
      "published": "2026-11-26T07:08:00+00:00",
      "summary": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#20",
+     "title": "United Kingdom - AP News",
+     "published": "2026-11-26T06:59:02+00:00",
+     "summary": "United Kingdom AP News"
+    },
+    {
+     "ref": "ap_world#21",
+     "title": "Horner’s 22 lead Jacksonville State over Pacific 83-76 - AP News",
+     "published": "2026-11-26T06:52:00+00:00",
+     "summary": "Horner’s 22 lead Jacksonville State over Pacific 83-76 AP News"
+    },
+    {
+     "ref": "ap_world#22",
      "title": "What to know: Cricket’s Sandpapergate wounds reopen as teammates exchange blame - AP News",
      "published": "2026-11-26T06:46:00+00:00",
      "summary": "What to know: Cricket’s Sandpapergate wounds reopen as teammates exchange blame AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#23",
      "title": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine - AP News",
      "published": "2026-11-26T06:00:00+00:00",
      "summary": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine AP News"
     },
     {
-     "ref": "ap_world#14",
-     "title": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume - AP News",
-     "published": "2026-11-26T05:53:00+00:00",
-     "summary": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume AP News"
-    },
-    {
-     "ref": "ap_world#15",
+     "ref": "ap_world#24",
      "title": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever - AP News",
      "published": "2026-11-26T05:43:00+00:00",
      "summary": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding - AP News",
-     "published": "2026-11-26T05:38:00+00:00",
-     "summary": "King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women - AP News",
-     "published": "2026-11-26T05:05:00+00:00",
-     "summary": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Once among world’s most dangerous places to give birth, Sierra Leone turns tide on maternal deaths - AP News",
-     "published": "2026-11-26T05:03:00+00:00",
-     "summary": "Once among world’s most dangerous places to give birth, Sierra Leone turns tide on maternal deaths AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway - AP News",
-     "published": "2026-11-26T05:02:00+00:00",
-     "summary": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "What to know about Taiwan’s local elections and why they matter to China - AP News",
-     "published": "2026-11-26T05:02:00+00:00",
-     "summary": "What to know about Taiwan’s local elections and why they matter to China AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation - AP News",
-     "published": "2026-11-26T04:44:00+00:00",
-     "summary": "2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-26T04:34:27+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Mexico’s most powerful cartels adapt as arrests and leadership battles reshape their ranks - AP News",
-     "published": "2026-11-26T04:12:00+00:00",
-     "summary": "Mexico’s most powerful cartels adapt as arrests and leadership battles reshape their ranks AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "FIFA presidential candidate Kohzo Tashima was comfortable wearing FIFA's logo. Not so much now - AP News",
-     "published": "2026-11-26T03:45:00+00:00",
-     "summary": "FIFA presidential candidate Kohzo Tashima was comfortable wearing FIFA's logo. Not so much now AP News"
     }
    ]
   },
@@ -408,153 +408,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return - Reuters",
+     "published": "2026-11-26T11:11:02+00:00",
+     "summary": "EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
+     "published": "2026-11-26T11:10:56+00:00",
+     "summary": "How Trump's proposed tariffs for India compare with rival nations Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "China's Weimob plans own GPU cluster with Nvidia's RTX PRO 5500 - Reuters",
+     "published": "2026-11-26T11:00:40+00:00",
+     "summary": "China's Weimob plans own GPU cluster with Nvidia's RTX PRO 5500 Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "UK net migration falls to almost three-decade low, excluding pandemic slump - Reuters",
+     "published": "2026-11-26T10:31:31+00:00",
+     "summary": "UK net migration falls to almost three-decade low, excluding pandemic slump Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
      "title": "Argentina's Senate poised to suspend primaries, boosting Milei's re-election bid - Reuters",
      "published": "2026-11-26T10:05:43+00:00",
      "summary": "Argentina's Senate poised to suspend primaries, boosting Milei's re-election bid Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#5",
      "title": "China's defence ministry urges Japan to stop 'stirring up' South China Sea disputes - Reuters",
      "published": "2026-11-26T09:41:22+00:00",
      "summary": "China's defence ministry urges Japan to stop 'stirring up' South China Sea disputes Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#6",
      "title": "Rwanda hikes rates for fourth time this year with inflation far above target - Reuters",
      "published": "2026-11-26T09:39:44+00:00",
      "summary": "Rwanda hikes rates for fourth time this year with inflation far above target Reuters"
     },
     {
-     "ref": "reuters_world#3",
-     "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-     "published": "2026-11-26T09:33:45+00:00",
-     "summary": "How Trump's proposed tariffs for India compare with rival nations Reuters"
-    },
-    {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#7",
      "title": "Russian court arrests deputy aerospace forces commander, Kommersant reports - Reuters",
      "published": "2026-11-26T09:26:51+00:00",
      "summary": "Russian court arrests deputy aerospace forces commander, Kommersant reports Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "Indian rupee bulls return after 18 months, rupiah bears tighten grip - Reuters",
      "published": "2026-11-26T09:26:20+00:00",
      "summary": "Indian rupee bulls return after 18 months, rupiah bears tighten grip Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "Most Gulf markets muted on Saudi energy strikes, maritime dangers - Reuters",
      "published": "2026-11-26T08:50:09+00:00",
      "summary": "Most Gulf markets muted on Saudi energy strikes, maritime dangers Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "Pakistan, Saudi, Turkey to hold Mecca alliance meeting in Islamabad Nov 27-28, sources say - Reuters",
      "published": "2026-11-26T08:45:23+00:00",
      "summary": "Pakistan, Saudi, Turkey to hold Mecca alliance meeting in Islamabad Nov 27-28, sources say Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "UK's Halfords raises lower end of annual profit forecast on warm weather and turnaround plan - Reuters",
      "published": "2026-11-26T07:46:00+00:00",
      "summary": "UK's Halfords raises lower end of annual profit forecast on warm weather and turnaround plan Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "Myanmar says it will not fully comply with ICJ genocide orders - Reuters",
      "published": "2026-11-26T07:35:00+00:00",
      "summary": "Myanmar says it will not fully comply with ICJ genocide orders Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters",
      "published": "2026-11-26T07:19:00+00:00",
      "summary": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "Trump's new tariffs aim to prise global trade from China's grip - Reuters",
      "published": "2026-11-26T07:03:00+00:00",
      "summary": "Trump's new tariffs aim to prise global trade from China's grip Reuters"
     },
     {
-     "ref": "reuters_world#12",
-     "title": "Kenya breached constitution in building US-backed Ebola quarantine site, court says - Reuters",
+     "ref": "reuters_world#15",
+     "title": "Kenya breached constitution by allowing US-backed Ebola quarantine site, court says - Reuters",
      "published": "2026-11-26T06:54:00+00:00",
-     "summary": "Kenya breached constitution in building US-backed Ebola quarantine site, court says Reuters"
+     "summary": "Kenya breached constitution by allowing US-backed Ebola quarantine site, court says Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says - Reuters",
      "published": "2026-11-26T06:16:00+00:00",
      "summary": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
      "title": "Malaysian air force facilities used to transport illicit drugs, minister says - Reuters",
      "published": "2026-11-26T06:11:00+00:00",
      "summary": "Malaysian air force facilities used to transport illicit drugs, minister says Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "Indian court tightens food labelling proposal, asks global food firms to end 'double standards' - Reuters",
      "published": "2026-11-26T05:59:00+00:00",
      "summary": "Indian court tightens food labelling proposal, asks global food firms to end 'double standards' Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "Morning Bid: Hey, it could have been worse - Reuters",
      "published": "2026-11-26T05:33:00+00:00",
      "summary": "Morning Bid: Hey, it could have been worse Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports - Reuters",
      "published": "2026-11-26T05:09:00+00:00",
      "summary": "Nvidia halts server shipments to four Southeast Asian countries, FT reports Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "Spain's economic gains miss voters' wallets as Sanchez seeks reelection - Reuters",
      "published": "2026-11-26T05:03:00+00:00",
      "summary": "Spain's economic gains miss voters' wallets as Sanchez seeks reelection Reuters"
     },
     {
-     "ref": "reuters_world#19",
-     "title": "EU leaders to wrestle with seven-year budget, Ukraine financing as they seek December deal - Reuters",
+     "ref": "reuters_world#22",
+     "title": "Leaders wrestle over EU's budget, Ukraine financing, as Le Pen focuses minds - Reuters",
      "published": "2026-11-26T05:02:00+00:00",
-     "summary": "EU leaders to wrestle with seven-year budget, Ukraine financing as they seek December deal Reuters"
+     "summary": "Leaders wrestle over EU's budget, Ukraine financing, as Le Pen focuses minds Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "China, Japan, South Korea and ASEAN launch talks on digital payments across borders - Reuters",
      "published": "2026-11-26T05:01:00+00:00",
      "summary": "China, Japan, South Korea and ASEAN launch talks on digital payments across borders Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters",
      "published": "2026-11-26T04:20:00+00:00",
      "summary": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Gold drifts lower as Fed rate-hike fears loom - Reuters",
-     "published": "2026-11-26T03:39:00+00:00",
-     "summary": "Gold drifts lower as Fed rate-hike fears loom Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return - Reuters",
-     "published": "2026-11-26T03:38:00+00:00",
-     "summary": "EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Indian shares inch higher as markets on track for best month in over six years - Reuters",
-     "published": "2026-11-26T02:41:00+00:00",
-     "summary": "Indian shares inch higher as markets on track for best month in over six years Reuters"
     }
    ]
   }

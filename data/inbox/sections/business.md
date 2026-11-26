@@ -18,111 +18,111 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "UniCredit Clears Final Hurdle to Take Over Commerzbank",
+     "published": "2026-11-26T11:12:46+00:00",
+     "summary": "UniCredit proposed CEO Andrea Orcel as Commerzbank chairman, as the Italian lender moves to take control of its German rival in one of Europe’s largest banking deals in decades. Bloomberg's Steven Arons reports. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Couche-Tard Sees Zabka Model Expanding Beyond Poland, Romania",
+     "published": "2026-11-26T11:00:00+00:00",
+     "summary": "Alimentation Couche-Tard Inc. envisions taking Zabka Group SA’s convenience-store model into more European markets as the Canadian retailer prepares to complete its biggest-ever acquisition."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Wall Street Flips From AI Euphoria to Gloom",
+     "published": "2026-11-26T10:56:52+00:00",
+     "summary": "US stocks haven’t been this volatile in years."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Coris’ Ivory Coast Bank Unit Plans IPO in Push for Top Five",
+     "published": "2026-11-26T10:49:19+00:00",
+     "summary": "Coris Holding SA’s Ivory Coast unit plans a 62.7 billion CFA franc ($105 million) initial public offering as the lender seeks to broaden its investor base and break into the country’s top five banks."
+    },
+    {
+     "ref": "bloomberg_markets#4",
      "title": "Romanian Far-Right Leader Simion Charged With Inciting Violence",
      "published": "2026-11-26T10:49:18+00:00",
      "summary": "Romanian far-right leader George Simion was charged with public incitement by prosecutors for allegedly urging violence against election bureau justices last year following the highly-contested 2024 presidential election."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#5",
      "title": "South Africa’s IDC in Talks for $257 Million Stake in Sugar Firm",
      "published": "2026-11-26T09:55:38+00:00",
      "summary": "South Africa’s biggest development-finance institution plans to take a 4.5 billion-rand ($257 million) stake in an investment firm that’s looking to buy a holding in Tongaat Hulett Sugar SA Ltd., South Africa’s top refiner of the sweetener."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#6",
      "title": "German Bond Haven Trade Shifts as Investors Turn to Asset Swaps",
      "published": "2026-11-26T09:52:35+00:00",
      "summary": "Investors are changing how they trade German government bonds, Europe’s go-to haven in times of stress."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#7",
      "title": "Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
      "published": "2026-11-26T09:09:16+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#8",
      "title": "Marc Levinson on How UPS Created Modern Logistics",
      "published": "2026-11-26T09:00:22+00:00",
      "summary": "The forgotten history of one of the world's most important companies."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#9",
      "title": "Turkey’s Defense Chief to Meet Hegseth to Discuss Russian S-400s",
      "published": "2026-11-26T09:00:01+00:00",
      "summary": "Turkey’s Defense Minister Yasar Guler will meet his American counterpart Pete Hegseth in the US next week, as Ankara steps up efforts to resolve tensions over its purchase of a Russian air defense system."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#10",
      "title": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
      "published": "2026-11-26T09:00:00+00:00",
      "summary": "UPS was founded nearly a century ago in the basement of a Seattle saloon by James E. Casey and his business partner Claude Ryan. They initially called the company American Messenger Company, and the first iteration of the firm that became UPS was a bike courier service. It is now hard to imagine modern, globalized life, and the logistics required to prop it up, without the innovations Casey and hi"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#11",
      "title": "UniCredit Clears Final Hurdle to Take Over Commerzbank",
      "published": "2026-11-26T08:50:20+00:00",
      "summary": "UniCredit cleared the final regulatory hurdle to take control of Commerzbank, and plans to propose its CEO, Andrea Orcel, as chairman of the German bank’s supervisory board. Bloomberg's Steven Arons reports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#12",
      "title": "Asian Stock Markets Are Cheap Enough Now: Market Analysis",
      "published": "2026-11-26T08:29:51+00:00",
      "summary": "Tom Mackenzie, Skylar Montgomery Koning and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#13",
      "title": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
      "published": "2026-11-26T08:05:24+00:00",
      "summary": "President Donald Trump’s latest tariff push risks undercutting one of the signature shifts in global manufacturing since the US-China trade war began: the movement of supply chains out of China."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#14",
      "title": "Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify",
      "published": "2026-11-26T07:41:56+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
-     "title": "FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
-     "published": "2026-11-26T07:37:50+00:00",
-     "summary": "Plus, a closer look at the UK consumer puzzle"
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Diesel-Carrying Ship Sinks Off Spanish Island of Ibiza, One Dead",
-     "published": "2026-11-26T07:24:28+00:00",
-     "summary": "A ship carrying diesel has sunk off the coast of the Spanish island of Ibiza, according to the Balearic Islands emergency service."
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "China Tech Stocks Rebound From Record Slump",
-     "published": "2026-11-26T07:16:06+00:00",
-     "summary": "\"Bloomberg: The China Show is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man gives global investors unique insight, delivering in-depth discussions with the newsmakers who matter.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Banks Seek RBI FX Swaps After Record Inflows Into Indian Stocks",
-     "published": "2026-11-26T07:10:15+00:00",
-     "summary": "Some Indian lenders have asked the central bank to carry out foreign-exchange swaps to help ease rising hedging costs as banks deal with an influx of dollars, according to people familiar with the matter."
-    },
-    {
      "ref": "bloomberg_markets#15",
-     "title": "Qatar Has Boosted LNG Exports to Their Highest Since February",
-     "published": "2026-11-26T07:08:15+00:00",
-     "summary": "Qatar’s liquefied natural gas exports have risen to the highest since the start of the US-Iran war, overcoming disruptions in the Strait of Hormuz and boosting supply to Europe and Asia as the regions enter the peak winter demand season."
-    },
-    {
-     "ref": "bloomberg_markets#16",
      "title": "Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035",
      "published": "2026-11-26T06:32:14+00:00",
      "summary": "Vietnam may be forced to delay its first nuclear power plants until after 2035, complicating efforts to boost energy security and economic growth."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#16",
      "title": "Japan’s Insurers Have ‘Given Up’ on Yen With Record-Low Hedging",
      "published": "2026-11-26T03:36:45+00:00",
      "summary": "Japan’s concerted push to bolster the yen is running into a major headwind, after the nation’s biggest life insurers slashed their currency hedging to a record low in the fiscal first half."
+    },
+    {
+     "ref": "bloomberg_markets#17",
+     "title": "Gold Wavers Near 15-Month Low as Traders Eye Fed Path, AI Stocks",
+     "published": "2026-11-26T00:18:09+00:00",
+     "summary": "Gold wavered just above the lowest level in about 15 months, as investors weighed the prospect of further Federal Reserve rate hikes against a relief rally in wider markets."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -144,66 +144,72 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Global stocks steady after volatile US trading over AI risks",
-     "published": "2026-11-26T08:31:48+00:00",
-     "summary": "Tech shares hit this month by fears over whether an AI boom can be sustained"
+     "title": "Global stocks climb after volatile US trading over AI risks",
+     "published": "2026-11-26T11:09:00+00:00",
+     "summary": "Tech shares hit this month by fears over whether boom can be sustained"
     },
     {
      "ref": "ft_home#1",
+     "title": "Franco-German clash over ‘Made in Europe’ in EU defence budget",
+     "published": "2026-11-26T10:11:49+00:00",
+     "summary": "Berlin leads pushback against French demands for European preference in buying military equipment"
+    },
+    {
+     "ref": "ft_home#2",
      "title": "China hits back at Trump tariff threat",
      "published": "2026-11-26T08:02:13+00:00",
      "summary": "Levies follow investigation into whether countries give their own companies unfair subsidies"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Software stocks spared in tech rout as AI narrative shifts",
      "published": "2026-11-26T05:00:29+00:00",
      "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Nvidia halts chip shipments to south-east Asia",
      "published": "2026-11-26T05:00:19+00:00",
      "summary": "Move comes as US steps up export controls to prevent Chinese access to AI computing power"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "Huang’s return is a terrible signal for US capitalism",
      "published": "2026-11-26T05:00:19+00:00",
      "summary": "Nvidia scandal highlights why the shareholder rights that are now under threat are so important"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "Paris and Berlin seek to shield EU budget from Marine Le Pen",
      "published": "2026-11-26T05:00:19+00:00",
      "summary": "France requests an extra €35bn for farmers to raise the cost of far-right leader picking apart deal on bloc’s budget if she becomes president"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Netanyahu using ‘racist attacks’ to stay in power, Israeli Arab leader says",
      "published": "2026-11-26T05:00:19+00:00",
      "summary": "Head of largest Arab party says he is willing to work with Jewish opposition to remove prime minister’s far-right bloc"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "How Britain taxed itself into a corner",
      "published": "2026-11-26T05:00:12+00:00",
      "summary": "Strained public finances and a reluctance to cut spending have shaped a system with comical distortions"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "How ‘Friendsgiving’ took over in America",
      "published": "2026-11-26T05:00:11+00:00",
      "summary": "Changing demographics mean traditions that were once reserved for relatives are being shared with friends"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#10",
      "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
      "published": "2026-11-26T03:11:09+00:00",
      "summary": "Normalisation has not only put households on the hunt for returns but given them rapidly growing power to surprise markets"
     },
     {
-     "ref": "ft_home#10",
+     "ref": "ft_home#11",
      "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
      "published": "2026-11-26T00:45:54+00:00",
      "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait"
@@ -216,32 +222,32 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "עליות של קרוב ל-1.5% בבורסות אירופה, בהובלת מניות השבבים",
+     "published": "2026-11-26T11:10:00+00:00",
+     "summary": "הנפט נסחר מעט מתחת ל-95 דולר לחבית ■ היום לא יתקיים מסחר בוול סטריט לרגל חג ההודיה ■ בורסות אסיה ננעלו בעליות: הונג קונג התחזקה ביותר מ-1% ■ עקב עסקת ענק באיחוד האמירויות, בנק איסלאמי מחזיק בנכסים ב-159 מיליארד דולר - השני בגודלו בעולם"
+    },
+    {
+     "ref": "themarker#1",
      "title": "אחרי 33 שנה: הגשרים של התחנה המרכזית בתל אביב יפורקו ב–2027",
      "published": "2026-11-26T10:45:48+00:00",
      "summary": "פירוק הגשר המערבי יימשך עד אפריל 2027 ובהמשך השנה יפורקו הזרוע הצפונית והדרומית ■ הגשרים, כמו התחנה כולה, הפכו עם השנים למפגע סביבתי ותחבורתי"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "המשבר הניהולי בנגה מחריף: לממלא המקום של המנכ\"ל מונה ממלא מקום",
      "published": "2026-11-26T10:44:21+00:00",
      "summary": "לאחר שלא מונה מנכ\"ל קבוע במשך שנתיים, מילא את התפקיד סמנכ\"ל התפעול שיקי פישר ■ הוא כיהן גם כמנכ\"ל בפועל, וסיים את תפקידו בתחילת החודש. במקומו מונה סמנכ\"ל משאבי האנוש, ובמקום סמנכ\"ל התכנון שעזב הוקפצה מעלה בשרשרת הניהול עובדת אחרת"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#3",
      "title": "בליאק: \"אני אוהב את עבאס. אסור לנו להקים ממשלה עם הליכוד\"",
      "published": "2026-11-26T09:26:56+00:00"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#4",
      "title": "דוניץ מתמזגת עם דן נדל\"ן לחברה בשווי של כ–3 מיליארד שקל",
      "published": "2026-11-26T09:23:44+00:00",
      "summary": "שתי החברות הודיעו רשמית על המיזוג לאחר כמה חודשים של משא ומתן ■ במסגרת המיזוג, דוניץ תקצה לדן נדל\"ן 33% ממניותיה וכן תשלום מזומן של כ–30–50 מיליון שקל וחבילת אופציות"
-    },
-    {
-     "ref": "themarker#4",
-     "title": "עליות של קרוב ל-2% בבורסות אירופה, בהובלת מניות השבבים",
-     "published": "2026-11-26T09:16:00+00:00",
-     "summary": "בורסות אסיה ננעלו בעליות: הונג קונג התחזקה ביותר מ-1% ■ עקב עסקת ענק באיחוד האמירויות, בנק איסלאמי מחזיק בנכסים ב-159 מיליארד דולר - השני בגודלו בעולם ■ הנפט נסחר מעט מעל ל-94 דולר לחבית ■ היום לא יתקיים מסחר בוול סטריט לרגל חג ההודיה"
     },
     {
      "ref": "themarker#5",
@@ -524,9 +530,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3838.73,
+   "last": 3842.75,
    "prev_close": 3792.3799,
-   "change_pct": 1.22,
+   "change_pct": 1.33,
    "as_of": "2026-11-26"
   },
   "SP500": {
@@ -538,23 +544,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3395,
+   "last": 3.3375,
    "prev_close": 3.3486,
-   "change_pct": -0.27,
+   "change_pct": -0.33,
    "as_of": "2026-11-26"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 90.72,
+   "last": 90.95,
    "prev_close": 94.61,
-   "change_pct": -4.11,
+   "change_pct": -3.87,
    "as_of": "2026-11-26"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 60448.3906,
+   "last": 60604.7383,
    "prev_close": 60378.1992,
-   "change_pct": 0.12,
+   "change_pct": 0.38,
    "as_of": "2026-11-26"
   }
  },

@@ -238,7 +238,7 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
      "published": "2026-11-26T03:36:58+00:00",
-     "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 263 # Comments: 143"
+     "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 274 # Comments: 152"
     },
     {
      "ref": "hn_frontpage#1",
@@ -250,43 +250,43 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#2",
      "title": "Collection of preserved UI style guides",
      "published": "2026-11-26T00:40:00+00:00",
-     "summary": "Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 197 # Comments: 23"
+     "summary": "Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 215 # Comments: 24"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Bare Metal Qwen",
      "published": "2026-11-25T22:15:34+00:00",
-     "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 157 # Comments: 39"
+     "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 162 # Comments: 39"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Much shorter version of GRH Lean verification from Anthropic",
      "published": "2026-11-25T21:48:10+00:00",
-     "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 464 # Comments: 247"
+     "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 467 # Comments: 253"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "published": "2026-11-25T21:18:02+00:00",
-     "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 400 # Comments: 333"
+     "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 407 # Comments: 342"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Slow Ubuntu security response times",
      "published": "2026-11-25T20:38:00+00:00",
-     "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 303 # Comments: 141"
+     "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 312 # Comments: 149"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
      "published": "2026-11-25T20:35:50+00:00",
-     "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 152 # Comments: 62"
+     "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 154 # Comments: 63"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
      "published": "2026-11-25T19:11:27+00:00",
-     "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1574 # Comments: 1386"
+     "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1601 # Comments: 1397"
     },
     {
      "ref": "hn_frontpage#9",
@@ -298,7 +298,7 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#10",
      "title": "1Password Security Incident",
      "published": "2026-11-25T17:18:26+00:00",
-     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1447 # Comments: 617"
+     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1454 # Comments: 631"
     }
    ]
   },
@@ -389,12 +389,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
      "published": "2026-11-23T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…"
-    },
-    {
-     "ref": "mit_tech_review#8",
-     "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-     "published": "2026-11-23T11:00:00+00:00",
-     "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…"
     }
    ]
   },
