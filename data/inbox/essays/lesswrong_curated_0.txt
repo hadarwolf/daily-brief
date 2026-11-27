@@ -1,0 +1,199 @@
+A very simple point that I've had to explain to many people, so I thought I'd make a post on it.
+
+Some classes of people in the past were economically necessary for their labor, but militarily irrelevant and coercible: slaves, serfs. Others didn't do any economic work, but were militarily important: the aristocracy! Living fun lives, partying, traveling, making and enjoying art. Some of them felt a bit of ennui due to not working, but mostly it wasn't a big problem.
+
+The reason aristocracy gave way to democracy wasn't because of rising productivity of the masses: a slave in a diamond mine can be very productive, but still remain a slave. Rather, it was because firearms lowered the cost of training a soldier, and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing.
+
+If Alice wishes for a world where her labor (e.g. as a programmer) remains economically valuable, but all military jobs go to AI, then humans will lose the "potential soldier bonus" we've had for a couple centuries and revert to a powerless, exploited position. The economic importance of our labor won't save us.
+
+Whereas if Bob wishes for a world where all jobs in the economy are done by AI, but humans remain militarily important, then humans will be the aristocracy in that world and lead lives of leisure and fun. If I could magically make that future happen, I would.
+
+Of course it's all academic: all military jobs can probably be done by AI even sooner than other jobs. There's already surveillance and drones. But still I wanted to write it up, because so many people today think economic irrelevance is the main issue, when it isn't.
+
+I think this is directionally correct, but overstated. Sure, in the extreme case where group A has perfect military power, they can use that to extract ~all wealth from group B, even if group B otherwise would have had economic relevance. We might wind up in this situation as a result of improvements in AI, although I think it's more likely that unfriendly superintelligence doesn't need civilian or military labor from humans.In practice, in human history so far, all military power has been less-than-absolute, which means that if group B has significant economic power but no military power, then group B still has some leverage, because attempting to coerce group B to serve you by threats of violence is at least a partially negative-sum transaction. Group B won't work quite as hard or as skillfully under military occupation as they would if they were instead voluntarily trading with you. This is part of why, e.g., workers today in the United Kingdom still earn above subsistence wages even though they mostly don't carry firearms and mostly aren't allowed to. It's also a major theme of, e.g., the Cold War. West Germans had ~no military ability to resist NATO, and East Germans had ~no military ability to resist the Soviet Union; after all, both halves of Germany had just been thoroughly defeated in World War II. Nevertheless, German workers on both sides of the Iron Curtain were paid significantly more than subsistence wages because the superpowers wanted (some of) them to have more motivation to deploy their economically valuable skills. The Soviets could and did use violence to suppress direct attacks on their rule, but they mostly kept the more advanced German factories operating by paying the Germans with commodities that the Germans wanted, rather than by sending troops to watch over the German factory workers with loaded weapons.
+
+Maybe the point I wanted to make (about military relevance of humans) got rounded off a bit to a different point (about stronger groups dominating weaker ones). I'm not saying that the stronger group will pay the weaker group subsistence wages! I'm saying that if members of the weaker group are potentially useful as soldiers, that in itself will lead to them being paid more and allowed to participate in politics. And if they can't be of use as soldiers, even when they're super useful economically, they'll be pushed down to subsistence and exploitation.
+
+This potential-usefulness-as-soldiers is a fragile, historically unusual thing. When weapons cost much more than a person, a small, well trained weapon-owning class ruled the world, and everyone else suffered what they must. Then firearms appeared and gave us the current brief window of democracy and sharing of spoils. When military robots don't require human operators and become cheaper than a person for the same amount of military efficiency, the window will be over.
+
+"The reason aristocracy gave way to democracy wasn't because of rising productivity of the masses: a slave in a diamond mine can be very productive, but still remain a slave. Rather, it was because firearms lowered the cost of training a soldier, and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing."
+
+This just seem wrong.https://en.wikipedia.org/wiki/Medieval_warfare"Typically the feudal armies consisted of a core of highly skilled knights and their household troops, mercenaries hired for the time of the campaign and feudal levies fulfilling their feudal obligations, who usually were little more than rabble." (emphasis added)
+
+During the Roman Empire a similar situation seems to be true too. A mix will a lot of lower class or even slaves serving in the army (Depending on when I suppose Rome be seen as supporting the general argument but long before rifles showed up.) A quick Google returned:
+
+In the Roman Empire, the masses of the armed forces were primarily lower-class and working-class men—such as poor farmers, laborers, and provincial subjects—who served as professional soldiers rather than wealthy aristocrats. [1, 2, 3]
+
+The bulk of the military was divided into two main groups: [1]
+
+Upper-class Romans (senators and equestrians) dominated the high command and officer ranks, while the rank-and-file soldiers who formed the mass of the army were ordinary men looking for livelihood and social mobility. In the later empire (from the 3rd and 4th centuries onward), conscription and Germanic or other non-Roman recruits from outside the empire also made up a larger share of the forces.
+
+I am pretty sure any good history check for any of the Asian cultures will show a similar pattern.
+
+While I agree that a relationship between the need for soldiers and its path to higher social status, or just increased income, holds I don't get the view that the world was waiting for rifles to make this possible. Just look back at the Spartan and Athenian political systems and structures. Though as I understand the story there it wasn't so much at the Athenian elite were forced to extend political rights from some pressure of some armed lower class but that they understood that people will tend to fight for the rights they have -- which can include their ownership rights and their political rights.
+
+The masses of the armed forces of the Roman empire were primary lower class and working class citizens (at least in the beginning, and certainly in the Republic - things changed later). Where to stay a citizen you had to be a soldier. Rome's whole political system was based around being a soldier and wealth networks (patronage), where both were important. Nearly all Roman positions of power stemmed from being in the military. The senate was basically the set of retired generals.
+
+Feudal armies consisted of a core of warriors (knights + men at arms) and any rabble they scraped up when needed. But the core were these heavily armed warriors (in the sense that war is their way of life vs soldiers who retire and go home) who could (and did!) easily put down any rebellion by the peasants. Who by the way were pretty much slaves - they had some rights, but were tied to the land and so beholden to whoever owned that land.
+
+Athens was 30% slaves, and to take part in the democracy you had to be a male citizen. Who also were those who fought in any wars - both were inseparable (Socrates was respected because he was a brave soldier). Sparta was weird and horrible - 80% of the population were slaves, with the small warrior elite extracting resources and once a year declaring war against their slave population.
+
+Power tends to flow from whatever the military needs. If the technologies and the dangers of the day can allow for a small core of people to maintain military power, you get a small warrior caste and loads of disempowered peons (Sparta, Tokugawa Japan, medieval knights, Aztecs). If it turns out that you need more manpower, then the masses gain power (middle Roman republic, many Greek city states, German towns, Meiji Japan, Switzerland American revolution). Institutions and culture are sticky, so once such privileges are granted, they tend to stay, even when the original reasons have passed. But power will try to disarm as soon and as much as they can (hence the US second amendment).
+
+An interesting case are the Mamluk and Janissary systems, where they'd enslave a bunch of european boys and train them as warriors. The reasoning being that they are slaves and don't have any preexisting ties with the powers that be, so no conflicts of interest. And so should be really controllable. Right? Right?!
+
+Just a couple of points I think should be made. We should not be putting modern definitions on historical societies and their implementation of democracy or the risk of sliding into the no true Scotsman fallacy grows. But even if we limit the meaning of democracy to a modern view, guns were on the scenes centuries before political systems that would be similar to modern democracies emerged. I was a bit curious on this point and posted the question to Gemini what lead to this interesting exchange:
+
+[Gemini] Historians explain this gap as a two-step process: first, guns destroyed the old feudal system and helped kings build powerful centralized states [over a 400 year period]; second, the high cost of those new gunpowder armies eventually forced kings to share power with the citizens who paid for and fought in them.
+
+[me] So one might say taxation is what drove the move to democracy?
+
+[Gemini] Yes—many historians and political scientists argue that taxation, driven by the soaring cost of gunpowder warfare, was the primary engine behind modern democracy.
+
+I agree with the idea that historically people generally didn't get much respect if they lacked the power to demand it and these is some connection between an armed populace and increased political and social rights/status/power. But I also think that a democracy that only exists under that view is probably not a healthy one from the start -- I suspect most successful democracies included and required a more broad acceptance of various forms of equality among humans and a culture or set of values that in one way of another reflect the view that might does not make right and people should seek to find peaceful solutions to disputes, not Alexandrian solutions to knotty problems. Athens and Rome both seem to have exhibited elements of that. I Britain on the other hand might be good example of the power along argument. The King really did not want the Magna Carta but got something of an offer he could not refuse if my limited understanding is close to historically correct.
+
+Oh, I agree that the gun itself is not the most important point. It plays an important part - if you need to spend years training to be a competent fighter, then most people won't have the time to do so, and then you get a core group of people with a monopoly on force.
+
+There does seem to be a correlation with the ease of taking up arms and the amount of freedom (which is a different way of having power) in a society. And there seems to always be a tension between centralizing and accumulating power (small oligarchy) vs having enough of the power to protect against external threats. Also, to encourage someone to risk their life and spend a bunch of otherwise productive time on fighting, you need to offer something in return, and also, ideally you'd want your fighters to pay for their own weapons and training. So you have systems where there's a small set of highly trained fighters with expensive kits (e.g. knights) who fund this from their own resources but in return expect a lot of power, systems where there's a lot of freemen who bring their own stuff (which usually isn't the best, but is usable) and train in their free time, systems where the boss funds training and kits, but in return has all the power, etc.
+
+The main things here boil down to who funds (and owns!) the training and the equipment. Whoever that is usually has the power. And emancipation tends to come along when those in power need more help, and they grant rights in exchange for fighters.
+
+Peaceful solutions are preferred in stable democracies, and equal(ish...) rights among equals. But here the important thing is that it's citizens that have these rights, not humans. The citizens have power, and in exchange are expected to fight for the collective (which implicitly is for their own rights and possessions).
+
+As always on these topics, ACoUP has a nice intro.
+
+Athens had lots of slaves, maybe most of the population. The medieval "rabble" wasn't very good at killing knights until guns appeared. In another comment I mentioned Russia and Japan making peasants more free when modernizing for warfare. So overall I do kinda think the world was waiting for rifles! It's an approximation of course, but not a too bad one.
+
+Well, you have a testable hypothesis, though I would suggest carefully defining your criteria as rifle is a particular type of firearm that came a pretty long time after the widespread rise of democratic societies.Define the weapon, establish the date it entered any given society and then look at when democracy was adopted (democracy and the presence of slavery are somewhat different so be clear about what those requirements are also). A few cases confirming the hypothesis and a few refuting it seems to suggest no causal relationship to me.
+
+This argument goes back to Ancient Greece - Spartan aristocrat hoplites vs Athenian commoner rowers.
+
+But overall, I think it's more wrong than right.
+
+1) Some countries, from Tsarist Russia to Modern North Korea have conscripted huge armies without becoming democratic.
+
+2) There's now very little correlation between a country having a substantial military and democracy.
+
+3) Democracy has grown since 1945 while militaries have massively shrunk
+
+4) The classic example of a militarised aristocracy is feudal Japan, which, after suddenly getting firearms, gave way to an extreme authoritarian state.
+
+5) Economic and social factors just more easily explain most democratisation pathways
+
+Good points, but I think you overstate them. Tsarist Russia freed the serfs after the Crimean War forced it to modernize. Imperial Japan abolished samurai privileges and emancipated the burakumin. Both had parliaments and political parties (though weak). Prior to that, I know a lot about Russia's feudal period and it was very abusive toward peasants; Japan I don't know as well, but from my reading of Shogun, their feudal period was even worse - tsujigiri and all that. Overall I think my point stands, firearms-modernization made people more free.
+
+This is a good but slightly oversimplified argument IMO. Military superiority is indeed vital for political power, but this applies internationally as well as domestically. So it's not just that random schmucks with rifles can overthrow the royal army (they usually can't, with a few exceptions, such as when they're certain 13 rich colonies fighting against an empire an ocean away), but that states that practice a certain social system can produce a stronger military (and beat those without the same social system).
+
+Generally speaking, democracies' stronger military position on the international stage came from their economic and subsequently technological superiority rather than the advantage in raw numbers. Such as during WW2, when the Japanese fielded enormous numbers of troops but had little hope of fending off American offensives in the Pacific. And this is why, in the modern day, despite militaries having shrunk in proportion to the population to become a new knighthood class again (indeed, as you can see in the Iraq War and such, superiorities in technology, doctrine, and training far outclass numbers), you still have democracy in vogue around most of the world: countries that have their militaries taking over their country tend to have shitty economies that subsequently cannot field powerful armies, compared to countries that have a functional civilian government (authoritarian or democratic). Obviously, nuclear weapons complicated this a bit, but generally speaking.
+
+Likewise, applying this to AI. In a world where humans are no longer economically vital but still militarily vital, this might prevent a takeover (or reduce its probability per country) in a specific country, but if AI takes over China or Russia and then outperforms the US by 10x economically and thus gives the human army that does its bidding incredible technological/industrial leads, then AI-controlled China/Russia could still easily overrun the rest of the world (even if AI taking over a country remains an unlikely scenario, just as much as a popular revolution can succeed during the 18th century, that could happen in only one major country or so).
+
+Yeah, fair questions. I think democracy + "new knighthood" will lead to authoritarianism, but we aren't very far along this road yet. The Iraq War involved half a million US soldiers.
+
+To your last paragraph, unfortunately I don't know any way to make humans remain militarily important by fiat. It seems almost certain not to happen, drones are just too powerful. That's why I say "it's academic" :-(
+
+500,000 soldiers were involved? Is that number supposed to represent those on the battle lines or just an estimate of those in uniform that were involved in some why? I ask because when I was in the Army it was generally understood that for every combat solider the Army needed about 5 support soldiers to ensure the combat solider could fight the war. That is a bit different and suggests the training line of thinking is grossly over simplified.
+
+The US population in the Iraq War was 290 million, about 14-20x the population of France in 1300; so 500k soldiers is actually not a lot! 1/20 - 1/14 of that is just 25k - 35k soldiers, which is generally in the ballpark of the French medieval military during major royal campaigns. By contrast, the most authoritarian periods of Chinese and Soviet history were during a time when the state possessed truly ginormous militaries, even relative to its population.
+
+The comparison with France is cute but I think it's only half right. If the US fights someone its own size, like France did then, it'll use much more than 500K soldiers :-) And there are more than 2x more soldiers on active duty now, despite no big wars happening.
+
+Fair enough. I think the underlying argument remains not significantly different, though: that democratic states remain in vogue because economic strength produces military strength, even in a technologically advanced time that has reduced the need for mass armies. And by contrast, domestically, large numbers of protestors/unrest can be easily slaughtered even by third-rate armies in small numbers, like in Iran right now.
+
+How sure are you that democracy leads to economic strength? China overtaking India seems a strong argument against that.
+
+"Democracy" vs "authoritarianism" is an actively bad conceptualization here. India is formally a liberal democracy, but this tells you nothing about the relative power of developmentalist vs rentier elites, let alone about elites versus ordinary people. South Korea under Rhee was an authoritarian nightmare, and South Korea under Park was an authoritarian nightmare, but one of them saw South Korea remain one of the poorest countries in Asia and one of them saw one of the largest economic miracles in human history, alongside Taiwan and China. The US was a liberal democracy under Roosevelt and it was a liberal democracy under Nixon, but one of them built the postwar order and one of them helped destroy it. And so on and so forth: there is no substitute for actually just looking at object-level policy.
+
+The reason aristocracy gave way to democracy wasn't because of rising productivity of the masses: a slave in a diamond mine can be very productive, but still remain a slave. Rather, it was because firearms lowered the cost of training a soldier, and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing.
+
+This is possibly somewhat true in the very big picture 500-year sense, in that reliance on expensive shock cavalry might be an intrinsically anti-democratic social force, but it's absolutely not immediate cause and effect. Take the classic trio of Britain, France, and Germany in the early modern period. All three used mass gunpowder armies to great effect, Britain a little less so and later than the others, being a naval power, but- In Britain serfdom collapsed and the aristocracy survived as an independent power, arguably strengthened vis a vis the monarch- In France serfdom collapsed and the aristocracy was largely subjugated by the crown- In Germany serfdom persisted deep into the 19th century, and in the east was worse than it had been in the medieval periodAnd none were remotely democratic in a modern sense: Britain was a thin oligarchy of a few percent of the population, France was an absolutist monarchy, and Germany was a patchwork of feudal statelets, plus a few absolutist powers of its own. And the most militarized of the major European powers, Prussia, was also one of the most repressive. Democracy is a 19th century phenomenon. If you want a socio-technological base for mass democracy, it is less likely to be the musket than the levée en masse. And we haven't had that since 1945.
+
+and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing.
+
+Arguably, the exact opposite. The masses were not suddenly valuable and respected, the aristocrats were just less valuable and no longer needed. Those at the very top no longer had a use for those particular keys to power. This does not necessarily mean better living for ordinary people, it just means fewer seats in leadership.
+
+In general, when peasants can readily, easily, fungibly serve as your primary military asset, the number of people whose opinions the rulers have to consider decreases sharply. A soldier who doesn't obey can be disposed of and replaced with minimal friction. It is when soldiers are difficult to train and expensive to replace that you get something resembling democracy. Indeed, this is how democracy originally came to be, in ancient Athens.
+
+The bullish argument for a future that isn't horrible for most people, from this angle, looks like the discrepancies in performance between green conscripts and elite units on both sides of the war in Eastern Europe. It's a casualty-intensive conflict, but units like Rubicon and its counterparts are extremely valuable and difficult to replicate, and, if this persists, nations will need to cultivate (and reward) a class of young men who are intelligent enough to master this new kind of warfare and devoted enough to risk their lives in doing so.
+
+From a technical perspective, there's a lot less (useful) training data on warfare than on coding, and no real way to make it into a realistic RLVR environment. So long as the people smart enough to solve this problem are smart enough not to help do so[1], I think we have decent odds.
+
+Of course, any kind of ASI obsoletes everything else.
+
+Afaik both sides in the war are already using AI drones and improving fast :-(
+
+I currently see no way for humans to stay militarily relevant. The post was just me making a miscellaneous point on a hopeless topic. Sorry if it gave a different impression.
+
+"AI drones", in their current implementation, aren't necessarily a replacement for human soldiers (as many U.S. analysts believed) but a complement to them. Automating target identification and tracking for an FPV is certainly useful to a military, but a semi-autonomous FPV drone and a soldier are still very different kinds of things.
+
+I've thought a lot about the process by which they might get qualitatively better, and there are very meaningful roadblocks that don't exist in other domains.
+
+I'm not an expert on weapons, but if you have an argument of the form "AI won't get better than humans at X", in this day and age it better be extremely strong. There's a rising tide and every such argument is a sand castle.
+
+Math and programming capabilities are easy to drive through RLVR, and there's a wealth of very high quality training data on the topic. In contrast, training data relating to warfare is unreliable, and constructing an RLVR environment that accurately simulates modern war strikes me as, at the very least, extremely nontrivial.
+
+Not saying we won't get an ASI that makes all of this academic, but I don't think superhuman math/programming trivially implies superhuman military performance.
+
+Curated. This is a very simple point, that I hadn't heard before. I'd heard many pieces of it, i.e. AI will change what military powers need which will change what equilibria society can have. But, I hadn't put together the specific point here.
+
+I understand cousin_it to be saying "being potentially valuable to the military is a useful bargaining chip", which is a distinct point from "whoever has all the guns can make other people do what they want." (Some of comments didn't draw a clear distinction between the two)
+
+What I found most useful was reminding myself: Whether it's specifically downstream of "commoners being militarily relevant" or not, modern democracies, equality beliefs, etc, aren't a universal. They are presumably caused or enabled by specific things. Economics is probably one part of the story. But, there are multiple dimensions. This post didn't just remind me "military relevance is important". It reminded me generally to expand the scope of dimensions I was tracking.
+
+In the comments, people brought up a bunch of arguments and nuance about how true this consideration actually seems in human history (or, the degree to which this post explains human behavior). Some of that feels interesting and important. Some feels more like getting lost in the weeds and missing the forest. Like, do these arguments about human history actually apply to AI, given that most likely AI will render us militarily fully obsolete?
+
+economic importance is crucial for military importance, though. if you have a very strong economy you can spend a lot of it on military strength. of course, not all economic power is equally valuable - some types of economic capacity (heavy industry, manufacturing, some r&d) are much more important for military might than other types of economic capacity (luxury goods, consumer goods), though trade can smooth this out somewhat.
+
+Some of my friends have speculated that in a Dungeons and Dragons universe, most mages wouldn't be treated with respect, but instead forcibly conscripted. That's because a low-level mage can more or less just fire a few fireballs every day, which is not enough to protect yourself from the army -- a small group of soldiers will be sent to approach you, each one from a different side, and hiding behind a shield, -- but can be used offensively -- imagine a group of mages brought in chains before a besieged castle, told by their handlers to throw a fireball at the wall simultaneously -- or economically -- e.g. in a forge.
+
+So if you are a peasant and your child happens to be born with a magical talent, you will probably want to hide it. (The army may employ a few scouts with Detect Magic spells to find out these children.) Or, if you are a bad parent, you will sell such child to slavery; worth more than the average slave.
+
+If you are a noble, so you get a miilitary training anyway, the extra fireball may be impressive in the battle (or as a last defense against assassination), and you may have enough resources to hire a magical teacher.
+
+This seems wrong. They'd be treated like samurai at least.
+
+I disagree (weak confidence) but I see no way to resolve our disagreement experimentally.
+
+A samurai kept in chains cannot fight well, and cannot even train well. So you lose his value that way.
+
+A DnD mage kept in chains can still cast a few fireballs every day. Leveling up might be a problem though; not sure how much XP one gets for producing fire in a forge every day.
+
+Military relevance cannot be overlooked but I'm not sure if you can objectively call it more important.
+
+In a decentralized trade economy the most powerful entities are so broadly distributed that they may better be described as economic forces that direct the flow of power. I would therefore conjecture which is more important depends on the state of the world: centralized economies put more weight on militaristic relevance, globalized/trade economies put more weight on economic relevance.
+
+It is of course always important though, U.S. founders understood this and is why the second amendment exists.
+
+I wonder how the future turns out, we may well return to centralized economies where militaristic relevance is indeed much more important
+
+The title and spirit of this post seem like they're probably true in the limit but that does not mean that they hold true for all steps on the way.
+
+For instance, right now this is approximately not true for the U.S., due to some combination of military jobs still having humans, supply chain jobs still having humans, the government probably having people in it that care about democracy, etc. Extending the period where humans have some amount of relevance seems good because it allows for democratic decisions to try and limit or stave off the attractor state you're talking about.
+
+I find it hard to make ancient Athens fit your model.Where and how would you say does it fit? Is it "using commoners as soldiers made it more democratic"? Or "It doesn't count as a democracy, because they still had lots of slaves"?
+
+It doesn't seem clear to me that that Napoleon France or Nazi Germany got more democratic as they employed more and more of the populace as soldiers. Would that then be "there's an oversupply of troops here because you're all so motivated, and that's why we don't even need to give you more democracy"?
+
+About Athens I think both your statements are kinda true :-)
+
+Napoleon freed the peasants from serfdom in a bunch of places he conquered. Many people from these places ended up soldiers for him, in Russia his invading army was nicknamed "the twelve languages".
+
+You and other commenters are right that even larger armies don't require even more emancipation. At some point it probably reverses, 20th century wars with huge armies required tightening the screws. I don't think that refutes my main point though. If humans stop being cost efficient as soldiers, I'm sure freedoms will roll back a lot.
+
+Sounds fair.And yep, I also don't think it refutes your main point :)
+
+The reason aristocracy gave way to democracy wasn't because of rising productivity of the masses: a slave in a diamond mine can be very productive, but still remain a slave.
+
+Puuh, I don't know?I'm not sure yet whether I agree with your general point, but this sure seems like a bad example.At least measured in human-time, I would highly doubt slaves in mines are productive, and worse still, you don't really have an incentive to make them more productive in the long run?Like: their labor is literally free, so you don't have the incentive to try to minimize their time spent on working, and therefore making them more productive.I guess they are cheap and have a good ROI for you, but that doesn't necessarily translate to them being productive in the output divided by hours worked sense.
+
+This video/lecture on the possible dynamics of humans negotiating with AI seems somewhat relevant, what do you think of it? The video was made by a political science professor.
+
+"but we grow all the food and do all the work, Sparta would collapse without our labor!" -some helot probably.
+
+Do you believe that the state no-slots-remain-for-humans-in-the-military will not be a stable one (i.e., persistent, locked-in once started) for some reason? (Asking since I am curious if you've examined any counter-processes).
+
+I think it'll be locked in, for the same reasons as no-humans-writing-code is getting locked in now. Wish I could see reasons otherwise, but I can't.
+
+Is it premature to say no-humans-writing-code is currently getting locked in now? I'm a human and I write code. I don't think it's obvious that the economic value of humans-writing-code is going to collapse to zero, rather than asymptoting out at some small positive value (at least assuming we don't all die soon).
+
+By analogy, the economic value of learning assembly or COBOL isn't zero, even though most software is at a much higher level. Slots will still remain for humans who write code as long as there's any task involving computers that LLMs can't reach -- for example, in places with no or very bad internet connections.

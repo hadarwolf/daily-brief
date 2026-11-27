@@ -24,158 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2011,
-   "text": "In a friendly-fire incident, a skirmish occurred between U.S.-led NATO forces and Pakistani security forces at two military checkposts along the Afghanistan–Pakistan border.",
+   "year": 2020,
+   "text": "Nuclear physicist Mohsen Fakhrizadeh, regarded as the chief of Iran's nuclear program, was assassinated, allegedly by Mossad.",
    "context": [
-    "In military terminology, friendly fire or fratricide is an unintentional attack by allied or neutral forces on friendly troops while attempting to attack enemy or hostile targets. Many NATO militaries refer to these incidents as blue on blue. Examples include misidentifying the target as hostile, cross-fire while engaging an enemy, and long-range ranging errors or inaccuracy. Accidental fire not intended to attack enemy or hostile targets, or deliberate firing on one's own troops for disciplinary reasons, is not called friendly fire, and neither is unintentional harm to civilian or neutral targets, which is sometimes referred to as collateral damage. Training accidents and bloodless incidents also do not qualify as friendly fire in terms of casualty reporting."
+    "Mohsen Fakhrizadeh Mahabadi was an Iranian nuclear physicist and scientist. He was regarded as the chief of Iran's nuclear program."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2011,
-   "text": "Mars Science Laboratory, a NASA mission carrying the rover Curiosity (pictured) on board, was launched from Cape Canaveral.",
+   "year": 2009,
+   "text": "A bomb exploded under, and derailed, a Russian high-speed train travelling between Moscow and Saint Petersburg, killing 28 passengers.",
    "context": [
-    "Mars Science Laboratory (MSL) is a robotic space probe mission to Mars launched by NASA on November 26, 2011, which successfully landed Curiosity, a Mars rover, in Gale Crater on August 6, 2012. The overall objectives include investigating Mars's habitability, studying its climate and geology, and collecting data for a human mission to Mars. The rover carries a variety of scientific instruments designed by an international team."
+    "The 2009 Nevsky Express bombing occurred on 27 November 2009 when a bomb exploded under a high speed train travelling between the Russian cities of Moscow and Saint Petersburg causing derailment near the town of Bologoye, Tver Oblast, on the Moscow–Saint Petersburg Railway. The derailment occurred at 21:34 local time. Russian officials had stated that 39 people were killed and 95 injured but later retracted that estimate. 27 deaths had been reported by 2 December. A second bomb exploded at the scene of the investigation the following day, injuring one. It was reported to have been triggered by a remote mobile phone."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2008,
-   "text": "A coordinated group of shooting and bombing attacks across Mumbai began, ultimately killing 175 people and wounding more than 300 others.",
+   "year": 2009,
+   "text": "Lady Gaga performed the first concert of The Monster Ball Tour, which became the highest-grossing tour in history for a debut headlining artist.",
    "context": [
-    "The 2008 Mumbai attacks, colloquially known as 26/11, were a coordinated series of twelve Islamic terrorist attacks carried out in Mumbai, Maharashtra, India, from 26 to 29 November 2008, by ten members of Lashkar-e-Taiba. A total of 175 people died, including 166 civilians and nine of the attackers, and more than 300 people were injured."
+    "Stefani Joanne Angelina Germanotta, known professionally as Lady Gaga, is an American singer, songwriter, and actress. An influential figure in popular music, she is known for her image reinventions, flamboyant fashion, and versatility across the entertainment industry. With estimated sales of 124 million records, she is one of the best-selling music artists of all time."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1983,
-   "text": "Six robbers broke into a Brink's-Mat warehouse at Heathrow Airport in London and stole £26 million in gold, diamonds and cash.",
+   "year": 2001,
+   "text": "Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured.",
    "context": [
-    "The Brink's Company is an American cash handling company, headquartered in Richmond, Virginia. Its operations include cash-in-transit, ATM replenishment & maintenance, and cash management & payment services, such as vault outsourcing, money processing, intelligent safe services, and international transportation of valuables."
+    "Sodium is a chemical element; it has symbol Na and atomic number 11. It is a soft, silvery-white, highly reactive metal. Sodium is an alkali metal, being in group 1 of the periodic table. Its only stable isotope is 23Na. The free metal does not occur in nature and must be prepared from compounds. Sodium is the sixth–most abundant element in the Earth's crust and exists in numerous minerals such as feldspars, sodalite, and halite (NaCl). Many salts of sodium are highly water-soluble: sodium ions have been leached by the action of water from the Earth's minerals over eons, and thus sodium and chlorine are the most common dissolved elements by weight in the oceans."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1979,
-   "text": "Pakistan International Airlines Flight 740, crashed shortly after takeoff near Taif, Saudi Arabia, killing all 156 people on board.",
+   "year": 1999,
+   "text": "The Labour Party defeated the governing National Party in the New Zealand general election, with Labour's Helen Clark becoming the country's first female prime minister to have won office at an election.",
    "context": [
-    "On 26 November 1979, Pakistan International Airlines Flight 740, a Boeing 707 operating a scheduled international passenger flight from Kano, Nigeria, to Karachi, Pakistan, via Jeddah, Saudi Arabia, crashed near Taif after attempting to return to Jeddah International Airport following an in-flight fire, killing all 145 passengers and 11 crew members."
+    "The New Zealand Labour Party, also known simply as Labour, is a centre-left political party in New Zealand. The party's platform programme describes its founding principle as democratic socialism, while observers describe Labour as social democratic and pragmatic in practice. The party participates in the international Progressive Alliance. It is one of two major political parties in New Zealand, alongside its traditional rival, the National Party."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1977,
-   "text": "A speaker claiming to represent the \"Intergalactic Association\" interrupted a broadcast of Southern Television in South East England.",
+   "year": 1989,
+   "text": "A bomb placed by the Medellín Cartel in an attempt to kill Colombian presidential candidate César Gaviria destroyed Avianca Flight 203, killing all 107 people on board, excluding Gaviria, who was not on the flight.",
    "context": [
-    "The Southern Television broadcast interruption was a broadcast signal intrusion, or pirate broadcast, that occurred on 26 November 1977 in parts of southern England in the United Kingdom. The audio of a Southern Television broadcast was replaced by a voice claiming to represent the \"Ashtar Galactic Command\", delivering a message instructing humanity to abandon its weapons and live in peace with one another so it could participate in a \"future awakening\" and \"achieve a higher state of evolution\". After five and a half minutes, the broadcast returned to its scheduled programme, the 1947 Looney Tunes cartoon Goofy Gophers."
+    "The Medellín Cartel was a confederation of Colombian drug trafficking organizations based primarily in Medellín, Colombia, that played a central role in the expansion of the international cocaine trade during the late 1970s and 1980s. Rather than a single hierarchical organization, contemporary law-enforcement assessments and subsequent scholarship describe the cartel as a network of semi-autonomous traffickers who cooperated in production, transportation, financing, and enforcement while retaining independent control over their respective operations. The network included prominent traffickers such as Pablo Escobar, Carlos Lehder, Gonzalo Rodríguez Gacha, and the Ochoa brothers—Jorge Luis Ochoa Vásquez, Fabio Ochoa Vásquez, and Juan David Ochoa Vásquez—whose activities collectively shaped the structure and scale of Colombian cocaine trafficking during this period. Estimates by U.S. and Colombian authorities during the 1980s attributed a substantial share of cocaine entering the United States to trafficking networks associated with Medellín, though contemporaneous reports emphasized that market share fluctuated over time and could not be ascribed to a single unified organization."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1965,
-   "text": "Astérix (prototype pictured), the first French satellite, was launched into orbit by a Diamant rocket from Hammaguir, Algeria.",
+   "year": 1963,
+   "text": "President Lyndon B. Johnson delivered the \"Let Us Continue\" speech, in which he advocated for civil-rights legislation and national cohesion, to a joint session of the U.S. Congress five days after the assassination of John F. Kennedy.",
    "context": [
-    "Astérix or A-1 is the first French satellite. It was launched on 26 November 1965 by a Diamant A rocket from the CIEES launch site at Hammaguir, Algeria. With Astérix, France became the sixth country to have an artificial satellite and the third country to launch a satellite on its own rocket. Its main purpose was to test the Diamant launcher, though it was also designed to study the ionosphere. Astérix continues to orbit Earth as of 2026 and is expected to remain in orbit for centuries."
+    "Lyndon Baines Johnson, also known as LBJ, was the 36th president of the United States, serving from 1963 to 1969. The 37th vice president, he assumed the presidency following the assassination of John F. Kennedy. Johnson was a Southern Democrat who represented Texas in both houses of the U.S. Congress and earned a reputation as a talented and persuasive legislator. His presidency was marked by the passage of landmark civil rights legislation, the creation of Great Society programs such as Medicare and Medicaid, and a significant escalation in U.S. involvement in the Vietnam War."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1942,
-   "text": "A riot involving infantrymen, military police, and local law enforcement officers killed three people in Phoenix, Arizona.",
+   "year": 1950,
+   "text": "Korean War: The Chinese People's Volunteer Army launched multiple attacks against United Nations forces, beginning the Battle of Chosin Reservoir.",
    "context": [
-    "On November 26, 1942, a riot occurred in Phoenix, Arizona, United States, involving United States Army infantrymen, military police, and members of the Phoenix Police Department. The incident left three people dead and approximately a dozen injured."
+    "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC)."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1942,
-   "text": "Casablanca, starring Humphrey Bogart and Ingrid Bergman, premiered at the Hollywood Theatre in New York City to coincide with the Allied invasion of French North Africa and the capture of Casablanca.",
+   "year": 1945,
+   "text": "A consortium of twenty-two U.S. charities founded CARE with the mission of delivering food aid to Europe in the aftermath of World War II.",
    "context": [
-    "Casablanca is a 1942 American romantic drama film directed by Michael Curtiz and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid. Filmed and set during World War II, it focuses on an American expatriate (Bogart) who must choose between his love for a woman (Bergman) and helping her husband (Henreid), a Czechoslovak resistance leader, escape from the Vichy-controlled city of Casablanca to continue his fight against the Nazis. The screenplay is based on Everybody Comes to Rick's, an unproduced stage play by Murray Burnett and Joan Alison. The supporting cast features Claude Rains, Conrad Veidt, Sydney Greenstreet, Peter Lorre, and Dooley Wilson."
+    "CARE is a major international humanitarian agency delivering emergency relief and long-term international development projects. Founded in 1945, CARE is nonsectarian, impartial, and non-governmental. It is one of the largest and oldest humanitarian aid organizations focused on fighting global poverty. In 2019, CARE reported working in 104 countries, supporting 1,349 poverty-fighting projects and humanitarian aid projects, and reaching over 92.3 million people directly and 433.3 million people indirectly."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1942,
-   "text": "World War II: The first meeting of the Anti-Fascist Council for the National Liberation of Yugoslavia was convened at Bihać in northwestern Bosnia.",
+   "year": 1944,
+   "text": "Between 3,500 and 4,000 tonnes of ordnance exploded at the RAF Fauld underground munitions storage depot in the largest non-nuclear explosion in the United Kingdom.",
+   "context": [
+    "The RAF Fauld explosion occurred during the Second World War at the RAF Fauld underground munitions storage depot in Staffordshire, England at 11:11 am on Monday, 27 November 1944. The blast, which was one of the largest non-nuclear explosions in history, detonated between 3,500 and 4,000 tonnes of high explosive military ordnance. It created an explosion crater with a depth of 100 feet (30 m) and a maximum width of 1,007 feet (307 m)."
+   ]
+  },
+  {
+   "ref": "wikipedia#10",
+   "year": 1943,
+   "text": "World War II: Australian forces began the Battle of Wareo by conducting clearing operations between Bonga and North Hill.",
    "context": [
     "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
-   "ref": "wikipedia#10",
-   "year": 1940,
-   "text": "The Iron Guard killed 64 political detainees at a penitentiary near Bucharest and followed up with several high-profile assassinations, including that of former Romanian prime minister Nicolae Iorga.",
-   "context": [
-    "The Iron Guard was a far-right, revolutionary, fascist paramilitary organization and political party active in the Kingdom of Romania during the interwar period and the Second World War. Founded in 1927 by Corneliu Zelea Codreanu as the Legion of the Archangel Michael or the Legionary Movement, the movement was strongly anti-democratic, anti-communist, and antisemitic, and its ideology inspired both political violence and forms of Christian terrorism. It differed from other European far-right movements of the period due to its spiritual basis, as the Iron Guard was deeply imbued with Romanian Orthodox Christian mysticism."
-   ]
-  },
-  {
    "ref": "wikipedia#11",
-   "year": 1939,
-   "text": "The Soviet Red Army shelled the village of Mainila and then claimed that the fire originated from Finland, giving them a casus belli to launch the Winter War a few days later.",
+   "year": 1895,
+   "text": "Swedish chemist and industrialist Alfred Nobel (pictured) signed his last will and testament, setting aside the bulk of his estate to establish the Nobel Prize after his death.",
    "context": [
-    "The Workers' and Peasants' Red Army, often referred by its shortened name as the Red Army, was the army and air force of the Russian Soviet Republic and, from 1922, the Soviet Union. The army was established in January 1918 by a decree of the Council of People's Commissars to oppose the military forces of the new nation's adversaries during the Russian Civil War, especially the various groups collectively known as the White Army. In February 1946, the Red Army was renamed the \"Soviet Army\". Following the dissolution of the Soviet Union, it was split between the post-Soviet states, with its bulk becoming the Russian Ground Forces, commonly considered to be the successor of the Soviet Army."
+    "Alfred Bernhard Nobel was a Swedish chemist, inventor, engineer, and businessman. Nobel is known for inventing dynamite, as well as having bequeathed his fortune to establish the Nobel Prizes. He worked on various important contributions and inventions to science, holding 355 patents during his life."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1921,
-   "text": "The Bolshevik–Makhnovist conflict resumes with a surprise attack by the Red Army against the Makhnovshchina.",
+   "year": 1868,
+   "text": "American Indian Wars: George Armstrong Custer's 7th Cavalry Regiment attacked the encampment of Chief Black Kettle and the Cheyenne on the Washita River near present-day Cheyenne, Oklahoma.",
    "context": [
-    "The Bolshevik–Makhnovist conflict was a period of political and military conflict between the Ukrainian Soviet Socialist Republic and the Makhnovshchina, for control over southern Ukraine. The Bolsheviks aimed to eliminate the Makhnovshchina and neutralise its peasant base. In turn, the Makhnovists fought against the implementation of the Red Terror and the policy of war communism."
+    "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, Confederate States and Republic of Texas against various American Indian tribes in North America. These conflicts occurred from the time of the earliest European colonial settlements in the 17th century until the end of the 19th century. The various conflicts resulted from a wide variety of factors, the most common being the desire of settlers and governments for tribal lands. The European powers and their colonies enlisted allied American Indian tribes to help them conduct warfare against each other's colonial settlements. After the American Revolution, many conflicts were local to specific states or regions and frequently involved disputes over land use; many involved retaliatory violence."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1917,
-   "text": "Being unable to resolve disputes with Eddie Livingstone, owner of the Toronto Blueshirts, the other ice hockey clubs of Canada's National Hockey Association officially agreed to break away and form the National Hockey League.",
+   "year": 1856,
+   "text": "William III (pictured) unilaterally revised the constitution of Luxembourg, greatly expanding his powers as grand duke.",
    "context": [
-    "Edward James Livingstone was a Canadian sports team owner and manager. He was the principal owner of the Toronto Shamrocks and the Toronto Blueshirts professional ice hockey clubs of the National Hockey Association (NHA), where his battles with his fellow owners led them to create the National Hockey League."
+    "William III was King of the Netherlands and Grand Duke of Luxembourg from 1849 until his death in 1890, and was also the Duke of Limburg from 1849 until the abolition of the duchy in 1866. Having reigned for 41 years, he is the second-longest reigning Dutch monarch, only surpassed by his daughter, Wilhelmina."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1914,
-   "text": "A large internal explosion destroyed HMS Bulwark near Sheerness, killing 741 people on board.",
+   "year": 1835,
+   "text": "James Pratt and John Smith became the last people to be executed in England for sodomy.",
    "context": [
-    "HMS Bulwark was one of five London-class pre-dreadnought battleships built for the Royal Navy at the end of the 19th century. The Londons were a sub-class of the Formidable-class pre-dreadnoughts. Completed in 1902 she was initially assigned to the Mediterranean Fleet as its flagship. The ship then served with the Channel and Home Fleets from 1907 to 1910, usually as a flagship. From 1910 to 1914, she was in reserve in the Home Fleet."
+    "James Pratt (1805–1835), also known as John Pratt, and John Smith (1795–1835) were two British men who, in November 1835, became the last people to be executed for sodomy in England. Pratt and Smith were arrested in August of that year after allegedly having \"carnal knowledge\" of each other in a room rented by another man, William Bonill. Bonill was not present when this took place, but was nevertheless convicted of being an accessory and was transported to Australia, where he died."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1852,
-   "text": "A massive earthquake struck the Dutch East Indies, creating a tsunami that washed away villages, ships and residents.",
+   "year": 1703,
+   "text": "The great storm of 1703, one of the most severe storms to strike southern Great Britain, destroyed the first Eddystone Lighthouse off Plymouth.",
    "context": [
-    "The 1852 Banda Sea earthquake struck on 26 November at 07:40 local time, affecting coastal communities on the Banda Islands. It caused violent shaking lasting five minutes, and was assigned XI on the Modified Mercalli intensity scale in the Maluku Islands. A tsunami measuring up to 8 m (26 ft) slammed into the islands of Banda Neira, Saparua, Haruku and Ceram. The tsunami caused major damage, washing away many villages, ships and residents. At least 60 people were killed in the earthquake and tsunami. The earthquake had an estimated moment magnitude of 7.5 or 8.4–8.8, according to various academic studies."
+    "The Great storm of 1703 was a destructive extratropical cyclone that struck south Wales and central and southern England on 26 November 1703. High winds caused 2,000 chimney stacks to collapse in London and damaged the New Forest, which lost 4,000 oaks. Ships were blown hundreds of miles off-course, and over 1,000 seamen died on the Goodwin Sands alone. News bulletins of casualties and damage were sold all over England and Wales – a novelty at that time. The Church of England declared that the storm was God's vengeance for the sins of the nation."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1851,
-   "text": "The French navy bombarded the city of Salé, Morocco, damaging its infrastructure and the Great Mosque of Salé.",
+   "year": 1161,
+   "text": "Jin–Song wars: A Song fleet, equiped with trebuchets that launched incendiary bombs, defeated Jin ships in a naval engagement on the Yangtze River.",
    "context": [
-    "The Bombardment of Salé was a French naval attack against the Moroccan city of Salé that took place between 26 and 27 November 1851. After seven hours of fighting, the Moroccan artillery suffered severe damage, and the French bombarded the city through the night, damaging the city's infrastructure and the Great Mosque of Salé."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1842,
-   "text": "The University of Notre Dame (building pictured) was founded by Edward Sorin of the Congregation of Holy Cross as an all-male institution in the U.S. state of Indiana.",
-   "context": [
-    "The University of Notre Dame du Lac is a private Catholic research university in Notre Dame, Indiana, United States. The university was founded in 1842 by members of the Congregation of Holy Cross, a Catholic religious order of priests and brothers. Its main campus covers 1,261 acres in a suburban setting and has landmarks such as the Golden Dome main building, Sacred Heart Basilica, the Grotto of Our Lady of Lourdes, the Word of Life mosaic mural, and Notre Dame Stadium."
-   ]
-  },
-  {
-   "ref": "wikipedia#18",
-   "year": 1835,
-   "text": "Texas Revolution: Texian forces attacked a Mexican pack train, capturing 40 saddlebags of grass.",
-   "context": [
-    "The Texas Revolution was a rebellion by Anglo-American immigrants as well as Hispanic Texans against the centralist government of Mexico in the Mexican state of Coahuila y Tejas. Although the uprising was part of a larger revolt that included other provinces opposed to the regime of President Miguel Barragán and General Antonio López de Santa Anna, the Mexican government believed the United States had instigated the Texas insurrection with the goal of annexation. The Mexican Congress passed the Tornel Decree, declaring that any foreigners fighting against Mexican troops \"will be deemed pirates and dealt with as such, being citizens of no nation presently at war with the Republic and fighting under no recognized flag\". Only the province of Texas succeeded in breaking with Mexico, establishing the Republic of Texas. It was eventually annexed by the United States about a decade later."
+    "The Jin–Song Wars were a series of conflicts between the Jurchen-led Jin dynasty (1115–1234) and the Han-led Song dynasty (960–1279). In 1115, Jurchen tribes rebelled against their overlords, the Khitan-led Liao dynasty (916–1125), and declared the formation of the Jin. Allying with the Song against their common enemy the Liao dynasty, the Jin promised to cede to the Song the Sixteen Prefectures that had fallen under Liao control since 938. The Song agreed but the Jin's quick defeat of the Liao combined with Song military failures made the Jin reluctant to cede territory. After a series of negotiations that embittered both sides, the Jurchens attacked the Song in 1125, dispatching one army to Taiyuan and the other to Bianjing, the Song capital."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Poison pill (גלולת רעל)",
+  "War chest (קופת מלחמה)",
+  "Herding cats (לרכז חתולים)",
   "Shrinkflation (כיווץ אינפלציוני)",
   "Due diligence (בדיקת נאותות)",
   "Scorched-earth strategy (אסטרטגיית אדמה חרוכה)",
@@ -262,10 +249,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Throwing spaghetti at the wall (לזרוק ספגטי על הקיר)",
   "Total addressable market / TAM (פוטנציאל שוק כולל)",
   "Circular financing / circular deal (מימון מעגלי)",
-  "Paper tiger (נמר של ניר)",
-  "Clawback (קלובק)",
-  "In the black / in the red (ברווח / בגירעון)",
-  "Eating someone's lunch (לאכול למישהו את הארוחה)"
+  "Paper tiger (נמר של ניר)"
  ]
 }
 </input>
