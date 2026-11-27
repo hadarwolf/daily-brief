@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Russia - AP News",
-     "published": "2026-11-27T10:31:54+00:00",
-     "summary": "Russia AP News"
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-11-27T10:51:14+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "New York City - AP News",
+     "published": "2026-11-27T10:51:13+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Middle East News | Latest News From The Middle East Today - AP News",
+     "published": "2026-11-27T10:51:12+00:00",
+     "summary": "Middle East News | Latest News From The Middle East Today AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Bayern injury crisis bites with Michael Olise joining Harry Kane on injured forwards list - AP News",
+     "published": "2026-11-27T10:42:00+00:00",
+     "summary": "Bayern injury crisis bites with Michael Olise joining Harry Kane on injured forwards list AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "MotoGP champion Marc Marquez announces retirement days after winning eighth title - AP News",
+     "published": "2026-11-27T10:40:00+00:00",
+     "summary": "MotoGP champion Marc Marquez announces retirement days after winning eighth title AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "South America - AP News",
      "published": "2026-11-27T10:14:53+00:00",
      "summary": "South America AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#6",
+     "title": "AP News Search - AP News",
+     "published": "2026-11-27T10:09:35+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "College Basketball News: Rankings, Scores, Stats & More - AP News",
      "published": "2026-11-27T10:08:53+00:00",
      "summary": "College Basketball News: Rankings, Scores, Stats & More AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#8",
      "title": "My Fan Picks - AP News",
      "published": "2026-11-27T10:08:53+00:00",
      "summary": "My Fan Picks AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-11-27T10:08:52+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#9",
      "title": "Africa News Reports | Latest News in Africa - AP News",
      "published": "2026-11-27T10:03:08+00:00",
      "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#10",
      "title": "Central America - AP News",
      "published": "2026-11-27T10:03:07+00:00",
      "summary": "Central America AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#11",
      "title": "War and unrest - AP News",
      "published": "2026-11-27T10:03:06+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#12",
      "title": "Soccer - AP News",
      "published": "2026-11-27T09:55:30+00:00",
      "summary": "Soccer AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#13",
      "title": "Texas - AP News",
      "published": "2026-11-27T09:55:30+00:00",
      "summary": "Texas AP News"
     },
     {
-     "ref": "ap_world#10",
-     "title": "2026 World Cup schedule and results - AP News",
-     "published": "2026-11-27T09:55:27+00:00",
-     "summary": "2026 World Cup schedule and results AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "Spain - AP News",
-     "published": "2026-11-27T09:49:55+00:00",
-     "summary": "Spain AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "AP News Search - AP News",
-     "published": "2026-11-27T09:49:55+00:00",
-     "summary": "AP News Search AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "New York City - AP News",
-     "published": "2026-11-27T09:49:51+00:00",
-     "summary": "New York City AP News"
-    },
-    {
      "ref": "ap_world#14",
+     "title": "New York - AP News",
+     "published": "2026-11-27T09:55:29+00:00",
+     "summary": "New York AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "Violence - AP News",
+     "published": "2026-11-27T09:55:29+00:00",
+     "summary": "Violence AP News"
+    },
+    {
+     "ref": "ap_world#16",
      "title": "McNeese visits Louisiana after Keller’s 20-point performance - AP News",
      "published": "2026-11-27T09:42:00+00:00",
      "summary": "McNeese visits Louisiana after Keller’s 20-point performance AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Wofford visits Purdue Fort Wayne following Sisk’s 22-point outing - AP News",
      "published": "2026-11-27T09:42:00+00:00",
      "summary": "Wofford visits Purdue Fort Wayne following Sisk’s 22-point outing AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "Boston College faces Cincinnati - AP News",
-     "published": "2026-11-27T09:42:00+00:00",
-     "summary": "Boston College faces Cincinnati AP News"
-    },
-    {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
      "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault - AP News",
      "published": "2026-11-27T09:38:00+00:00",
      "summary": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "South Asia - AP News",
      "published": "2026-11-27T09:14:53+00:00",
      "summary": "South Asia AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-11-27T09:14:39+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
      "ref": "ap_world#20",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-27T09:07:59+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+     "title": "El Salvador - AP News",
+     "published": "2026-11-27T09:13:46+00:00",
+     "summary": "El Salvador AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Mexico - AP News",
-     "published": "2026-11-27T09:07:58+00:00",
-     "summary": "Mexico AP News"
-    },
-    {
-     "ref": "ap_world#22",
      "title": "Immigration - AP News",
      "published": "2026-11-27T09:01:08+00:00",
      "summary": "Immigration AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#22",
      "title": "Global shares mostly rise ahead of Wall Street’s reopening after Thanksgiving - AP News",
      "published": "2026-11-27T08:58:00+00:00",
      "summary": "Global shares mostly rise ahead of Wall Street’s reopening after Thanksgiving AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#23",
      "title": "College Football Full FBS Schedule - AP News",
      "published": "2026-11-27T08:55:43+00:00",
      "summary": "College Football Full FBS Schedule AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "2026 World Cup schedule and results - AP News",
+     "published": "2026-11-27T08:53:48+00:00",
+     "summary": "2026 World Cup schedule and results AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+     "published": "2026-11-27T10:39:31+00:00",
+     "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Ex media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+     "published": "2026-11-27T10:28:35+00:00",
+     "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed."
+    },
+    {
+     "ref": "bbc_world#2",
      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
      "published": "2026-11-27T10:26:28+00:00",
      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#3",
+     "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+     "published": "2026-11-27T10:01:07+00:00",
+     "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say."
+    },
+    {
+     "ref": "bbc_world#4",
      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
      "published": "2026-11-27T09:07:48+00:00",
      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#5",
      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
      "published": "2026-11-27T08:58:08+00:00",
      "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#6",
      "title": "Millions of wives in South Asia unprotected from marital rape - study",
      "published": "2026-11-27T08:13:43+00:00",
      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#7",
+     "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+     "published": "2026-11-27T07:28:10+00:00",
+     "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home."
+    },
+    {
+     "ref": "bbc_world#8",
+     "title": "EU leaders fail to bridge budget splits as talks stall",
+     "published": "2026-11-27T06:11:55+00:00",
+     "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year."
+    },
+    {
+     "ref": "bbc_world#9",
      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
      "published": "2026-11-27T06:09:31+00:00",
      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#10",
      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
      "published": "2026-11-27T06:04:51+00:00",
      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#11",
+     "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+     "published": "2026-11-27T06:03:39+00:00",
+     "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign."
+    },
+    {
+     "ref": "bbc_world#12",
+     "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+     "published": "2026-11-27T05:54:38+00:00",
+     "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023."
+    },
+    {
+     "ref": "bbc_world#13",
+     "title": "Venezuela to scrap law that bars opposition from public office",
+     "published": "2026-11-27T05:35:10+00:00",
+     "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago."
+    },
+    {
+     "ref": "bbc_world#14",
      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
      "published": "2026-11-27T05:15:26+00:00",
      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#15",
      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
      "published": "2026-11-27T03:28:15+00:00",
      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#16",
      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
      "published": "2026-11-27T00:48:11+00:00",
      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#17",
      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
      "published": "2026-11-27T00:47:43+00:00",
      "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#18",
      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
      "published": "2026-11-26T23:03:16+00:00",
      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#19",
      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
      "published": "2026-11-26T22:06:20+00:00",
      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#20",
      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
      "published": "2026-11-26T22:01:22+00:00",
      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#21",
      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
      "published": "2026-11-26T21:17:53+00:00",
      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#22",
      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
      "published": "2026-11-26T19:26:16+00:00",
      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#23",
      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
      "published": "2026-11-26T16:21:19+00:00",
      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#24",
      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
      "published": "2026-11-26T14:44:26+00:00",
      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
-    },
-    {
-     "ref": "bbc_world#17",
-     "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-     "published": "2026-11-26T14:35:22+00:00",
-     "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges."
-    },
-    {
-     "ref": "bbc_world#18",
-     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-     "published": "2026-11-26T12:33:23+00:00",
-     "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\"."
-    },
-    {
-     "ref": "bbc_world#19",
-     "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-     "published": "2026-11-26T12:16:06+00:00",
-     "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic."
-    },
-    {
-     "ref": "bbc_world#20",
-     "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-     "published": "2026-11-26T11:00:39+00:00",
-     "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection."
-    },
-    {
-     "ref": "bbc_world#21",
-     "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-     "published": "2026-11-26T10:25:51+00:00",
-     "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority."
-    },
-    {
-     "ref": "bbc_world#22",
-     "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-     "published": "2026-11-26T10:14:08+00:00",
-     "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets."
-    },
-    {
-     "ref": "bbc_world#23",
-     "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-     "published": "2026-11-26T09:49:42+00:00",
-     "summary": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
-     "published": "2026-11-26T09:22:34+00:00",
-     "summary": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities."
     }
    ]
   },

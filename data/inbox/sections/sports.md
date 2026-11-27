@@ -83,19 +83,19 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-27T20:00:00Z",
-     "home": "Southampton",
-     "away": "Middlesbrough",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-27T20:00:00Z",
      "home": "Levante",
      "away": "Santander",
      "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-27T20:00:00Z",
+     "home": "Southampton",
+     "away": "Middlesbrough",
+     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -727,7 +727,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#2",
      "title": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 - FOX Sports",
-     "published": "2026-11-27T08:02:46+00:00",
+     "published": "2026-11-27T09:32:46+00:00",
      "summary": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 FOX Sports"
     },
     {
@@ -822,45 +822,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#18",
-     "title": "Inter Miami U12 vs Leones U12 live score, H2H and lineups - Sofascore",
-     "published": "2026-11-26T22:42:35+00:00",
-     "summary": "Inter Miami U12 vs Leones U12 live score, H2H and lineups Sofascore"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
      "title": "Suarez: The time for excuses is over for Miami - beIN SPORTS",
      "published": "2026-11-26T21:10:23+00:00",
      "summary": "Suarez: The time for excuses is over for Miami beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi in danger: What are Inter Miami’s chances of reaching the MLS playoff semifinals? - Diario AS",
      "published": "2026-11-26T20:18:44+00:00",
      "summary": "Lionel Messi in danger: What are Inter Miami’s chances of reaching the MLS playoff semifinals? Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Lionel Messi’s Inter Miami visit Columbus as Crew supporters’ group clashes with front office over Miami je... - World Soccer Talk",
      "published": "2026-11-26T19:43:49+00:00",
      "summary": "Lionel Messi’s Inter Miami visit Columbus as Crew supporters’ group clashes with front office over Miami je... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Cristiano Ronaldo’s 2026 goal tally looks impressive after reaching another major milestone until Lionel Me... - World Soccer Talk",
      "published": "2026-11-26T19:31:48+00:00",
      "summary": "Cristiano Ronaldo’s 2026 goal tally looks impressive after reaching another major milestone until Lionel Me... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "MATCH PREVIEW: Inter Miami CF Visits Columbus Crew for Game 2 of Best-of-3-Series - Inter Miami CF",
      "published": "2026-11-26T18:24:58+00:00",
      "summary": "MATCH PREVIEW: Inter Miami CF Visits Columbus Crew for Game 2 of Best-of-3-Series Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Columbus Crew vs. Inter Miami MLS Betting Odds, Picks: It's do-or-die for Lionel Messi's Herons - Sports Interaction",
      "published": "2026-11-26T18:08:09+00:00",
      "summary": "Columbus Crew vs. Inter Miami MLS Betting Odds, Picks: It's do-or-die for Lionel Messi's Herons Sports Interaction"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Columbus Crew v Inter Miami - Opta Predictor - SportyTV",
+     "published": "2026-11-26T18:04:00+00:00",
+     "summary": "Columbus Crew v Inter Miami - Opta Predictor SportyTV"
     }
    ]
   },
@@ -1014,9 +1014,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#24",
-     "title": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers - WUSA9",
+     "title": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers - localmemphis.com",
      "published": "2026-11-26T07:07:00+00:00",
-     "summary": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers WUSA9"
+     "summary": "SPURS POSTCAST: Wembanyama Drops 44 but Damian Lillard, Deni Avdija Power NBA Cup Win for Trail Blazers localmemphis.com"
     }
    ]
   }

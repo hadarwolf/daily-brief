@@ -173,12 +173,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "הישראלים שמאחורי היוניקורן שאנבידיה לא תאהב",
      "published": "2026-11-25T13:35:48+00:00",
      "summary": "אם חשבתם שסבב סיד של 10 או 15 מיליון דולר הוא אירוע חריג, כדאי שתכירו את Marlowe, סטארטאפ צעיר, שנחשף אתמול (ג') עם גיוסים בהיקף של 277 מיליון דולר, לפי שווי של 1.15 מיליארד דולר. מאחורי ההשקעה המטורפת הזו נמצאת נוכחות ישראלית מרשימה שכוללת כמה שמות מוכרים מאוד מהאקוסיסטם המקומי. בין היתר השקיע בחברה ליאור […] The post הישראלים שמאחורי היוניקורן שאנבידיה לא תאהב appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#10",
-     "title": "מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת",
-     "published": "2026-11-25T10:41:51+00:00",
-     "summary": "אם גם אתם מצאתם את עצמכם בוהים במסך ריק לפני כשבועיים ותוהים למה לעזאזל האאוטלוק שלכם לא זז או למה הטימס התנתק, תתנחמו בזה שאתם לא בצוותי ההנדסה של מיקרוסופט, כי מתברר שמאחורי הקלעים במיקרוסופט המצב מלחיץ הרבה יותר. מיילים פנימיים שהגיעו לרויטרס חושפים עכשיו שבעקבות התקלה שנמשכה 24 שעות, הכריזה מיקרוסופט על מצב חירום […] The post מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת appeared first on ג"
     }
    ]
   },
@@ -190,55 +184,55 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "The group chat where your AI talks behind your back",
      "published": "2026-11-27T06:44:34+00:00",
-     "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 262 # Comments: 107"
+     "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 271 # Comments: 110"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "The need for a formally verifiable mainstream programming language",
      "published": "2026-11-27T05:22:06+00:00",
-     "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 157 # Comments: 135"
+     "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 158 # Comments: 138"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Hard Drive pricing has gotten bad",
      "published": "2026-11-27T01:13:49+00:00",
-     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 361 # Comments: 266"
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 366 # Comments: 270"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "AI made self-hosting fun again",
      "published": "2026-11-26T21:47:45+00:00",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 715 # Comments: 352"
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 727 # Comments: 357"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "published": "2026-11-26T21:08:05+00:00",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 373 # Comments: 90"
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 374 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Company Culture = Slack Emoji ÷ √Headcount",
      "published": "2026-11-26T20:49:49+00:00",
-     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 364 # Comments: 174"
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 369 # Comments: 176"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "published": "2026-11-26T17:47:45+00:00",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 272 # Comments: 135"
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 272 # Comments: 136"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
      "published": "2026-11-26T17:36:47+00:00",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 409 # Comments: 471"
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 411 # Comments: 474"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "AMD-specific fork of llama.cpp",
      "published": "2026-11-26T17:11:29+00:00",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 364 # Comments: 87"
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 366 # Comments: 87"
     },
     {
      "ref": "hn_frontpage#9",
@@ -250,37 +244,37 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#10",
      "title": "Intel One Mono font (2023)",
      "published": "2026-11-26T10:11:01+00:00",
-     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 527 # Comments: 254"
+     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 528 # Comments: 255"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
      "published": "2026-11-26T09:44:23+00:00",
-     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 333 # Comments: 300"
+     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 335 # Comments: 301"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Moat: OpenRouter replacement",
      "published": "2026-11-26T06:32:48+00:00",
-     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 286 # Comments: 155"
+     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 288 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "An algebraic quantization of gravity from the null cone",
      "published": "2026-11-26T05:37:51+00:00",
-     "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 242 # Comments: 96"
+     "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 242 # Comments: 97"
     },
     {
      "ref": "hn_frontpage#14",
      "title": "The USAID Files",
      "published": "2026-11-25T23:15:52+00:00",
-     "summary": "Article URL: https://reclaimthenet.org/usaid-files Comments URL: https://news.ycombinator.com/item?id=50649040 Points: 257 # Comments: 326"
+     "summary": "Article URL: https://reclaimthenet.org/usaid-files Comments URL: https://news.ycombinator.com/item?id=50649040 Points: 258 # Comments: 331"
     },
     {
      "ref": "hn_frontpage#15",
      "title": "1Password Security Incident",
      "published": "2026-11-25T17:18:26+00:00",
-     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1667 # Comments: 715"
+     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1668 # Comments: 715"
     }
    ]
   },
@@ -416,63 +410,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
+     "title": "Our favorite headphones and earbuds are cheaper than ever ahead of Black Friday",
+     "published": "2026-11-27T10:30:00+00:00",
+     "summary": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony, Nothing, and other major brands are offering some of the best prices […]"
+    },
+    {
+     "ref": "the_verge#1",
      "title": "The absolute best Black Friday deals we’ve found (so far)",
      "published": "2026-11-27T09:35:30+00:00",
      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had […]"
     },
     {
-     "ref": "the_verge#1",
+     "ref": "the_verge#2",
      "title": "Netflix’s coziest show has made a very quiet return",
      "published": "2026-11-26T21:00:00+00:00",
      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]"
     },
     {
-     "ref": "the_verge#2",
+     "ref": "the_verge#3",
      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
      "published": "2026-11-26T19:00:00+00:00",
      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]"
     },
     {
-     "ref": "the_verge#3",
+     "ref": "the_verge#4",
      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
      "published": "2026-11-26T17:07:00+00:00",
      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]"
     },
     {
-     "ref": "the_verge#4",
+     "ref": "the_verge#5",
      "title": "Android app developers will soon have to share their address publicly",
      "published": "2026-11-26T17:06:24+00:00",
      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]"
     },
     {
-     "ref": "the_verge#5",
+     "ref": "the_verge#6",
      "title": "The best Black Friday deals we’ve already found",
      "published": "2026-11-26T16:55:00+00:00",
-     "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. […]"
+     "summary": "Black Friday is here, so we’re no longer updating this post, which focused on deals you could get ahead of the shopping event. Keep up with our latest posts right here. Original post follows below The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until […]"
     },
     {
-     "ref": "the_verge#6",
+     "ref": "the_verge#7",
      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
      "published": "2026-11-26T16:38:00+00:00",
      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]"
     },
     {
-     "ref": "the_verge#7",
+     "ref": "the_verge#8",
      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
      "published": "2026-11-26T16:00:00+00:00",
      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]"
     },
     {
-     "ref": "the_verge#8",
+     "ref": "the_verge#9",
      "title": "GTA VI developers vote against unionization",
      "published": "2026-11-26T15:55:24+00:00",
      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from […]"
-    },
-    {
-     "ref": "the_verge#9",
-     "title": "Why GTA VI’s version of Florida feels so real",
-     "published": "2026-11-26T15:00:00+00:00",
-     "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a bustling, real-world […]"
     }
    ]
   }
