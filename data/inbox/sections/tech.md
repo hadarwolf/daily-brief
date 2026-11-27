@@ -184,55 +184,55 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "The group chat where your AI talks behind your back",
      "published": "2026-11-27T06:44:34+00:00",
-     "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 271 # Comments: 110"
+     "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 293 # Comments: 123"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "The need for a formally verifiable mainstream programming language",
      "published": "2026-11-27T05:22:06+00:00",
-     "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 158 # Comments: 138"
+     "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 168 # Comments: 143"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Hard Drive pricing has gotten bad",
      "published": "2026-11-27T01:13:49+00:00",
-     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 366 # Comments: 270"
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 373 # Comments: 287"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "AI made self-hosting fun again",
      "published": "2026-11-26T21:47:45+00:00",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 727 # Comments: 357"
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 746 # Comments: 371"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "published": "2026-11-26T21:08:05+00:00",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 374 # Comments: 90"
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 376 # Comments: 92"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Company Culture = Slack Emoji ÷ √Headcount",
      "published": "2026-11-26T20:49:49+00:00",
-     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 369 # Comments: 176"
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 384 # Comments: 182"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "published": "2026-11-26T17:47:45+00:00",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 272 # Comments: 136"
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 275 # Comments: 138"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
      "published": "2026-11-26T17:36:47+00:00",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 411 # Comments: 474"
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 422 # Comments: 482"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "AMD-specific fork of llama.cpp",
      "published": "2026-11-26T17:11:29+00:00",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 366 # Comments: 87"
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 369 # Comments: 89"
     },
     {
      "ref": "hn_frontpage#9",
@@ -244,19 +244,19 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#10",
      "title": "Intel One Mono font (2023)",
      "published": "2026-11-26T10:11:01+00:00",
-     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 528 # Comments: 255"
+     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 530 # Comments: 257"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
      "published": "2026-11-26T09:44:23+00:00",
-     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 335 # Comments: 301"
+     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 338 # Comments: 303"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Moat: OpenRouter replacement",
      "published": "2026-11-26T06:32:48+00:00",
-     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 288 # Comments: 155"
+     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 291 # Comments: 156"
     },
     {
      "ref": "hn_frontpage#13",
@@ -268,13 +268,13 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#14",
      "title": "The USAID Files",
      "published": "2026-11-25T23:15:52+00:00",
-     "summary": "Article URL: https://reclaimthenet.org/usaid-files Comments URL: https://news.ycombinator.com/item?id=50649040 Points: 258 # Comments: 331"
+     "summary": "Article URL: https://reclaimthenet.org/usaid-files Comments URL: https://news.ycombinator.com/item?id=50649040 Points: 262 # Comments: 339"
     },
     {
      "ref": "hn_frontpage#15",
      "title": "1Password Security Incident",
      "published": "2026-11-25T17:18:26+00:00",
-     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1668 # Comments: 715"
+     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1670 # Comments: 715"
     }
    ]
   },
@@ -308,51 +308,51 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "mit_tech_review#0",
+     "title": "Our 2027 Innovators Under 35 competition is now open",
+     "published": "2026-11-27T10:48:47+00:00",
+     "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations. We’re on the hunt for researchers and founders who are engineering solutions to some of…"
+    },
+    {
+     "ref": "mit_tech_review#1",
      "title": "Cutting-edge prosthetics allow researchers to probe the human mind",
      "published": "2026-11-27T10:00:00+00:00",
      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…"
     },
     {
-     "ref": "mit_tech_review#1",
+     "ref": "mit_tech_review#2",
      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
      "published": "2026-11-26T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest…"
     },
     {
-     "ref": "mit_tech_review#2",
+     "ref": "mit_tech_review#3",
      "title": "The next generation of bionic hands is here—and they can feel",
      "published": "2026-11-26T09:59:00+00:00",
      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…"
     },
     {
-     "ref": "mit_tech_review#3",
+     "ref": "mit_tech_review#4",
      "title": "How data centers are driving a US natural-gas boom",
      "published": "2026-11-25T17:00:00+00:00",
      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like…"
     },
     {
-     "ref": "mit_tech_review#4",
+     "ref": "mit_tech_review#5",
      "title": "The Download: AI swamping open records, and firefighting for permafrost",
      "published": "2026-11-25T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…"
     },
     {
-     "ref": "mit_tech_review#5",
+     "ref": "mit_tech_review#6",
      "title": "AI is straining America’s open records systems",
      "published": "2026-11-25T10:00:00+00:00",
      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…"
     },
     {
-     "ref": "mit_tech_review#6",
+     "ref": "mit_tech_review#7",
      "title": "The Download: AI’s gas power boom and a consciousness reality check",
      "published": "2026-11-24T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that…"
-    },
-    {
-     "ref": "mit_tech_review#7",
-     "title": "Data centers are getting their own natural gas power plants",
-     "published": "2026-11-24T11:00:00+00:00",
-     "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s…"
     }
    ]
   },
@@ -410,7 +410,7 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
-     "title": "Our favorite headphones and earbuds are cheaper than ever ahead of Black Friday",
+     "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
      "published": "2026-11-27T10:30:00+00:00",
      "summary": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony, Nothing, and other major brands are offering some of the best prices […]"
     },

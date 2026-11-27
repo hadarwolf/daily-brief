@@ -28,89 +28,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
-     "title": "Lina Ghotmeh: archaeology of the future",
-     "published": "2026-11-26T11:01:00+00:00",
-     "summary": "In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future - by Aeon Video Watch on Aeon",
+     "title": "The energy of thought",
+     "published": "2026-11-27T11:00:00+00:00",
+     "summary": "We have an astonishing number of models of how the mind works. All of them neglect something essential - by David Colaço & Philipp Haueis Read on Aeon",
      "full_text_file": "essays/aeon_0.txt"
     },
     {
      "ref": "aeon#1",
-     "title": "The pretendian wars",
-     "published": "2026-11-26T11:00:00+00:00",
-     "summary": "To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher - by Dina Gilio-Whitaker Read on Aeon",
+     "title": "Lina Ghotmeh: archaeology of the future",
+     "published": "2026-11-26T11:01:00+00:00",
+     "summary": "In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future - by Aeon Video Watch on Aeon",
      "full_text_file": "essays/aeon_1.txt"
     },
     {
      "ref": "aeon#2",
+     "title": "The pretendian wars",
+     "published": "2026-11-26T11:00:00+00:00",
+     "summary": "To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher - by Dina Gilio-Whitaker Read on Aeon",
+     "full_text_file": "essays/aeon_2.txt"
+    },
+    {
+     "ref": "aeon#3",
      "title": "The passing",
      "published": "2026-11-25T11:01:00+00:00",
      "summary": "With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#4",
      "title": "Is mental illness universal?",
      "published": "2026-11-24T11:00:00+00:00",
      "summary": "Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific? - by Alexander Pereira Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#5",
      "title": "The wind and the song: the treachery of AI",
      "published": "2026-11-23T11:01:00+00:00",
      "summary": "As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#6",
      "title": "A colossal oscillation",
      "published": "2026-11-23T11:00:00+00:00",
      "summary": "El Niño has upended global weather, shaping the fate of societies, for millennia. Is this past a clue to a turbulent future? - by Dagomar Degroot Read on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#7",
      "title": "My grandmother was a seal",
      "published": "2026-11-20T11:00:00+00:00",
      "summary": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature - by Jordan Lee Borgman Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#8",
      "title": "Wunderkammer",
      "published": "2026-11-19T11:01:00+00:00",
      "summary": "Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#9",
      "title": "At least it remembers",
      "published": "2026-11-19T11:00:00+00:00",
      "summary": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#10",
      "title": "Dreams of birds",
      "published": "2026-11-18T11:01:00+00:00",
      "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#11",
      "title": "Catwalks and crackdowns",
      "published": "2026-11-17T11:00:00+00:00",
      "summary": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop. This is the ‘art of presence’ - by Parisa Khoshnami Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#12",
      "title": "The last klavern",
      "published": "2026-11-16T11:01:00+00:00",
      "summary": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#12",
+     "ref": "aeon#13",
      "title": "The horse made the state",
      "published": "2026-11-16T11:00:00+00:00",
      "summary": "Civilisation wasn’t made possible by grain, but by transportation – and the conquest it enabled, from the steppe to the sea - by Lhamsuren Munkh-Erdene Read on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Fugitive imagination",
-     "published": "2026-11-13T11:00:00+00:00",
-     "summary": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on Aeon"
     }
    ]
   },
@@ -184,8 +185,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "marginal_revolution#6",
      "title": "My excellent Conversation with Moxie Marlinspike of Signal",
      "published": "2026-11-26T05:56:51+00:00",
-     "summary": "Here is the audio, video, and transcript. From the episode summary: Tyler and Moxie discuss whether AI could break cryptography, Marlinspike’s own private AI chat service, his case for surveilling AI models instead of the humans using them, his skepticism of airport facial recognition, the case he tentatively makes for consent-based over centralized surveillance, why […] The post My excellent Conv",
-     "full_text_file": "essays/marginal_revolution_6.txt"
+     "summary": "Here is the audio, video, and transcript. From the episode summary: Tyler and Moxie discuss whether AI could break cryptography, Marlinspike’s own private AI chat service, his case for surveilling AI models instead of the humans using them, his skepticism of airport facial recognition, the case he tentatively makes for consent-based over centralized surveillance, why […] The post My excellent Conv"
     },
     {
      "ref": "marginal_revolution#7",
@@ -231,77 +231,77 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "There and back",
-     "published": "2026-11-26T11:00:00+00:00",
-     "summary": "A lost home lives on in spikes of joy and longing; it shifts in memory as life changes. But it’s never the same - by Pam Weintraub Read on Psyche",
-     "full_text_file": "essays/psyche_0.txt"
+     "title": "Liminal",
+     "published": "2026-11-27T11:01:00+00:00",
+     "summary": "Far from home, injured Ukrainians soldiers learn how to be in their bodies once again, and how to inhabit the world - Directed by Brennan Vance Watch on Psyche"
     },
     {
      "ref": "psyche#1",
-     "title": "What exile was like for the first people called ‘refugees’",
-     "published": "2026-11-26T11:00:00+00:00",
-     "summary": "Persecuted in 17th-century France, the Huguenots fled their homeland. Their memoirs reveal how they suffered and survived - by Nora Baker Read on Psyche",
+     "title": "Fairuz in the morning and Umm Kulthum at night",
+     "published": "2026-11-27T11:00:00+00:00",
+     "summary": "Back home in Palestine, my grandparents’ music drove me mad. Now I’m in the US, I’m the one singing along - by Elissa Odeh Read on Psyche",
      "full_text_file": "essays/psyche_1.txt"
     },
     {
      "ref": "psyche#2",
+     "title": "There and back",
+     "published": "2026-11-26T11:00:00+00:00",
+     "summary": "A lost home lives on in spikes of joy and longing; it shifts in memory as life changes. But it’s never the same - by Pam Weintraub Read on Psyche",
+     "full_text_file": "essays/psyche_2.txt"
+    },
+    {
+     "ref": "psyche#3",
+     "title": "What exile was like for the first people called ‘refugees’",
+     "published": "2026-11-26T11:00:00+00:00",
+     "summary": "Persecuted in 17th-century France, the Huguenots fled their homeland. Their memoirs reveal how they suffered and survived - by Nora Baker Read on Psyche"
+    },
+    {
+     "ref": "psyche#4",
      "title": "Alone-together in Karachi",
      "published": "2026-11-25T11:00:00+00:00",
      "summary": "Here, women pass from father to husband, like property. My friend and I rented our own apartment instead - by Sadia Khatri Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#5",
      "title": "Feeling at home in a new country makes you a stranger in the old",
      "published": "2026-11-24T11:00:00+00:00",
      "summary": "A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic - by Iuri Portalegre Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#6",
      "title": "Learning to leave",
      "published": "2026-11-23T11:00:00+00:00",
      "summary": "My dog’s separation anxiety kept me housebound. To help him, I had to face my own fears of leaving - by Tracy Strauss Read on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#7",
      "title": "The end of Xanadu",
      "published": "2026-11-20T11:00:00+00:00",
      "summary": "The house my father built taught me to expect disaster. Seeing it come down was a release - by Henrick Karoliszyn Read on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#8",
      "title": "Traces of home",
      "published": "2026-11-18T11:00:00+00:00",
      "summary": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani Read on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#9",
      "title": "The cultural rules that define us take shape in our homes",
      "published": "2026-11-17T11:00:00+00:00",
      "summary": "The physical space of the home says a lot about how people learn to live. This becomes even clearer when you travel - by Oliver Sweet Read on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#10",
      "title": "Against the tide",
      "published": "2026-11-16T11:01:00+00:00",
      "summary": "After a breakup, Gill contemplates a new, off-grid life on a remote Scottish island. Will the community accept her? - Directed by Giulia Candussi Watch on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#11",
      "title": "After Ma and Pa",
      "published": "2026-11-16T11:00:00+00:00",
      "summary": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go? - by Susan Hornik Read on Psyche"
-    },
-    {
-     "ref": "psyche#10",
-     "title": "The power of group thought",
-     "published": "2026-11-13T11:01:00+00:00",
-     "summary": "Are groups smarter than the sum of their parts? What homing pigeons’ flight paths can teach us about ‘weighted democracy’ - Video by The Well and the John Templeton Foundation Watch on Psyche"
-    },
-    {
-     "ref": "psyche#11",
-     "title": "My friend, my witness",
-     "published": "2026-11-13T11:00:00+00:00",
-     "summary": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche"
     }
    ]
   },

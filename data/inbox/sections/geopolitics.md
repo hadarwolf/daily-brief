@@ -19,152 +19,152 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-11-27T10:51:14+00:00",
+     "published": "2026-11-27T11:20:02+00:00",
      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Middle East News | Latest News From The Middle East Today - AP News",
+     "published": "2026-11-27T11:17:25+00:00",
+     "summary": "Middle East News | Latest News From The Middle East Today AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "South Asia - AP News",
+     "published": "2026-11-27T11:15:11+00:00",
+     "summary": "South Asia AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "South America - AP News",
+     "published": "2026-11-27T11:15:10+00:00",
+     "summary": "South America AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "College Basketball News: Rankings, Scores, Stats & More - AP News",
+     "published": "2026-11-27T11:09:14+00:00",
+     "summary": "College Basketball News: Rankings, Scores, Stats & More AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "My Fan Picks - AP News",
+     "published": "2026-11-27T11:09:14+00:00",
+     "summary": "My Fan Picks AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Central America - AP News",
+     "published": "2026-11-27T11:03:02+00:00",
+     "summary": "Central America AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Military and defense - AP News",
+     "published": "2026-11-27T11:03:00+00:00",
+     "summary": "Military and defense AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Asia Pacific - AP News",
+     "published": "2026-11-27T11:03:00+00:00",
+     "summary": "Asia Pacific AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-27T11:02:59+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "College Football Full FBS Schedule - AP News",
+     "published": "2026-11-27T10:56:54+00:00",
+     "summary": "College Football Full FBS Schedule AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Texas - AP News",
+     "published": "2026-11-27T10:56:03+00:00",
+     "summary": "Texas AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Soccer - AP News",
+     "published": "2026-11-27T10:56:02+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "New York City - AP News",
      "published": "2026-11-27T10:51:13+00:00",
      "summary": "New York City AP News"
     },
     {
-     "ref": "ap_world#2",
-     "title": "Middle East News | Latest News From The Middle East Today - AP News",
-     "published": "2026-11-27T10:51:12+00:00",
-     "summary": "Middle East News | Latest News From The Middle East Today AP News"
-    },
-    {
-     "ref": "ap_world#3",
+     "ref": "ap_world#14",
      "title": "Bayern injury crisis bites with Michael Olise joining Harry Kane on injured forwards list - AP News",
      "published": "2026-11-27T10:42:00+00:00",
      "summary": "Bayern injury crisis bites with Michael Olise joining Harry Kane on injured forwards list AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#15",
      "title": "MotoGP champion Marc Marquez announces retirement days after winning eighth title - AP News",
      "published": "2026-11-27T10:40:00+00:00",
      "summary": "MotoGP champion Marc Marquez announces retirement days after winning eighth title AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "South America - AP News",
-     "published": "2026-11-27T10:14:53+00:00",
-     "summary": "South America AP News"
+     "ref": "ap_world#16",
+     "title": "European Union - AP News",
+     "published": "2026-11-27T10:27:18+00:00",
+     "summary": "European Union AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#17",
+     "title": "El Salvador - AP News",
+     "published": "2026-11-27T10:12:59+00:00",
+     "summary": "El Salvador AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "AP News Search - AP News",
      "published": "2026-11-27T10:09:35+00:00",
      "summary": "AP News Search AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "College Basketball News: Rankings, Scores, Stats & More - AP News",
-     "published": "2026-11-27T10:08:53+00:00",
-     "summary": "College Basketball News: Rankings, Scores, Stats & More AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "My Fan Picks - AP News",
-     "published": "2026-11-27T10:08:53+00:00",
-     "summary": "My Fan Picks AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "Africa News Reports | Latest News in Africa - AP News",
-     "published": "2026-11-27T10:03:08+00:00",
-     "summary": "Africa News Reports | Latest News in Africa AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "Central America - AP News",
-     "published": "2026-11-27T10:03:07+00:00",
-     "summary": "Central America AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "War and unrest - AP News",
-     "published": "2026-11-27T10:03:06+00:00",
-     "summary": "War and unrest AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "Soccer - AP News",
+     "ref": "ap_world#19",
+     "title": "Minnesota - AP News",
      "published": "2026-11-27T09:55:30+00:00",
-     "summary": "Soccer AP News"
+     "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "Texas - AP News",
-     "published": "2026-11-27T09:55:30+00:00",
-     "summary": "Texas AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "New York - AP News",
-     "published": "2026-11-27T09:55:29+00:00",
-     "summary": "New York AP News"
-    },
-    {
-     "ref": "ap_world#15",
+     "ref": "ap_world#20",
      "title": "Violence - AP News",
      "published": "2026-11-27T09:55:29+00:00",
      "summary": "Violence AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#21",
+     "title": "2026 World Cup schedule and results - AP News",
+     "published": "2026-11-27T09:55:27+00:00",
+     "summary": "2026 World Cup schedule and results AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-27T09:49:50+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#23",
      "title": "McNeese visits Louisiana after Keller’s 20-point performance - AP News",
      "published": "2026-11-27T09:42:00+00:00",
      "summary": "McNeese visits Louisiana after Keller’s 20-point performance AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "Wofford visits Purdue Fort Wayne following Sisk’s 22-point outing - AP News",
-     "published": "2026-11-27T09:42:00+00:00",
-     "summary": "Wofford visits Purdue Fort Wayne following Sisk’s 22-point outing AP News"
-    },
-    {
-     "ref": "ap_world#18",
+     "ref": "ap_world#24",
      "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault - AP News",
      "published": "2026-11-27T09:38:00+00:00",
      "summary": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "South Asia - AP News",
-     "published": "2026-11-27T09:14:53+00:00",
-     "summary": "South Asia AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "El Salvador - AP News",
-     "published": "2026-11-27T09:13:46+00:00",
-     "summary": "El Salvador AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Immigration - AP News",
-     "published": "2026-11-27T09:01:08+00:00",
-     "summary": "Immigration AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Global shares mostly rise ahead of Wall Street’s reopening after Thanksgiving - AP News",
-     "published": "2026-11-27T08:58:00+00:00",
-     "summary": "Global shares mostly rise ahead of Wall Street’s reopening after Thanksgiving AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "College Football Full FBS Schedule - AP News",
-     "published": "2026-11-27T08:55:43+00:00",
-     "summary": "College Football Full FBS Schedule AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "2026 World Cup schedule and results - AP News",
-     "published": "2026-11-27T08:53:48+00:00",
-     "summary": "2026 World Cup schedule and results AP News"
     }
    ]
   },
@@ -180,7 +180,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#1",
-     "title": "Ex media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+     "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
      "published": "2026-11-27T10:28:35+00:00",
      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed."
     },
@@ -402,153 +402,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Four Jehovah's Witnesses convicted of 'extremism' in Russian-annexed Crimea - Reuters",
-     "published": "2026-11-27T10:22:17+00:00",
-     "summary": "Four Jehovah's Witnesses convicted of 'extremism' in Russian-annexed Crimea Reuters"
+     "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
+     "published": "2026-11-27T11:19:22+00:00",
+     "summary": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform Reuters"
     },
     {
      "ref": "reuters_world#1",
+     "title": "Zambia central bank holds key rate as inflation expected to stay within target - Reuters",
+     "published": "2026-11-27T11:12:49+00:00",
+     "summary": "Zambia central bank holds key rate as inflation expected to stay within target Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "In Peru’s Callao, Fujimori’s war on crime meets a gritty reality - Reuters",
+     "published": "2026-11-27T11:04:09+00:00",
+     "summary": "In Peru’s Callao, Fujimori’s war on crime meets a gritty reality Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight - Reuters",
+     "published": "2026-11-27T10:50:41+00:00",
+     "summary": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Spain's Vox party leader Abascal nears power as election kingmaker - Reuters",
+     "published": "2026-11-27T10:47:44+00:00",
+     "summary": "Spain's Vox party leader Abascal nears power as election kingmaker Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "Downfall of Shanghai Party chief opens route to pinnacle of politics - Reuters",
      "published": "2026-11-27T10:17:22+00:00",
      "summary": "Downfall of Shanghai Party chief opens route to pinnacle of politics Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#6",
      "title": "Former government chief of China's Guangxi sentenced to death with reprieve over graft - Reuters",
      "published": "2026-11-27T10:01:23+00:00",
      "summary": "Former government chief of China's Guangxi sentenced to death with reprieve over graft Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#7",
      "title": "Dutch authorities seize critically endangered turtles at Schiphol airport - Reuters",
      "published": "2026-11-27T10:00:35+00:00",
      "summary": "Dutch authorities seize critically endangered turtles at Schiphol airport Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#8",
      "title": "Italian ex-police chief drawn into mafia probe defends his record in suicide note - Reuters",
      "published": "2026-11-27T09:37:52+00:00",
      "summary": "Italian ex-police chief drawn into mafia probe defends his record in suicide note Reuters"
     },
     {
-     "ref": "reuters_world#5",
-     "title": "Zambia's central bank maintains policy rate, says stance appropriate - Reuters",
-     "published": "2026-11-27T09:37:11+00:00",
-     "summary": "Zambia's central bank maintains policy rate, says stance appropriate Reuters"
-    },
-    {
-     "ref": "reuters_world#6",
-     "title": "Indian police rescue dozens of Indonesians, Malaysians from cyber fraud racket​ - Reuters",
-     "published": "2026-11-27T09:33:30+00:00",
-     "summary": "Indian police rescue dozens of Indonesians, Malaysians from cyber fraud racket​ Reuters"
-    },
-    {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Spain election: what the main parties are proposing - Reuters",
      "published": "2026-11-27T08:39:43+00:00",
      "summary": "Spain election: what the main parties are proposing Reuters"
     },
     {
-     "ref": "reuters_world#8",
-     "title": "Spain's Vox party leader Abascal nears power as election kingmaker - Reuters",
-     "published": "2026-11-27T08:17:57+00:00",
-     "summary": "Spain's Vox party leader Abascal nears power as election kingmaker Reuters"
+     "ref": "reuters_world#10",
+     "title": "French and Bulgarian leaders condemn fan violence in Marseille - Reuters",
+     "published": "2026-11-27T07:51:00+00:00",
+     "summary": "French and Bulgarian leaders condemn fan violence in Marseille Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Indian firms utilising only 20%-30% of free trade agreement benefits, RBI governor says - Reuters",
      "published": "2026-11-27T07:18:00+00:00",
      "summary": "Indian firms utilising only 20%-30% of free trade agreement benefits, RBI governor says Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Serbia's student movement yet to name prime minister as deadlines loom - Reuters",
      "published": "2026-11-27T07:04:00+00:00",
      "summary": "Serbia's student movement yet to name prime minister as deadlines loom Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "EXCLUSIVE: India's election body website flaw exposing voter data fixed after Reuters findings - Reuters",
      "published": "2026-11-27T06:58:00+00:00",
      "summary": "EXCLUSIVE: India's election body website flaw exposing voter data fixed after Reuters findings Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Philippine VP Duterte rules out resignation, braces for impeachment verdict - Reuters",
      "published": "2026-11-27T06:48:00+00:00",
      "summary": "Philippine VP Duterte rules out resignation, braces for impeachment verdict Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "China cabinet calls for greater role by 'national team' investors to steady sinking markets - Reuters",
      "published": "2026-11-27T06:32:00+00:00",
      "summary": "China cabinet calls for greater role by 'national team' investors to steady sinking markets Reuters"
     },
     {
-     "ref": "reuters_world#14",
-     "title": "AirAsia delays staff salary payments to end of month, internal email shows - Reuters",
+     "ref": "reuters_world#16",
+     "title": "AirAsia delays staff salary payments to end of month - Reuters",
      "published": "2026-11-27T06:24:00+00:00",
-     "summary": "AirAsia delays staff salary payments to end of month, internal email shows Reuters"
+     "summary": "AirAsia delays staff salary payments to end of month Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Taiwan local election campaigns enter final day; China sends warplanes - Reuters",
      "published": "2026-11-27T06:07:00+00:00",
      "summary": "Taiwan local election campaigns enter final day; China sends warplanes Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Poland's Russia-friendly party creates conundrum for conservatives ahead of 2027 vote - Reuters",
      "published": "2026-11-27T06:06:00+00:00",
      "summary": "Poland's Russia-friendly party creates conundrum for conservatives ahead of 2027 vote Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "How Sanofi's new CEO struck a rapid $41 billion deal for Insmed - Reuters",
      "published": "2026-11-27T06:03:00+00:00",
      "summary": "How Sanofi's new CEO struck a rapid $41 billion deal for Insmed Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Erdogan completes Turkey's ratification of Mecca defence pact - Reuters",
      "published": "2026-11-27T05:22:00+00:00",
      "summary": "Erdogan completes Turkey's ratification of Mecca defence pact Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "India-US trade deal is nearing completion, minister says - Reuters",
      "published": "2026-11-27T05:21:00+00:00",
      "summary": "India-US trade deal is nearing completion, minister says Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "Iran warns on Gulf military presence as South Korea readies expanded naval role - Reuters",
      "published": "2026-11-27T05:12:00+00:00",
      "summary": "Iran warns on Gulf military presence as South Korea readies expanded naval role Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "Drone briefly violates Latvian airspace, Latvian armed forces say - Reuters",
      "published": "2026-11-27T04:59:00+00:00",
      "summary": "Drone briefly violates Latvian airspace, Latvian armed forces say Reuters"
     },
     {
-     "ref": "reuters_world#22",
-     "title": "South Korea repatriates six North Koreans rescued from drifting boat - Reuters",
-     "published": "2026-11-27T04:44:00+00:00",
-     "summary": "South Korea repatriates six North Koreans rescued from drifting boat Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Conservatives would win election in Australia's second state, says poll - Reuters",
      "published": "2026-11-27T04:41:00+00:00",
      "summary": "Conservatives would win election in Australia's second state, says poll Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Chinese military tests new Taiwan landing tactics in coastal drills - Reuters",
-     "published": "2026-11-27T04:36:00+00:00",
-     "summary": "Chinese military tests new Taiwan landing tactics in coastal drills Reuters"
     }
    ]
   }

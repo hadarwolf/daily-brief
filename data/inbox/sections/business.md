@@ -18,87 +18,87 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Stock Bulls Stir Again After Weeks of AI Anxiety",
+     "published": "2026-11-27T11:16:37+00:00",
+     "summary": "Traders are making the case for a short-term rebound."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "New Serb Leadership Picks Academic Saicic to Run for President",
+     "published": "2026-11-27T11:11:46+00:00",
+     "summary": "Radomir Saicic, a tenured university professor who backed Serbia’s student-led movement that ousted longtime leader Aleksandar Vucic, will run for president in a popular vote next month."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "JSE Courts Dangote Refinery Secondary Listing in Expansion Push",
      "published": "2026-11-27T10:21:56+00:00",
      "summary": "Africa’s biggest stock exchange is working with Dangote Group to pave the way for a potential secondary listing of its giant oil refinery in Johannesburg, an outcome the bourse’s chief said would be the ideal next step after its landmark Nigerian initial public offering."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#3",
      "title": "Russia Extends Jet Fuel Export Ban to March on Refinery Attacks",
      "published": "2026-11-27T09:54:59+00:00",
      "summary": "Russia extended a ban on most jet fuel exports by four months through March to keep its domestic market supplied as Ukraine continues to attack the country’s refineries."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Rwanda Wins F1 Hosting Rights in Bet on Tourism",
      "published": "2026-11-27T09:54:26+00:00",
      "summary": "Rwanda has been chosen to host Formula 1’s return to Africa, beating competition from South Africa and Morocco. With the first Grand Prix planned for the early 2030s, the country is betting on a new circuit, airport and hotels to drive tourism, create jobs and boost its economy. But can the benefits justify the cost? On Bloomberg’s Next Africa, Jennifer Zabasajja speaks to Rwanda’s Sports Minister"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
      "published": "2026-11-27T09:53:15+00:00",
      "summary": "South Korea’s National Pension Service saw its assets shrink by about 202 trillion won ($151.4 billion) in the third quarter as a stock-market retreat eroded some of the out-sized gains accumulated earlier this year."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "Isabella Weber’s Vision for an Affordability Agenda",
      "published": "2026-11-27T09:00:22+00:00",
      "summary": "A conversation with the author of Anti-Fascist Economics."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
      "published": "2026-11-27T09:00:00+00:00",
      "summary": "The most important word in politics right now is affordability. It was a winning issue in the midterms for Democrats, and one of the reasons why people across Europe are out in the streets protesting: Food, housing, and energy are getting more expensive by the day. During the height of the pandemic, we talked a lot about inflation with Isabella Weber, and her on what governments can do to make lif"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
      "published": "2026-11-27T08:43:08+00:00",
      "summary": "Dubai stocks have erased all losses since the Iran war began, transforming from the Gulf’s biggest laggard into one of its best performers, driven by government support and resilient economic activity."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
      "published": "2026-11-27T08:36:16+00:00",
      "summary": "Chinese bank bond spreads are heading for their biggest monthly increase since September 2024, as debt strain at a major state-owned conglomerate ripples through the broader credit market."
     },
     {
-     "ref": "bloomberg_markets#8",
-     "title": "US Investors Will Have to Chase Rally: Market Analysis",
-     "published": "2026-11-27T08:22:28+00:00",
-     "summary": "Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "Hong Kong Dollar Hits Six-Month High as Funding Costs Climb",
-     "published": "2026-11-27T08:18:13+00:00",
-     "summary": "The Hong Kong dollar extended its rally to a six-month high, propelled by surging local borrowing costs and demand from investors snapping up the city’s equities amid a rally in Chinese stocks."
-    },
-    {
      "ref": "bloomberg_markets#10",
-     "title": "Qatar’s LNG Export Push Provides Lifeline to South Asian Buyers",
-     "published": "2026-11-27T08:16:09+00:00",
-     "summary": "Qatar’s efforts to export more liquefied natural gas through the Strait of Hormuz are already saving money for South Asia’s cash-strapped importers of the super-chilled fuel."
-    },
-    {
-     "ref": "bloomberg_markets#11",
      "title": "China Drives Biggest Stock Gain Since 2024 With Rare Midday Vow",
      "published": "2026-11-27T05:00:23+00:00",
      "summary": "Chinese authorities gave markets a boost with a rare midday statement pledging support, sending stocks to their best day in more than two years."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#11",
      "title": "Emerging Stocks Head for Biggest Weekly Gain Since June",
      "published": "2026-11-27T03:33:48+00:00",
      "summary": "Emerging-market stocks headed for their biggest weekly gain since June as investors piled back into technology shares after a recent selloff."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#12",
      "title": "Copper Surges the Most in 10 Months as Risk Appetite Returns",
      "published": "2026-11-27T03:33:07+00:00",
      "summary": "Copper surged the most since January, extending its rebound from an 11-month low as risk appetite returned after a rout fueled by concerns over the AI trade."
+    },
+    {
+     "ref": "bloomberg_markets#13",
+     "title": "Treasuries Dip on Weaker Demand for Havens as Stocks Rebound",
+     "published": "2026-11-27T02:43:08+00:00",
+     "summary": "Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets."
     },
     {
      "ref": "bloomberg_markets#14",
@@ -144,15 +144,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "French economy shrinks 0.2% in third quarter",
-     "published": "2026-11-27T09:43:53+00:00",
-     "summary": "Quarterly GDP reduction was worse than initially estimated"
+     "title": "US tech stocks set to jump at open as volatile trading takes hold",
+     "published": "2026-11-27T10:56:19+00:00",
+     "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings"
     },
     {
      "ref": "ft_home#1",
-     "title": "US tech stocks set to jump at open as volatile trading continues",
-     "published": "2026-11-27T09:17:19+00:00",
-     "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings"
+     "title": "French economy shrinks 0.2% in third quarter",
+     "published": "2026-11-27T09:43:53+00:00",
+     "summary": "Quarterly GDP reduction was worse than initially estimated"
     },
     {
      "ref": "ft_home#2",
@@ -211,7 +211,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "themarker#0",
      "title": "עליות של כ-1% באירופה; ירידה חדה ומפתיעה באינפלציה בצרפת ובספרד; SAP מתכננת קיצוצים",
-     "published": "2026-11-27T10:46:00+00:00",
+     "published": "2026-11-27T11:18:00+00:00",
      "summary": "מחירי הנפט עולים בעקבות מתקפה איראנית על כוויית ■ אסיה נסגרה בעליות בהובלת סיאול שקפתה ביותר מ-4%; אינפלציית הליבה ביפן טיפסה לשיא של 16 חודשים"
     },
     {
@@ -246,7 +246,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#6",
-     "title": "עליות בבורסה: מדדי תל אביב מוסיפים כ-2.8%, מניות האנרגיה מזנקות ב-6%",
+     "title": "העליות בבורסה התמתנו; פלרם קורסת ב-14%",
      "published": "2026-11-27T07:11:48+00:00",
      "summary": "אחרי העליות החזקות אתמול עם סגירת המסחר, המדדים המובילים ממשיכים לעלות ■ סקטור האנרגיה לוהט: נופר, דוראל ואנלייט קופצות במסחר ■ על רקע האופטימיות בזירה הפוליטית, שער הדולר יורד ל–3.29 שקלים"
     },
@@ -366,153 +366,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
+     "published": "2026-11-27T11:21:00+00:00",
+     "summary": "U.S. markets will reopen for a shorter session today, with all three major indexes standing to extend gains this week."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Fed’s Hawkish Stance Seen Supportive of Dollar",
      "published": "2026-11-27T10:49:00+00:00",
      "summary": "The dollar rose but the Federal Reserve still has a long way to go to get inflation back to its 2% target, Brown Brothers Harriman said."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
      "published": "2026-11-27T10:30:00+00:00",
      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Dubai’s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
      "published": "2026-11-27T10:16:00+00:00",
      "summary": "The index surpassed its closing level on Feb. 27, the last trading session before the war began. It has has gained nearly 14% so far this month."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
      "published": "2026-11-27T09:49:00+00:00",
      "summary": "Treasury yields climbed on Friday as markets reopened for a shortened session following the Thanksgiving holiday."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
      "published": "2026-11-27T09:49:00+00:00",
      "summary": "Precious-metal prices surged as investors returned to the AI trade and global stocks rebounded, boosting risk appetite and easing pressure on assets that had been sold to meet liquidity needs."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "Stock Futures Jump as AI Trade Set for Rebound",
      "published": "2026-11-27T09:34:00+00:00",
      "summary": "Nasdaq futures traded 2.7% higher, while contracts tied to the S&P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
      "published": "2026-11-27T09:12:00+00:00",
      "summary": "Oil prices rose with Brent crude above $97 a barrel as attacks on Gulf shipping and Saudi energy infrastructure kept the geopolitical risk premium high."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "European Stock Indexes Rise as Tech Rally Extends",
      "published": "2026-11-27T08:32:00+00:00",
      "summary": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "Eurozone Bond Yields Track Treasury Yields, Oil Prices Higher",
      "published": "2026-11-27T08:23:00+00:00",
      "summary": "Eurozone government bond yields rose on what was shaping up to be a busy day for issuance and data."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "Chinese Shares Lifted as Beijing Signals More Market Support",
      "published": "2026-11-27T07:22:00+00:00",
      "summary": "Authorities reiterated support for capital markets and vowed stabilization policies, amid increased volatility in global markets."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "Gold, Silver Rally as Market Sentiment Improves",
      "published": "2026-11-27T05:59:00+00:00",
      "summary": "Gold and silver prices rose sharply, likely supported by improving market sentiment as Asian equities and U.S. stock futures advanced."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "Asian Markets Rise as AI Sentiment Stabilizes",
      "published": "2026-11-27T05:53:00+00:00",
      "summary": "Asian markets tracked gains in U.S. stock futures as sentiment around artificial intelligence stabilized."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
      "published": "2026-11-27T05:14:00+00:00",
      "summary": "Australia will require liquefied natural gas exporters to reserve up to a fifth of their shipments for the domestic market to help lower power bills for local households and businesses."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
      "published": "2026-11-27T04:21:00+00:00",
      "summary": "Venture-capital firm Antler wants to grow the value of its portfolio to roughly $100 billion by 2027 as it continues hunting unicorns."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
      "published": "2026-11-26T19:55:00+00:00",
      "summary": "An ironworkers’ retirement plan is now fully funded, thanks largely to the U.S. stock market’s yearslong rally."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
      "published": "2026-11-26T19:05:00+00:00",
      "summary": "New York’s mayor discovers that city pensions depend on stock-market returns."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
      "published": "2026-11-26T18:10:00+00:00",
      "summary": "President Trump brought back Jensen Huang before investors could fully assess his value to the company."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "Gold Rises But Big Moves Seen as Unlikely for Now",
      "published": "2026-11-26T17:23:00+00:00",
      "summary": "Gold prices extend gains, with futures up 1% to $3,579.90 a troy ounce."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Euro Stays Slightly Higher After Europe Picks New ECB Chief",
      "published": "2026-11-26T15:12:00+00:00",
      "summary": "The euro rose slightly against the dollar after confirmation that Spain’s Pablo Hernandez de Cos is to be the next ECB president."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
      "published": "2026-11-26T13:01:00+00:00",
      "summary": "Stock futures extended a late rally from the previous session to trade higher with sentiment helped by an upward revision to third-quarter GDP."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "Health Care Roundup: Market Talk",
      "published": "2026-11-26T12:11:00+00:00",
      "summary": "Find insight on Bayer, Sandoz Group, Hikma Pharmaceuticals and more in the latest Market Talks covering Health Care."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-11-26T12:00:00+00:00",
      "summary": "Find insight on Tata Steel, Horizon Gold and more in the latest Market Talks covering Basic Materials."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
      "published": "2026-11-26T02:00:00+00:00",
      "summary": "Nvidia’s sales chief dated a Super Micro executive for years. Now they have married and her former company has been linked to chip smuggling."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
      "published": "2026-11-26T01:04:00+00:00",
      "summary": "The hedge fund that nearly went out of business after steep losses this summer said it has worked to learn from its mistakes."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-     "published": "2026-11-25T22:27:00+00:00",
-     "summary": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back."
     }
    ]
   }
@@ -520,9 +520,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3969.45,
+   "last": 3950.0801,
    "prev_close": 3881.27,
-   "change_pct": 2.27,
+   "change_pct": 1.77,
    "as_of": "2026-11-27"
   },
   "SP500": {
@@ -534,23 +534,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.2995,
+   "last": 3.3029,
    "prev_close": 3.3783,
-   "change_pct": -2.33,
+   "change_pct": -2.23,
    "as_of": "2026-11-27"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 92.29,
+   "last": 92.04,
    "prev_close": 94.61,
-   "change_pct": -2.45,
+   "change_pct": -2.72,
    "as_of": "2026-11-27"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 61581.1289,
+   "last": 61624.9219,
    "prev_close": 60494.7109,
-   "change_pct": 1.8,
+   "change_pct": 1.87,
    "as_of": "2026-11-27"
   }
  },
