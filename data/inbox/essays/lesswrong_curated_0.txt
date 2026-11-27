@@ -16,6 +16,14 @@ Maybe the point I wanted to make (about military relevance of humans) got rounde
 
 This potential-usefulness-as-soldiers is a fragile, historically unusual thing. When weapons cost much more than a person, a small, well trained weapon-owning class ruled the world, and everyone else suffered what they must. Then firearms appeared and gave us the current brief window of democracy and sharing of spoils. When military robots don't require human operators and become cheaper than a person for the same amount of military efficiency, the window will be over.
 
+I think this is still too simplistic. It’s not only access to weapons which is necessary for an aristocracy to remain on top; before firearms were developed aristocrats had access to better weapons and armor than their subjects, but it wasn’t a huge difference, after all it wasn’t them who made the weapons or armor, and the peasants had access to, and the skill to use, lots of makeshift weapons which were almost as effective as those of their lords.
+
+Cultural innovations were probably at least as important as access to weapons in maintaining the status quo, such as the idea that the aristocrats had divine mandate to rule, or the reality that they were the only ones with access to a good education.
+
+Just looking at the following dates, it seems to me that industrial/economic changes were more important in causing the French Revolution (my proxy for the start of a more egalitarian political system) than the development of firearms.
+
+~15th century; firearms become widespread in Europe
+
 "The reason aristocracy gave way to democracy wasn't because of rising productivity of the masses: a slave in a diamond mine can be very productive, but still remain a slave. Rather, it was because firearms lowered the cost of training a soldier, and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing."
 
 This just seem wrong.https://en.wikipedia.org/wiki/Medieval_warfare"Typically the feudal armies consisted of a core of highly skilled knights and their household troops, mercenaries hired for the time of the campaign and feudal levies fulfilling their feudal obligations, who usually were little more than rabble." (emphasis added)
@@ -82,6 +90,10 @@ But overall, I think it's more wrong than right.
 
 Good points, but I think you overstate them. Tsarist Russia freed the serfs after the Crimean War forced it to modernize. Imperial Japan abolished samurai privileges and emancipated the burakumin. Both had parliaments and political parties (though weak). Prior to that, I know a lot about Russia's feudal period and it was very abusive toward peasants; Japan I don't know as well, but from my reading of Shogun, their feudal period was even worse - tsujigiri and all that. Overall I think my point stands, firearms-modernization made people more free.
 
+The reason aristocracy gave way to democracy wasn't because of rising productivity of the masses: a slave in a diamond mine can be very productive, but still remain a slave. Rather, it was because firearms lowered the cost of training a soldier, and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing.
+
+This is possibly somewhat true in the very big picture 500-year sense, in that reliance on expensive shock cavalry might be an intrinsically anti-democratic social force, but it's absolutely not immediate cause and effect. Take the classic trio of Britain, France, and Germany in the early modern period. All three used mass gunpowder armies to great effect, Britain a little less so and later than the others, being a naval power, but- In Britain serfdom collapsed and the aristocracy survived as an independent power, arguably strengthened vis a vis the monarch- In France serfdom collapsed and the aristocracy was largely subjugated by the crown- In Germany serfdom persisted deep into the 19th century, and in the east was worse than it had been in the medieval periodAnd none were remotely democratic in a modern sense: Britain was a thin oligarchy of a few percent of the population, France was an absolutist monarchy, and Germany was a patchwork of feudal statelets, plus a few absolutist powers of its own. And the most militarized of the major European powers, Prussia, was also one of the most repressive. Democracy is a 19th century phenomenon. If you want a socio-technological base for mass democracy, it is less likely to be the musket than the levée en masse. And we haven't had that since 1945.
+
 This is a good but slightly oversimplified argument IMO. Military superiority is indeed vital for political power, but this applies internationally as well as domestically. So it's not just that random schmucks with rifles can overthrow the royal army (they usually can't, with a few exceptions, such as when they're certain 13 rich colonies fighting against an empire an ocean away), but that states that practice a certain social system can produce a stronger military (and beat those without the same social system).
 
 Generally speaking, democracies' stronger military position on the international stage came from their economic and subsequently technological superiority rather than the advantage in raw numbers. Such as during WW2, when the Japanese fielded enormous numbers of troops but had little hope of fending off American offensives in the Pacific. And this is why, in the modern day, despite militaries having shrunk in proportion to the population to become a new knighthood class again (indeed, as you can see in the Iraq War and such, superiorities in technology, doctrine, and training far outclass numbers), you still have democracy in vogue around most of the world: countries that have their militaries taking over their country tend to have shitty economies that subsequently cannot field powerful armies, compared to countries that have a functional civilian government (authoritarian or democratic). Obviously, nuclear weapons complicated this a bit, but generally speaking.
@@ -104,9 +116,15 @@ How sure are you that democracy leads to economic strength? China overtaking Ind
 
 "Democracy" vs "authoritarianism" is an actively bad conceptualization here. India is formally a liberal democracy, but this tells you nothing about the relative power of developmentalist vs rentier elites, let alone about elites versus ordinary people. South Korea under Rhee was an authoritarian nightmare, and South Korea under Park was an authoritarian nightmare, but one of them saw South Korea remain one of the poorest countries in Asia and one of them saw one of the largest economic miracles in human history, alongside Taiwan and China. The US was a liberal democracy under Roosevelt and it was a liberal democracy under Nixon, but one of them built the postwar order and one of them helped destroy it. And so on and so forth: there is no substitute for actually just looking at object-level policy.
 
-The reason aristocracy gave way to democracy wasn't because of rising productivity of the masses: a slave in a diamond mine can be very productive, but still remain a slave. Rather, it was because firearms lowered the cost of training a soldier, and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing.
+Curated. This is a very simple point, that I hadn't heard before. I'd heard many pieces of it, i.e. AI will change what military powers need which will change what equilibria society can have. But, I hadn't put together the specific point here.
 
-This is possibly somewhat true in the very big picture 500-year sense, in that reliance on expensive shock cavalry might be an intrinsically anti-democratic social force, but it's absolutely not immediate cause and effect. Take the classic trio of Britain, France, and Germany in the early modern period. All three used mass gunpowder armies to great effect, Britain a little less so and later than the others, being a naval power, but- In Britain serfdom collapsed and the aristocracy survived as an independent power, arguably strengthened vis a vis the monarch- In France serfdom collapsed and the aristocracy was largely subjugated by the crown- In Germany serfdom persisted deep into the 19th century, and in the east was worse than it had been in the medieval periodAnd none were remotely democratic in a modern sense: Britain was a thin oligarchy of a few percent of the population, France was an absolutist monarchy, and Germany was a patchwork of feudal statelets, plus a few absolutist powers of its own. And the most militarized of the major European powers, Prussia, was also one of the most repressive. Democracy is a 19th century phenomenon. If you want a socio-technological base for mass democracy, it is less likely to be the musket than the levée en masse. And we haven't had that since 1945.
+I understand cousin_it to be saying "being potentially valuable to the military is a useful bargaining chip", which is a distinct point from "whoever has all the guns can make other people do what they want." (Some of comments didn't draw a clear distinction between the two)
+
+What I found most useful was reminding myself: Whether it's specifically downstream of "commoners being militarily relevant" or not, modern democracies, equality beliefs, etc, aren't a universal. They are presumably caused or enabled by specific things. Economics is probably one part of the story. But, there are multiple dimensions. This post didn't just remind me "military relevance is important". It reminded me generally to expand the scope of dimensions I was tracking.
+
+In the comments, people brought up a bunch of arguments and nuance about how true this consideration actually seems in human history (or, the degree to which this post explains human behavior). Some of that feels interesting and important. Some feels more like getting lost in the weeds and missing the forest. Like, do these arguments about human history actually apply to AI, given that most likely AI will render us militarily fully obsolete?
+
+economic importance is crucial for military importance, though. if you have a very strong economy you can spend a lot of it on military strength. of course, not all economic power is equally valuable - some types of economic capacity (heavy industry, manufacturing, some r&d) are much more important for military might than other types of economic capacity (luxury goods, consumer goods), though trade can smooth this out somewhat.
 
 and thus made the masses valuable as potential soldiers. That gave the masses a bargaining chip which led to better economic and political standing.
 
@@ -134,15 +152,15 @@ Math and programming capabilities are easy to drive through RLVR, and there's a 
 
 Not saying we won't get an ASI that makes all of this academic, but I don't think superhuman math/programming trivially implies superhuman military performance.
 
-Curated. This is a very simple point, that I hadn't heard before. I'd heard many pieces of it, i.e. AI will change what military powers need which will change what equilibria society can have. But, I hadn't put together the specific point here.
+Looking back, was superhuman math/programming trivially implied?
 
-I understand cousin_it to be saying "being potentially valuable to the military is a useful bargaining chip", which is a distinct point from "whoever has all the guns can make other people do what they want." (Some of comments didn't draw a clear distinction between the two)
+Related (overall a useful but incomplete model):
 
-What I found most useful was reminding myself: Whether it's specifically downstream of "commoners being militarily relevant" or not, modern democracies, equality beliefs, etc, aren't a universal. They are presumably caused or enabled by specific things. Economics is probably one part of the story. But, there are multiple dimensions. This post didn't just remind me "military relevance is important". It reminded me generally to expand the scope of dimensions I was tracking.
+The age of peak democracy is already over. There was a period roughly from the American Revolution till the Spanish Civil War (i.e. 1776 to 1939) when popular revolts were a serious concern because the military technology favored strength in numbers even with amateur fighters. Since the 20th century, tanks and airplanes and rockets—expensive and specialist weaponry—allow even weak states to resist popular revolts (they can still suffer coups from low morale etc). Since the end of this period, democratic power has also declined, with legislatures subordinated to bureaucracies and where a global elite culture increasingly ignores the masses to institute unpopular policies. [Related (paywalled) reading from Ben Landau-Taylor.]
 
-In the comments, people brought up a bunch of arguments and nuance about how true this consideration actually seems in human history (or, the degree to which this post explains human behavior). Some of that feels interesting and important. Some feels more like getting lost in the weeds and missing the forest. Like, do these arguments about human history actually apply to AI, given that most likely AI will render us militarily fully obsolete?
+Europe is relatively less democratic (steamrolling the masses with unpopular policies like degrowth, mass immigration, etc. with less resistance than in America) while e.g. Latin America is more democratic, and America is in between. (In Latin America, elections are much more important because of their less complex bureaucracies, while I remember a funny German interview where a bureaucrat was asked for his thoughts on the upcoming election and he seemed not to understand the question, because of course he's certain to maintain his post regardless of the results.)
 
-economic importance is crucial for military importance, though. if you have a very strong economy you can spend a lot of it on military strength. of course, not all economic power is equally valuable - some types of economic capacity (heavy industry, manufacturing, some r&d) are much more important for military might than other types of economic capacity (luxury goods, consumer goods), though trade can smooth this out somewhat.
+AGI is a centralizing technology but with respect to democratic power I predict that it wouldn't affect the trend because popular revolt is already an extremely limited concern, especially including factors not mentioned like the aging population.
 
 Some of my friends have speculated that in a Dungeons and Dragons universe, most mages wouldn't be treated with respect, but instead forcibly conscripted. That's because a low-level mage can more or less just fire a few fireballs every day, which is not enough to protect yourself from the army -- a small group of soldiers will be sent to approach you, each one from a different side, and hiding behind a shield, -- but can be used offensively -- imagine a group of mages brought in chains before a besieged castle, told by their handlers to throw a fireball at the wall simultaneously -- or economically -- e.g. in a forge.
 
@@ -157,6 +175,36 @@ I disagree (weak confidence) but I see no way to resolve our disagreement experi
 A samurai kept in chains cannot fight well, and cannot even train well. So you lose his value that way.
 
 A DnD mage kept in chains can still cast a few fireballs every day. Leveling up might be a problem though; not sure how much XP one gets for producing fire in a forge every day.
+
+I think the roles of economic and military participation (or potential for participation) aren't what they used to be as far as the collective goes. In the past it was more true that, at the level of the largest organizational units in the civilizational game, to persevere/empower/dominate/etc was to have superior military force. Good outcomes were modulated by threat of force. But that arena in which nations etc participate has largely been replaced by economics.
+
+To be an extant player is functionally to be a wealthy one relative to others. That was true historically too, but, in the frame here, mostly because wealth mediated the capacity to field an army at relevant scale. The world has grown "more stable" in this sense - kinetic warfare and the threat of it are not the (primary) grammar of geopolitics anymore. So I'd expect the capacity of the populace to instantiate that threat of kinetic force to have less purchasing power for them relative to other factors.
+
+No. Economic relevance is far more important now than ever. Military force as a system to take wealth is now unproductive, and so is slavery. Initially for colonialism, mining silver in the Americas or Carribean sugar and rum was very lucrative.
+
+Yet, ontop of these commodities, industrialization was brought about, and finished goods were far more valuable than raw resources. As economies got more complex, so did military force. Economies drive military force more than the other way around, mercantilism fell to competition for better goods.
+
+War is extension of politics by other means. Modern warfare is just another way to get your political goals. Economies are engines that drive both soft and hard power.
+
+An economy is more than the sum of its parts. If you established a military dictatorship in California, you cannot just take a software company by force and keep its value. Its productivity is not just its employees or servers, it is what it provides when it exists as a whole. Enslaved people are not as productive as paid and motivated employees. A 100 million dollar company would be reduced to a mere fraction: 100 slaves, depreciating officer furniture and laptops, and worthless contracts. Coerced to work people are just not as productive.
+
+Even the Confederacy during the American Civil War even conceded that slavery would eventually be doomed due to industrialization, which makes their position even more absurd.
+
+In reverse though, most humans are not productive military assets anymore. The average American is just not fit enough to pass US military fitness examinations. Industrialization also made militaries have to compete with civilian jobs. Firearms existed for a long time before the resurgence of democracies, and the revival of European republics were timed more with mass mobilization and nationalism rather than introduction of firearms. Democracies began to last longer than monarchies due to stability, succession, and the rise of a merchant class. Directly going against the landed military nobility, all reporting to god given right to wage war to a king. Very little correlation to military value of an individual connected with democracy.
+
+Even the Roman Legionaries spent most of their career building roads and maintaining the infrastructure of an empire, not fighting everyday. The value of labor is supply and demand. The modern military value of a average person is even less, with every new soldier being more military utility than ever as well. Smaller, better equipped forces rule the modern battlefield, backed by massive logistics teams, backed by millions of civilians who can afford to pay for this by taxes; most of whom who would not be a good fit for any military role.
+
+As of today, more parts of the modern military itself is dedicated to non-kinetic parts of the organization—its "tooth-to-tail" ratio—than ever, 2.3 support to 1 combat soldiers in ww2 to around 8 to 1 today.
+
+Today's wars are still incredibly driven by humans, humans that are better educated, fed, trained, and specialized more than ever.
+
+But soldiers MUST be paid and they must be paid better than base labourers! Soldiers are paid with money. Money, at least before AI, was the economic excess productivity of the workforce over what they needed to produce to support themselves. Economics rules.
+
+This is a timely post. I think the gradual disempowerment thesis over-emphasised economic value as THE way citizens resist being oppressed by governments. Military relevance is definitely another aspect of citizens' bargaining power (and this one has been reasonably well studied by historians over the years — just ask any AI to summarise the research, it goes all the way back to Aristotle.). But I do feel there's a more general analysis worth doing (I've been trying to do this myself this year) into how groups attain and use leverage of various kinds — military power, economic contributions, information asymmetries, ability to coordinate among themselves, etc — depending on the time and place.
+
+Indeed, research into the democratic age (roughly 1750-now) tends to emphasise neither military nor ecomomic factors, but the ability of large enough portions of the citizenry to pose a credible threat (in the form of sabotage, strike, rebellion, etc.) as the bedrock they can use to secure further leverage the government via laws and voting.
+
+This is an extremely important topic imo but it's really only tackled piecemeal by a few economic historians, a few anthropologists, some political scientists. Some good sources: Acemoglu & Robinson (2006), Economic Origins of Dictatorship and Democracy; Dahl (1989), Democracy and Its Critics; Pettit (2012), On the People’s Terms: A Republican Theory and Model of Democracy).
 
 Military relevance cannot be overlooked but I'm not sure if you can objectively call it more important.
 
@@ -186,6 +234,14 @@ The reason aristocracy gave way to democracy wasn't because of rising productivi
 
 Puuh, I don't know?I'm not sure yet whether I agree with your general point, but this sure seems like a bad example.At least measured in human-time, I would highly doubt slaves in mines are productive, and worse still, you don't really have an incentive to make them more productive in the long run?Like: their labor is literally free, so you don't have the incentive to try to minimize their time spent on working, and therefore making them more productive.I guess they are cheap and have a good ROI for you, but that doesn't necessarily translate to them being productive in the output divided by hours worked sense.
 
+Hmm, you raise an interesting point, but I think I disagree.
+
+Look at the people mining cobalt in the DRC. They earn ~a dollar a day and, because they have no real freedom to choose to do different work, are close to slaves in practice. But in the aggregate, they are so productive that they are crucial to the global rechargeable battery economy.
+
+And individually, they are rewarded for their output, which is enough incentive to keep them producing.
+
+A system of slavery could be similarly set up (e.g., if food and clothing were tied to output).
+
 This video/lecture on the possible dynamics of humans negotiating with AI seems somewhat relevant, what do you think of it? The video was made by a political science professor.
 
 "but we grow all the food and do all the work, Sparta would collapse without our labor!" -some helot probably.
@@ -197,3 +253,7 @@ I think it'll be locked in, for the same reasons as no-humans-writing-code is ge
 Is it premature to say no-humans-writing-code is currently getting locked in now? I'm a human and I write code. I don't think it's obvious that the economic value of humans-writing-code is going to collapse to zero, rather than asymptoting out at some small positive value (at least assuming we don't all die soon).
 
 By analogy, the economic value of learning assembly or COBOL isn't zero, even though most software is at a much higher level. Slots will still remain for humans who write code as long as there's any task involving computers that LLMs can't reach -- for example, in places with no or very bad internet connections.
+
+humans will be the aristocracy in that world and lead lives of leisure and fun
+
+Unless some bloodthirsty country like russia wants to prove its greatness?

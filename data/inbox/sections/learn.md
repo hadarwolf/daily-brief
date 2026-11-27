@@ -35,7 +35,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 2009,
    "text": "A bomb exploded under, and derailed, a Russian high-speed train travelling between Moscow and Saint Petersburg, killing 28 passengers.",
    "context": [
-    "The 2009 Nevsky Express bombing occurred on 27 November 2009 when a bomb exploded under a high speed train travelling between the Russian cities of Moscow and Saint Petersburg causing derailment near the town of Bologoye, Tver Oblast, on the Moscow–Saint Petersburg Railway. The derailment occurred at 21:34 local time. Russian officials had stated that 39 people were killed and 95 injured but later retracted that estimate. 27 deaths had been reported by 2 December. A second bomb exploded at the scene of the investigation the following day, injuring one. It was reported to have been triggered by a remote mobile phone."
+    "The 2009 Nevsky Express bombing occurred on 27 November 2009, when an explosive was detonated below the undercarriage of a high speed train travelling between the Russian cities of Moscow and Saint Petersburg. The bombing caused derailment near the town of Bologoye, Tver Oblast, on the Moscow–Saint Petersburg Railway. The derailment occurred at 21:34 local time. Russian officials initially stated that 39 people were killed and 95 were injured, but they later retracted that estimate. 27 deaths were reported by 2 December. A second bomb exploded at the scene of the investigation the following day, injuring one person. It was reported to have been triggered by a remote mobile phone."
    ]
   },
   {

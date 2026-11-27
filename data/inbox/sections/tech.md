@@ -20,84 +20,90 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ars_technica#0",
+     "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+     "published": "2026-11-27T08:00:53+00:00",
+     "summary": "There’s just one thing we still don’t know: How much will they cost?"
+    },
+    {
+     "ref": "ars_technica#1",
      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
      "published": "2026-11-26T18:00:29+00:00",
      "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype."
     },
     {
-     "ref": "ars_technica#1",
+     "ref": "ars_technica#2",
      "title": "Draining peatlands is responsible for a few percent of our global warming",
      "published": "2026-11-26T12:15:42+00:00",
      "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated."
     },
     {
-     "ref": "ars_technica#2",
+     "ref": "ars_technica#3",
      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
      "published": "2026-11-26T12:00:14+00:00",
      "summary": "Our home offices range from tasteful to \"please explain yourself.\""
     },
     {
-     "ref": "ars_technica#3",
+     "ref": "ars_technica#4",
      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
      "published": "2026-11-25T22:36:45+00:00",
      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\""
     },
     {
-     "ref": "ars_technica#4",
+     "ref": "ars_technica#5",
      "title": "Google search alternative Kagi launches Gmail rival",
      "published": "2026-11-25T20:57:09+00:00",
      "summary": "The pitch is an unusual combination of privacy promises and AI features."
     },
     {
-     "ref": "ars_technica#5",
+     "ref": "ars_technica#6",
      "title": "Backblaze explains why it's sharing customer information with advertisers",
      "published": "2026-11-25T18:38:29+00:00",
      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers."
     },
     {
-     "ref": "ars_technica#6",
+     "ref": "ars_technica#7",
      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
      "published": "2026-11-25T18:22:38+00:00",
      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold."
     },
     {
-     "ref": "ars_technica#7",
+     "ref": "ars_technica#8",
      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
      "published": "2026-11-25T17:33:30+00:00",
      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it."
     },
     {
-     "ref": "ars_technica#8",
+     "ref": "ars_technica#9",
      "title": "Etsy clarifies AI terms after seller backlash",
      "published": "2026-11-25T17:12:57+00:00",
      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\""
     },
     {
-     "ref": "ars_technica#9",
+     "ref": "ars_technica#10",
      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
      "published": "2026-11-25T16:47:14+00:00",
      "summary": "Militaries have many reasons to target data centers and the cloud in wartime."
     },
     {
-     "ref": "ars_technica#10",
+     "ref": "ars_technica#11",
      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
      "published": "2026-11-25T16:33:45+00:00",
      "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says."
     },
     {
-     "ref": "ars_technica#11",
+     "ref": "ars_technica#12",
      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
      "published": "2026-11-25T15:35:17+00:00",
      "summary": "Prior modeling estimated the plume would cover hundreds of square miles."
     },
     {
-     "ref": "ars_technica#12",
+     "ref": "ars_technica#13",
      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
      "published": "2026-11-25T14:29:43+00:00",
      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers."
     },
     {
-     "ref": "ars_technica#13",
+     "ref": "ars_technica#14",
      "title": "AI may soon change what it means to be a theoretical physicist",
      "published": "2026-11-25T12:00:28+00:00",
      "summary": "Frontier AI is already solving problems that once took top physicists a full day."
@@ -110,75 +116,69 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "המודרים מנסים להביא את GTA 6 למחשב לפני Rockstar. אבל עורכי הדין כבר בדרך אליהם",
+     "published": "2026-11-27T09:15:17+00:00",
+     "summary": "אני לא יודע אם שמתם לב, אבל לפני שבוע שוחרר משחק אינדי קטן וצנוע בשם GTA 6 שהספיק להרוויח מיליארדי דולרים ולעשות היסטוריה. אנחנו כבר כתבנו לכם מה אנחנו חושבים עליו במיני ביקורת שלנו, וגם הוזמנו להתארח בפודקאסט \"אחד ביום\" כדי לדבר עליו. אבל ישנה קבוצה שממש לא מרוצה מההשקה הזאת: שחקני ה-PC. ב-Rockstar Games […] The post המודרים מנסים להביא את GTA 6 למחשב לפני Rockstar. אבל עורכי הדין כבר בדרך אליהם "
+    },
+    {
+     "ref": "geektime#1",
+     "title": "אני לא מאמין שאני אומר את זה, אבל אני מת על Muse של מטא",
+     "published": "2026-11-27T07:27:11+00:00",
+     "summary": "יום שישי, ערב סוכות, בשעות אחר הצהריים. צ'יפ שולח לי התראה שהוא מצא לי כרטיסים למופע הפרידה של טייכר וזרחוביץ'. הייתי בטוח שהוא טועה. בכל זאת, בעמוד הפייסבוק הודיעו שהמכירה תיפתח רק בשבוע הבא, ולא פירטו איפה זה יקרה. נכנסתי לאתר שצ'יפ מצא, ותוך כמה דקות היו לי כרטיסים במקומות מצוינים. עד היום אני לא […] The post אני לא מאמין שאני אומר את זה, אבל אני מת על Muse של מטא appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#2",
      "title": "מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות?",
      "published": "2026-11-26T18:25:39+00:00",
      "summary": "למי זה לא קרה? אתם מדברים עם מכר על שירות או מוצר כלשהו, פותחים את פייסבוק או את אינסטגרם והופ – קופצת לכם פרסומת בדיוק לזה. נשמע מוכר? אחד המיתוסים הטכנולוגיים המוכרים ביותר בעשור האחרון הוא שפייסבוק ואינסטגרם מאזינות דרך המיקרופון של הסמארטפון שלנו כדי להציג לנו פרסומות מדויקות לפי מה שאנחנו מדברים עליו. היי, […] The post מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות? appeared first o"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#3",
      "title": "בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים",
      "published": "2026-11-26T12:00:30+00:00",
      "summary": "שלוש שעות ישבתי בקולנוע ועברתי סקאלה לא הגיונית של רגשות כלפי אישה, שחשבתי שאני יודע כבר הכל על הסיפור שלה, אחרי שסיקרתי אותה ב-7 השנים האחרונות. קוראים לה אליזבת הולמס, כנראה שמעתם עליה. בשקט בשקט הסכימה ליזי (אני מרשה לעצמי) שאחד הקומיקאים והבמאים ההזויים והמתוחכמים בעולם ילווה אותה, בתקופה אולי הכי רגישה שיש – בימים […] The post בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים app"
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#4",
      "title": "תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM",
      "published": "2026-11-26T09:43:58+00:00",
      "summary": "דרכונים בתיק? צ'ק. סוללה ניידת? צ'ק. איירטאג? צ'ק. ומה לגבי חבילת גלישה? אולי שילמתם מאות שקלים מיותרים לחברת הסלולר שלכם, אולי החלטתם להתחיל את הטיול שלכם בחיפוש אחר סים מקומי באחת מהחנויות, ואולי עשיתם את הדבר ההגיוני יותר לרוב, ובחרתם eSim של חברות כמו Airalo ואחרות. אבל עכשיו נראה שאולי בפעם הבאה שתטוסו תהיה עוד […] The post תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM appeared first on"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#5",
      "title": "ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון מסוגו",
      "published": "2026-11-26T08:42:18+00:00",
      "summary": "החזון של אילון מאסק (ושל אחרים לפניו) לשלוט במחשבים ולהזיז איברים בגוף בכוח המחשבה בלבד הולך והופך לאט לאט ממדע בדיוני למציאות. חברת Neuralink הודיעה אתמול (ד') שקיבלה אישור ממנהל המזון והתרופות האמריקאי, ה-FDA, להשיק את LINK, הניסוי הגדול הראשון שלה בארצות הברית. במסגרת הניסוי היא תבדוק את ה-BCI או ממשק המוח-מחשב שלה על מספר […] The post ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון "
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#6",
      "title": "הפריצה הגדולה ל-1Password: כל מה שאתם צריכים לדעת (ולעשות)",
      "published": "2026-11-26T07:42:53+00:00",
      "summary": "אחד הדברים הטובים ביותר שאתם יכולים לעשות לאבטחת המידע שלכם זה להשתמש במנהל סיסמאות. במקום למחזר סיסמאות, לשכוח אותן ולהזין אותן בכל פעם מחדש, מנהלי הסיסמאות יכולים לג'נרט לכם סיסמאות חזקות הרבה יותר, לשמור על ה-Passkeys שלכם, להתחבר באמצעותם ולהזין עבורכם את הסיסמאות בלי שתצטרכו לזכור אותן. לשימוש יומיומי בדרך כלל מספיק לזכור את סיסמת […] The post הפריצה הגדולה ל-1Password: כל מה שאתם צריכים לדעת"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#7",
      "title": "הכפתור החדש של פיירפוקס בכלל לא מיועד לפורנו. מה פתאום",
      "published": "2026-11-25T16:38:46+00:00",
      "summary": "כן. הנתונים מראים ששום דבר לא יזיז אתכם מכרום, אבל אולי? מוזילה הכריזה הלילה (ג') על עדכון חדש לדפדפן שלה, ובראשו פיצ'ר חדש: כפתור חדש שפשוט ימחק את כל העקבות שלכם ברגע. מעניין למה תשתמשו בזה. כפתור אש חברת Mozilla הכריזה על פיירפוקס 161, הגרסה החדשה של הדפדפן שממשיך להיאבק בכרום, ויחד איתה מגיע כפתור […] The post הכפתור החדש של פיירפוקס בכלל לא מיועד לפורנו. מה פתאום appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#8",
      "title": "וואטסאפ השיקה בישראל הודעות מתוזמנות",
      "published": "2026-11-25T15:21:23+00:00",
      "summary": "וואטסאפ הודיעה היום (ה') שהיא משיקה רשמית גם בישראל את האפשרות החדשה לתזמון הודעות טקסט, תמונות או וידאו. הפיצ'ר החדש מגיע אחרי שהוא כבר הגיע למשתמשים ראשונים בתוכנית הבטא של וואטסאפ לפני מספר שבועות. עד שבועיים מראש בעזרת הפיצ'ר החדש תוכלו לכתוב הודעה ובמקום לשלוח אותה מייד, לבחור מתי היא תישלח. חלון הזמנים למשלוח נע […] The post וואטסאפ השיקה בישראל הודעות מתוזמנות appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#9",
      "title": "הישראלים שמאחורי היוניקורן שאנבידיה לא תאהב",
      "published": "2026-11-25T13:35:48+00:00",
      "summary": "אם חשבתם שסבב סיד של 10 או 15 מיליון דולר הוא אירוע חריג, כדאי שתכירו את Marlowe, סטארטאפ צעיר, שנחשף אתמול (ג') עם גיוסים בהיקף של 277 מיליון דולר, לפי שווי של 1.15 מיליארד דולר. מאחורי ההשקעה המטורפת הזו נמצאת נוכחות ישראלית מרשימה שכוללת כמה שמות מוכרים מאוד מהאקוסיסטם המקומי. בין היתר השקיע בחברה ליאור […] The post הישראלים שמאחורי היוניקורן שאנבידיה לא תאהב appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#10",
      "title": "מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת",
      "published": "2026-11-25T10:41:51+00:00",
      "summary": "אם גם אתם מצאתם את עצמכם בוהים במסך ריק לפני כשבועיים ותוהים למה לעזאזל האאוטלוק שלכם לא זז או למה הטימס התנתק, תתנחמו בזה שאתם לא בצוותי ההנדסה של מיקרוסופט, כי מתברר שמאחורי הקלעים במיקרוסופט המצב מלחיץ הרבה יותר. מיילים פנימיים שהגיעו לרויטרס חושפים עכשיו שבעקבות התקלה שנמשכה 24 שעות, הכריזה מיקרוסופט על מצב חירום […] The post מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת appeared first on ג"
-    },
-    {
-     "ref": "geektime#9",
-     "title": "מפתחים Deep Tech ומחפשים משקיעים ולקוחות? זה בשבילכם",
-     "published": "2026-11-25T09:28:27+00:00",
-     "summary": "מסחור טכנולוגיות Deep Tech הוא תהליך מורכב. סטארטאפים רבים מתחילים את דרכם עם היכרות מוגבלת של הלקוחות והשוק הפוטנציאלי, גישה מצומצמת למקבלי החלטות בתאגידים והצעת ערך ומודל עסקי שעדיין דורשים חידוד לפני כניסה לשוק. הם לא צריכים רק צ'ק או חיבור למשקיע נוסף, אלא זקוקים לשותף אסטרטגי שמסוגל ללוות אותם לאורך הדרך, מהמעבדה אל השוק. […] The post מפתחים Deep Tech ומחפשים משקיעים ולקוחות? זה בשבילכם appea"
-    },
-    {
-     "ref": "geektime#10",
-     "title": "דוח ה-AI של שירות התעסוקה: 211% יותר מתכנתים דורשי עבודה",
-     "published": "2026-11-25T09:06:53+00:00",
-     "summary": "פעם אמרו שכלי AI לא יחליפו מתכנתים, אלא רק \"יהפכו אותם ליעילים יותר\" או \"יחליפו את מי שלא משתמש ב-AI\". ובכן, דוח חדש שמפרסם היום (ד') שירות התעסוקה מצייר תמונה קצת יותר מורכבת לעובדים בתעשיית ההייטק המקומית. לפי הנתונים, 56% מהשימוש שנבדק ב-Claude במקצוע \"פיתוח התוכנה וניתוח היישומים\" מוגדר כ\"אוטומציה\", כלומר האצלת ביצוע המשימה למערכת, […] The post דוח ה-AI של שירות התעסוקה: 211% יותר מתכנתים דורש"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "פיצ'ר האפליקציות החדש של אנת'רופיק הוא איום ישיר על אפל וגוגל",
-     "published": "2026-11-25T07:56:36+00:00",
-     "summary": "בשנה האחרונה נדמה שבכל פעם ש-Anthropic משיקה פיצ'ר חדש ל-Claude, האינטרנט ממהר כבר להספיד תעשיות שלמות ולהכניס את הבורסות ברחבי העולם לסחרור. אבל הפעם, אנת'רופיק מכוונת את התותחים שלה למקום אחר לגמרי, עם פיצ'ר חדש שיסייע אולי למשתמשים, אבל עשוי גם לאיים על חנויות האפליקציות של אפל וגוגל. כל אחד יכול ליצור ולפרסם אפליקציה אם […] The post פיצ'ר האפליקציות החדש של אנת'רופיק הוא איום ישיר על אפל וגוגל"
     }
    ]
   },
@@ -188,87 +188,99 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "AI made self-hosting fun again",
-     "published": "2026-11-26T21:47:45+00:00",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 386 # Comments: 211"
+     "title": "The group chat where your AI talks behind your back",
+     "published": "2026-11-27T06:44:34+00:00",
+     "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 262 # Comments: 107"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-     "published": "2026-11-26T21:08:05+00:00",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 274 # Comments: 52"
+     "title": "The need for a formally verifiable mainstream programming language",
+     "published": "2026-11-27T05:22:06+00:00",
+     "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 157 # Comments: 135"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-     "published": "2026-11-26T17:47:45+00:00",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 225 # Comments: 99"
+     "title": "Hard Drive pricing has gotten bad",
+     "published": "2026-11-27T01:13:49+00:00",
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 361 # Comments: 266"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-     "published": "2026-11-26T17:36:47+00:00",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 290 # Comments: 374"
+     "title": "AI made self-hosting fun again",
+     "published": "2026-11-26T21:47:45+00:00",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 715 # Comments: 352"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "AMD-specific fork of llama.cpp",
-     "published": "2026-11-26T17:11:29+00:00",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 300 # Comments: 73"
+     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+     "published": "2026-11-26T21:08:05+00:00",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 373 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Tell HN: Happy Thanksgiving",
-     "published": "2026-11-26T14:26:54+00:00",
-     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 633 # Comments: 138"
+     "title": "Company Culture = Slack Emoji ÷ √Headcount",
+     "published": "2026-11-26T20:49:49+00:00",
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 364 # Comments: 174"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Nextcloud Office Desktop app",
-     "published": "2026-11-26T11:50:49+00:00",
-     "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 406 # Comments: 206"
+     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+     "published": "2026-11-26T17:47:45+00:00",
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 272 # Comments: 135"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Intel One Mono font (2023)",
-     "published": "2026-11-26T10:11:01+00:00",
-     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 480 # Comments: 243"
+     "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+     "published": "2026-11-26T17:36:47+00:00",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 409 # Comments: 471"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-     "published": "2026-11-26T09:44:23+00:00",
-     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 265 # Comments: 222"
+     "title": "AMD-specific fork of llama.cpp",
+     "published": "2026-11-26T17:11:29+00:00",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 364 # Comments: 87"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "OpenAI may be in cost control mode",
-     "published": "2026-11-26T07:33:12+00:00",
-     "summary": "Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/ Comments URL: https://news.ycombinator.com/item?id=50652527 Points: 295 # Comments: 296"
+     "title": "Show HN: I wrote an entire Vim manual over 4 years",
+     "published": "2026-11-26T14:44:22+00:00",
+     "summary": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vi"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Moat: OpenRouter replacement",
-     "published": "2026-11-26T06:32:48+00:00",
-     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 257 # Comments: 147"
+     "title": "Intel One Mono font (2023)",
+     "published": "2026-11-26T10:11:01+00:00",
+     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 527 # Comments: 254"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "An algebraic quantization of gravity from the null cone",
-     "published": "2026-11-26T05:37:51+00:00",
-     "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 223 # Comments: 81"
+     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+     "published": "2026-11-26T09:44:23+00:00",
+     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 333 # Comments: 300"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "The USAID Files",
-     "published": "2026-11-25T23:15:52+00:00",
-     "summary": "Article URL: https://reclaimthenet.org/usaid-files Comments URL: https://news.ycombinator.com/item?id=50649040 Points: 165 # Comments: 207"
+     "title": "Moat: OpenRouter replacement",
+     "published": "2026-11-26T06:32:48+00:00",
+     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 286 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-     "published": "2026-11-25T19:11:27+00:00",
-     "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 2001 # Comments: 1821"
+     "title": "An algebraic quantization of gravity from the null cone",
+     "published": "2026-11-26T05:37:51+00:00",
+     "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 242 # Comments: 96"
+    },
+    {
+     "ref": "hn_frontpage#14",
+     "title": "The USAID Files",
+     "published": "2026-11-25T23:15:52+00:00",
+     "summary": "Article URL: https://reclaimthenet.org/usaid-files Comments URL: https://news.ycombinator.com/item?id=50649040 Points: 257 # Comments: 326"
+    },
+    {
+     "ref": "hn_frontpage#15",
+     "title": "1Password Security Incident",
+     "published": "2026-11-25T17:18:26+00:00",
+     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1667 # Comments: 715"
     }
    ]
   },
@@ -302,42 +314,48 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "mit_tech_review#0",
+     "title": "Cutting-edge prosthetics allow researchers to probe the human mind",
+     "published": "2026-11-27T10:00:00+00:00",
+     "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…"
+    },
+    {
+     "ref": "mit_tech_review#1",
      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
      "published": "2026-11-26T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest…"
     },
     {
-     "ref": "mit_tech_review#1",
+     "ref": "mit_tech_review#2",
      "title": "The next generation of bionic hands is here—and they can feel",
      "published": "2026-11-26T09:59:00+00:00",
      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…"
     },
     {
-     "ref": "mit_tech_review#2",
+     "ref": "mit_tech_review#3",
      "title": "How data centers are driving a US natural-gas boom",
      "published": "2026-11-25T17:00:00+00:00",
      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like…"
     },
     {
-     "ref": "mit_tech_review#3",
+     "ref": "mit_tech_review#4",
      "title": "The Download: AI swamping open records, and firefighting for permafrost",
      "published": "2026-11-25T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…"
     },
     {
-     "ref": "mit_tech_review#4",
+     "ref": "mit_tech_review#5",
      "title": "AI is straining America’s open records systems",
      "published": "2026-11-25T10:00:00+00:00",
      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…"
     },
     {
-     "ref": "mit_tech_review#5",
+     "ref": "mit_tech_review#6",
      "title": "The Download: AI’s gas power boom and a consciousness reality check",
      "published": "2026-11-24T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that…"
     },
     {
-     "ref": "mit_tech_review#6",
+     "ref": "mit_tech_review#7",
      "title": "Data centers are getting their own natural gas power plants",
      "published": "2026-11-24T11:00:00+00:00",
      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s…"
@@ -389,24 +407,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "published": "2026-11-24T16:53:59+00:00",
      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary "
-    },
-    {
-     "ref": "simon_willison#7",
-     "title": "datasette-charts 0.2a1",
-     "published": "2026-11-24T06:07:19+00:00",
-     "summary": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit. On table pages the panel now sits below the \"4,235 rows where country = CHN\" line. The \"Data\" table under each chart has been replaced by Copy TSV and Copy CSV buttons. Removed the \"Chart thi"
-    },
-    {
-     "ref": "simon_willison#8",
-     "title": "datasette-charts 0.2a0",
-     "published": "2026-11-24T04:24:29+00:00",
-     "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Downl"
-    },
-    {
-     "ref": "simon_willison#9",
-     "title": "datasette-agent 0.7a1",
-     "published": "2026-11-24T03:45:57+00:00",
-     "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fi"
     }
    ]
   },
@@ -416,63 +416,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
+     "title": "The absolute best Black Friday deals we’ve found (so far)",
+     "published": "2026-11-27T09:35:30+00:00",
+     "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had […]"
+    },
+    {
+     "ref": "the_verge#1",
      "title": "Netflix’s coziest show has made a very quiet return",
      "published": "2026-11-26T21:00:00+00:00",
      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]"
     },
     {
-     "ref": "the_verge#1",
+     "ref": "the_verge#2",
      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
      "published": "2026-11-26T19:00:00+00:00",
      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]"
     },
     {
-     "ref": "the_verge#2",
+     "ref": "the_verge#3",
      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
      "published": "2026-11-26T17:07:00+00:00",
      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]"
     },
     {
-     "ref": "the_verge#3",
+     "ref": "the_verge#4",
      "title": "Android app developers will soon have to share their address publicly",
      "published": "2026-11-26T17:06:24+00:00",
      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]"
     },
     {
-     "ref": "the_verge#4",
+     "ref": "the_verge#5",
      "title": "The best Black Friday deals we’ve already found",
      "published": "2026-11-26T16:55:00+00:00",
      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. […]"
     },
     {
-     "ref": "the_verge#5",
+     "ref": "the_verge#6",
      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
      "published": "2026-11-26T16:38:00+00:00",
      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]"
     },
     {
-     "ref": "the_verge#6",
+     "ref": "the_verge#7",
      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
      "published": "2026-11-26T16:00:00+00:00",
      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]"
     },
     {
-     "ref": "the_verge#7",
+     "ref": "the_verge#8",
      "title": "GTA VI developers vote against unionization",
      "published": "2026-11-26T15:55:24+00:00",
      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from […]"
     },
     {
-     "ref": "the_verge#8",
+     "ref": "the_verge#9",
      "title": "Why GTA VI’s version of Florida feels so real",
      "published": "2026-11-26T15:00:00+00:00",
      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a bustling, real-world […]"
-    },
-    {
-     "ref": "the_verge#9",
-     "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-     "published": "2026-11-26T14:00:00+00:00",
-     "summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition […]"
     }
    ]
   }
