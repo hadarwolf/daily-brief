@@ -18,117 +18,117 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+     "published": "2026-11-27T11:30:00+00:00",
+     "summary": "Deutsche Boerse AG’s €5.3 billion ($5.8 billion) deal for Allfunds Group Plc has won European Union unconditional approval, paving the way for the largest acquisition in the German exchange operator’s history."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
+     "published": "2026-11-27T11:25:27+00:00",
+     "summary": "Fidelidade – Companhia de Seguros SA is preparing for a potential initial public offering in Lisbon as soon as the second half of 2027, according to people familiar with the matter."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Stock Bulls Stir Again After Weeks of AI Anxiety",
      "published": "2026-11-27T11:16:37+00:00",
      "summary": "Traders are making the case for a short-term rebound."
     },
     {
-     "ref": "bloomberg_markets#1",
-     "title": "New Serb Leadership Picks Academic Saicic to Run for President",
-     "published": "2026-11-27T11:11:46+00:00",
-     "summary": "Radomir Saicic, a tenured university professor who backed Serbia’s student-led movement that ousted longtime leader Aleksandar Vucic, will run for president in a popular vote next month."
+     "ref": "bloomberg_markets#3",
+     "title": "Altria’s Interest in Imperial May Affect Its AB InBev Stake",
+     "published": "2026-11-27T11:14:59+00:00",
+     "summary": "A possible three-way deal to reshape the global tobacco industry may also spill over into another business whose products are sometimes consumed alongside cigarettes — beer."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
+     "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
+     "published": "2026-11-27T11:13:18+00:00",
+     "summary": "Turkey’s Vice President Cevdet Yilmaz said payments from liquidated investment funds will be based on the market price of assets they carry, signaling that many small investors may not recover their full principal."
+    },
+    {
+     "ref": "bloomberg_markets#5",
      "title": "JSE Courts Dangote Refinery Secondary Listing in Expansion Push",
      "published": "2026-11-27T10:21:56+00:00",
      "summary": "Africa’s biggest stock exchange is working with Dangote Group to pave the way for a potential secondary listing of its giant oil refinery in Johannesburg, an outcome the bourse’s chief said would be the ideal next step after its landmark Nigerian initial public offering."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "Russia Extends Jet Fuel Export Ban to March on Refinery Attacks",
      "published": "2026-11-27T09:54:59+00:00",
      "summary": "Russia extended a ban on most jet fuel exports by four months through March to keep its domestic market supplied as Ukraine continues to attack the country’s refineries."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#7",
      "title": "Rwanda Wins F1 Hosting Rights in Bet on Tourism",
      "published": "2026-11-27T09:54:26+00:00",
      "summary": "Rwanda has been chosen to host Formula 1’s return to Africa, beating competition from South Africa and Morocco. With the first Grand Prix planned for the early 2030s, the country is betting on a new circuit, airport and hotels to drive tourism, create jobs and boost its economy. But can the benefits justify the cost? On Bloomberg’s Next Africa, Jennifer Zabasajja speaks to Rwanda’s Sports Minister"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#8",
      "title": "Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
      "published": "2026-11-27T09:53:15+00:00",
      "summary": "South Korea’s National Pension Service saw its assets shrink by about 202 trillion won ($151.4 billion) in the third quarter as a stock-market retreat eroded some of the out-sized gains accumulated earlier this year."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#9",
      "title": "Isabella Weber’s Vision for an Affordability Agenda",
      "published": "2026-11-27T09:00:22+00:00",
      "summary": "A conversation with the author of Anti-Fascist Economics."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
      "published": "2026-11-27T09:00:00+00:00",
      "summary": "The most important word in politics right now is affordability. It was a winning issue in the midterms for Democrats, and one of the reasons why people across Europe are out in the streets protesting: Food, housing, and energy are getting more expensive by the day. During the height of the pandemic, we talked a lot about inflation with Isabella Weber, and her on what governments can do to make lif"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#11",
      "title": "Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
      "published": "2026-11-27T08:43:08+00:00",
      "summary": "Dubai stocks have erased all losses since the Iran war began, transforming from the Gulf’s biggest laggard into one of its best performers, driven by government support and resilient economic activity."
     },
     {
-     "ref": "bloomberg_markets#9",
-     "title": "China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
-     "published": "2026-11-27T08:36:16+00:00",
-     "summary": "Chinese bank bond spreads are heading for their biggest monthly increase since September 2024, as debt strain at a major state-owned conglomerate ripples through the broader credit market."
-    },
-    {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
      "title": "China Drives Biggest Stock Gain Since 2024 With Rare Midday Vow",
      "published": "2026-11-27T05:00:23+00:00",
      "summary": "Chinese authorities gave markets a boost with a rare midday statement pledging support, sending stocks to their best day in more than two years."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "Emerging Stocks Head for Biggest Weekly Gain Since June",
      "published": "2026-11-27T03:33:48+00:00",
      "summary": "Emerging-market stocks headed for their biggest weekly gain since June as investors piled back into technology shares after a recent selloff."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#14",
      "title": "Copper Surges the Most in 10 Months as Risk Appetite Returns",
      "published": "2026-11-27T03:33:07+00:00",
      "summary": "Copper surged the most since January, extending its rebound from an 11-month low as risk appetite returned after a rout fueled by concerns over the AI trade."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#15",
      "title": "Treasuries Dip on Weaker Demand for Havens as Stocks Rebound",
      "published": "2026-11-27T02:43:08+00:00",
      "summary": "Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#16",
      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
      "published": "2026-11-26T23:53:35+00:00",
      "summary": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent prices to a 15-month low."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#17",
      "title": "Latest Oil Market News and Analysis for Nov. 27",
      "published": "2026-11-26T23:05:38+00:00",
      "summary": "Oil rose for a fourth day, heading for its first weekly gain this month, as escalating attacks on energy infrastructure and tankers in the Middle East raised concerns about supply."
     },
     {
-     "ref": "bloomberg_markets#16",
-     "title": "Euro Set for Biggest Annual Drop Against Yuan in Two Decades",
-     "published": "2026-11-26T23:00:00+00:00",
-     "summary": "The euro is set for its biggest annual slide against the yuan in two decades, with European officials calling on China to let its currency strengthen further to curb surging imports."
-    },
-    {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#18",
      "title": "US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap",
      "published": "2026-11-26T21:59:57+00:00",
      "summary": "US stocks are set to rally strongly after Thanksgiving as a rebound in the artificial intelligence trade gathers pace, with waning demand for havens sending Treasuries lower."
-    },
-    {
-     "ref": "bloomberg_markets#18",
-     "title": "Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
-     "published": "2026-11-26T19:31:46+00:00",
-     "summary": "Ghana redeemed a four-year domestic bond three months ahead of maturity, as the government sought to bolster investor confidence in an economy recovering from a debt restructuring."
     },
     {
      "ref": "bloomberg_markets#19",
@@ -144,15 +144,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "US tech stocks set to jump at open as volatile trading takes hold",
-     "published": "2026-11-27T10:56:19+00:00",
-     "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings"
+     "title": "French economy shrinks 0.2% in third quarter",
+     "published": "2026-11-27T11:38:30+00:00",
+     "summary": "Quarterly GDP reduction was worse than initially estimated"
     },
     {
      "ref": "ft_home#1",
-     "title": "French economy shrinks 0.2% in third quarter",
-     "published": "2026-11-27T09:43:53+00:00",
-     "summary": "Quarterly GDP reduction was worse than initially estimated"
+     "title": "US tech stocks set to jump at open as volatile trading takes hold",
+     "published": "2026-11-27T10:56:19+00:00",
+     "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings"
     },
     {
      "ref": "ft_home#2",
@@ -210,153 +210,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "עליות של כ-1% באירופה; ירידה חדה ומפתיעה באינפלציה בצרפת ובספרד; SAP מתכננת קיצוצים",
-     "published": "2026-11-27T11:18:00+00:00",
-     "summary": "מחירי הנפט עולים בעקבות מתקפה איראנית על כוויית ■ אסיה נסגרה בעליות בהובלת סיאול שקפתה ביותר מ-4%; אינפלציית הליבה ביפן טיפסה לשיא של 16 חודשים"
+     "title": "שר השיכון חיים כץ משך את מכתב ההתפטרות שהגיש",
+     "published": "2026-11-27T11:40:58+00:00",
+     "summary": "כץ אולץ להגיש מכתב התפטרות על מנת לאפשר את מינויו של יהודה אליהו למנכ\"ל הקבוע של רשות מקרקעי ישראל, אך היועצת המשפטית לממשלה בלמה את המינוי"
     },
     {
      "ref": "themarker#1",
+     "title": "צפי לעליות בוול סטריט; S&P 500 ונאסד\"ק בדרך לעלייה שבועית של 4%",
+     "published": "2026-11-27T11:36:00+00:00",
+     "summary": "עליות של כ-1% באירופה בעקבות ירידה חדה ומפתיעה באינפלציה בצרפת ובספרד; SAP מתכננת קיצוצים ■ מחירי הנפט עולים בעקבות מתקפה איראנית על כוויית ■ אסיה נסגרה בעליות בהובלת סיאול שקפתה ביותר מ-4%; אינפלציית הליבה ביפן טיפסה לשיא של 16 חודשים"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "מאליהו לליאורה עופר: רונן אגסי, מנכ\"ל מגדל, מוביל במועמדות למנכ\"ל מליסרון",
+     "published": "2026-11-27T11:19:47+00:00",
+     "summary": "אגסי (58) נחשב למנהל בולט ומוערך בענף הפיננסים, ומילא תפקידי ניהול בכירים בחברות ביטוח ובבנק לאומי"
+    },
+    {
+     "ref": "themarker#3",
      "title": "\"החזרנו את השליטה\": הגירה נטו לבריטניה נפלה לרמה הנמוכה ביותר מאז 1997",
      "published": "2026-11-27T10:36:19+00:00",
      "summary": "ההגירה נטו לבריטניה ירדה ל-77 אלף איש בשנה שהסתיימה בקיץ האחרון, מ-204 אלף בתקופה המקבילה בשנה שעברה ■ עיקר הירידה היא בקרב מהגרים המגיעים ממדינות מחוץ לאיחוד האירופי"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#4",
      "title": "כשהמשכורת וההון תלויים באותה חברה: הסיכון שעובדי הייטק עלולים לפספס",
      "published": "2026-11-27T10:25:35+00:00",
      "summary": "הטלטלות במניית אנבידיה סיפקו הצצה למה שקורה כשגורם לא צפוי משפיע על חברה ■ אצל עובדי הייטק, הבונוסים, האופציות והמניות החסומות יוצרים תלות כפולה בחברה אחת, וטלטלה כזאת יכולה למחוק חלק נכבד מהונם ■ למה כל כך קשה למכור מניות של החברה — ואיך נמנעים ממפולת בהון האישי?"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#5",
      "title": "סיפורו של דן קרני, בעל הצרכנייה שייסד את פיצה האט. הכל התחיל מצירוף מקרים",
      "published": "2026-11-27T10:18:17+00:00",
      "summary": "האיש שייסד עם אחיו הצעיר את רשת פיצה האט מת החודש בביתו בגיל 95 ■ אלה הן חלק מתחנות חייו, כולל הסניף הראשון שפתחו במקרה והתנור שמצאו זרוק מאחורי מסעדה איטלקית, דרך הטירוף בשנה הראשונה והמכירה הגדולה — ועד המעשים המפתיעים של אחיו"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#6",
      "title": "בריטניה מהמרת על \"כוח ימי היברידי\" חדש ועתידני",
      "published": "2026-11-27T08:53:46+00:00",
      "summary": "הצי הבריטי מפתח כוח ימי שמשלב כלי שיט אוטונומיים עם ספינות מאוישות, בעזרת AI ■ אם הוא יצליח, זו עשויה להיות מהפכה בלוחמה הימית ■ \"מאויש כשזה הכרחי, בלתי מאויש כשזה אפשרי, ותמיד משולב\", הגדיר זאת ראש המטה הימי הבריטי"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#7",
      "title": "לא רק שוקי חיזוי וקזינו: כל מה שיוצא כיום מעמק הסיליקון מבוסס על הלוגיקה של הימורים",
      "published": "2026-11-27T08:03:24+00:00",
      "summary": "זה רק נראה לנו טבעי, אבל בלי שהרגשנו האפליקציות שמנהלות את חיינו מתכנסות למודל המשלב הימורי ספורט ושוקי תחזיות עם מסחר באופציות וקריפטו. לא בטוח שנצליח להיגמל"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#8",
      "title": "העליות בבורסה התמתנו; פלרם קורסת ב-14%",
      "published": "2026-11-27T07:11:48+00:00",
      "summary": "אחרי העליות החזקות אתמול עם סגירת המסחר, המדדים המובילים ממשיכים לעלות ■ סקטור האנרגיה לוהט: נופר, דוראל ואנלייט קופצות במסחר ■ על רקע האופטימיות בזירה הפוליטית, שער הדולר יורד ל–3.29 שקלים"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#9",
      "title": "בשוק ההון מריחים קואליציה ומזניקים את המדדים",
      "published": "2026-11-27T06:41:38+00:00",
      "summary": "הבורסה בתל אביב תיפתח לאחר שאתמול נסגרה בעליות, על רקע הדיווחים על חלוקת התיקים לקראת הקמת ממשלת שינוי ■ לרגל חג ההודיה: מסחר מקוצר בוול סטריט ■ הסקטורים המרכזיים שזינקו אתמול: הנדל\"ן והאנרגיה ■ אילו עוד מניות ירכזו עניין?"
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#10",
      "title": "\"רבים מתושבי שכונת בן דור בנשר לא יכולים לעזוב, אבל מי שיכול— עוזב למקום אחר\"",
      "published": "2026-11-27T04:43:40+00:00",
      "summary": "חנה רוט גרה בשכונת בן דור בנשר מיום שנולדה, אוהבת במיוחד את הנוף שנשקף ממנה, וחושבת שאין ברירה אלא לעשות בשכונה תהליכי פינוי-בינוי. \"כבר כיום הרחוב עמוס בתושבים. אמנם זה לא אידיאלי, אבל אני מעדיפה מגדלים על בנייה בשטח אדמה פתוח\""
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#11",
      "title": "שתי דירות בירושלים נמכרו ב–3.5 מיליון שקל: באחת 3 חדרים ובשנייה 4.5 חדרים",
      "published": "2026-11-27T04:43:04+00:00",
      "summary": "וגם: בכרמיאל נמכר בית דו־משפחתי בן 5 חדרים, עם גינה של 122 מ''ר וחניה, תמורת 2.55 מיליון שקל ■ ובשדרות רוטשילד בתל אביב נמכרה דירת 4 חדרים בקומה 4 מתוך 6 — ב–10.3 מיליון שקל"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#12",
      "title": "\"כמו רוטשילד, רק בלי מכוניות\": האם המגדלים החדשים יחנקו את בית רומנו ופארק המסילה המצליחים בתל אביב?",
      "published": "2026-11-27T04:31:43+00:00",
      "summary": "בעיריית תל אביב אמנם הבטיחו את שימור בית רומנו המיתולוגי בדרום העיר, אך תושבים, בעלי עסקים ומתכננים חוששים מהקמת מגדלים על פארק המסילה, שעלולים לגרום לקסם של המתחם — עם בתי הקפה והמסעדות, הגלריות, המוזיקה וחיי הלילה — להיעלם מהאזור, ועמו הקהל. \"צריך להתייחס לפארק המסילה בתור עוד שדרות רוטשילד, רק בלי מכוניות\""
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#13",
      "title": "אורן וינטר, מנכ\"ל סיילספורס ישראל: \"אני לא רואה מהנדסים בפאניקה. זה יותר הייפ מאשר מציאות\"",
      "published": "2026-11-27T04:30:54+00:00",
      "summary": "אורן וינטר, מנהל סיילספורס ישראל, טוען שלהייטקיסטים אין סיבה אמיתית לחשוש שיוחלפו בבינה מלאכותית, אבל מודה שהם עובדים קשה מאי־פעם ושקצב הגיוס נבלם. בינתיים, החברה בהובלתו מתרחבת בישראל בשורה של רכישות, וגם היא צריכה להוכיח שסוכני ה־AI לא ייקחו לה את הלקוחות"
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#14",
      "title": "צה\"ל מחולל אקזיטים ופערים — והמדינה מחפשת שם כסף לתקציבי הביטחון",
      "published": "2026-11-27T04:29:53+00:00",
      "summary": "מכירת דקארט לאמזון ב–7.5 מיליארד דולר מחזירה לדיון את השאלה כמה מקבלת המדינה מהאקזיטים של בוגרי היחידות הטכנולוגיות של צה\"ל. רשות המסים דורשת עוד מיליארדים ממייסדי וויז ומחפשת דרכים להגדיל את הגבייה, בזמן שהפער בתקציב הביטחון מגיע לכ–30 מיליארד שקל"
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#15",
      "title": "\"בחיים האמיתיים המשחק קשה. שם הכל הגיוני — אם אתה עובד קשה, אתה מתקדם ומצליח\"",
      "published": "2026-11-27T04:29:32+00:00",
      "summary": "עבור מי שגדלו על משחקי מחשב כמו מייפל סטורי, המשחקים שחזרו לאחרונה בגרסאות קלאסיות הם הרבה יותר מנוסטלגיה: בני 30 ו–40, בהם הורים לילדים שמנהלים קריירה, משקיעים בהם שעות, כסף ואנרגיה, סוחרים בנכסים וירטואליים ומוצאים בהם קהילה ומפלט מהחיים האמיתיים. חברות הגיימינג, מצדן, יודעות להפוך את זה למנועי צמיחה במינימום השקעה"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#16",
      "title": "\"מושב בן עמי זה מקום שקט, ירוק, עם נוף פתוח — ובכל עונות השנה מרגישים כאן את הטבע\"",
      "published": "2026-11-27T04:26:54+00:00",
      "summary": "אחרי שנים בנהריה, הילה שריר צ'רונה ובעלה פלד חיפשו בית פרטי באזור, ומצאו בית בסגנון טוסקני במושב בן עמי הסמוך. \"כשהגענו לכאן זה החזיר אותי לתקופה שבה נהריה הייתה מושבה — יותר מרחבים ופחות כבישים. מצאנו כאן מקום שתואם את הציפיות והאופי שלנו\""
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#17",
      "title": "החזייה האדומה של הקפיטליזם האמריקאי",
      "published": "2026-11-27T04:24:38+00:00",
      "summary": "בתמונה ששיתף השבוע דונלד טראמפ מסתמן שהמדינה היא אני, החברה היא אני, מה שטוב למנכ\"ל אנבידיה ולנשיא ארה\"ב טוב גם לכם. תחיו עם זה. ואל תשכחו למחוא כפיים שם בקהל"
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#18",
      "title": "ברחבי העולם צוחקים עליהם - אבל מקנאים מאוד בפנסיות שלהם",
      "published": "2026-11-27T04:24:27+00:00",
      "summary": "מיטב הסיפורים החשובים והמעניינים בכלכלה העולמית השבוע"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#19",
      "title": "גם אחרי המוות קשה פה: לדברי הקברנים, ללא ייקור הקבורה במאות אחוזים — לא יישאר מקום למתים",
      "published": "2026-11-27T04:23:27+00:00",
      "summary": "חברות קדישא דורשות לייקר במאות אחוזים את הקבורה לצורך מימון הקמתם של בנייני קבורה בקומות — בהשקעה של מאות מיליוני שקלים ■ קבלנים כבר נשכרו והחלו בעבודות, הלוואה של 300 מיליון שקל כבר נלקחה, והקברנים מתריעים כי ללא הייקור החד לא יישאר מקום למתים ■ הממשלה החדשה שתקום תידרש להכריע בגורלה של עוד מערכת המשוועת לרפורמה"
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#20",
      "title": "המחתנים החדשים: \"חיתנתי טייסות שלמות, הייטקיסטים, יוצאי 8200, וזה גדל משנה לשנה\"",
      "published": "2026-11-27T04:23:22+00:00",
      "summary": "אף שהמחיר הוא לעתים פי חמישה, צעירים חילונים רבים רוצים כיום להיות אלה ששולטים בחתונה שלהם, ומעדיפים טקס חתונה פרטי־אזרחי על פני כזה הנערך על ידי רב מהרבנות ■ מחתן אלטרנטיבי: \"זו לא עמדה אנטי דתית. חשוב להם שיהיה קליל ושיוויוני\""
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#21",
      "title": "אחותי קיבלה במתנה בית, ובכל זאת לא מצליחה להתקיים. יש אנשים עם אפס כישורי חיים",
      "published": "2026-11-27T04:22:40+00:00",
      "summary": "למה לא כדאי להעסיק מי שמקטר על תואר ראשון, איפה עדיין אוספים מזומן בלייים כל יום שישי ומה אתם הייתם עושים אם מילואימניקים היו עובדים בחברה שלכם ■ הטוקבקים הנבחרים של השבוע ב-TheMarker"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#22",
      "title": "בגלל הטיל האיראני והצורך בשיפוץ כללי — הדירה נמכרה ב–470 אלף שקל בלבד",
      "published": "2026-11-27T04:22:19+00:00",
      "summary": "דירת 4 חדרים בדימונה, שנרכשה להשקעה לפני כמה שנים, נמצאת בבניין שספג פגיעת הדף במרץ ■ הבעלים, זוג צעיר מהמרכז, העדיפו לממש את הנכס עוד לפני השיפוץ והציע אותה במחיר אטרקטיבי ■ הרוכשים הגיעו מאזור ירושלים וחיפשו דירה במחיר נמוך באזור עם הטבות מס"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#23",
      "title": "ארבעת המופלאים: לא התמודדו בבחירות, אבל ניצחו אותן",
      "published": "2026-11-27T04:22:14+00:00",
      "summary": "בזמן שכולם הולכים לאיבוד בין צירי המשא ומתן הממוקבלים – יש מי שכבר סופרים את הכסף במדרגות"
     },
     {
-     "ref": "themarker#22",
+     "ref": "themarker#24",
      "title": "רכישת חברות בקצב מסחרר ושובל של סכסוכים: מיהו באמת רונן אלעד, בעל הבית החדש של ארקיע?",
      "published": "2026-11-27T04:21:32+00:00",
      "summary": "זמן קצר אחרי ששמו עלה לראשונה, רונן אלעד כבר הוכרז כזוכה ברכישת ארקיע ■ האם איש העסקים שרכש בשנה האחרונה חברות במאות מיליוני שקלים הספיק לבדוק לעומק את החברה שמפסידה עשרות מיליוני דולרים, ולא פחות חשוב — מה אפשר ללמוד מהסכסוכים המשפטיים עם שותפיו לשעבר?"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "באוצר זועמים על ההייטק — אבל למה הם מופתעים?",
-     "published": "2026-11-26T17:17:27+00:00",
-     "summary": "מה יהיה עם האימפריה של חיים כצמן, מה קורה בערוץ 16 ולמה דורשים מדיירים לשלם ארנונה גם בבית שנפגע מרקטה ■ כל מה שצריך לדעת על היום שהיה בכלכלה"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "אדלטק ניסתה למנוע חילוט ערבות של 4 מיליון שקל, נדחתה — ותשלם גם הוצאות",
-     "published": "2026-11-26T15:33:13+00:00",
-     "summary": "החברה זכתה במכרז להקמת מתקן סולארי ב–2019, אבל לא הקימה אותו ■ רשות החשמל החליטה לחלט את הערבות שהפקידה החברה ■ בנוסף, אדלטק תשלם הוצאות משפט בסך 15 אלף שקל"
     }
    ]
   },
@@ -367,14 +367,14 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "wsj_markets#0",
      "title": "Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
-     "published": "2026-11-27T11:21:00+00:00",
-     "summary": "U.S. markets will reopen for a shorter session today, with all three major indexes standing to extend gains this week."
+     "published": "2026-11-27T11:35:00+00:00",
+     "summary": "U.S. stock futures rallied ahead of a shorter session today, with all three major indexes standing to extend gains this week."
     },
     {
      "ref": "wsj_markets#1",
-     "title": "Fed’s Hawkish Stance Seen Supportive of Dollar",
+     "title": "ECB Leadership Change Has No Material Impact on Euro",
      "published": "2026-11-27T10:49:00+00:00",
-     "summary": "The dollar rose but the Federal Reserve still has a long way to go to get inflation back to its 2% target, Brown Brothers Harriman said."
+     "summary": "The euro was flat against the dollar and Brown Brothers Harriman said the ECB leadership change was unlikely to alter the near-term policy outlook had no material implication for the currency."
     },
     {
      "ref": "wsj_markets#2",
@@ -520,9 +520,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3950.0801,
+   "last": 3940.0901,
    "prev_close": 3881.27,
-   "change_pct": 1.77,
+   "change_pct": 1.52,
    "as_of": "2026-11-27"
   },
   "SP500": {
@@ -534,23 +534,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3029,
+   "last": 3.3131,
    "prev_close": 3.3783,
-   "change_pct": -2.23,
+   "change_pct": -1.93,
    "as_of": "2026-11-27"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 92.04,
+   "last": 92.03,
    "prev_close": 94.61,
-   "change_pct": -2.72,
+   "change_pct": -2.73,
    "as_of": "2026-11-27"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 61624.9219,
+   "last": 61459.6094,
    "prev_close": 60494.7109,
-   "change_pct": 1.87,
+   "change_pct": 1.6,
    "as_of": "2026-11-27"
   }
  },

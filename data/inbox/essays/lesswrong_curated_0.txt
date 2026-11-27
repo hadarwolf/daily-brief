@@ -154,6 +154,8 @@ Not saying we won't get an ASI that makes all of this academic, but I don't thin
 
 Looking back, was superhuman math/programming trivially implied?
 
+I don't think this is quite all there is to it. Yes, military relevance is important, but you're also completely sweeping under the rug how the changing nature of labour also changed what kind of work was most productive and efficient. Giving workers more education and autonomy makes them better in more sophisticated, diversified economies, as large slave workforces suffer all the ills of a centralised economy, and thus it was genuinely better for productivity that workers not be slaves any more. One could ask for an example of a modern, industrialised, free economy pitted against an obsolete, chattel-slavery agrarian one to see what happens... and lo and behold, we have one: the American Civil War. And the North kicked the South's ass in industrial productivity first and foremost (which of course also translates into economic relevance, since cannons and ammo and such need to be made in factories).
+
 Related (overall a useful but incomplete model):
 
 The age of peak democracy is already over. There was a period roughly from the American Revolution till the Spanish Civil War (i.e. 1776 to 1939) when popular revolts were a serious concern because the military technology favored strength in numbers even with amateur fighters. Since the 20th century, tanks and airplanes and rockets—expensive and specialist weaponry—allow even weak states to resist popular revolts (they can still suffer coups from low morale etc). Since the end of this period, democratic power has also declined, with legislatures subordinated to bureaucracies and where a global elite culture increasingly ignores the masses to institute unpopular policies. [Related (paywalled) reading from Ben Landau-Taylor.]
@@ -199,6 +201,10 @@ As of today, more parts of the modern military itself is dedicated to non-kineti
 Today's wars are still incredibly driven by humans, humans that are better educated, fed, trained, and specialized more than ever.
 
 But soldiers MUST be paid and they must be paid better than base labourers! Soldiers are paid with money. Money, at least before AI, was the economic excess productivity of the workforce over what they needed to produce to support themselves. Economics rules.
+
+No they don't. Today's western professional armies do, but this is a quirk of the culture, not a historical truth. They need to be fed, true, and if they're promised wages they will revolt if they don't get them, but there have been many (maybe even most) armies that got paid a lot less than a labourer would be. This tends to get evened out by the promise of loot or a big final payment once their term or campaign has finished. Conscripts are a time honored way of getting a large army, and conscripts tend not to be paid much.
+
+The number of soldiers you have is not that connected to how rich you are. North Korea doesn't seem that rich of a country and 5% of the population is in the army. A better argument would be how expensive your equipment is - your random third world country is not going to have a modern air force. They'll have a bunch of guys with AK-47s and technicals.
 
 This is a timely post. I think the gradual disempowerment thesis over-emphasised economic value as THE way citizens resist being oppressed by governments. Military relevance is definitely another aspect of citizens' bargaining power (and this one has been reasonably well studied by historians over the years — just ask any AI to summarise the research, it goes all the way back to Aristotle.). But I do feel there's a more general analysis worth doing (I've been trying to do this myself this year) into how groups attain and use leverage of various kinds — military power, economic contributions, information asymmetries, ability to coordinate among themselves, etc — depending on the time and place.
 

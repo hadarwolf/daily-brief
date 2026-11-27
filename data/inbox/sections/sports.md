@@ -59,6 +59,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-27T19:45:00Z",
+     "home": "Brest",
+     "away": "Paris FC",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-27T19:45:00Z",
      "home": "Venezia FC",
@@ -67,10 +75,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-27T19:45:00Z",
-     "home": "Brest",
-     "away": "Paris FC",
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-27T20:00:00Z",
+     "home": "Nottingham",
+     "away": "Chelsea",
      "status": "TIMED",
      "score": null
     },
@@ -88,14 +96,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Southampton",
      "away": "Middlesbrough",
      "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-27T20:00:00Z",
-     "home": "Nottingham",
-     "away": "Chelsea",
-     "status": "TIMED",
      "score": null
     },
     {
@@ -714,63 +714,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "MLS Playoffs: Crew 1 win away from huge upset of Messi, Miami - WSYX",
-     "published": "2026-11-27T11:19:10+00:00",
-     "summary": "MLS Playoffs: Crew 1 win away from huge upset of Messi, Miami WSYX"
+     "title": "Lionel Messi Vs Cristiano Ronaldo Again? Carlos Tevez's Testimonial Match Promises Star-Studded Lineup - Outlook India",
+     "published": "2026-11-27T11:33:35+00:00",
+     "summary": "Lionel Messi Vs Cristiano Ronaldo Again? Carlos Tevez's Testimonial Match Promises Star-Studded Lineup Outlook India"
     },
     {
      "ref": "gnews_inter_miami#1",
+     "title": "Will Lionel Messi play tonight for Inter Miami vs Columbus Crew in MLS 2026 Playoffs Round One Game 2? - Khel Now",
+     "published": "2026-11-27T11:23:00+00:00",
+     "summary": "Will Lionel Messi play tonight for Inter Miami vs Columbus Crew in MLS 2026 Playoffs Round One Game 2? Khel Now"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "MLS Playoffs: Crew 1 win away from huge upset of Messi, Miami - WSYX",
+     "published": "2026-11-27T11:18:05+00:00",
+     "summary": "MLS Playoffs: Crew 1 win away from huge upset of Messi, Miami WSYX"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Lionel Messi to play in Carlos Tevez’s testimonial in Argentina in December - The New York Times",
      "published": "2026-11-27T11:08:09+00:00",
      "summary": "Lionel Messi to play in Carlos Tevez’s testimonial in Argentina in December The New York Times"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
+     "title": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 - FOX Sports",
+     "published": "2026-11-27T11:02:46+00:00",
+     "summary": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
      "title": "Lionel Messi embracing MLS supervillain role with Inter Miami CF - The Columbus Dispatch",
      "published": "2026-11-27T10:07:00+00:00",
      "summary": "Lionel Messi embracing MLS supervillain role with Inter Miami CF The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#6",
      "title": "Where is Kieran Gibbs? - The Football Week",
      "published": "2026-11-27T10:05:10+00:00",
      "summary": "Where is Kieran Gibbs? The Football Week"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 - FOX Sports",
-     "published": "2026-11-27T09:32:46+00:00",
-     "summary": "Columbus vs. Inter Miami CF - Live Score - November 27, 2026 FOX Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "Columbus Crew vs. Inter Miami prediction favors Columbus Crew in MLS Playoffs on Black Friday 2026 - Dimers",
      "published": "2026-11-27T08:01:38+00:00",
      "summary": "Columbus Crew vs. Inter Miami prediction favors Columbus Crew in MLS Playoffs on Black Friday 2026 Dimers"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Forbes Puts Messi's Net Worth at $1.1 Billion - Wisevoter",
      "published": "2026-11-27T07:02:53+00:00",
      "summary": "Forbes Puts Messi's Net Worth at $1.1 Billion Wisevoter"
     },
     {
-     "ref": "gnews_inter_miami#7",
-     "title": "Messi confirms Tevez testimonial as Ronaldo showdown in offing - Al Jazeera",
-     "published": "2026-11-27T06:54:46+00:00",
-     "summary": "Messi confirms Tevez testimonial as Ronaldo showdown in offing Al Jazeera"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Messi, Suarez and Inter Miami face must-win clash in Columbus - EWN",
      "published": "2026-11-27T06:51:58+00:00",
      "summary": "Messi, Suarez and Inter Miami face must-win clash in Columbus EWN"
-    },
-    {
-     "ref": "gnews_inter_miami#9",
-     "title": "CLBvsMIA 11-27-2026 | MLS Match Recap - MLSsoccer.com",
-     "published": "2026-11-27T06:46:03+00:00",
-     "summary": "CLBvsMIA 11-27-2026 | MLS Match Recap MLSsoccer.com"
     },
     {
      "ref": "gnews_inter_miami#10",
@@ -822,45 +822,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#18",
-     "title": "Where to Watch Columbus Crew vs. Inter Miami CF: TV Channel, Start Time and Live Stream - Bleacher Nation",
-     "published": "2026-11-27T03:16:18+00:00",
-     "summary": "Where to Watch Columbus Crew vs. Inter Miami CF: TV Channel, Start Time and Live Stream Bleacher Nation"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
      "title": "Luis Suárez confirms contract talks with Inter Miami - ESPN Singapore",
      "published": "2026-11-27T02:40:50+00:00",
      "summary": "Luis Suárez confirms contract talks with Inter Miami ESPN Singapore"
     },
     {
-     "ref": "gnews_inter_miami#20",
-     "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-11-27T02:04:22+00:00",
-     "summary": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#19",
      "title": "Watch Columbus Crew vs Inter Miami Live: Streaming, TV Channel & Start Time - FOX One",
      "published": "2026-11-27T00:01:36+00:00",
      "summary": "Watch Columbus Crew vs Inter Miami Live: Streaming, TV Channel & Start Time FOX One"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami CF vs. Columbus Crew - November 27, 2026 - Bleacher Report",
      "published": "2026-11-27T00:00:31+00:00",
      "summary": "Inter Miami CF vs. Columbus Crew - November 27, 2026 Bleacher Report"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#21",
      "title": "Columbus Crew Face Inter Miami in Playoff Game - Wisevoter",
      "published": "2026-11-26T23:52:55+00:00",
      "summary": "Columbus Crew Face Inter Miami in Playoff Game Wisevoter"
     },
     {
+     "ref": "gnews_inter_miami#22",
+     "title": "Suarez: The time for excuses is over for Miami - beIN SPORTS",
+     "published": "2026-11-26T21:10:23+00:00",
+     "summary": "Suarez: The time for excuses is over for Miami beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "Lionel Messi in danger: What are Inter Miami’s chances of reaching the MLS playoff semifinals? - Diario AS",
+     "published": "2026-11-26T20:18:44+00:00",
+     "summary": "Lionel Messi in danger: What are Inter Miami’s chances of reaching the MLS playoff semifinals? Diario AS"
+    },
+    {
      "ref": "gnews_inter_miami#24",
-     "title": "Messi tops MLS salaries with Lewandowski next - AFP.com",
-     "published": "2026-11-26T23:17:25+00:00",
-     "summary": "Messi tops MLS salaries with Lewandowski next AFP.com"
+     "title": "Lionel Messi’s Inter Miami visit Columbus as Crew supporters’ group clashes with front office over Miami je... - World Soccer Talk",
+     "published": "2026-11-26T19:43:49+00:00",
+     "summary": "Lionel Messi’s Inter Miami visit Columbus as Crew supporters’ group clashes with front office over Miami je... World Soccer Talk"
     }
    ]
   },
