@@ -1,0 +1,141 @@
+{
+  "section": "business",
+  "date": "2026-11-27",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-27T03:54:31+00:00",
+  "stories": [
+    {
+      "id": "nvidia-governance-crisis",
+      "kind": "analysis",
+      "en": {
+        "headline": "Nvidia's 11-Day CEO Crisis Is Rattling Credit Raters and the Whole AI Trade",
+        "scroll": "Nvidia ousted, then rehired, CEO Jensen Huang in 11 days after Trump intervened — and credit raters, hedge funds and pension-dependent markets are now absorbing the aftershocks.",
+        "coffee": "Nvidia's own board ousted CEO Jensen Huang, then reinstated him 11 days later after President Trump personally intervened — reportedly before investors had time to work out what either move, the firing or the rehiring, actually meant for the company. The reversal landed in the middle of an already-violent AI-stock selloff: the Nasdaq plunged as much as 4.5% in a single session midweek before paring most of the losses, while the Fed signaled it remains more worried about inflation than about the market turmoil and is staying on course to raise rates.\n\nThe governance drama has real financial consequences. S&P is reportedly weighing a downgrade of Nvidia's credit rating, citing weaknesses in its management, and Moody's has already cut its outlook on the company. A downgrade raises a company's cost of capital — the rate it pays to borrow — right as Nvidia and its AI peers pour unprecedented sums into chips and data centers, a race where cheap financing is close to a competitive necessity. A separate report that Nvidia's sales chief married a former Super Micro executive whose old company has been linked to chip-smuggling allegations added to the pile-up of governance headlines.\n\nThe ripples are systemic: the dollar is on pace for its longest monthly winning streak in two years as the AI-trade rupture and rising rates drove investors toward havens, even as Asian tech stocks clawed back some losses. A hedge fund tied to researcher Leopold Aschenbrenner told investors it lost 65% last quarter, and commentary this week noted that even New York City's pension funds ride on these same swings.",
+        "deep": "## Background\n\nNvidia's chips are the physical infrastructure of the current AI boom: nearly every major AI lab is a customer, and for more than a year the company's stock swings have functioned as a rough proxy for market sentiment on the broader \"AI trade\" — the collective bet that AI spending keeps generating returns across the economy. When Nvidia wobbles, it tends to drag Asian tech shares, US futures, gold and even currency markets with it, because so much capital is tied to the same bet through index funds, pension allocations and credit markets. That is the backdrop against which this week's governance scare and credit-rating scrutiny are landing.\n\n## The 11 Days\n\nNvidia's board ousted CEO Jensen Huang, only to bring him back 11 days later after President Trump personally intervened — reportedly before investors had a real chance to assess what either decision, the firing or the reinstatement, meant for the company's direction. The reversal played out against a market already lurching from AI-trade volatility: the Nasdaq plunged as much as 4.5% in a single session midweek before paring most of its losses, and the Federal Reserve signaled it remains more concerned about inflation than about the stock-market turmoil, leaving it on course to raise rates regardless.\n\n## Why Credit Raters Are Watching\n\nGovernance drama has concrete financial consequences, and credit-rating agencies are now pricing it in. S&P is reportedly weighing a downgrade of Nvidia's credit rating, citing weaknesses in its management, and Moody's has already cut its outlook on the company. A credit rating is essentially a report card on how likely a borrower is to repay its debts on time; agencies read board instability and a politically engineered CEO reversal as a governance red flag, independent of whether Huang is the right person for the job. A downgrade matters because it raises a company's cost of capital — the interest rate it must pay to borrow — exactly as Nvidia and its AI-industry peers pour unprecedented sums into chip fabrication and data centers, a race in which access to cheap financing is close to a competitive necessity. The week added another wrinkle: reporting surfaced that Nvidia's sales chief married a former Super Micro executive whose past company has been linked to chip-smuggling allegations, adding to the headlines putting the company's internal oversight under a microscope.\n\n## Second-Order Effects\n\nBecause Nvidia sits at the center of the AI trade, its troubles ripple outward in fairly predictable ways. The dollar is on track for its longest monthly winning streak in two years, as the rupture in the AI trade combined with rising rates pushed investors toward haven assets — even as Asian tech shares clawed back some of their recent losses and extended a tentative recovery. The volatility has also claimed casualties among sophisticated investors: a hedge fund linked to AI researcher Leopold Aschenbrenner told its investors it lost 65% of its value in the third quarter, a reminder that even specialists who follow the AI trade closely have struggled to navigate its swings. The exposure runs deeper than hedge funds, too: commentary this week pointed out that New York City's own pension funds — and so the retirement security of its public employees — ride on the same stock-market returns that Nvidia's chaos has been shaking, while separately a US ironworkers' pension plan has reached full funding largely thanks to the broader multi-year stock rally, underlining how much ordinary retirement savings now depend on exactly this kind of market.\n\n## What to Watch Next\n\nThe next concrete marker is whether S&P follows through with an actual downgrade rather than just a warning, and how Moody's outlook cut evolves from here. Beyond Nvidia itself, watch whether the Fed's determination to keep raising rates despite stock-market turmoil forces a sharper reckoning in the AI trade, and whether this week's pattern — a single company's governance crisis triggering a credit-rating review, a market reaction and knock-on effects across currencies and pension funds — becomes a template for how markets treat the next AI-industry stumble, or stays an outlier produced by the unusual spectacle of a president personally brokering a CEO's return."
+      },
+      "he": {
+        "headline": "11 הימים שזעזעו את אנבידיה — וחשפו את השבריריות של מסחר ה-AI",
+        "scroll": "אנבידיה פיטרה ואז החזירה את המנכ\"ל ג'נסן הואנג בתוך 11 יום בעקבות התערבות של טראמפ — וסוכנויות הדירוג, קרנות גידור וקרנות פנסיה סופגות כעת את ההדים.",
+        "coffee": "בתוך 11 יום הדירקטוריון של אנבידיה פיטר את המנכ\"ל ג'נסן הואנג, ואז החזיר אותו לתפקיד, אחרי שהנשיא טראמפ התערב באופן אישי כדי להשיב אותו — ולפי הדיווחים, לפני שמשקיעים הצליחו להבין מה בעצם המשמעות של כל אחת מההחלטות, הפיטורים או ההחזרה, לכיוון החברה. ההפיכה הזו נחתה בתוך גל תנודתיות חריף שכבר פקד את מניות הבינה המלאכותית (AI): מדד הנאסד\"ק צנח בשיא של 4.5% במהלך מושב בודד באמצע השבוע לפני שמחק את רוב ההפסדים, בזמן שהפדרל ריזרב אותת שהוא עדיין מודאג יותר מאינפלציה מאשר מהסערה בשוק המניות ונותר על מסלול להעלות ריבית.\n\nלדרמה הממשלית יש השלכות כלכליות ממשיות. לפי הדיווחים, S&P שוקלת להוריד את דירוג האשראי (credit rating) של אנבידיה, בטענה לחולשות בהנהלה, ומודי'ס כבר הורידה את התחזית לחברה. הורדת דירוג מייקרת את עלות ההון (cost of capital) של חברה — הריבית שהיא נדרשת לשלם כדי לגייס כסף — בדיוק כשאנבידיה וחברות הבינה המלאכותית האחרות משקיעות סכומים חסרי תקדים בשבבים ובמרכזי נתונים, תחרות שבה גישה להון זול היא כמעט תנאי הישרדות. דיווח נפרד לפיו סמנכ\"לית המכירות של אנבידיה נישאה לבכיר לשעבר בסופר מיקרו (Super Micro), חברה שנקשרה לחשדות הברחת שבבים, הצטרף לערימת הכותרות שמעמידות את הממשל התאגידי (corporate governance) של החברה בבחינה.\n\nהגלים מתפשטים באופן מערכתי: הדולר בדרך לרצף העליות החודשי הארוך ביותר שלו בשנתיים, כשהקרע במסחר ה-AI ביחד עם הריבית העולה דחפו משקיעים לעבר נכסי מבטחה (haven assets), וזאת בזמן שמניות הטכנולוגיה באסיה כבר התחילו לכבוש בחזרה חלק מההפסדים. קרן גידור הקשורה לחוקר ליאופולד אשנברנר הודיעה למשקיעים שהפסידה 65% ברבעון השלישי, וטור דעה שפורסם השבוע הזכיר שגם קרנות הפנסיה של עיריית ניו יורק רוכבות על אותן תנודות בדיוק.",
+        "deep": "## רקע\n\nהשבבים של אנבידיה הם התשתית הפיזית של גל הבינה המלאכותית (AI) הנוכחי: כמעט כל מעבדת AI מובילה היא לקוחה שלה, ומזה יותר משנה התנודות במניית החברה משמשות כמדד גס למצב הרוח של השווקים סביב מה שמכונה 'מסחר ה-AI' (AI trade) — ההימור הרחב שההשקעה בבינה מלאכותית תמשיך להצמיח תשואות בכל המשק. כשאנבידיה נתקלת בבעיה, היא נוטה לסחוב אחריה את מניות הטכנולוגיה באסיה, את החוזים העתידיים בארה\"ב, את הזהב ואפילו את שוקי המטבעות, כי כמות ההון שמוטה לאותו הימור — דרך קרנות מחקות מדד, הקצאות פנסיוניות ושוקי האג\"ח — עצומה. זה הרקע שעליו נחתים הפחד מהממשל התאגידי (corporate governance) ובחינת דירוג האשראי השבוע.\n\n## 11 הימים\n\nהדירקטוריון של אנבידיה עצמו פיטר את המנכ\"ל ג'נסן הואנג, רק כדי להחזיר אותו לתפקיד 11 יום לאחר מכן, בעקבות התערבות אישית של הנשיא טראמפ — ולפי הדיווחים, לפני שמשקיעים הספיקו להבין בבירור מה בעצם משמעות כל אחת מההחלטות, הפיטורים או ההחזרה, לכיוון החברה. ההפיכה הזו קרתה על רקע שוק שכבר מתנדנד מתנודתיות במסחר ה-AI: מדד הנאסד\"ק צנח בשיא של 4.5% במהלך מושב בודד באמצע השבוע לפני שמחק את רוב ההפסדים, והפדרל ריזרב אותת שהוא עדיין מודאג יותר מאינפלציה מאשר מהסערה בשוק המניות, ונותר על מסלול להעלות ריבית בכל מקרה.\n\n## למה סוכנויות הדירוג עוקבות\n\nלדרמה הממשלית יש השלכות כלכליות ממשיות, וסוכנויות דירוג האשראי כבר מתמחרות אותן. לפי הדיווחים, S&P שוקלת להוריד את דירוג האשראי (credit rating) של אנבידיה, בטענה לחולשות בהנהלה, ומודי'ס כבר הורידה את התחזית לחברה. דירוג אשראי הוא בעצם תעודת הערכה למידת הסבירות שלווה יחזיר את חובותיו בזמן; סוכנויות הדירוג קוראות באי-יציבות בדירקטוריון ובהפיכה שנוצרה בלחץ פוליטי סימן אזהרה ממשלי, בלי קשר לשאלה אם הואנג עצמו הוא האדם הנכון לתפקיד. הורדת דירוג חשובה כי היא מייקרת את עלות ההון (cost of capital) של החברה — הריבית שהיא נדרשת לשלם כדי לגייס כסף — בדיוק כשאנבידיה וחברות הבינה המלאכותית האחרות משקיעות סכומים חסרי תקדים בייצור שבבים ובמרכזי נתונים, תחרות שבה גישה להון זול היא כמעט תנאי הישרדות. השבוע נוסף קמט ממשלי נוסף: התגלה שסמנכ\"לית המכירות של אנבידיה נישאה לבכיר לשעבר בסופר מיקרו (Super Micro), חברה שנקשרה בעבר לחשדות הברחת שבבים — עוד כותרת שמצטרפת לערימת הסימנים שמעמידים את הפיקוח הפנימי בחברה במבחן.\n\n## אפקטים מסדר שני\n\nמכיוון שאנבידיה נמצאת במרכז מסחר ה-AI, הצרות שלה מתפשטות החוצה בדרכים צפויות למדי. הדולר בדרך לרצף העליות החודשי הארוך ביותר שלו בשנתיים, כשהקרע במסחר ה-AI ביחד עם הריבית העולה דחפו משקיעים לעבר נכסי מבטחה (haven assets) — וזאת בזמן שמניות הטכנולוגיה באסיה התחילו לכבוש בחזרה חלק מההפסדים האחרונים ולהאריך התאוששות זהירה. לתנודתיות הזו היו גם קורבנות בין המשקיעים המתוחכמים: קרן גידור הקשורה לחוקר הבינה המלאכותית ליאופולד אשנברנר הודיעה למשקיעים שהפסידה 65% מערכה ברבעון השלישי — תזכורת לכך שגם מי שמכיר את מסחר ה-AI מקרוב נאבק להתמודד עם התנודות שלו. והחשיפה חוצה הרבה יותר מקרנות גידור: טור דעה שפורסם השבוע הצביע על כך שקרנות הפנסיה של עיריית ניו יורק עצמה — ולכן הביטחון הפנסיוני של עובדי העיר — רוכבות על אותן תשואות בשוק המניות שהכאוס של אנבידיה מנענע, ובמקביל קרן פנסיה של עובדי מסגרות בארה\"ב הגיעה למימון מלא בעיקר בזכות העלייה המתמשכת בשוק המניות — תזכורת לכמה שחיסכון פנסיוני רגיל תלוי כיום בדיוק בסוג השוק הזה.\n\n## מה לעקוב אחריו הלאה\n\nהסימן הקונקרטי הבא הוא אם S&P תממש בפועל הורדת דירוג ולא תישאר רק באזהרה, ואיך תתפתח מכאן הורדת התחזית של מודי'ס. מעבר לאנבידיה עצמה, שימו עין על השאלה אם ההחלטיות של הפד להמשיך ולהעלות ריבית חרף הסערה בשוק המניות תדרבן זעזוע חד יותר במסחר ה-AI, ואם התבנית של השבוע הזה — משבר ממשלי בחברה אחת שמוביל לבחינת דירוג אשראי, לתגובה בשוק ולאפקטים נגררים על מטבעות וקרנות פנסיה — תהפוך לתבנית לאופן שבו השווקים יתייחסו למכשול הבא בתעשיית הבינה המלאכותית, או תישאר חריגה שנבעה מהתערבות הנדירה של נשיא בהחזרתו האישית של מנכ\"ל."
+      },
+      "tags": [
+        "nvidia",
+        "ai-trade",
+        "credit-ratings",
+        "corporate-governance"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+          "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
+          "url": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+          "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+          "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+          "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
+          "url": "https://www.wsj.com/opinion/zohran-mamdani-has-a-nvidia-revelation-1e048235?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+          "url": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "\"חולשות בהנהלת אנבידיה\": S&P שוקלת הורדת דירוג, מודי'ס כבר הורידה תחזית",
+          "url": "https://www.themarker.com/wallstreet/2026-11-26/ty-article/.premium/000001a2-1682-ded0-a5b6-d6a2339f0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "טראמפ נכשל: אפילו הוא לא יכול להכריח את שוק המניות לעלות",
+          "url": "https://www.themarker.com/wallstreet/2026-11-26/ty-article/.premium/000001a2-168a-d65c-a7bf-7eea3d460000"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Stocks Rise With Nasdaq Futures, Treasuries Fall: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+          "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3881.27,
+      "prev_close": 3792.3799,
+      "change_pct": 2.34,
+      "as_of": "2026-11-26"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7182.7798,
+      "prev_close": 7201.0898,
+      "change_pct": -0.25,
+      "as_of": "2026-11-25"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2982,
+      "prev_close": 3.3783,
+      "change_pct": -2.37,
+      "as_of": "2026-11-27"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 92.19,
+      "prev_close": 94.61,
+      "change_pct": -2.56,
+      "as_of": "2026-11-26"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 61489.4883,
+      "prev_close": 60378.1992,
+      "change_pct": 1.84,
+      "as_of": "2026-11-27"
+    }
+  }
+}

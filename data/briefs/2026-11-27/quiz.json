@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-27",
+  "questions": [
+    {
+      "id": "quiz-nvidia-governance",
+      "section": "business",
+      "story_id": "nvidia-governance-crisis",
+      "answer_index": 1,
+      "en": {
+        "question": "What happened at Nvidia that rattled credit-rating agencies and the wider AI trade this week?",
+        "options": [
+          "Nvidia announced it would stop selling AI chips outside the US",
+          "Nvidia's board fired CEO Jensen Huang, then reinstated him 11 days later after Trump intervened",
+          "A data breach exposed Nvidia's chip designs to competitors",
+          "Nvidia lost a major antitrust lawsuit over chip pricing"
+        ],
+        "explanation": "The board's abrupt firing and rehiring of Huang, with Trump stepping in personally, raised governance concerns that led S&P to weigh a credit downgrade and Moody's to cut its outlook."
+      },
+      "he": {
+        "question": "מה קרה באנבידיה שהבהיל את סוכנויות דירוג האשראי ואת כל מסחר ה-AI השבוע?",
+        "options": [
+          "אנבידיה הודיעה שתפסיק למכור שבבי AI מחוץ לארצות הברית",
+          "דירקטוריון אנבידיה פיטר את המנכ\"ל ג'נסן הואנג, ואז החזיר אותו לתפקיד 11 יום לאחר מכן בעקבות התערבות של טראמפ",
+          "פריצת מידע חשפה את תכנוני השבבים של אנבידיה למתחרים",
+          "אנבידיה הפסידה בתביעה אנטיטרסטית גדולה על תמחור שבבים"
+        ],
+        "explanation": "הפיטורים והחזרה הפתאומיים של הואנג, עם התערבות אישית של טראמפ, העלו חששות ממשל תאגידי שהובילו את S&P לשקול הורדת דירוג ואת מודי'ס להוריד תחזית."
+      }
+    },
+    {
+      "id": "quiz-change-government",
+      "section": "israeli_politics",
+      "story_id": "change-government-coalition-talks",
+      "answer_index": 1,
+      "en": {
+        "question": "What development this week pushed forward Gadi Eisenkot's effort to form a government without Likud?",
+        "options": [
+          "Naftali Bennett agreed to join the change bloc immediately, dropping his conditions",
+          "Litvak Haredi leaders were expected to bless formal coalition talks with Yahadut HaTorah, based on a tentative yeshiva-exemption framework",
+          "The Knesset dissolved itself and called new elections",
+          "Netanyahu announced he would resign as prime minister"
+        ],
+        "explanation": "The Litvak Haredi spiritual leaders were expected to approve formal negotiations between Yahadut HaTorah and Eisenkot, after a tentative understanding on a yeshiva-exemption framework — while Bennett actually postponed his own talks over unmet demands."
+      },
+      "he": {
+        "question": "מה קרה השבוע שקידם את המאמץ של גדי איזנקוט להרכיב ממשלה בלי הליכוד?",
+        "options": [
+          "נפתלי בנט הסכים להצטרף לגוש השינוי באופן מיידי, בלי התנאים שהעלה",
+          "מנהיגי הציבור החרדי-ליטאי צפויים לאשר מו\"מ קואליציוני רשמי עם יהדות התורה, על בסיס מתווה פטור ישיבות שעליו סוכם באופן ראשוני",
+          "הכנסת התפזרה וקבעה בחירות חדשות",
+          "נתניהו הודיע שיתפטר מראשות הממשלה"
+        ],
+        "explanation": "מנהיגי הציבור החרדי-ליטאי צפויים לאשר מו\"מ רשמי בין יהדות התורה לאיזנקוט, לאחר שסוכם מתווה פטור ישיבות ראשוני - בעוד בנט דווקא דחה את פגישת המו\"מ שלו בשל תנאים שלא מולאו."
+      }
+    },
+    {
+      "id": "quiz-anthropic-app-stores",
+      "section": "tech",
+      "story_id": "anthropic-apps-app-store-threat",
+      "answer_index": 3,
+      "en": {
+        "question": "Why does a new Claude feature reportedly worry Apple and Google's app-store businesses?",
+        "options": [
+          "It blocks Apple and Google apps from being installed on a phone",
+          "It replaces app-store search with a Claude-powered search engine",
+          "It lets Claude run on cheaper hardware than iPhones and Android phones",
+          "It lets any user describe an app, have Claude build it, and publish it directly, bypassing the stores' review process and payment cut"
+        ],
+        "explanation": "The feature lets users create and publish apps through Claude itself, which could sidestep both the app-review gatekeeping and the in-app payment cut that app stores rely on."
+      },
+      "he": {
+        "question": "למה פיצ'ר חדש בקלוד מדווח כמדאיג את חנויות האפליקציות של אפל וגוגל?",
+        "options": [
+          "הוא חוסם התקנה של אפליקציות אפל וגוגל על הטלפון",
+          "הוא מחליף את החיפוש בחנויות האפליקציות במנוע חיפוש מבוסס קלוד",
+          "הוא מאפשר לקלוד לרוץ על חומרה זולה יותר מאייפונים וטלפוני אנדרואיד",
+          "הוא מאפשר לכל משתמש לתאר אפליקציה, לגרום לקלוד לבנות אותה, ולפרסם אותה ישירות - תוך עקיפת תהליך הבדיקה והקופון על תשלומים שגובות החנויות"
+        ],
+        "explanation": "הפיצ'ר מאפשר למשתמשים ליצור ולפרסם אפליקציות ישירות דרך קלוד, מה שעלול לעקוף גם את תהליך הבדיקה שמפעילות החנויות וגם את הקופון שהן גוזרות מתשלומים בתוך האפליקציה."
+      }
+    }
+  ]
+}

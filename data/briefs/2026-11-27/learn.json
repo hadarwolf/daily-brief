@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-11-27",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-27T03:54:31+00:00",
+  "stories": [
+    {
+      "id": "word-arms-length-transaction",
+      "kind": "word",
+      "en": {
+        "headline": "Arm's-length transaction (עסקה בתנאי שוק)",
+        "scroll": "A deal between two independent parties, each looking out only for their own interest, so the price reflects fair market value rather than a special relationship.",
+        "coffee": "An arm's-length transaction is a deal where the buyer and seller have no special relationship — they're not family, not business partners, not two subsidiaries of the same parent company — so neither side has a reason to go easy on the other. The term matters most in tax law, accounting and antitrust enforcement, because regulators use it to tell a real market price apart from a deal structured to shift value or dodge taxes.\n\nExample: \"The board insisted the sale to the CEO's brother be reviewed to confirm it was an arm's-length transaction.\"",
+        "deep": "You'll hear this phrase most in M&A, real estate and transfer pricing — anywhere someone needs to prove a price wasn't manipulated by a hidden relationship.\n\n**Common confusion**: people assume it just means \"a normal deal\" or \"a fair deal.\" The precise test isn't the size, formality or apparent fairness of the transaction — it's the relationship between the parties. A tiny sale between cousins can be flagged as not arm's-length; a massive deal between two unrelated public companies clearly is, unless a hidden connection surfaces.\n\nMore examples:\n- \"Tax authorities require intercompany sales to be priced at arm's length.\"\n- \"Because the landlord was the mayor's business partner, regulators questioned whether the lease was arm's-length.\"\n\nHebrew: עסקה בתנאי שוק."
+      },
+      "he": {
+        "headline": "עסקה בתנאי שוק (Arm's-length transaction)",
+        "scroll": "עסקה בין שני צדדים בלתי תלויים, שכל אחד פועל רק לטובת האינטרס שלו - כך שהמחיר משקף שווי שוק אמיתי ולא יחסים מיוחדים.",
+        "coffee": "עסקה בתנאי שוק (arm's-length transaction) היא עסקה שבה לקונה ולמוכר אין קשר מיוחד - הם לא משפחה, לא שותפים עסקיים, ולא שתי חברות-בת של אותו תאגיד. בגלל זה אין לאף צד סיבה \"לוותר\" לצד השני, והמחיר שנקבע נחשב אמין. המונח מרכזי בדיני מיסים, בחשבונאות ובדיני תחרות, כי רשויות המס משתמשות בו כדי להבדיל בין מחיר שוק אמיתי לבין עסקה שתוכננה כדי להעביר רווחים או להתחמק ממס.\n\nדוגמה: \"הדירקטוריון דרש לבדוק שהמכירה לאחיו של המנכ\"ל נעשתה בתנאי שוק.\"",
+        "deep": "המונח הזה חוזר הרבה בדיני מיזוגים ורכישות, בעסקות נדל\"ן ובתמחור בין-חברתי (transfer pricing) - כל פעם שצריך להוכיח שמחיר לא היה מניפולטיבי.\n\n**בלבול נפוץ**: אנשים חושבים שהביטוי פשוט אומר \"עסקה רגילה\" או \"עסקה הוגנת\". בפועל המבחן המדויק הוא טיב הקשר בין הצדדים, ולא הגודל, הפורמליות או ההגינות הנתפסת של העסקה. גם עסקה קטנה בין קרובי משפחה יכולה להיחשד כלא-בתנאי-שוק, וגם עסקה ענקית בין שתי חברות ציבוריות זרות נחשבת כזו כברירת מחדל - אלא אם מתגלה קשר נסתר.\n\nעוד דוגמאות:\n- \"רשויות המס דורשות שמכירות בין-חברתיות יתומחרו בתנאי שוק.\"\n- \"מכיוון שבעל הבית היה שותף עסקי של ראש העיר, הרגולטור בדק אם חוזה השכירות היה בתנאי שוק.\"\n\nבאנגלית: arm's-length transaction."
+      },
+      "tags": [
+        "vocabulary",
+        "finance",
+        "law",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-bear-hug",
+      "kind": "word",
+      "en": {
+        "headline": "Bear hug (חיבוק דובי)",
+        "scroll": "An acquisition offer priced so generously that the target's board can't reject it without risking a lawsuit from its own shareholders.",
+        "coffee": "A bear hug is a takeover tactic: instead of negotiating quietly, the acquirer makes its offer public and prices it well above the target's current share price. That squeezes the board — reject a clearly generous bid and directors may face shareholder lawsuits for breaching their fiduciary duty; accept it and the company loses its independence. It's friendlier than a hostile raid, but the pressure on the board is just as real.\n\nExample: \"Investors expect the private-equity firm to deliver a bear hug once the retailer's shares bottom out.\"",
+        "deep": "A bear hug sits somewhere between a friendly merger, negotiated quietly between the two companies, and a hostile tender offer, where the acquirer goes straight to shareholders and bypasses the board entirely.\n\n**Common confusion**: people mix up a bear hug with a \"white knight.\" They're opposite roles — a white knight is a friendly acquirer who swoops in to rescue a company from an unwanted bid; a bear hug is exactly the kind of pressure a white knight is brought in to escape.\n\nMore examples:\n- \"When the tech company rejected the first offer, the acquirer came back with a bear hug priced 40% above market.\"\n- \"The board hired an investment bank to assess whether the bear hug actually reflected the company's fair value.\"\n\nHebrew: חיבוק דובי."
+      },
+      "he": {
+        "headline": "חיבוק דובי (Bear hug)",
+        "scroll": "הצעת רכישה נדיבה עד כדי כך, שהדירקטוריון של חברת המטרה לא יכול לדחות אותה בלי להסתכן בתביעה מצד בעלי המניות שלו.",
+        "coffee": "חיבוק דובי הוא טקטיקת רכישה: במקום לנהל משא ומתן בשקט, הרוכש מפרסם הצעה פומבית במחיר גבוה משמעותית ממחיר המניה הנוכחי. זה מכניס את הדירקטוריון למצב לחוץ - דחייה של הצעה נדיבה בעליל עלולה להוביל לתביעה על הפרת חובת האמון לבעלי המניות, וקבלה שלה פוגעת בעצמאות החברה. הטקטיקה פחות תוקפנית מהצעת רכש עצבנית, אבל הלחץ על הדירקטוריון לא פחות אמיתי.\n\nדוגמה: \"המשקיעים מצפים שקרן ההשקעות הפרטית תעשה חיבוק דובי לרשת הקמעונאית ברגע שהמניה שלה תיגע בתחתית.\"",
+        "deep": "חיבוק דובי נמצא איפשהו בין רכישה ידידותית, שבה הצדדים מגיעים בשקט להסכמה, לבין הצעת רכש עצבנית (hostile tender offer), שבה הרוכש פונה ישירות לבעלי המניות ועוקף את הדירקטוריון כליל.\n\n**בלבול נפוץ**: יש בלבול בין חיבוק דובי ל\"אביר לבן\" (white knight), אבל אלה תפקידים הפוכים. אביר לבן הוא רוכש ידידותי שמגיע להציל חברה מהצעה לא רצויה; חיבוק דובי הוא בדיוק הלחץ שמנסים לברוח ממנו.\n\nעוד דוגמאות:\n- \"כשחברת הטכנולוגיה דחתה את ההצעה הראשונה, הרוכש הגיב בחיבוק דובי במחיר גבוה ב-40% מהשוק.\"\n- \"הדירקטוריון שכר בנק השקעות כדי להעריך אם החיבוק הדובי משקף את השווי האמיתי של החברה.\"\n\nבאנגלית: bear hug."
+      },
+      "tags": [
+        "vocabulary",
+        "m&a",
+        "finance",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-rising-tide-lifts-all-boats",
+      "kind": "word",
+      "en": {
+        "headline": "A rising tide lifts all boats (גאות מרימה את כל הסירות)",
+        "scroll": "When the overall economy grows, almost everyone benefits somewhat — even those who didn't cause the growth.",
+        "coffee": "This idiom, popularized by John F. Kennedy though older than him, is shorthand for broad-based economic growth: a booming economy raises wages, profits and employment pretty much across the board, not just in the sector that's driving it. Economists invoke it to argue for growth-focused policy; critics invoke the flip side — \"the tide doesn't lift all boats equally\" — to point out that the gains aren't evenly shared.\n\nExample: \"The finance minister argued that cutting the deficit would lift GDP, and that a rising tide lifts all boats.\"",
+        "deep": "You'll mostly hear this in political speeches and public economic debate, as a justification for policies aimed at overall growth rather than targeted redistribution.\n\n**Common confusion**: the idiom describes aggregate growth, not how the gains are divided. Saying \"a rising tide lifts all boats\" isn't a claim that everyone gains equally — only that the general direction is positive for most people. That's exactly why the phrase sits at the center of a real argument: critics point out that some \"boats\" — say, minimum-wage workers — barely rise with the tide at all.\n\nMore examples:\n- \"The central bank stressed that lower rates were meant to lift every sector — a rising tide lifts all boats.\"\n- \"The economist warned that in an age of automation, the tide doesn't necessarily lift every boat.\"\n\nHebrew: גאות מרימה את כל הסירות — a direct translation that's also become a familiar phrase in Hebrew economic commentary."
+      },
+      "he": {
+        "headline": "גאות מרימה את כל הסירות (A rising tide lifts all boats)",
+        "scroll": "כשהמשק כולו גדל, רוב האנשים מרוויחים מכך במידה כלשהי - גם מי שלא היה הגורם לצמיחה.",
+        "coffee": "הניב הזה, שג'ון פ. קנדי הפך למוכר אף שהיה קיים לפניו, הוא קיצור דרך לתיאור צמיחה כלכלית רחבה: משק פורח מעלה שכר, רווחים ותעסוקה בכל המגזרים בערך, ולא רק באלה שמובילים את הצמיחה. כלכלנים משתמשים בו כדי לתמוך במדיניות שמטרתה צמיחה כוללת, ומבקרים משתמשים בניסוח ההפוך - \"הגאות לא מרימה את כל הסירות באותה מידה\" - כדי להצביע על כך שהרווחים לא מתחלקים באופן שווה.\n\nדוגמה: \"שר האוצר טען שקיצוץ בגירעון יניב צמיחה בתמ\"ג, ושגאות מרימה את כל הסירות.\"",
+        "deep": "המונח נפוץ בעיקר בנאומים פוליטיים ובדיונים כלכליים-ציבוריים, כהצדקה למדיניות שמכוונת לצמיחה כוללת ולא לחלוקה מחדש ממוקדת.\n\n**בלבול נפוץ**: הניב מתאר צמיחה מצטברת (aggregate growth), לא את הדרך שבה הרווחים מתחלקים. מי שאומר \"גאות מרימה את כל הסירות\" לא טוען שהחלוקה שוויונית - הוא טוען רק שהכיוון הכללי חיובי לרוב האנשים. זו בדיוק הסיבה שהביטוי נמצא במרכז מחלוקת אמיתית: מבקרים מצביעים על \"סירות\" - למשל עובדים בשכר מינימום - שבכלל לא עולות עם הגאות.\n\nעוד דוגמאות:\n- \"הבנק המרכזי הדגיש שהורדת הריבית נועדה להצמיח את כל המגזרים - גאות מרימה את כל הסירות.\"\n- \"הכלכלנית הזהירה שבעידן האוטומציה, הגאות לא בהכרח מרימה את כל הסירות.\"\n\nבאנגלית: a rising tide lifts all boats."
+      },
+      "tags": [
+        "vocabulary",
+        "economics",
+        "idiom",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-unit-economics",
+      "kind": "concept",
+      "en": {
+        "headline": "Unit economics",
+        "scroll": "The profit or loss on a single customer or sale, stripped of fixed costs — the number that shows whether a business model actually works.",
+        "coffee": "Unit economics asks a narrow question: ignoring rent, salaries and other fixed costs, does selling one more \"unit\" — a subscription, a ride, a delivery — make money or lose money? You calculate it by comparing the revenue from that one unit to the variable cost of serving it, and for subscription businesses, by comparing customer lifetime value (LTV) to customer acquisition cost (CAC).\n\nIt matters because growth can hide a broken model. A startup can look impressive with revenue doubling every year, and still be unviable if it loses money on every single customer — more growth just means burning cash faster. Investors use unit economics to separate \"scaling a profitable model\" from \"scaling a hole in the ground.\"",
+        "deep": "## The one question that matters\n\nBefore asking whether a company will ever turn a profit overall, unit economics asks something smaller and sharper: does a single transaction, on its own, make or lose money? Total profit is just unit economics multiplied by volume — so if the unit-level math is negative, growing faster doesn't fix the business, it accelerates the losses.\n\n## A worked example\n\nSay a food-delivery app charges customers a flat $4 delivery fee per order, and nothing else.\n\nCosts to fulfil one order: $5.00 to the courier, $0.20 in payment processing, $0.30 in app infrastructure and support, per order. Total variable cost: $5.50.\n\nRevenue per order ($4.00) minus variable cost ($5.50) = **-$1.50 per order**. That's negative unit economics — the company loses $1.50 every single time someone places an order, before it has paid a single salary or a dollar of rent. Doubling the number of orders doesn't fix this; it just doubles the losses.\n\nNow compare that to a subscription business: it costs $120 in marketing to acquire one customer (CAC), and that customer pays $15/month with an average 10% monthly churn, netting roughly $150 in gross profit over their lifetime (LTV). An LTV-to-CAC ratio around 3:1 is considered healthy — this one barely breaks even, which would worry an investor even though the company is \"growing.\"\n\n## Why it's the real stress test\n\nFixed costs (an office, an engineering team, a marketing department) are supposed to get cheaper per customer as a company scales — that's the whole promise of scale. But fixed costs can never rescue a company whose unit economics are negative, because every additional unit adds to the fixed-cost base's problem rather than shrinking it. This is exactly how some famous growth-stage startups burned enormous amounts of cash while reporting record revenue: the top line was growing, but each individual sale was subsidized by investor money, not covered by the customer paying for it.\n\n## What to watch for\n\nWhen a company's growth is funded by discounts, free trials, or below-cost pricing to win market share, unit economics are often temporarily negative on purpose — the bet is that costs will fall (through scale, better routing, less discounting) before the cash runs out. The question worth asking about any fast-growing company is simple: are unit economics improving over time, or is growth just making the same leak bigger?"
+      },
+      "he": {
+        "headline": "אקונומיקת היחידה (Unit economics)",
+        "scroll": "הרווח או ההפסד על לקוח או מכירה בודדת, בלי לחשב עלויות קבועות - המספר שמראה אם מודל עסקי בכלל עובד.",
+        "coffee": "אקונומיקת היחידה (unit economics) שואלת שאלה ממוקדת: אם מתעלמים משכר דירה, משכורות ועלויות קבועות אחרות, האם מכירה של \"יחידה\" אחת נוספת - מנוי, נסיעה, משלוח - מרוויחה או מפסידה? מחשבים את זה בהשוואה בין ההכנסה מהיחידה לעלות המשתנה לשירות אותה, ובעסקי מנויים גם בהשוואה בין ערך החיים של הלקוח (LTV) לעלות הגיוס שלו (CAC).\n\nזה חשוב כי צמיחה יכולה להסתיר מודל שבור. סטארטאפ יכול להיראות מרשים כשההכנסות מכפילות את עצמן כל שנה, ועדיין להיות בלתי כדאי אם הוא מפסיד כסף על כל לקוח בודד - צמיחה נוספת רק אומרת שריפת מזומנים מהירה יותר. משקיעים משתמשים באקונומיקת היחידה כדי להבדיל בין \"הרחבה של מודל רווחי\" ל\"הרחבה של חור באדמה\".",
+        "deep": "## השאלה היחידה שחשובה\n\nלפני שבודקים אם חברה תהיה רווחית בכלל בטווח הכולל, אקונומיקת היחידה שואלת שאלה קטנה וחדה יותר: האם עסקה בודדת, בפני עצמה, מרוויחה או מפסידה? הרווח הכולל הוא בעצם אקונומיקת היחידה כפול כמות - כך שאם המתמטיקה ברמת היחידה שלילית, צמיחה מהירה יותר לא מתקנת את העסק, היא רק מאיצה את ההפסדים.\n\n## דוגמה מספרית\n\nנניח שאפליקציית משלוחי אוכל גובה מהלקוח דמי משלוח קבועים של 4 דולר להזמנה, ולא עוד.\n\nעלויות לביצוע הזמנה אחת: 5.00 דולר לשליח, 0.20 דולר לעיבוד תשלום, ו-0.30 דולר לתחזוקת האפליקציה ושירות לקוחות, להזמנה. סך העלות המשתנה: 5.50 דולר.\n\nהכנסה להזמנה (4.00 דולר) פחות עלות משתנה (5.50 דולר) = **הפסד של 1.50 דולר להזמנה**. זו אקונומיקת יחידה שלילית - החברה מפסידה 1.50 דולר בכל פעם שמישהו מזמין, עוד לפני ששילמה משכורת אחת או שקל שכר דירה. הכפלת מספר ההזמנות לא פותרת את זה - היא רק מכפילה את ההפסדים.\n\nלשם השוואה, בעסק מנויים: עולה 120 דולר בשיווק לגיוס לקוח אחד (CAC), והלקוח משלם 15 דולר לחודש עם נטישה חודשית ממוצעת של 10%, כך שהוא מניב כ-150 דולר רווח גולמי במהלך חייו כלקוח (LTV). יחס LTV-ל-CAC של בערך 3:1 נחשב בריא - המקרה הזה בקושי מאוזן, מה שיטריד משקיע גם אם החברה \"צומחת\".\n\n## למה זה המבחן האמיתי\n\nעלויות קבועות (משרד, צוות הנדסה, מחלקת שיווק) אמורות להתחלק על פני יותר ויותר לקוחות כשהחברה צומחת - זו כל ההבטחה שבקנה מידה (scale). אבל עלויות קבועות לעולם לא יכולות להציל חברה שאקונומיקת היחידה שלה שלילית, כי כל יחידה נוספת רק מגדילה את הבעיה במקום לפתור אותה. ככה חברות סטארטאפ מוכרות שרפו סכומים אדירים של מזומנים בזמן שדיווחו על הכנסות שיא: שורת ההכנסות צמחה, אבל כל מכירה בודדת מומנה על ידי כספי משקיעים, ולא על ידי הלקוח שמשלם בפועל את עלותה.\n\n## למה לשים לב\n\nכשצמיחה של חברה ממומנת על ידי הנחות, תקופות ניסיון חינם או תמחור מתחת לעלות כדי לכבוש נתח שוק, אקונומיקת היחידה לרוב שלילית באופן מכוון באותו שלב - ההימור הוא שהעלויות יירדו (בזכות קנה מידה, ניתוב יעיל יותר, פחות הנחות) לפני שהמזומן נגמר. השאלה הנכונה לשאול על כל חברה שצומחת מהר היא פשוטה: אקונומיקת היחידה משתפרת עם הזמן, או שהצמיחה רק מגדילה את אותו הדליפה?"
+      },
+      "tags": [
+        "economics",
+        "business",
+        "startups",
+        "unit-economics"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-fakhrizadeh-assassination",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2020: Iran's chief nuclear scientist assassinated, Mossad blamed",
+        "scroll": "Mohsen Fakhrizadeh, regarded as the head of Iran's nuclear program, was assassinated — an operation widely attributed to Mossad.",
+        "coffee": "On this day in 2020, nuclear physicist Mohsen Fakhrizadeh — long regarded by Western and Israeli intelligence as the chief architect of Iran's nuclear weapons research — was assassinated. Iran accused Israel's Mossad of carrying out the killing, an allegation Israel never confirmed or denied.\n\nFakhrizadeh had spent decades at the center of Iran's nuclear program, making him one of the most closely watched individuals in the long, largely covert contest between Iran and Israel over Iran's nuclear ambitions. His death came at a tense moment for that program and for the diplomacy surrounding it.\n\nThe assassination is remembered as one of the most dramatic episodes in a shadow conflict that has played out for years through sabotage, cyberattacks and targeted killings, rather than open warfare.",
+        "deep": "## Background\n\nIran's nuclear program has been a central fault line in Middle Eastern geopolitics for decades, with Israel and Western governments long suspecting Iran of pursuing nuclear weapons capability under the cover of a civilian energy program. Mohsen Fakhrizadeh, a nuclear physicist, was widely regarded — including by Israeli and Western intelligence services — as the chief figure behind Iran's nuclear weapons research, a role that placed him under intense, sustained scrutiny for years.\n\n## The event\n\nOn 27 November 2020, Fakhrizadeh was assassinated. Iran publicly blamed Israel's Mossad for the killing. Israel, consistent with its long-standing practice around covert operations, did not confirm or deny involvement. The assassination was the latest in a string of incidents — including earlier killings of Iranian nuclear scientists and major explosions at Iranian nuclear facilities — that Iran has long attributed to Israeli intelligence and sabotage operations.\n\n## Second-order effects\n\nFakhrizadeh's death struck at the human expertise underpinning Iran's nuclear research, a target that is harder to replace than physical infrastructure. It also added to years of accumulated friction between Iran and Israel that has periodically spilled into direct confrontation. Assassinations like this one sit inside a broader pattern often described as a \"shadow war\": neither side formally claims credit, both sides avoid full acknowledgment, and the conflict is conducted through sabotage, cyber operations and targeted strikes rather than declared war.\n\n## What to watch for\n\nEvents like Fakhrizadeh's assassination are usually followed by questions about retaliation, the state of ongoing diplomacy over Iran's nuclear program, and whether the killing changes the trajectory of the program it targeted. They're also a reminder of how much of the Iran-Israel rivalry has historically played out below the threshold of open war — through intelligence operations rather than battlefield confrontation."
+      },
+      "he": {
+        "headline": "2020: ראש תוכנית הגרעין האיראנית חוסל, האחריות הוטלה על המוסד",
+        "scroll": "מוחסן פחריזאדה, שנחשב לראש תוכנית הגרעין האיראנית, חוסל - אירוע שיוחס באופן נרחב למוסד.",
+        "coffee": "בתאריך זה בשנת 2020 חוסל הפיזיקאי הגרעיני מוחסן פחריזאדה, שנחשב זה מכבר בעיני גורמי מודיעין מערביים וישראליים לאדריכל הראשי של מחקר הנשק הגרעיני של איראן. איראן הטילה את האחריות לחיסול על המוסד הישראלי, טענה שישראל מעולם לא אישרה ולא הכחישה.\n\nפחריזאדה נמצא במשך עשרות שנים במרכז תוכנית הגרעין האיראנית, מה שהפך אותו לאחת הדמויות הנצפות ביותר בעימות הממושך, ובמידה רבה החבוי, בין איראן לישראל סביב השאיפות הגרעיניות של איראן. מותו הגיע ברגע רגיש לתוכנית הזו ולדיפלומטיה שמסביבה.\n\nהחיסול נחרט בזיכרון כאחד הפרקים הדרמטיים ביותר בעימות צללים שמתקיים כבר שנים דרך חבלות, מתקפות סייבר וחיסולים ממוקדים, ולא דרך מלחמה גלויה.",
+        "deep": "## רקע\n\nתוכנית הגרעין האיראנית היא קו שבר מרכזי בגיאופוליטיקה של המזרח התיכון כבר עשרות שנים, כשישראל וממשלות מערביות חושדות זה מכבר שאיראן שואפת ליכולת נשק גרעיני תחת כיסוי של תוכנית אנרגיה אזרחית. מוחסן פחריזאדה, פיזיקאי גרעיני, נחשב באופן נרחב - כולל בעיני שירותי מודיעין ישראליים ומערביים - לדמות המרכזית מאחורי מחקר הנשק הגרעיני של איראן, תפקיד שהעמיד אותו תחת מעקב אינטנסיבי ומתמשך במשך שנים.\n\n## האירוע\n\nב-27 בנובמבר 2020 חוסל פחריזאדה. איראן הטילה פומבית את האחריות על המוסד הישראלי. ישראל, בהתאם למדיניותה הקבועה בנושא פעולות חבויות, לא אישרה ולא הכחישה מעורבות. החיסול היה הטרי בשרשרת אירועים - כולל חיסולים קודמים של מדענים גרעיניים איראנים ופיצוצים גדולים במתקני גרעין איראניים - שאיראן מייחסת מזה זמן רב למודיעין ישראלי ולפעולות חבלה.\n\n## אפקטים מסדר שני\n\nמותו של פחריזאדה פגע בידע האנושי שעומד בבסיס המחקר הגרעיני האיראני - מטרה שקשה הרבה יותר להחליף מתשתית פיזית. הוא גם נוסף לשנים של חיכוך שהצטבר בין איראן לישראל, חיכוך שמדי פעם גולש לעימות ישיר. חיסולים כאלה נכנסים לתוך דגם רחב יותר שמתואר לרוב כ\"מלחמת צללים\": אף צד לא לוקח אחריות באופן רשמי, שני הצדדים נמנעים מהכרה מלאה, והעימות מתנהל דרך חבלה, פעולות סייבר ותקיפות ממוקדות ולא דרך מלחמה מוצהרת.\n\n## למה לשים לב\n\nאירועים כמו חיסולו של פחריזאדה מלווים בדרך כלל בשאלות על תגמול, על מצב הדיפלומטיה המתמשכת סביב תוכנית הגרעין האיראנית, ועל השאלה אם החיסול משנה את מסלול התוכנית שעליה הוא יועד. הם גם תזכורת לכך שחלק גדול מהיריבות בין איראן לישראל התנהל היסטורית מתחת לסף המלחמה הגלויה - דרך פעולות מודיעין ולא דרך התנגשות בשדה הקרב."
+      },
+      "tags": [
+        "iran",
+        "mossad",
+        "nuclear",
+        "geopolitics"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2020: Nuclear physicist Mohsen Fakhrizadeh, regarded as the chief of Iran's nuclear program, was assassinated, allegedly by Mossad.",
+          "url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh"
+        }
+      ]
+    }
+  ]
+}
