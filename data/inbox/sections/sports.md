@@ -126,16 +126,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-28T12:30:00Z",
-     "home": "Blackburn",
-     "away": "Charlton",
+     "home": "Preston NE",
+     "away": "Norwich",
      "status": "SCHEDULED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-28T12:30:00Z",
-     "home": "Preston NE",
-     "away": "Norwich",
+     "home": "Blackburn",
+     "away": "Charlton",
      "status": "SCHEDULED",
      "score": null
     },
@@ -158,16 +158,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-28T14:30:00Z",
-     "home": "SC Paderborn",
-     "away": "Schalke",
+     "home": "1. FC Köln",
+     "away": "Elversberg",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-28T14:30:00Z",
-     "home": "1. FC Köln",
-     "away": "Elversberg",
+     "home": "SC Paderborn",
+     "away": "Schalke",
      "status": "TIMED",
      "score": null
     },
@@ -184,22 +184,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-28T14:30:00Z",
      "home": "Mainz",
      "away": "Union Berlin",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-28T15:00:00Z",
-     "home": "West Ham",
-     "away": "Stoke",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-28T15:00:00Z",
-     "home": "Man United",
-     "away": "Brentford",
      "status": "TIMED",
      "score": null
     },
@@ -224,6 +208,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-28T15:00:00Z",
      "home": "Leeds United",
      "away": "Coventry City",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-28T15:00:00Z",
+     "home": "West Ham",
+     "away": "Stoke",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-28T15:00:00Z",
+     "home": "Man United",
+     "away": "Brentford",
      "status": "TIMED",
      "score": null
     },
@@ -278,16 +278,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-28T15:30:00Z",
-     "home": "Arouca",
-     "away": "Rio Ave",
+     "home": "Moreirense",
+     "away": "Santa Clara",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-28T15:30:00Z",
-     "home": "Moreirense",
-     "away": "Santa Clara",
+     "home": "Arouca",
+     "away": "Rio Ave",
      "status": "TIMED",
      "score": null
     },
@@ -308,18 +308,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-11-28T17:30:00Z",
-     "home": "Elche",
-     "away": "Atleti",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-28T17:30:00Z",
      "home": "Stuttgart",
      "away": "Frankfurt",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-11-28T17:30:00Z",
+     "home": "Elche",
+     "away": "Atleti",
      "status": "TIMED",
      "score": null
     },
@@ -1050,153 +1050,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Late goal sparked by Crew's late transfers sends Messi, Inter Miami packing - The Columbus Dispatch",
+     "published": "2026-11-28T11:16:00+00:00",
+     "summary": "Late goal sparked by Crew's late transfers sends Messi, Inter Miami packing The Columbus Dispatch"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Defending champions Inter Miami eliminated from MLS Cup playoffs - Citi Sports Online",
+     "published": "2026-11-28T11:05:42+00:00",
+     "summary": "Defending champions Inter Miami eliminated from MLS Cup playoffs Citi Sports Online"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "Columbus Crew vs Inter Miami - beIN SPORTS",
+     "published": "2026-11-28T10:54:34+00:00",
+     "summary": "Columbus Crew vs Inter Miami beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Messi Booed as Inter Miami Crash Out of MLS Cup Play-Offs - Real Broadcasting Network",
      "published": "2026-11-28T10:23:32+00:00",
      "summary": "Messi Booed as Inter Miami Crash Out of MLS Cup Play-Offs Real Broadcasting Network"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#4",
      "title": "Lionel Messi Appears Upset as Reigning MLS Cup Champions Inter Miami Crash Out of Playoffs - شبكة تواصل الإخبارية",
      "published": "2026-11-28T10:06:51+00:00",
      "summary": "Lionel Messi Appears Upset as Reigning MLS Cup Champions Inter Miami Crash Out of Playoffs شبكة تواصل الإخبارية"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#5",
+     "title": "Columbus Crew 1-0 Inter Miami: No MLS Cup defence for Messi - beIN SPORTS",
+     "published": "2026-11-28T10:05:02+00:00",
+     "summary": "Columbus Crew 1-0 Inter Miami: No MLS Cup defence for Messi beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
+     "title": "Lionel Messi Appears Upset as Reigning MLS Cup Champions Inter Miami Crash Out of Playoffs - EssentiallySports",
+     "published": "2026-11-28T10:02:00+00:00",
+     "summary": "Lionel Messi Appears Upset as Reigning MLS Cup Champions Inter Miami Crash Out of Playoffs EssentiallySports"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
      "title": "Columbus vs. Inter Miami CF - Final Score - November 27, 2026 - FOX Sports",
      "published": "2026-11-28T09:32:46+00:00",
      "summary": "Columbus vs. Inter Miami CF - Final Score - November 27, 2026 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#8",
      "title": "Columbus Crew vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-11-28T09:32:06+00:00",
      "summary": "Columbus Crew vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "MLS: Messi and Inter Miami knocked out in first round of play-offs! - Yahoo Sports",
-     "published": "2026-11-28T09:12:30+00:00",
-     "summary": "MLS: Messi and Inter Miami knocked out in first round of play-offs! Yahoo Sports"
+     "ref": "gnews_inter_miami#9",
+     "title": "Lionel Messi's title defence ends in disaster as Inter Miami fail to score in two games - Nogomania",
+     "published": "2026-11-28T09:13:35+00:00",
+     "summary": "Lionel Messi's title defence ends in disaster as Inter Miami fail to score in two games Nogomania"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#10",
      "title": "MLS: Messi and Inter Miami knocked out in the first round of play-offs! - OneFootball",
      "published": "2026-11-28T09:06:44+00:00",
      "summary": "MLS: Messi and Inter Miami knocked out in the first round of play-offs! OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#6",
-     "title": "Messi's Miami suffer shock 1st-round exit as Columbus strike late | Daily Sabah - Daily Sabah",
-     "published": "2026-11-28T09:05:00+00:00",
-     "summary": "Messi's Miami suffer shock 1st-round exit as Columbus strike late | Daily Sabah Daily Sabah"
+     "ref": "gnews_inter_miami#11",
+     "title": "Inter Miami loses MLS crown, Messi faces a disappointing season - Laodong.vn",
+     "published": "2026-11-28T08:37:01+00:00",
+     "summary": "Inter Miami loses MLS crown, Messi faces a disappointing season Laodong.vn"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#12",
+     "title": "Columbus Crew 1 - 0 Inter Miami CF: Final score, results, recap, box score, stats - Yahoo Sports",
+     "published": "2026-11-28T08:36:31+00:00",
+     "summary": "Columbus Crew 1 - 0 Inter Miami CF: Final score, results, recap, box score, stats Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
      "title": "Messi Fails Early with Inter Miami - blue News",
      "published": "2026-11-28T08:27:12+00:00",
      "summary": "Messi Fails Early with Inter Miami blue News"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#14",
      "title": "Columbus Crew Eliminates Inter Miami from MLS Cup Playoffs - India News Network",
      "published": "2026-11-28T08:25:07+00:00",
      "summary": "Columbus Crew Eliminates Inter Miami from MLS Cup Playoffs India News Network"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#15",
+     "title": "After Son Heung-min, even the \"God of Football\" could not hold on: \"MLS Cup Playoff Upset\"... Messi's Inter Miami Suffers Last-Minute Loss to Columbus, \"Retirement Rumors Surface\" - 스타뉴스",
+     "published": "2026-11-28T08:11:36+00:00",
+     "summary": "After Son Heung-min, even the \"God of Football\" could not hold on: \"MLS Cup Playoff Upset\"... Messi's Inter Miami Suffers Last-Minute Loss to Columbus, \"Retirement Rumors Surface\" 스타뉴스"
+    },
+    {
+     "ref": "gnews_inter_miami#16",
+     "title": "Messi's Inter Miami crash out of MLS Cup play-offs in shock defeat - Flashscore UK",
+     "published": "2026-11-28T08:10:13+00:00",
+     "summary": "Messi's Inter Miami crash out of MLS Cup play-offs in shock defeat Flashscore UK"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
      "title": "Messi's MLS season over as Inter Miami fall to Columbus Crew - Pulse Nigeria",
      "published": "2026-11-28T08:07:53+00:00",
      "summary": "Messi's MLS season over as Inter Miami fall to Columbus Crew Pulse Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#10",
-     "title": "Inter Miami’s year to forget: One trophy and a string of disappointments - Diario AS",
-     "published": "2026-11-28T07:37:35+00:00",
-     "summary": "Inter Miami’s year to forget: One trophy and a string of disappointments Diario AS"
+     "ref": "gnews_inter_miami#18",
+     "title": "Watch Columbus Crew vs Inter Miami Live Today: Streaming, TV Channel & Start Time - FOX One",
+     "published": "2026-11-28T08:06:05+00:00",
+     "summary": "Watch Columbus Crew vs Inter Miami Live Today: Streaming, TV Channel & Start Time FOX One"
     },
     {
-     "ref": "gnews_inter_miami#11",
-     "title": "Miami vs. Columbus (3 Dec, 2026) Canceled - ESPN",
-     "published": "2026-11-28T07:26:20+00:00",
-     "summary": "Miami vs. Columbus (3 Dec, 2026) Canceled ESPN"
+     "ref": "gnews_inter_miami#19",
+     "title": "Inter Miami with Messi ends season after loss to Columbus Crew — Interia Sport - UA.NEWS",
+     "published": "2026-11-28T07:45:01+00:00",
+     "summary": "Inter Miami with Messi ends season after loss to Columbus Crew — Interia Sport UA.NEWS"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#20",
      "title": "Kily González explains what went wrong for Messi and Inter Miami after MLS playoff exit - Diario AS",
      "published": "2026-11-28T07:25:55+00:00",
      "summary": "Kily González explains what went wrong for Messi and Inter Miami after MLS playoff exit Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#13",
-     "title": "Messi and Inter Miami crash out of MLS playoffs after Columbus heartbreak - Diario AS",
-     "published": "2026-11-28T07:13:56+00:00",
-     "summary": "Messi and Inter Miami crash out of MLS playoffs after Columbus heartbreak Diario AS"
-    },
-    {
-     "ref": "gnews_inter_miami#14",
-     "title": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep - LiveScore",
-     "published": "2026-11-28T07:11:07+00:00",
-     "summary": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep LiveScore"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#21",
      "title": "Columbus Crew eliminate Inter Miami in playoff shocker - MLSsoccer.com",
      "published": "2026-11-28T07:06:44+00:00",
      "summary": "Columbus Crew eliminate Inter Miami in playoff shocker MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#22",
+     "title": "MLS: Messi’s Inter Miami dumped out in playoff first round · SNA - Sport News Africa",
+     "published": "2026-11-28T07:02:38+00:00",
+     "summary": "MLS: Messi’s Inter Miami dumped out in playoff first round · SNA Sport News Africa"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
      "title": "See photos from Columbus Crew vs. Inter Miami MLS playoff showdown - The Columbus Dispatch",
      "published": "2026-11-28T07:01:35+00:00",
      "summary": "See photos from Columbus Crew vs. Inter Miami MLS playoff showdown The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep - Goal.com",
-     "published": "2026-11-28T06:33:06+00:00",
-     "summary": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "Messi’s Inter Miami crash out of MLS Cup after 1-0 defeat to Columbus - Telangana Today",
-     "published": "2026-11-28T06:32:35+00:00",
-     "summary": "Messi’s Inter Miami crash out of MLS Cup after 1-0 defeat to Columbus Telangana Today"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Messi's defending champions Miami knocked out of MLS Cup playoffs - Yahoo Sports",
-     "published": "2026-11-28T06:24:00+00:00",
-     "summary": "Messi's defending champions Miami knocked out of MLS Cup playoffs Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Lionel Messi And Inter Miami Stunned As Columbus Crew End MLS Cup Defence - NDTV Sports",
-     "published": "2026-11-28T06:04:29+00:00",
-     "summary": "Lionel Messi And Inter Miami Stunned As Columbus Crew End MLS Cup Defence NDTV Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "No Messi Magic: Columbus Crew Keep the Argentine Scoreless and Dump Inter Miami Out - https://www.transfermarkt.us/",
-     "published": "2026-11-28T06:04:26+00:00",
-     "summary": "No Messi Magic: Columbus Crew Keep the Argentine Scoreless and Dump Inter Miami Out https://www.transfermarkt.us/"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Inter Miami with Messi lost to Columbus and was eliminated from the MLS playoffs - VIDEO - 1News.az",
-     "published": "2026-11-28T06:00:00+00:00",
-     "summary": "Inter Miami with Messi lost to Columbus and was eliminated from the MLS playoffs - VIDEO 1News.az"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Messi and Inter Miami crash out of MLS playoffs - Sharjah24",
-     "published": "2026-11-28T05:53:52+00:00",
-     "summary": "Messi and Inter Miami crash out of MLS playoffs Sharjah24"
-    },
-    {
      "ref": "gnews_inter_miami#24",
-     "title": "Messi's defending champions Miami knocked out of MLS Cup playoffs - Gulf News",
-     "published": "2026-11-28T05:51:51+00:00",
-     "summary": "Messi's defending champions Miami knocked out of MLS Cup playoffs Gulf News"
+     "title": "Highlights: Columbus Crew 1-0 Inter Miami CF (MLS) - Yahoo Sports",
+     "published": "2026-11-28T06:59:30+00:00",
+     "summary": "Highlights: Columbus Crew 1-0 Inter Miami CF (MLS) Yahoo Sports"
     }
    ]
   },
@@ -1212,147 +1212,147 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#1",
-     "title": "NBA Cup: Trail Blazers beat Warriors, advance to quarterfinals - Inquirer.net",
-     "published": "2026-11-28T06:49:00+00:00",
-     "summary": "NBA Cup: Trail Blazers beat Warriors, advance to quarterfinals Inquirer.net"
-    },
-    {
-     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija, Blazers best Warriors, finish atop NBA Cup group - KQSM-FM",
      "published": "2026-11-28T06:10:29+00:00",
      "summary": "Deni Avdija, Blazers best Warriors, finish atop NBA Cup group KQSM-FM"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#2",
      "title": "Highlights From Deni Avdija 26-Point Game - NBA.com",
      "published": "2026-11-28T05:59:24+00:00",
      "summary": "Highlights From Deni Avdija 26-Point Game NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#4",
-     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
-     "published": "2026-11-28T05:58:31+00:00",
-     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
-    },
-    {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija leads Portland into NBA Cup quarterfinals with dominant win over Golden State - Ynetnews",
      "published": "2026-11-28T05:56:19+00:00",
      "summary": "Deni Avdija leads Portland into NBA Cup quarterfinals with dominant win over Golden State Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals - New Haven Register",
-     "published": "2026-11-28T05:51:22+00:00",
-     "summary": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals New Haven Register"
-    },
-    {
-     "ref": "gnews_israeli_nba#7",
-     "title": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals - Times Union",
-     "published": "2026-11-28T05:29:15+00:00",
-     "summary": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals Times Union"
-    },
-    {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#4",
      "title": "Trail Blazers' Deni Avdija: Leads Blazers to victory - CBS Sports",
      "published": "2026-11-28T05:27:14+00:00",
      "summary": "Trail Blazers' Deni Avdija: Leads Blazers to victory CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#9",
-     "title": "Deni Avdija News: Leads Blazers to victory - RotoWire",
-     "published": "2026-11-28T05:27:14+00:00",
-     "summary": "Deni Avdija News: Leads Blazers to victory RotoWire"
+     "ref": "gnews_israeli_nba#5",
+     "title": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals - News4JAX",
+     "published": "2026-11-28T05:21:40+00:00",
+     "summary": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals News4JAX"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija finishes through contact, 11/27/2026 - Yahoo Sports",
      "published": "2026-11-28T05:12:06+00:00",
      "summary": "Deni Avdija finishes through contact, 11/27/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#11",
-     "title": "Trail Blazers 116-94 Warriors (28 Nov, 2026) Final Score - ESPN",
-     "published": "2026-11-28T03:44:04+00:00",
-     "summary": "Trail Blazers 116-94 Warriors (28 Nov, 2026) Final Score ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#7",
      "title": "Trail Blazers vs. Warriors Prediction: Preview, Injury Report, Advantages, X-Factors - Fadeaway World",
      "published": "2026-11-27T17:40:14+00:00",
      "summary": "Trail Blazers vs. Warriors Prediction: Preview, Injury Report, Advantages, X-Factors Fadeaway World"
     },
     {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Deni Avdija Leads Trail Blazers Past Suns 132-119 With 12 Assists - SportsRation",
-     "published": "2026-11-27T13:17:54+00:00",
-     "summary": "Deni Avdija Leads Trail Blazers Past Suns 132-119 With 12 Assists SportsRation"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#8",
      "title": "5 Potential Destinations For Deni Avdija When He Inevitably Hits Free Agency In 2028 - Yahoo Sports",
      "published": "2026-11-27T05:32:00+00:00",
      "summary": "5 Potential Destinations For Deni Avdija When He Inevitably Hits Free Agency In 2028 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#9",
      "title": "Barkley Questions Wizards Decision to Trade Deni Avdija - Limapagi",
      "published": "2026-11-27T04:32:02+00:00",
      "summary": "Barkley Questions Wizards Decision to Trade Deni Avdija Limapagi"
     },
     {
-     "ref": "gnews_israeli_nba#16",
-     "title": "Watch: Shaq surprises Deni Avdija with Hebrew greetings - Israel National News",
-     "published": "2026-11-27T02:55:00+00:00",
-     "summary": "Watch: Shaq surprises Deni Avdija with Hebrew greetings Israel National News"
-    },
-    {
-     "ref": "gnews_israeli_nba#17",
-     "title": "‘An Absolute Superstar’ – NBA Insider Hypes ‘Underrated’ Western Conference Forward After 33-Point Explosion vs. Victor Wembanyama, Spurs - Yahoo Sports",
-     "published": "2026-11-26T23:28:34+00:00",
-     "summary": "‘An Absolute Superstar’ – NBA Insider Hypes ‘Underrated’ Western Conference Forward After 33-Point Explosion vs. Victor Wembanyama, Spurs Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
-     "title": "News from Israel and the Jewish world in Spanish - Aurora Israel",
-     "published": "2026-11-26T21:23:30+00:00",
-     "summary": "News from Israel and the Jewish world in Spanish Aurora Israel"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija's All-NBA play this season has Blazers fans feeling thankful - Hoops Habit",
      "published": "2026-11-26T20:00:00+00:00",
      "summary": "Deni Avdija's All-NBA play this season has Blazers fans feeling thankful Hoops Habit"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#11",
      "title": "Trail Blazers' Deni Avdija: Teases triple-double in win - CBS Sports",
      "published": "2026-11-26T17:36:22+00:00",
      "summary": "Trail Blazers' Deni Avdija: Teases triple-double in win CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija News: Teases triple-double in win - RotoWire",
      "published": "2026-11-26T17:36:22+00:00",
      "summary": "Deni Avdija News: Teases triple-double in win RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#13",
      "title": "Nets' Ben Saraf: Recalled to NBA - CBS Sports",
      "published": "2026-11-26T15:47:30+00:00",
      "summary": "Nets' Ben Saraf: Recalled to NBA CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
-     "title": "Ben Saraf News: Recalled to NBA - RotoWire",
-     "published": "2026-11-26T15:47:30+00:00",
-     "summary": "Ben Saraf News: Recalled to NBA RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#14",
      "title": "Shaquille O’Neal shows off Hebrew skills in talk with Deni Avdija - The Times of Israel",
      "published": "2026-11-26T15:01:00+00:00",
      "summary": "Shaquille O’Neal shows off Hebrew skills in talk with Deni Avdija The Times of Israel"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
+     "title": "Highlights From Deni Avdija 33-Point Game - NBA.com",
+     "published": "2026-11-26T14:39:40+00:00",
+     "summary": "Highlights From Deni Avdija 33-Point Game NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#16",
+     "title": "NBA Cup Shocker: Charles Barkley Invokes Dražen Petrović While Blasting Wizards Over Deni Avdija’s Portland Explosion - NDTV Sports",
+     "published": "2026-11-26T14:36:56+00:00",
+     "summary": "NBA Cup Shocker: Charles Barkley Invokes Dražen Petrović While Blasting Wizards Over Deni Avdija’s Portland Explosion NDTV Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#17",
+     "title": "Deni Avdija Sends Warning to NBA Rivals as Trail Blazers Hand Spurs First Road Loss of the Season - Sportskeeda",
+     "published": "2026-11-26T13:39:00+00:00",
+     "summary": "Deni Avdija Sends Warning to NBA Rivals as Trail Blazers Hand Spurs First Road Loss of the Season Sportskeeda"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
+     "title": "Trail Blazers’ Deni Avdija Has Priceless Reaction to Shaq’s Hebrew - Heavy.com",
+     "published": "2026-11-26T12:48:00+00:00",
+     "summary": "Trail Blazers’ Deni Avdija Has Priceless Reaction to Shaq’s Hebrew Heavy.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#19",
+     "title": "'Baruch Hashem': Shaq Greets Deni Avdija in Hebrew After 33-Point Night - Haaretz",
+     "published": "2026-11-26T10:47:00+00:00",
+     "summary": "'Baruch Hashem': Shaq Greets Deni Avdija in Hebrew After 33-Point Night Haaretz"
+    },
+    {
+     "ref": "gnews_israeli_nba#20",
+     "title": "\"He doesn't have a conscience\" – Charles Barkley compares Deni Avdija to Drazen Petrovic after his game-winner vs. Spurs - Basketball Network",
+     "published": "2026-11-26T10:26:31+00:00",
+     "summary": "\"He doesn't have a conscience\" – Charles Barkley compares Deni Avdija to Drazen Petrovic after his game-winner vs. Spurs Basketball Network"
+    },
+    {
+     "ref": "gnews_israeli_nba#21",
+     "title": "3 Takeaways as Spurs stumble late in Portland thanks to Deni Avdija's dagger - Yahoo Sports",
+     "published": "2026-11-26T10:11:54+00:00",
+     "summary": "3 Takeaways as Spurs stumble late in Portland thanks to Deni Avdija's dagger Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
+     "title": "Charles Barkley Gushes Over Deni Avdija After Portland Trail Blazers Beat Victor Wembanyama's San Antonio Spurs - NDTV Sports",
+     "published": "2026-11-26T09:36:01+00:00",
+     "summary": "Charles Barkley Gushes Over Deni Avdija After Portland Trail Blazers Beat Victor Wembanyama's San Antonio Spurs NDTV Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
+     "title": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ - Heavy.com",
+     "published": "2026-11-26T09:12:34+00:00",
+     "summary": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ Heavy.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch - Ynetnews",
+     "published": "2026-11-26T08:32:58+00:00",
+     "summary": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch Ynetnews"
     }
    ]
   }

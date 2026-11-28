@@ -68,36 +68,42 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "החוקרים הישראלים שמלמדים AI לעצב פונטים",
+     "published": "2026-11-28T11:12:45+00:00",
+     "summary": "לפני עשר שנים, בסתיו 2016, התכנסו בוורשה הצוננת שבפולין נציגי גוגל, מיקרוסופט, אפל ואדובי, עמדו כנראה בפעם הראשונה בהיסטוריה יחדיו על במה, והכריזו על הסטנדרט (תקן) המשותף של הפונטים הווריאביליים. הפונטים (גופנים) שרובנו מכירים הם סטטיים ואינם ווריאביליים (משתנים). כאשר אנחנו משנים את הסגנון להיות נטוי (Italic), בעצם אנחנו מקבלים גרסה שונה לחלוטין של הפונט, […] The post החוקרים הישראלים שמלמדים AI "
+    },
+    {
+     "ref": "geektime#1",
      "title": "לכל אחד יש פודקאסט? המספרים שמאחורי שוק הפודקאסטים הישראלי",
      "published": "2026-11-28T08:24:02+00:00",
      "summary": "ממדיום שולי של יודעי דבר עילאיים שמאזינים ל-Serial, הפודקאסטים נכנסו היטב למיינסטרים הישראלי וסביר להניח שכבר שמעתם את הבדיחה \"לכל אחד יש פודקאסט\". אבל כמה פודקאסטים פעילים באמת יש בישראל? שנת שיא בהשקות של פודקאסטים חדשים על פי הנתונים החדשים שהגיעו לידי גיקטיים, נכון לחודש נובמבר 2026 ישנם 1,249 פודקאסטים פעילים בעברית, מתוכם 286 הינם […] The post לכל אחד יש פודקאסט? המספרים שמאחורי שוק הפודקאסט"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#2",
      "title": "אקזיט-לא-אקזיט, יוניקורן בן 3 חודשים ו-750 מיליון דולר. אין ספק שהיה כאן מעניין החודש",
      "published": "2026-11-27T13:29:51+00:00",
      "summary": "חודש נובמבר בהייטק הישראלי הוכיח שוב שגם כשהכותרות מדברות על אקזיט או עסקת \"לא-רכישה\" מסקרנת של הסטארטאפ דקארט על ידי אמזון, מתחת לפני השטח הכסף הגדול ממשיך לזרום. עם 750 מיליון דולר שגויסו, חד קרן חדש שנולד במהירות שיא ושורה של אקזיטים – הנה כל המספרים והעסקאות שעשו את החודש. חד קרן חריג הסטארטאפים הישראליים […] The post אקזיט-לא-אקזיט, יוניקורן בן 3 חודשים ו-750 מיליון דולר. אין ספק שהיה כאן מענ"
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#3",
      "title": "המודרים מנסים להביא את GTA 6 למחשב לפני Rockstar. אבל עורכי הדין כבר בדרך אליהם",
      "published": "2026-11-27T09:15:17+00:00",
      "summary": "אני לא יודע אם שמתם לב, אבל לפני שבוע שוחרר משחק אינדי קטן וצנוע בשם GTA 6 שהספיק להרוויח מיליארדי דולרים ולעשות היסטוריה. אנחנו כבר כתבנו לכם מה אנחנו חושבים עליו במיני ביקורת שלנו, וגם הוזמנו להתארח בפודקאסט \"אחד ביום\" כדי לדבר עליו. אבל ישנה קבוצה שממש לא מרוצה מההשקה הזאת: שחקני ה-PC. ב-Rockstar Games […] The post המודרים מנסים להביא את GTA 6 למחשב לפני Rockstar. אבל עורכי הדין כבר בדרך אליהם "
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#4",
      "title": "אני לא מאמין שאני אומר את זה, אבל אני מת על Muse של מטא",
      "published": "2026-11-27T07:27:11+00:00",
      "summary": "יום שישי, ערב סוכות, בשעות אחר הצהריים. צ'יפ שולח לי התראה שהוא מצא לי כרטיסים למופע הפרידה של טייכר וזרחוביץ'. הייתי בטוח שהוא טועה. בכל זאת, בעמוד הפייסבוק הודיעו שהמכירה תיפתח רק בשבוע הבא, ולא פירטו איפה זה יקרה. נכנסתי לאתר שצ'יפ מצא, ותוך כמה דקות היו לי כרטיסים במקומות מצוינים. עד היום אני לא […] The post אני לא מאמין שאני אומר את זה, אבל אני מת על Muse של מטא appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#5",
      "title": "מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות?",
      "published": "2026-11-26T18:25:39+00:00",
      "summary": "למי זה לא קרה? אתם מדברים עם מכר על שירות או מוצר כלשהו, פותחים את פייסבוק או את אינסטגרם והופ – קופצת לכם פרסומת בדיוק לזה. נשמע מוכר? אחד המיתוסים הטכנולוגיים המוכרים ביותר בעשור האחרון הוא שפייסבוק ואינסטגרם מאזינות דרך המיקרופון של הסמארטפון שלנו כדי להציג לנו פרסומות מדויקות לפי מה שאנחנו מדברים עליו. היי, […] The post מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות? appeared first o"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#6",
      "title": "בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים",
      "published": "2026-11-26T12:00:30+00:00",
      "summary": "שלוש שעות ישבתי בקולנוע ועברתי סקאלה לא הגיונית של רגשות כלפי אישה, שחשבתי שאני יודע כבר הכל על הסיפור שלה, אחרי שסיקרתי אותה ב-7 השנים האחרונות. קוראים לה אליזבת הולמס, כנראה שמעתם עליה. בשקט בשקט הסכימה ליזי (אני מרשה לעצמי) שאחד הקומיקאים והבמאים ההזויים והמתוחכמים בעולם ילווה אותה, בתקופה אולי הכי רגישה שיש – בימים […] The post בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים app"
@@ -112,43 +118,43 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "published": "2026-11-28T03:19:20+00:00",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 334 # Comments: 80"
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 357 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "published": "2026-11-27T23:06:29+00:00",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 411 # Comments: 158"
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 429 # Comments: 160"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
      "published": "2026-11-27T19:42:25+00:00",
-     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 391 # Comments: 247"
+     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 396 # Comments: 249"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Michael Nielsen took down his book on neural nets",
      "published": "2026-11-27T19:31:01+00:00",
-     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 544 # Comments: 337"
+     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 554 # Comments: 345"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "published": "2026-11-27T18:02:45+00:00",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 310 # Comments: 100"
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 315 # Comments: 102"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "published": "2026-11-27T15:40:31+00:00",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 532 # Comments: 274"
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 536 # Comments: 276"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "False computer-checked proofs",
      "published": "2026-11-27T15:26:09+00:00",
-     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 230 # Comments: 90"
+     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 233 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#7",
@@ -160,19 +166,19 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#8",
      "title": "Citroën Hydraulic System",
      "published": "2026-11-27T03:10:19+00:00",
-     "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 204 # Comments: 62"
+     "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 209 # Comments: 65"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "First images of the impact of DART asteroid deflection experiment",
      "published": "2026-11-26T17:24:37+00:00",
-     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 216 # Comments: 67"
+     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 217 # Comments: 67"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "The Balatro Timeline",
      "published": "2026-11-26T17:20:27+00:00",
-     "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 382 # Comments: 93"
+     "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 392 # Comments: 98"
     }
    ]
   },
