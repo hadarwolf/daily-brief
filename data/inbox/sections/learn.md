@@ -24,142 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2020,
-   "text": "Nuclear physicist Mohsen Fakhrizadeh, regarded as the chief of Iran's nuclear program, was assassinated, allegedly by Mossad.",
+   "year": 2016,
+   "text": "LaMia Flight 2933 crashed near Medellín, Colombia, killing 71 people, many of whom were players from Chapecoense Football Club.",
    "context": [
-    "Mohsen Fakhrizadeh Mahabadi was an Iranian nuclear physicist and scientist. He was regarded as the chief of Iran's nuclear program."
+    "LaMia Flight 2933 was a regularly scheduled charter flight from Santa Cruz de la Sierra, Bolivia, to Medellín, Colombia. On 28 November 2016, the aircraft operating the flight crashed into Mt. Cerro Gordo near the town of La Unión, Antioquia, Colombia, killing 71 of the 77 people on board. The aircraft was transporting the first-team squad of the Brazilian football club Chapecoense and their entourage to Medellín where the team was scheduled to play at the 2016 Copa Sudamericana Finals. One of the four crew members, three of the players, and two other passengers survived with injuries."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2009,
-   "text": "A bomb exploded under, and derailed, a Russian high-speed train travelling between Moscow and Saint Petersburg, killing 28 passengers.",
+   "year": 1991,
+   "text": "Tropical Storm Zelda struck the Marshall Islands, leaving 6,000 residents homeless.",
    "context": [
-    "The 2009 Nevsky Express bombing occurred on 27 November 2009, when an explosive was detonated below the undercarriage of a high speed train travelling between the Russian cities of Moscow and Saint Petersburg. The bombing caused derailment near the town of Bologoye, Tver Oblast, on the Moscow–Saint Petersburg Railway. The derailment occurred at 21:34 local time. Russian officials initially stated that 39 people were killed and 95 were injured, but they later retracted that estimate. 27 deaths were reported by 2 December. A second bomb exploded at the scene of the investigation the following day, injuring one person. It was reported to have been triggered by a remote mobile phone."
+    "Severe Tropical Storm Zelda was the last tropical cyclone of the 1991 Pacific typhoon season; it struck the Marshall Islands on November 28. The area of low pressure that eventually became Zelda formed near the International Date Line, and strengthened into a tropical depression on November 27. The Joint Typhoon Warning Center (JTWC) reported that the depression had reached tropical storm intensity near the Marshall Islands on November 28, thus naming it Zelda. On November 29, the storm quickly strengthened to 65 knots according to the JTWC, equivalent to a Category 1 typhoon on the Saffir–Simpson hurricane wind scale. It reached a peak of 80 kn according to the JTWC, and 60 kn according to the Japanese Meteorological Agency (JMA), with a barometric pressure of 975 hectopascals (28.8 inHg). Zelda weakened into a tropical storm on December 2, and then a tropical depression two days later. The JTWC discontinued warnings late on December 4, while the JMA declared the storm to be extratropical the next day and continued to track until it crossed the International Date Line again on December 7."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2009,
-   "text": "Lady Gaga performed the first concert of The Monster Ball Tour, which became the highest-grossing tour in history for a debut headlining artist.",
+   "year": 1987,
+   "text": "South African Airways Flight 295 suffered a catastrophic in-flight fire and crashed into the Indian Ocean east of Mauritius, killing all 159 people on board.",
    "context": [
-    "Stefani Joanne Angelina Germanotta, known professionally as Lady Gaga, is an American singer, songwriter, and actress. An influential figure in popular music, she is known for her image reinventions, flamboyant fashion, and versatility across the entertainment industry. With estimated sales of 124 million records, she is one of the best-selling music artists of all time."
+    "South African Airways Flight 295, sometimes referenced and known as the Helderberg disaster, was a scheduled international passenger flight from Chiang Kai-shek International Airport, Taipei, Taiwan, to Jan Smuts International Airport, Johannesburg, South Africa, with a stopover in Plaisance Airport, Plaine Magnien, Mauritius. On November 28, 1987, the aircraft serving the flight, a Boeing 747 named Helderberg, experienced a catastrophic in-flight fire in the cargo area, broke up in mid-air, and crashed into the Indian Ocean east of Mauritius, killing all 159 passengers and crew on board. An extensive salvage operation was mounted to try to recover the aircraft's flight recorders, one of which was recovered from a depth of 16,100 feet (4,900 m)."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2001,
-   "text": "Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured.",
+   "year": 1979,
+   "text": "Air New Zealand Flight 901 crashed into Antarctica's Mount Erebus, killing all 257 people on board.",
    "context": [
-    "Sodium is a chemical element; it has symbol Na and atomic number 11. It is a soft, silvery-white, highly reactive metal. Sodium is an alkali metal, being in group 1 of the periodic table. Its only stable isotope is 23Na. The free metal does not occur in nature and must be prepared from compounds. Sodium is the sixth–most abundant element in the Earth's crust and exists in numerous minerals such as feldspars, sodalite, and halite (NaCl). Many salts of sodium are highly water-soluble: sodium ions have been leached by the action of water from the Earth's minerals over eons, and thus sodium and chlorine are the most common dissolved elements by weight in the oceans."
+    "The Mount Erebus disaster occurred on 28 November 1979 when Air New Zealand Flight 901 (TE901) flew into Mount Erebus on Ross Island, Antarctica, killing all 237 passengers and 20 crew on board. Air New Zealand had been operating scheduled Antarctic sightseeing flights since 1977. This flight left Auckland Airport in the morning and was supposed to spend a few hours flying over the Antarctic continent, before returning to Auckland in the evening via Christchurch."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1999,
-   "text": "The Labour Party defeated the governing National Party in the New Zealand general election, with Labour's Helen Clark becoming the country's first female prime minister to have won office at an election.",
+   "year": 1971,
+   "text": "Wasfi Tal (pictured), Prime Minister of Jordan, was assassinated in Cairo by gunmen from the Black September Organization.",
    "context": [
-    "The New Zealand Labour Party, also known simply as Labour, is a centre-left political party in New Zealand. The party's platform programme describes its founding principle as democratic socialism, while observers describe Labour as social democratic and pragmatic in practice. The party participates in the international Progressive Alliance. It is one of two major political parties in New Zealand, alongside its traditional rival, the National Party."
+    "Wasfi Tal was a Jordanian politician, statesman and military officer. He served as the 15th Prime Minister of Jordan for three separate terms, 1962–63, 1965–67 and 1970 until his assassination in 1971."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1989,
-   "text": "A bomb placed by the Medellín Cartel in an attempt to kill Colombian presidential candidate César Gaviria destroyed Avianca Flight 203, killing all 107 people on board, excluding Gaviria, who was not on the flight.",
+   "year": 1967,
+   "text": "Jocelyn Bell Burnell noticed a \"bit of scruff\" in data from a radio telescope, which turned out to be from PSR B1919+21, the first discovered pulsar.",
    "context": [
-    "The Medellín Cartel was a confederation of Colombian drug trafficking organizations based primarily in Medellín, Colombia, that played a central role in the expansion of the international cocaine trade during the late 1970s and 1980s. Rather than a single hierarchical organization, contemporary law-enforcement assessments and subsequent scholarship describe the cartel as a network of semi-autonomous traffickers who cooperated in production, transportation, financing, and enforcement while retaining independent control over their respective operations. The network included prominent traffickers such as Pablo Escobar, Carlos Lehder, Gonzalo Rodríguez Gacha, and the Ochoa brothers—Jorge Luis Ochoa Vásquez, Fabio Ochoa Vásquez, and Juan David Ochoa Vásquez—whose activities collectively shaped the structure and scale of Colombian cocaine trafficking during this period. Estimates by U.S. and Colombian authorities during the 1980s attributed a substantial share of cocaine entering the United States to trafficking networks associated with Medellín, though contemporaneous reports emphasized that market share fluctuated over time and could not be ascribed to a single unified organization."
+    "Dame Susan Jocelyn Bell Burnell is a Northern Irish astrophysicist and radio astronomer who, while conducting research for her doctorate in 1967, discovered the first known pulsar. This discovery was recognized by the Nobel Prize in Physics in 1974, though she was not among its recipients."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1963,
-   "text": "President Lyndon B. Johnson delivered the \"Let Us Continue\" speech, in which he advocated for civil-rights legislation and national cohesion, to a joint session of the U.S. Congress five days after the assassination of John F. Kennedy.",
+   "year": 1966,
+   "text": "In a military coup, Michel Micombero abolished the Burundian monarchy and declared the country a republic with himself as the inaugural president.",
    "context": [
-    "Lyndon Baines Johnson, also known as LBJ, was the 36th president of the United States, serving from 1963 to 1969. The 37th vice president, he assumed the presidency following the assassination of John F. Kennedy. Johnson was a Southern Democrat who represented Texas in both houses of the U.S. Congress and earned a reputation as a talented and persuasive legislator. His presidency was marked by the passage of landmark civil rights legislation, the creation of Great Society programs such as Medicare and Medicaid, and a significant escalation in U.S. involvement in the Vietnam War."
+    "Michel Micombero was a Burundian military officer and politician who ruled the country as de facto military dictator for the decade between 1966 and 1976. He was the last Prime Minister of the Kingdom of Burundi from July to November 1966, and the first President of the country from November 1966 until his overthrow in 1976."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1950,
-   "text": "Korean War: The Chinese People's Volunteer Army launched multiple attacks against United Nations forces, beginning the Battle of Chosin Reservoir.",
+   "year": 1925,
+   "text": "Grand Ole Opry, the longest-running radio broadcast in the United States, first aired on WSM in Nashville, Tennessee.",
    "context": [
-    "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC)."
+    "The Grand Ole Opry is a regular live country-music radio broadcast originating from Nashville, Tennessee, on WSM, held between two and five nights per week, depending on the time of year. It was founded on November 28, 1925, by George D. Hay as the WSM Barn Dance, taking its current name in 1927. Currently owned and operated by Opry Entertainment, it is the longest-running radio broadcast in U.S. history. Dedicated to honoring country music and its history, the Opry showcases a mix of famous singers and contemporary chart-toppers performing country, bluegrass, Americana, folk, and gospel music as well as comedic performances and skits. It attracts hundreds of thousands of visitors from around the world and millions of radio and internet listeners."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1945,
-   "text": "A consortium of twenty-two U.S. charities founded CARE with the mission of delivering food aid to Europe in the aftermath of World War II.",
+   "year": 1912,
+   "text": "At the All-Albanian Congress, the Assembly of Vlorë was constituted, which declared the independence of the Albanian Vilayet from the Ottoman Empire.",
    "context": [
-    "CARE is a major international humanitarian agency delivering emergency relief and long-term international development projects. Founded in 1945, CARE is nonsectarian, impartial, and non-governmental. It is one of the largest and oldest humanitarian aid organizations focused on fighting global poverty. In 2019, CARE reported working in 104 countries, supporting 1,349 poverty-fighting projects and humanitarian aid projects, and reaching over 92.3 million people directly and 433.3 million people indirectly."
+    "The All-Albanian Congress was held in Vlorë on November 28, 1912. The Congress's participants constituted the Assembly of Vlorë which established Albanian Provisional Government and elected Ismail Kemal as its president."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1944,
-   "text": "Between 3,500 and 4,000 tonnes of ordnance exploded at the RAF Fauld underground munitions storage depot in the largest non-nuclear explosion in the United Kingdom.",
+   "year": 1903,
+   "text": "SS Petriana struck a reef near Point Nepean, leading to Australia's first major oil spill and a debate over the White Australia policy.",
    "context": [
-    "The RAF Fauld explosion occurred during the Second World War at the RAF Fauld underground munitions storage depot in Staffordshire, England at 11:11 am on Monday, 27 November 1944. The blast, which was one of the largest non-nuclear explosions in history, detonated between 3,500 and 4,000 tonnes of high explosive military ordnance. It created an explosion crater with a depth of 100 feet (30 m) and a maximum width of 1,007 feet (307 m)."
+    "SS Petriana was an iron screw steamer built in 1879 that was converted into an oil tanker. On 28 November 1903, while transporting 1,300 tonnes of petroleum from Borneo to Australia, it struck a reef near Point Nepean, Victoria, outside of Port Phillip Bay. The vessel was subsequently abandoned, but not before its cargo was released as part of efforts to save the ship, causing Australia's first major oil spill. Under the White Australia policy, the Chinese and Malay sailors crewing the Petriana were refused entry to Australia and forced to stay on a crowded tugboat for several days. Their treatment led to a political controversy in the lead-up to the 1903 federal election."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1943,
-   "text": "World War II: Australian forces began the Battle of Wareo by conducting clearing operations between Bonga and North Hill.",
+   "year": 1895,
+   "text": "The Chicago Times-Herald race, the first automobile race in the U.S., was held in Chicago.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Chicago Times-Herald race was the first automobile race held in the United States. Sponsored by the Chicago Times-Herald, the race was held in Chicago in 1895 among six automobiles: four gasoline and two electric, all four-wheelers. It was won by Frank Duryea's Motorized Wagon. The race created considerable publicity for the motocycle, which had been introduced in the United States only two years earlier."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1895,
-   "text": "Swedish chemist and industrialist Alfred Nobel (pictured) signed his last will and testament, setting aside the bulk of his estate to establish the Nobel Prize after his death.",
+   "year": 1811,
+   "text": "Beethoven's Piano Concerto No. 5 premiered at the Gewandhaus in Leipzig.",
    "context": [
-    "Alfred Bernhard Nobel was a Swedish chemist, inventor, engineer, and businessman. Nobel is known for inventing dynamite, as well as having bequeathed his fortune to establish the Nobel Prizes. He worked on various important contributions and inventions to science, holding 355 patents during his life."
+    "Ludwig van Beethoven was a German composer and pianist. A seminal figure in the history of music, his personal style was a key driver of the transition from Classical to Romantic music. He expanded instrumental forms such as the symphony, the piano sonata, and the string quartet. Beethoven is widely revered as one of the greatest composers of all time, and his compositions are among the most performed in the world."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1868,
-   "text": "American Indian Wars: George Armstrong Custer's 7th Cavalry Regiment attacked the encampment of Chief Black Kettle and the Cheyenne on the Washita River near present-day Cheyenne, Oklahoma.",
+   "year": 1729,
+   "text": "Natchez Indians revolted against French colonists near modern-day Natchez, Mississippi, killing approximately 230 people.",
    "context": [
-    "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, Confederate States and Republic of Texas against various American Indian tribes in North America. These conflicts occurred from the time of the earliest European colonial settlements in the 17th century until the end of the 19th century. The various conflicts resulted from a wide variety of factors, the most common being the desire of settlers and governments for tribal lands. The European powers and their colonies enlisted allied American Indian tribes to help them conduct warfare against each other's colonial settlements. After the American Revolution, many conflicts were local to specific states or regions and frequently involved disputes over land use; many involved retaliatory violence."
+    "The Natchez were a Native American people who originally lived in the Natchez Bluffs area in the Lower Mississippi Valley, near the present-day city of Natchez, Mississippi, in the United States. The DeSoto chronicle failed to record their presence when they came down the river in 1543. They spoke a language with no known relatives, although it may be distantly related to the Muskogean languages of the Creek Confederacy."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1856,
-   "text": "William III (pictured) unilaterally revised the constitution of Luxembourg, greatly expanding his powers as grand duke.",
+   "year": 1666,
+   "text": "The Scots Army led by Tam Dalyell of the Binns suppressed an uprising by Covenanter insurgents under James Wallace of Auchens near the Pentland Hills in Scotland.",
    "context": [
-    "William III was King of the Netherlands and Grand Duke of Luxembourg from 1849 until his death in 1890, and was also the Duke of Limburg from 1849 until the abolition of the duchy in 1866. Having reigned for 41 years, he is the second-longest reigning Dutch monarch, only surpassed by his daughter, Wilhelmina."
+    "The Scots Army was the army of the Kingdom of Scotland between the 1660 Stuart Restoration and Scotland's union with England to form Great Britain on 1 May 1707 following the 1706 Treaty of Union and the Acts of Union that enacted it. During the Restoration the Scots Army was raised as a small standing army which mainly engaged in suppressing Covenanter rebellions participating in counterinsurgency operations against Cameronians in Eastern Scotland. The Scottish Militia was also raised to further bolster Scotland's military capacity."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1835,
-   "text": "James Pratt and John Smith became the last people to be executed in England for sodomy.",
+   "year": 1660,
+   "text": "Robert Boyle, John Wilkins, Christopher Wren and other leading scientists met at Gresham College in London to found a learned society, now known as the Royal Society (coat of arms pictured).",
    "context": [
-    "James Pratt (1805–1835), also known as John Pratt, and John Smith (1795–1835) were two British men who, in November 1835, became the last people to be executed for sodomy in England. Pratt and Smith were arrested in August of that year after allegedly having \"carnal knowledge\" of each other in a room rented by another man, William Bonill. Bonill was not present when this took place, but was nevertheless convicted of being an accessory and was transported to Australia, where he died."
+    "Robert Boyle was an Anglo-Irish chemist, alchemist, physicist, theologian, and inventor. Boyle is largely regarded today as the first modern chemist, and therefore one of the founders of modern chemistry, and one of the pioneers of modern experimental scientific method."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1703,
-   "text": "The great storm of 1703, one of the most severe storms to strike southern Great Britain, destroyed the first Eddystone Lighthouse off Plymouth.",
+   "year": 1470,
+   "text": "Đại Việt emperor Lê Thánh Tông launched a military expedition against Champa, beginning the Champa–Đại Việt War.",
    "context": [
-    "The Great storm of 1703 was a destructive extratropical cyclone that struck south Wales and central and southern England on 26 November 1703. High winds caused 2,000 chimney stacks to collapse in London and damaged the New Forest, which lost 4,000 oaks. Ships were blown hundreds of miles off-course, and over 1,000 seamen died on the Goodwin Sands alone. News bulletins of casualties and damage were sold all over England and Wales – a novelty at that time. The Church of England declared that the storm was God's vengeance for the sins of the nation."
+    "Đại Việt was the official name of multiple Vietnamese monarchies in eastern Mainland Southeast Asia from the 10th century AD to the early 19th century, centered around the region of present-day Hanoi. The initial name, Đại Cồ Việt, was adopted in 968 by Emperor Đinh Bộ Lĩnh, following his successful campaigns that ended the Anarchy of the 12 Warlords and lasted until the beginning of the reign of Lý Thánh Tông, the third emperor of the Lý dynasty. Đại Việt lasted until the reign of Gia Long, the first emperor of the Nguyễn dynasty, when the name was changed to Việt Nam in 1804. Under rule of bilateral diplomacy with Imperial China, it was known as the Principality of Giao Chỉ (975–1164) and later the Kingdom of Annam (1164–1804) when Emperor Xiaozong of Song recognized Đại Việt's independence and upgraded its status from principality to kingdom."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1161,
-   "text": "Jin–Song wars: A Song fleet, equiped with trebuchets that launched incendiary bombs, defeated Jin ships in a naval engagement on the Yangtze River.",
+   "year": 1443,
+   "text": "Having deserted the Ottoman army, Skanderbeg (pictured) arrived in the Albanian city of Krujë and, using a forged letter from Sultan Murad II to the governor of Krujë, became lord of the city.",
    "context": [
-    "The Jin–Song Wars were a series of conflicts between the Jurchen-led Jin dynasty (1115–1234) and the Han-led Song dynasty (960–1279). In 1115, Jurchen tribes rebelled against their overlords, the Khitan-led Liao dynasty (916–1125), and declared the formation of the Jin. Allying with the Song against their common enemy the Liao dynasty, the Jin promised to cede to the Song the Sixteen Prefectures that had fallen under Liao control since 938. The Song agreed but the Jin's quick defeat of the Liao combined with Song military failures made the Jin reluctant to cede territory. After a series of negotiations that embittered both sides, the Jurchens attacked the Song in 1125, dispatching one army to Taiyuan and the other to Bianjing, the Song capital."
+    "The Ottoman Empire, also known historically as Turkey or the Turkish Empire, was a state that spanned much of Southeastern Europe, West Asia, and North Africa from the 14th century to the early 20th century, centred in modern-day Turkey. It also controlled parts of southeastern Central Europe between the early 16th and early 18th centuries."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Arm's-length transaction (עסקה בתנאי שוק)",
+  "Bear hug (חיבוק דובי)",
+  "A rising tide lifts all boats (גאות מרימה את כל הסירות)",
   "Poison pill (גלולת רעל)",
   "War chest (קופת מלחמה)",
   "Herding cats (לרכז חתולים)",
@@ -246,10 +249,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Kill the Goose That Lays the Golden Eggs (לשחוט את האווזה שמטילה ביצי זהב)",
   "Jawboning (שידול מילולי)",
   "Stalking-horse bid (הצעת פתיחה מוקדמת)",
-  "Throwing spaghetti at the wall (לזרוק ספגטי על הקיר)",
-  "Total addressable market / TAM (פוטנציאל שוק כולל)",
-  "Circular financing / circular deal (מימון מעגלי)",
-  "Paper tiger (נמר של ניר)"
+  "Throwing spaghetti at the wall (לזרוק ספגטי על הקיר)"
  ]
 }
 </input>

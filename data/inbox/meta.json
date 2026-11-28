@@ -1,6 +1,6 @@
 {
- "date": "2026-11-27",
- "prepared_at": "2026-11-27T11:55:02+00:00",
+ "date": "2026-11-28",
+ "prepared_at": "2026-11-28T03:38:37+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -24,57 +24,57 @@
   "is_match_day": true,
   "events": [
    {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Toronto Raptors",
-    "away": "Brooklyn Nets",
-    "kickoff_utc": "2026-11-28T00:30:00.000Z"
+    "sport": "soccer",
+    "competition": "American Major League Soccer",
+    "home": "Columbus Crew",
+    "away": "Inter Miami",
+    "kickoff_utc": "2026-11-28T01:00:00"
    },
    {
     "sport": "nba",
     "competition": "NBA",
-    "home": "Portland Trail Blazers",
-    "away": "Golden State Warriors",
-    "kickoff_utc": "2026-11-28T02:30:00.000Z"
+    "home": "Charlotte Hornets",
+    "away": "Brooklyn Nets",
+    "kickoff_utc": "2026-11-28T23:00:00.000Z"
    }
   ]
  },
  "markets": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3940.0901,
+   "last": 3941.2,
    "prev_close": 3881.27,
-   "change_pct": 1.52,
+   "change_pct": 1.54,
    "as_of": "2026-11-27"
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7182.7798,
-   "prev_close": 7201.0898,
-   "change_pct": -0.25,
-   "as_of": "2026-11-25"
+   "last": 7297.4902,
+   "prev_close": 7182.7798,
+   "change_pct": 1.6,
+   "as_of": "2026-11-27"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3131,
+   "last": 3.3118,
    "prev_close": 3.3783,
-   "change_pct": -1.93,
+   "change_pct": -1.97,
    "as_of": "2026-11-27"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 92.03,
+   "last": 90.84,
    "prev_close": 94.61,
-   "change_pct": -2.73,
+   "change_pct": -3.98,
    "as_of": "2026-11-27"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 61459.6094,
+   "last": 59919.6602,
    "prev_close": 60494.7109,
-   "change_pct": 1.6,
-   "as_of": "2026-11-27"
+   "change_pct": -0.95,
+   "as_of": "2026-11-28"
   }
  },
- "essays_fetched": 7
+ "essays_fetched": 6
 }
