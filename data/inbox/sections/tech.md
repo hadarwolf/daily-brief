@@ -112,73 +112,67 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "published": "2026-11-28T03:19:20+00:00",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 313 # Comments: 77"
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 334 # Comments: 80"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Atari Homebrew Awards Cancelled",
-     "published": "2026-11-28T02:03:25+00:00",
-     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 205 # Comments: 199"
+     "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+     "published": "2026-11-27T23:06:29+00:00",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 411 # Comments: 158"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-     "published": "2026-11-27T23:06:29+00:00",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 399 # Comments: 151"
+     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "published": "2026-11-27T19:42:25+00:00",
+     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 391 # Comments: 247"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-     "published": "2026-11-27T19:42:25+00:00",
-     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 387 # Comments: 240"
+     "title": "Michael Nielsen took down his book on neural nets",
+     "published": "2026-11-27T19:31:01+00:00",
+     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 544 # Comments: 337"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Michael Nielsen took down his book on neural nets",
-     "published": "2026-11-27T19:31:01+00:00",
-     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 538 # Comments: 334"
+     "title": "Convex skills send the user's app idea to a remote server without telling them",
+     "published": "2026-11-27T18:02:45+00:00",
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 310 # Comments: 100"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Convex skills send the user's app idea to a remote server without telling them",
-     "published": "2026-11-27T18:02:45+00:00",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 304 # Comments: 97"
+     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+     "published": "2026-11-27T15:40:31+00:00",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 532 # Comments: 274"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-     "published": "2026-11-27T15:40:31+00:00",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 526 # Comments: 273"
+     "title": "False computer-checked proofs",
+     "published": "2026-11-27T15:26:09+00:00",
+     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 230 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "False computer-checked proofs",
-     "published": "2026-11-27T15:26:09+00:00",
-     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 229 # Comments: 88"
-    },
-    {
-     "ref": "hn_frontpage#8",
      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
      "published": "2026-11-27T15:01:50+00:00",
      "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome. There"
     },
     {
-     "ref": "hn_frontpage#9",
+     "ref": "hn_frontpage#8",
      "title": "Citroën Hydraulic System",
      "published": "2026-11-27T03:10:19+00:00",
-     "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 202 # Comments: 60"
+     "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 204 # Comments: 62"
+    },
+    {
+     "ref": "hn_frontpage#9",
+     "title": "First images of the impact of DART asteroid deflection experiment",
+     "published": "2026-11-26T17:24:37+00:00",
+     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 216 # Comments: 67"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "First images of the impact of DART asteroid deflection experiment",
-     "published": "2026-11-26T17:24:37+00:00",
-     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 213 # Comments: 67"
-    },
-    {
-     "ref": "hn_frontpage#11",
      "title": "The Balatro Timeline",
      "published": "2026-11-26T17:20:27+00:00",
-     "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 371 # Comments: 89"
+     "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 382 # Comments: 93"
     }
    ]
   },

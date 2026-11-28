@@ -150,57 +150,57 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#2",
+     "title": "England’s post-Brexit fishing windfall swept up by Dutch tycoon",
+     "published": "2026-11-28T05:00:41+00:00",
+     "summary": "Smaller operators initially won a quarter of quotas, but their share dwindled to less than 1 per cent in 2025"
+    },
+    {
+     "ref": "ft_home#3",
      "title": "The mathematicians living through an AI revolution",
      "published": "2026-11-28T05:00:32+00:00",
      "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Pedro Sánchez: the partisan warrior fighting to the last",
      "published": "2026-11-28T05:00:32+00:00",
      "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "‘Only in America’ and other good lies",
      "published": "2026-11-28T05:00:32+00:00",
      "summary": "Diverse societies need noble myths to keep them whole"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "Five US multinationals pay more tax to Ireland than anywhere else",
      "published": "2026-11-28T05:00:15+00:00",
      "summary": "New analysis highlights the extent to which Dublin has become ‘the tax office of corporate America’"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "AI agents are coming for big business",
      "published": "2026-11-28T05:00:14+00:00",
      "summary": "The technology could unleash much greater competition. But users are wary of giving away too much"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "S&P cuts France outlook to negative",
      "published": "2026-11-27T22:45:36+00:00",
      "summary": "Rating agency says political instability will make it harder for the country to tackle its public deficit"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "Can AI crack encryption?",
      "published": "2026-11-27T18:16:51+00:00",
      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#10",
      "title": "Wave of cyber incidents rattles western economies",
      "published": "2026-11-27T16:19:21+00:00",
      "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI"
-    },
-    {
-     "ref": "ft_home#10",
-     "title": "First principles to cling to when markets convulse",
-     "published": "2026-11-27T12:32:08+00:00",
-     "summary": "If you haven’t a clue what to do right now, stick to the investment basics"
     }
    ]
   },
@@ -547,9 +547,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 59285.9688,
+   "last": 59108.2891,
    "prev_close": 59866.3711,
-   "change_pct": -0.97,
+   "change_pct": -1.27,
    "as_of": "2026-11-28"
   }
  },
