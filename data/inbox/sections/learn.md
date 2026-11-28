@@ -131,7 +131,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1666,
    "text": "The Scots Army led by Tam Dalyell of the Binns suppressed an uprising by Covenanter insurgents under James Wallace of Auchens near the Pentland Hills in Scotland.",
    "context": [
-    "The Scots Army was the army of the Kingdom of Scotland between the 1660 Stuart Restoration and Scotland's union with England to form Great Britain on 1 May 1707 following the 1706 Treaty of Union and the Acts of Union that enacted it. During the Restoration the Scots Army was raised as a small standing army which mainly engaged in suppressing Covenanter rebellions participating in counterinsurgency operations against Cameronians in Eastern Scotland. The Scottish Militia was also raised to further bolster Scotland's military capacity."
+    "The Scots Army was the army of the Kingdom of Scotland between the 1660 Stuart Restoration and Scotland's union with England to form Great Britain on 1 May 1707 following the 1706 Treaty of Union and the Acts of Union that enacted it. During the Restoration the Scots Army was raised as a small standing army which mainly engaged in suppressing Covenanter rebellions and participating in counterinsurgency operations against Cameronians in Eastern Scotland. The Scottish Militia was also raised to further bolster Scotland's military capacity."
    ]
   },
   {

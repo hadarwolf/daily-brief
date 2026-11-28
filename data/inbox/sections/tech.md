@@ -68,51 +68,39 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "לכל אחד יש פודקאסט? המספרים שמאחורי שוק הפודקאסטים הישראלי",
+     "published": "2026-11-28T08:24:02+00:00",
+     "summary": "ממדיום שולי של יודעי דבר עילאיים שמאזינים ל-Serial, הפודקאסטים נכנסו היטב למיינסטרים הישראלי וסביר להניח שכבר שמעתם את הבדיחה \"לכל אחד יש פודקאסט\". אבל כמה פודקאסטים פעילים באמת יש בישראל? שנת שיא בהשקות של פודקאסטים חדשים על פי הנתונים החדשים שהגיעו לידי גיקטיים, נכון לחודש נובמבר 2026 ישנם 1,249 פודקאסטים פעילים בעברית, מתוכם 286 הינם […] The post לכל אחד יש פודקאסט? המספרים שמאחורי שוק הפודקאסט"
+    },
+    {
+     "ref": "geektime#1",
      "title": "אקזיט-לא-אקזיט, יוניקורן בן 3 חודשים ו-750 מיליון דולר. אין ספק שהיה כאן מעניין החודש",
      "published": "2026-11-27T13:29:51+00:00",
      "summary": "חודש נובמבר בהייטק הישראלי הוכיח שוב שגם כשהכותרות מדברות על אקזיט או עסקת \"לא-רכישה\" מסקרנת של הסטארטאפ דקארט על ידי אמזון, מתחת לפני השטח הכסף הגדול ממשיך לזרום. עם 750 מיליון דולר שגויסו, חד קרן חדש שנולד במהירות שיא ושורה של אקזיטים – הנה כל המספרים והעסקאות שעשו את החודש. חד קרן חריג הסטארטאפים הישראליים […] The post אקזיט-לא-אקזיט, יוניקורן בן 3 חודשים ו-750 מיליון דולר. אין ספק שהיה כאן מענ"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#2",
      "title": "המודרים מנסים להביא את GTA 6 למחשב לפני Rockstar. אבל עורכי הדין כבר בדרך אליהם",
      "published": "2026-11-27T09:15:17+00:00",
      "summary": "אני לא יודע אם שמתם לב, אבל לפני שבוע שוחרר משחק אינדי קטן וצנוע בשם GTA 6 שהספיק להרוויח מיליארדי דולרים ולעשות היסטוריה. אנחנו כבר כתבנו לכם מה אנחנו חושבים עליו במיני ביקורת שלנו, וגם הוזמנו להתארח בפודקאסט \"אחד ביום\" כדי לדבר עליו. אבל ישנה קבוצה שממש לא מרוצה מההשקה הזאת: שחקני ה-PC. ב-Rockstar Games […] The post המודרים מנסים להביא את GTA 6 למחשב לפני Rockstar. אבל עורכי הדין כבר בדרך אליהם "
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#3",
      "title": "אני לא מאמין שאני אומר את זה, אבל אני מת על Muse של מטא",
      "published": "2026-11-27T07:27:11+00:00",
      "summary": "יום שישי, ערב סוכות, בשעות אחר הצהריים. צ'יפ שולח לי התראה שהוא מצא לי כרטיסים למופע הפרידה של טייכר וזרחוביץ'. הייתי בטוח שהוא טועה. בכל זאת, בעמוד הפייסבוק הודיעו שהמכירה תיפתח רק בשבוע הבא, ולא פירטו איפה זה יקרה. נכנסתי לאתר שצ'יפ מצא, ותוך כמה דקות היו לי כרטיסים במקומות מצוינים. עד היום אני לא […] The post אני לא מאמין שאני אומר את זה, אבל אני מת על Muse של מטא appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#4",
      "title": "מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות?",
      "published": "2026-11-26T18:25:39+00:00",
      "summary": "למי זה לא קרה? אתם מדברים עם מכר על שירות או מוצר כלשהו, פותחים את פייסבוק או את אינסטגרם והופ – קופצת לכם פרסומת בדיוק לזה. נשמע מוכר? אחד המיתוסים הטכנולוגיים המוכרים ביותר בעשור האחרון הוא שפייסבוק ואינסטגרם מאזינות דרך המיקרופון של הסמארטפון שלנו כדי להציג לנו פרסומות מדויקות לפי מה שאנחנו מדברים עליו. היי, […] The post מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות? appeared first o"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#5",
      "title": "בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים",
      "published": "2026-11-26T12:00:30+00:00",
      "summary": "שלוש שעות ישבתי בקולנוע ועברתי סקאלה לא הגיונית של רגשות כלפי אישה, שחשבתי שאני יודע כבר הכל על הסיפור שלה, אחרי שסיקרתי אותה ב-7 השנים האחרונות. קוראים לה אליזבת הולמס, כנראה שמעתם עליה. בשקט בשקט הסכימה ליזי (אני מרשה לעצמי) שאחד הקומיקאים והבמאים ההזויים והמתוחכמים בעולם ילווה אותה, בתקופה אולי הכי רגישה שיש – בימים […] The post בלי ספויילרים: ראיתי את הסרט שכולם מדברים עליו, וגם אתם צריכים app"
-    },
-    {
-     "ref": "geektime#5",
-     "title": "תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM",
-     "published": "2026-11-26T09:43:58+00:00",
-     "summary": "דרכונים בתיק? צ'ק. סוללה ניידת? צ'ק. איירטאג? צ'ק. ומה לגבי חבילת גלישה? אולי שילמתם מאות שקלים מיותרים לחברת הסלולר שלכם, אולי החלטתם להתחיל את הטיול שלכם בחיפוש אחר סים מקומי באחת מהחנויות, ואולי עשיתם את הדבר ההגיוני יותר לרוב, ובחרתם eSim של חברות כמו Airalo ואחרות. אבל עכשיו נראה שאולי בפעם הבאה שתטוסו תהיה עוד […] The post תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM appeared first on"
-    },
-    {
-     "ref": "geektime#6",
-     "title": "ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון מסוגו",
-     "published": "2026-11-26T08:42:18+00:00",
-     "summary": "החזון של אילון מאסק (ושל אחרים לפניו) לשלוט במחשבים ולהזיז איברים בגוף בכוח המחשבה בלבד הולך והופך לאט לאט ממדע בדיוני למציאות. חברת Neuralink הודיעה אתמול (ד') שקיבלה אישור ממנהל המזון והתרופות האמריקאי, ה-FDA, להשיק את LINK, הניסוי הגדול הראשון שלה בארצות הברית. במסגרת הניסוי היא תבדוק את ה-BCI או ממשק המוח-מחשב שלה על מספר […] The post ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון "
-    },
-    {
-     "ref": "geektime#7",
-     "title": "הפריצה הגדולה ל-1Password: כל מה שאתם צריכים לדעת (ולעשות)",
-     "published": "2026-11-26T07:42:53+00:00",
-     "summary": "אחד הדברים הטובים ביותר שאתם יכולים לעשות לאבטחת המידע שלכם זה להשתמש במנהל סיסמאות. במקום למחזר סיסמאות, לשכוח אותן ולהזין אותן בכל פעם מחדש, מנהלי הסיסמאות יכולים לג'נרט לכם סיסמאות חזקות הרבה יותר, לשמור על ה-Passkeys שלכם, להתחבר באמצעותם ולהזין עבורכם את הסיסמאות בלי שתצטרכו לזכור אותן. לשימוש יומיומי בדרך כלל מספיק לזכור את סיסמת […] The post הפריצה הגדולה ל-1Password: כל מה שאתם צריכים לדעת"
     }
    ]
   },
@@ -122,51 +110,75 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-     "published": "2026-11-27T23:06:29+00:00",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 169 # Comments: 57"
+     "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+     "published": "2026-11-28T03:19:20+00:00",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 277 # Comments: 67"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-     "published": "2026-11-27T19:42:25+00:00",
-     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 294 # Comments: 158"
+     "title": "Atari Homebrew Awards Cancelled",
+     "published": "2026-11-28T02:03:25+00:00",
+     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 203 # Comments: 191"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Michael Nielsen took down his book on neural nets",
-     "published": "2026-11-27T19:31:01+00:00",
-     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 419 # Comments: 268"
+     "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+     "published": "2026-11-27T23:06:29+00:00",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 385 # Comments: 149"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Convex skills send the user's app idea to a remote server without telling them",
-     "published": "2026-11-27T18:02:45+00:00",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 247 # Comments: 77"
+     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "published": "2026-11-27T19:42:25+00:00",
+     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 381 # Comments: 230"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-     "published": "2026-11-27T15:40:31+00:00",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 453 # Comments: 235"
+     "title": "Michael Nielsen took down his book on neural nets",
+     "published": "2026-11-27T19:31:01+00:00",
+     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 531 # Comments: 328"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "False computer-checked proofs",
-     "published": "2026-11-27T15:26:09+00:00",
-     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 192 # Comments: 76"
+     "title": "Convex skills send the user's app idea to a remote server without telling them",
+     "published": "2026-11-27T18:02:45+00:00",
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 301 # Comments: 95"
     },
     {
      "ref": "hn_frontpage#6",
+     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+     "published": "2026-11-27T15:40:31+00:00",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 521 # Comments: 271"
+    },
+    {
+     "ref": "hn_frontpage#7",
+     "title": "False computer-checked proofs",
+     "published": "2026-11-27T15:26:09+00:00",
+     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 228 # Comments: 88"
+    },
+    {
+     "ref": "hn_frontpage#8",
      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
      "published": "2026-11-27T15:01:50+00:00",
      "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome. There"
     },
     {
-     "ref": "hn_frontpage#7",
+     "ref": "hn_frontpage#9",
+     "title": "Citroën Hydraulic System",
+     "published": "2026-11-27T03:10:19+00:00",
+     "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 200 # Comments: 60"
+    },
+    {
+     "ref": "hn_frontpage#10",
      "title": "First images of the impact of DART asteroid deflection experiment",
      "published": "2026-11-26T17:24:37+00:00",
-     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 193 # Comments: 58"
+     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 212 # Comments: 67"
+    },
+    {
+     "ref": "hn_frontpage#11",
+     "title": "The Balatro Timeline",
+     "published": "2026-11-26T17:20:27+00:00",
+     "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 356 # Comments: 75"
     }
    ]
   },

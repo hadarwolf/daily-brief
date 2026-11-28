@@ -1,0 +1,19 @@
+There are many discussions of “disempowerment” as a result of strong AI, and of whether humans “lose control” or agency. Do any of these discussions offer specific, detailed comparisons of how strong AI also may empower humans? Do they have any specific consideration, working through some examples and details, of the “net empowerment effect,” namely whether the empowering functions of AI are more important than the disempowering functions? Please give me specific citations of what comes closest to this, or can it be found at all?
+
+But my impression from searching the literature is that systematic analysis of the net empowerment effect of very powerful AI remains surprisingly underdeveloped, especially relative to the volume of work on disempowerment.
+
+The main example they give, by Bentham’s Bulldog and John Halstead, largely argues against the likelihood of net disempowerment.
+
+The best academic example GPT has “…recognizes that establishing the prospect of extraordinarily powerful AI is not sufficient to establish the prospect of human disempowerment.”
+
+Read the whole GPT answer yourself. I will repeat my general claim that the disempowerment critiques of strong AI are long on emotion and short on social science, marginal thinking, and comparative analysis. The beast that disempowered me from writing all of this blog post myself seems to agree. And that same beast offers some very nice general remarks:
+
+I would particularly like to see a treatment of the general-equilibrium effects of AI on the power of humans over other humans. Much of what currently limits human agency is not the absence of cognitive abilities per se, but dependence on other people who possess scarce cognitive abilities.
+
+Furthermore, many disempowerment scenarios seem to assume that AI capabilities will continue improving while the technologies available to humans for controlling, monitoring, bargaining with, and directing those AIs remain comparatively static. Why should that be the appropriate default assumption?
+
+The strongest counterargument is that empowerment might be temporary and revocable, whereas eventual disempowerment might be irreversible. That asymmetry deserves serious consideration, but it too requires explicit modeling rather than simply counting the decisions delegated to machines.
+
+And do keep in mind the comparative analysis. The same assumptions that get you disempowerment from AI (e.g., mental laziness) also tend to get you disempowerment from growing wealth, albeit at a likely slower pace. The marginal increase in disempowerment, should the risks of AI lead us to fall into that path, may not be so great in the longer term? Maybe so, but that is not a question you see being raised very often.
+
+Seb Krier has some characteristically excellent remarks.

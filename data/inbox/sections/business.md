@@ -18,15 +18,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
-     "published": "2026-11-28T03:01:44+00:00",
-     "summary": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation of Logistics and Purchasing."
+     "title": "Eisenkot Edging Closer to Leading Israel With Talks Progressing",
+     "published": "2026-11-28T09:00:00+00:00",
+     "summary": "With just over a week to go, Gadi Eisenkot is within striking distance of a coalition breakthrough that could secure him a parliamentary majority and loosen Benjamin Netanyahu’s three-decade grip on Israeli politics."
     },
     {
      "ref": "bloomberg_markets#1",
-     "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
-     "published": "2026-11-27T22:29:56+00:00",
-     "summary": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington."
+     "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+     "published": "2026-11-28T06:39:08+00:00",
+     "summary": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar with the matter."
     },
     {
      "ref": "bloomberg_markets#2",
@@ -36,27 +36,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#3",
-     "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
-     "published": "2026-11-27T21:19:31+00:00",
-     "summary": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro."
-    },
-    {
-     "ref": "bloomberg_markets#4",
-     "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
-     "published": "2026-11-27T21:05:05+00:00",
-     "summary": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of delays."
-    },
-    {
-     "ref": "bloomberg_markets#5",
-     "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
-     "published": "2026-11-27T20:24:01+00:00",
-     "summary": "Pedro Sánchez rallied voters to turn out in Sunday’s national election during his final campaign event, in a last-minute attempt to pull off an upset."
-    },
-    {
-     "ref": "bloomberg_markets#6",
      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
      "published": "2026-11-27T18:43:36+00:00",
      "summary": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen."
+    },
+    {
+     "ref": "bloomberg_markets#4",
+     "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
+     "published": "2026-11-27T17:36:52+00:00",
+     "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#5",
+     "title": "Hong Kong Is Selling The City It Used To Be",
+     "published": "2026-11-27T17:23:53+00:00",
+     "summary": "Hong Kong is turning nostalgia into a booming industry. From period crime dramas to film-set visitor attractions, locals are jumping at the chance to escape to the 1980s and 90s. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#6",
+     "title": "Anthropic Shares Jump After Volatile First Week Since IPO",
+     "published": "2026-11-27T16:49:08+00:00",
+     "summary": "Anthropic PBC shares climbed above their $83 initial public offering price as the artificial intelligence lab finished its first calendar week on the Nasdaq after its record-setting debut on a positive note."
     },
     {
      "ref": "bloomberg_markets#7",
@@ -138,63 +138,69 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "OpenAI countersues Apple for stealing trade secrets",
-     "published": "2026-11-27T23:00:08+00:00",
-     "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates"
+     "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+     "published": "2026-11-28T05:00:41+00:00",
+     "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months"
     },
     {
      "ref": "ft_home#1",
+     "title": "US military repelled drones at RAF base",
+     "published": "2026-11-28T05:00:41+00:00",
+     "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month"
+    },
+    {
+     "ref": "ft_home#2",
+     "title": "The mathematicians living through an AI revolution",
+     "published": "2026-11-28T05:00:32+00:00",
+     "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field"
+    },
+    {
+     "ref": "ft_home#3",
+     "title": "‘Only in America’ and other good lies",
+     "published": "2026-11-28T05:00:32+00:00",
+     "summary": "Diverse societies need noble myths to keep them whole"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "Pedro Sánchez: the partisan warrior fighting to the last",
+     "published": "2026-11-28T05:00:32+00:00",
+     "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure"
+    },
+    {
+     "ref": "ft_home#5",
+     "title": "Five US multinationals pay more tax to Ireland than anywhere else",
+     "published": "2026-11-28T05:00:15+00:00",
+     "summary": "New analysis highlights the extent to which Dublin has become ‘the tax office of corporate America’"
+    },
+    {
+     "ref": "ft_home#6",
+     "title": "AI agents are coming for big business",
+     "published": "2026-11-28T05:00:14+00:00",
+     "summary": "The technology could unleash much greater competition. But users are wary of giving away too much"
+    },
+    {
+     "ref": "ft_home#7",
      "title": "S&P cuts France outlook to negative",
      "published": "2026-11-27T22:45:36+00:00",
      "summary": "Rating agency says political instability will make it harder for the country to tackle its public deficit"
     },
     {
-     "ref": "ft_home#2",
-     "title": "US tech stocks rise in latest market swing",
-     "published": "2026-11-27T20:08:09+00:00",
-     "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings"
-    },
-    {
-     "ref": "ft_home#3",
-     "title": "Trump’s Nvidia intervention has a cost for US stocks",
-     "published": "2026-11-27T18:26:25+00:00",
-     "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities"
-    },
-    {
-     "ref": "ft_home#4",
-     "title": "AI and the decryption nightmare",
-     "published": "2026-11-27T18:18:27+00:00",
-     "summary": "New breakthroughs call for faster upgrades to security, not panic"
-    },
-    {
-     "ref": "ft_home#5",
+     "ref": "ft_home#8",
      "title": "Can AI crack encryption?",
      "published": "2026-11-27T18:16:51+00:00",
      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce"
     },
     {
-     "ref": "ft_home#6",
-     "title": "Mélenchon takes aim at Germany in Berlin campaign stop",
-     "published": "2026-11-27T16:45:39+00:00",
-     "summary": "Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally"
-    },
-    {
-     "ref": "ft_home#7",
+     "ref": "ft_home#9",
      "title": "Wave of cyber incidents rattles western economies",
      "published": "2026-11-27T16:19:21+00:00",
      "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#10",
      "title": "First principles to cling to when markets convulse",
      "published": "2026-11-27T12:32:08+00:00",
      "summary": "If you haven’t a clue what to do right now, stick to the investment basics"
-    },
-    {
-     "ref": "ft_home#9",
-     "title": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
-     "published": "2026-11-27T05:00:23+00:00",
-     "summary": "Lawyers say contracts for so-called continuation vehicles remove investors’ right to sue in event of dispute"
     }
    ]
   },
@@ -204,152 +210,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "מיליון שקל על KFC ישראל: הצעת רכישה לרשת שמפסידה מיליון שקל בחודש",
+     "published": "2026-11-28T09:38:13+00:00",
+     "summary": "ר.א.א שיווק מזון שבבעלות אמיר חמיאס, הגישה לנאמני זכיינית KFC בישראל הצעה לרכישת הרשת, המותנית באישור בית המשפט. במקביל דורשים 113 מעובדי הרשת שבית המשפט יעדיף הצעה שתבטיח את מקומות העבודה שלהם, ולא רק את הסכום הגבוה ביותר"
+    },
+    {
+     "ref": "themarker#1",
+     "title": "למהפכה החשמלית של וייטנאם יש רק שני גלגלים",
+     "published": "2026-11-28T07:50:58+00:00",
+     "summary": "הזינוק במחירי הדלק ומאמצי הממשלה להפחתת זיהום האוויר בערים הביאו לביקוש גובר לאופנועים חשמליים ■ היצרניות המקומיות נהנות מעלייה במכירות ומתחרות בשליטה של הונדה בענף ■ בנוסף לרשת תחנות טעינה רשמיות, בתי עסק ואזרחים פרטיים מציעים לרוכבים לעצור אצלם, להתחבר לחשמל — ואפילו לאכול ולהתקלח"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "הסכסוך מחריף: OpenAI הגישה תביעה נגדית נגד אפל בגין גניבת סודות מסחריים",
+     "published": "2026-11-28T05:18:24+00:00",
+     "summary": "חברת הבינה המלאכותית טוענת בין היתר כי נוהלי ההעסקה של אפל נועדו \"ללכוד\" עובדים ולמנוע מהם לעבוד על טכנולוגיה של מתחרים ■ ביולי תבעה יצרנית האייפון את OpenAI בטענה כי החברה ביקשה ממועמדים לעבודה שהגיעו אליה מאפל לחשוף פרטים על פרויקטים סודיים"
+    },
+    {
+     "ref": "themarker#3",
      "title": "נעילה חיובית בוול סטריט בתום שבוע סוער; נאסד\"ק הוסיף 2%, אנתרופיק קפצה ב-11%",
      "published": "2026-11-27T17:20:00+00:00",
      "summary": "דאו ג'ונס, S&P 500 ונאסד\"ק סגרו עלייה שבועית של יותר מ-5% ■ בורסות אירופה ננעלו בעליות של כ-1% בעקבות ירידה חדה ומפתיעה באינפלציה בצרפת ובספרד; SAP מתכננת קיצוצים ■ מחירי הנפט עברו לירידות: הברנט מתחת ל-95 דולר לחבית ■ אסיה נסגרה בעליות בהובלת סיאול שקפתה ביותר מ-4%; אינפלציית הליבה ביפן טיפסה לשיא של 16 חודשים"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#4",
      "title": "המסה השחורה של סין",
      "published": "2026-11-27T17:16:56+00:00",
      "summary": "כדי לנצח במרוץ האספקה העולמי, סין מגבירה הילוך והופכת זבל לאוצרות בקנה מידה עצום"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#5",
      "title": "שר השיכון חיים כץ משך את מכתב ההתפטרות שהגיש",
      "published": "2026-11-27T11:40:58+00:00",
      "summary": "כץ אולץ להגיש מכתב התפטרות על מנת לאפשר את מינויו של יהודה אליהו למנכ\"ל הקבוע של רשות מקרקעי ישראל, אך היועצת המשפטית לממשלה בלמה את המינוי"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#6",
      "title": "מאליהו לליאורה עופר: רונן אגסי, מנכ\"ל מגדל, מוביל במועמדות למנכ\"ל מליסרון",
      "published": "2026-11-27T11:19:47+00:00",
      "summary": "אגסי (58) נחשב למנהל בולט ומוערך בענף הפיננסים, ומילא תפקידי ניהול בכירים בחברות ביטוח ובבנק לאומי"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#7",
      "title": "\"החזרנו את השליטה\": הגירה נטו לבריטניה נפלה לרמה הנמוכה ביותר מאז 1997",
      "published": "2026-11-27T10:36:19+00:00",
      "summary": "ההגירה נטו לבריטניה ירדה ל-77 אלף איש בשנה שהסתיימה בקיץ האחרון, מ-204 אלף בתקופה המקבילה בשנה שעברה ■ עיקר הירידה היא בקרב מהגרים המגיעים ממדינות מחוץ לאיחוד האירופי"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#8",
      "title": "כשהמשכורת וההון תלויים באותה חברה: הסיכון שעובדי הייטק עלולים לפספס",
      "published": "2026-11-27T10:25:35+00:00",
      "summary": "הטלטלות במניית אנבידיה סיפקו הצצה למה שקורה כשגורם לא צפוי משפיע על חברה ■ אצל עובדי הייטק, הבונוסים, האופציות והמניות החסומות יוצרים תלות כפולה בחברה אחת, וטלטלה כזאת יכולה למחוק חלק נכבד מהונם ■ למה כל כך קשה למכור מניות של החברה — ואיך נמנעים ממפולת בהון האישי?"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#9",
      "title": "סיפורו של דן קרני, בעל הצרכנייה שייסד את פיצה האט. הכל התחיל מצירוף מקרים",
      "published": "2026-11-27T10:18:17+00:00",
      "summary": "האיש שייסד עם אחיו הצעיר את רשת פיצה האט מת החודש בביתו בגיל 95 ■ אלה הן חלק מתחנות חייו, כולל הסניף הראשון שפתחו במקרה והתנור שמצאו זרוק מאחורי מסעדה איטלקית, דרך הטירוף בשנה הראשונה והמכירה הגדולה — ועד המעשים המפתיעים של אחיו"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#10",
      "title": "בריטניה מהמרת על \"כוח ימי היברידי\" חדש ועתידני",
      "published": "2026-11-27T08:53:46+00:00",
      "summary": "הצי הבריטי מפתח כוח ימי שמשלב כלי שיט אוטונומיים עם ספינות מאוישות, בעזרת AI ■ אם הוא יצליח, זו עשויה להיות מהפכה בלוחמה הימית ■ \"מאויש כשזה הכרחי, בלתי מאויש כשזה אפשרי, ותמיד משולב\", הגדיר זאת ראש המטה הימי הבריטי"
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#11",
      "title": "לא רק שוקי חיזוי וקזינו: כל מה שיוצא כיום מעמק הסיליקון מבוסס על הלוגיקה של הימורים",
      "published": "2026-11-27T08:03:24+00:00",
      "summary": "זה רק נראה לנו טבעי, אבל בלי שהרגשנו האפליקציות שמנהלות את חיינו מתכנסות למודל המשלב הימורי ספורט ושוקי תחזיות עם מסחר באופציות וקריפטו. לא בטוח שנצליח להיגמל"
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#12",
      "title": "מחזורי המסחר בבורסה עלו בחדות; ת\"א 90 זינק השבוע ביותר מ-8%",
      "published": "2026-11-27T07:11:48+00:00"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#13",
      "title": "בשוק ההון מריחים קואליציה ומזניקים את המדדים",
      "published": "2026-11-27T06:41:38+00:00",
      "summary": "הבורסה בתל אביב תיפתח לאחר שאתמול נסגרה בעליות, על רקע הדיווחים על חלוקת התיקים לקראת הקמת ממשלת שינוי ■ לרגל חג ההודיה: מסחר מקוצר בוול סטריט ■ הסקטורים המרכזיים שזינקו אתמול: הנדל\"ן והאנרגיה ■ אילו עוד מניות ירכזו עניין?"
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#14",
      "title": "\"רבים מתושבי שכונת בן דור בנשר לא יכולים לעזוב, אבל מי שיכול— עוזב למקום אחר\"",
      "published": "2026-11-27T04:43:40+00:00",
      "summary": "חנה רוט גרה בשכונת בן דור בנשר מיום שנולדה, אוהבת במיוחד את הנוף שנשקף ממנה, וחושבת שאין ברירה אלא לעשות בשכונה תהליכי פינוי-בינוי. \"כבר כיום הרחוב עמוס בתושבים. אמנם זה לא אידיאלי, אבל אני מעדיפה מגדלים על בנייה בשטח אדמה פתוח\""
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#15",
      "title": "שתי דירות בירושלים נמכרו ב–3.5 מיליון שקל: באחת 3 חדרים ובשנייה 4.5 חדרים",
      "published": "2026-11-27T04:43:04+00:00",
      "summary": "וגם: בכרמיאל נמכר בית דו־משפחתי בן 5 חדרים, עם גינה של 122 מ''ר וחניה, תמורת 2.55 מיליון שקל ■ ובשדרות רוטשילד בתל אביב נמכרה דירת 4 חדרים בקומה 4 מתוך 6 — ב–10.3 מיליון שקל"
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#16",
      "title": "\"כמו רוטשילד, רק בלי מכוניות\": האם המגדלים החדשים יחנקו את בית רומנו ופארק המסילה המצליחים בתל אביב?",
      "published": "2026-11-27T04:31:43+00:00",
      "summary": "בעיריית תל אביב אמנם הבטיחו את שימור בית רומנו המיתולוגי בדרום העיר, אך תושבים, בעלי עסקים ומתכננים חוששים מהקמת מגדלים על פארק המסילה, שעלולים לגרום לקסם של המתחם — עם בתי הקפה והמסעדות, הגלריות, המוזיקה וחיי הלילה — להיעלם מהאזור, ועמו הקהל. \"צריך להתייחס לפארק המסילה בתור עוד שדרות רוטשילד, רק בלי מכוניות\""
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#17",
      "title": "אורן וינטר, מנכ\"ל סיילספורס ישראל: \"אני לא רואה מהנדסים בפאניקה. זה יותר הייפ מאשר מציאות\"",
      "published": "2026-11-27T04:30:54+00:00",
      "summary": "אורן וינטר, מנהל סיילספורס ישראל, טוען שלהייטקיסטים אין סיבה אמיתית לחשוש שיוחלפו בבינה מלאכותית, אבל מודה שהם עובדים קשה מאי־פעם ושקצב הגיוס נבלם. בינתיים, החברה בהובלתו מתרחבת בישראל בשורה של רכישות, וגם היא צריכה להוכיח שסוכני ה־AI לא ייקחו לה את הלקוחות"
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#18",
      "title": "צה\"ל מחולל אקזיטים ופערים — והמדינה מחפשת שם כסף לתקציבי הביטחון",
      "published": "2026-11-27T04:29:53+00:00",
      "summary": "מכירת דקארט לאמזון ב–7.5 מיליארד דולר מחזירה לדיון את השאלה כמה מקבלת המדינה מהאקזיטים של בוגרי היחידות הטכנולוגיות של צה\"ל. רשות המסים דורשת עוד מיליארדים ממייסדי וויז ומחפשת דרכים להגדיל את הגבייה, בזמן שהפער בתקציב הביטחון מגיע לכ–30 מיליארד שקל"
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#19",
      "title": "\"בחיים האמיתיים המשחק קשה. שם הכל הגיוני — אם אתה עובד קשה, אתה מתקדם ומצליח\"",
      "published": "2026-11-27T04:29:32+00:00",
      "summary": "עבור מי שגדלו על משחקי מחשב כמו מייפל סטורי, המשחקים שחזרו לאחרונה בגרסאות קלאסיות הם הרבה יותר מנוסטלגיה: בני 30 ו–40, בהם הורים לילדים שמנהלים קריירה, משקיעים בהם שעות, כסף ואנרגיה, סוחרים בנכסים וירטואליים ומוצאים בהם קהילה ומפלט מהחיים האמיתיים. חברות הגיימינג, מצדן, יודעות להפוך את זה למנועי צמיחה במינימום השקעה"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#20",
      "title": "\"מושב בן עמי זה מקום שקט, ירוק, עם נוף פתוח — ובכל עונות השנה מרגישים כאן את הטבע\"",
      "published": "2026-11-27T04:26:54+00:00",
      "summary": "אחרי שנים בנהריה, הילה שריר צ'רונה ובעלה פלד חיפשו בית פרטי באזור, ומצאו בית בסגנון טוסקני במושב בן עמי הסמוך. \"כשהגענו לכאן זה החזיר אותי לתקופה שבה נהריה הייתה מושבה — יותר מרחבים ופחות כבישים. מצאנו כאן מקום שתואם את הציפיות והאופי שלנו\""
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#21",
      "title": "החזייה האדומה של הקפיטליזם האמריקאי",
      "published": "2026-11-27T04:24:38+00:00",
      "summary": "בתמונה ששיתף השבוע דונלד טראמפ מסתמן שהמדינה היא אני, החברה היא אני, מה שטוב למנכ\"ל אנבידיה ולנשיא ארה\"ב טוב גם לכם. תחיו עם זה. ואל תשכחו למחוא כפיים שם בקהל"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#22",
      "title": "ברחבי העולם צוחקים עליהם - אבל מקנאים מאוד בפנסיות שלהם",
      "published": "2026-11-27T04:24:27+00:00",
      "summary": "מיטב הסיפורים החשובים והמעניינים בכלכלה העולמית השבוע"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#23",
      "title": "גם אחרי המוות קשה פה: לדברי הקברנים, ללא ייקור הקבורה במאות אחוזים — לא יישאר מקום למתים",
      "published": "2026-11-27T04:23:27+00:00",
      "summary": "חברות קדישא דורשות לייקר במאות אחוזים את הקבורה לצורך מימון הקמתם של בנייני קבורה בקומות — בהשקעה של מאות מיליוני שקלים ■ קבלנים כבר נשכרו והחלו בעבודות, הלוואה של 300 מיליון שקל כבר נלקחה, והקברנים מתריעים כי ללא הייקור החד לא יישאר מקום למתים ■ הממשלה החדשה שתקום תידרש להכריע בגורלה של עוד מערכת המשוועת לרפורמה"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#24",
      "title": "המחתנים החדשים: \"חיתנתי טייסות שלמות, הייטקיסטים, יוצאי 8200, וזה גדל משנה לשנה\"",
      "published": "2026-11-27T04:23:22+00:00",
      "summary": "אף שהמחיר הוא לעתים פי חמישה, צעירים חילונים רבים רוצים כיום להיות אלה ששולטים בחתונה שלהם, ומעדיפים טקס חתונה פרטי־אזרחי על פני כזה הנערך על ידי רב מהרבנות ■ מחתן אלטרנטיבי: \"זו לא עמדה אנטי דתית. חשוב להם שיהיה קליל ושיוויוני\""
-    },
-    {
-     "ref": "themarker#22",
-     "title": "אחותי קיבלה במתנה בית, ובכל זאת לא מצליחה להתקיים. יש אנשים עם אפס כישורי חיים",
-     "published": "2026-11-27T04:22:40+00:00",
-     "summary": "למה לא כדאי להעסיק מי שמקטר על תואר ראשון, איפה עדיין אוספים מזומן בלייים כל יום שישי ומה אתם הייתם עושים אם מילואימניקים היו עובדים בחברה שלכם ■ הטוקבקים הנבחרים של השבוע ב-TheMarker"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "בגלל הטיל האיראני והצורך בשיפוץ כללי — הדירה נמכרה ב–470 אלף שקל בלבד",
-     "published": "2026-11-27T04:22:19+00:00",
-     "summary": "דירת 4 חדרים בדימונה, שנרכשה להשקעה לפני כמה שנים, נמצאת בבניין שספג פגיעת הדף במרץ ■ הבעלים, זוג צעיר מהמרכז, העדיפו לממש את הנכס עוד לפני השיפוץ והציע אותה במחיר אטרקטיבי ■ הרוכשים הגיעו מאזור ירושלים וחיפשו דירה במחיר נמוך באזור עם הטבות מס"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "ארבעת המופלאים: לא התמודדו בבחירות, אבל ניצחו אותן",
-     "published": "2026-11-27T04:22:14+00:00",
-     "summary": "בזמן שכולם הולכים לאיבוד בין צירי המשא ומתן הממוקבלים – יש מי שכבר סופרים את הכסף במדרגות"
     }
    ]
   },
@@ -534,16 +540,16 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 90.84,
+   "last": 95.44,
    "prev_close": 94.61,
-   "change_pct": -3.98,
+   "change_pct": 0.88,
    "as_of": "2026-11-27"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 59919.6602,
-   "prev_close": 60494.7109,
-   "change_pct": -0.95,
+   "last": 59524.6094,
+   "prev_close": 59866.3711,
+   "change_pct": -0.57,
    "as_of": "2026-11-28"
   }
  },

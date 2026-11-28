@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Italy advances to the Davis Cup final with win over Czech Republic - AP News",
-     "published": "2026-11-28T03:21:00+00:00",
-     "summary": "Italy advances to the Davis Cup final with win over Czech Republic AP News"
+     "title": "Minnesota - AP News",
+     "published": "2026-11-28T09:54:56+00:00",
+     "summary": "Minnesota AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Connor scores twice and the Jets beat the Islanders 3-1 for 3rd straight win - AP News",
-     "published": "2026-11-28T03:12:00+00:00",
-     "summary": "Connor scores twice and the Jets beat the Islanders 3-1 for 3rd straight win AP News"
+     "title": "Soccer - AP News",
+     "published": "2026-11-28T09:54:54+00:00",
+     "summary": "Soccer AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Antetokounmpo has 22 points and 23 rebounds as the Heat stop the Knicks' 6-game winning streak - AP News",
-     "published": "2026-11-28T02:58:00+00:00",
-     "summary": "Antetokounmpo has 22 points and 23 rebounds as the Heat stop the Knicks' 6-game winning streak AP News"
+     "title": "Golf - AP News",
+     "published": "2026-11-28T09:53:21+00:00",
+     "summary": "Golf AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "Tiny bee hotels open a hidden world of city pollinators in South Africa - AP News",
-     "published": "2026-11-28T02:53:00+00:00",
-     "summary": "Tiny bee hotels open a hidden world of city pollinators in South Africa AP News"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-28T09:53:21+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "Ben Roseborough scores 15 in Towson’s 72-61 victory over Pennsylvania - AP News",
-     "published": "2026-11-28T02:43:00+00:00",
-     "summary": "Ben Roseborough scores 15 in Towson’s 72-61 victory over Pennsylvania AP News"
+     "title": "Women’s college basketball - AP News",
+     "published": "2026-11-28T09:49:01+00:00",
+     "summary": "Women’s college basketball AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "Jermaine Haley, known as WWE wrestler Bronson Reed, dies at 38 - AP News",
-     "published": "2026-11-28T01:49:00+00:00",
-     "summary": "Jermaine Haley, known as WWE wrestler Bronson Reed, dies at 38 AP News"
+     "title": "Middle East News | Latest News From The Middle East Today - AP News",
+     "published": "2026-11-28T09:49:00+00:00",
+     "summary": "Middle East News | Latest News From The Middle East Today AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76 - AP News",
-     "published": "2026-11-28T01:45:00+00:00",
-     "summary": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76 AP News"
+     "title": "New York City - AP News",
+     "published": "2026-11-28T09:48:57+00:00",
+     "summary": "New York City AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "AP News Search - AP News",
-     "published": "2026-11-28T01:37:07+00:00",
-     "summary": "AP News Search AP News"
+     "title": "College sports - AP News",
+     "published": "2026-11-28T09:22:55+00:00",
+     "summary": "College sports AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor - AP News",
-     "published": "2026-11-28T01:28:00+00:00",
-     "summary": "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor AP News"
+     "title": "Crime - AP News",
+     "published": "2026-11-28T09:11:03+00:00",
+     "summary": "Crime AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "Black Friday shoppers undeterred by inflation and bad weather - AP News",
-     "published": "2026-11-28T01:15:00+00:00",
-     "summary": "Black Friday shoppers undeterred by inflation and bad weather AP News"
+     "title": "Colorado in action against San Jose after shootout win - AP News",
+     "published": "2026-11-28T09:10:00+00:00",
+     "summary": "Colorado in action against San Jose after shootout win AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "Inspired Steelers move on from Rodgers’ exit with cathartic 27-5 win over sloppy Broncos - AP News",
-     "published": "2026-11-28T01:04:00+00:00",
-     "summary": "Inspired Steelers move on from Rodgers’ exit with cathartic 27-5 win over sloppy Broncos AP News"
+     "title": "Islanders take on the Flyers in Metropolitan Division action - AP News",
+     "published": "2026-11-28T09:10:00+00:00",
+     "summary": "Islanders take on the Flyers in Metropolitan Division action AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "Tiny bee hotels open a hidden world of city pollinators in South Africa - AP News",
-     "published": "2026-11-28T01:02:00+00:00",
-     "summary": "Tiny bee hotels open a hidden world of city pollinators in South Africa AP News"
+     "title": "Anaheim visits Los Angeles after Solberg’s 2-goal game - AP News",
+     "published": "2026-11-28T09:10:00+00:00",
+     "summary": "Anaheim visits Los Angeles after Solberg’s 2-goal game AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
-     "published": "2026-11-28T00:31:26+00:00",
-     "summary": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll AP News"
+     "title": "Tampa Bay takes losing streak into matchup with Florida - AP News",
+     "published": "2026-11-28T09:10:00+00:00",
+     "summary": "Tampa Bay takes losing streak into matchup with Florida AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "Taiwan holds elections to choose mayors and other local leaders - AP News",
-     "published": "2026-11-28T00:19:00+00:00",
-     "summary": "Taiwan holds elections to choose mayors and other local leaders AP News"
+     "title": "Mammoth take on the Stars after Lee’s 2-goal game - AP News",
+     "published": "2026-11-28T09:10:00+00:00",
+     "summary": "Mammoth take on the Stars after Lee’s 2-goal game AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "Jamaica secures a spot in the Women's World Cup with a 3-0 qualifying victory over Costa Rica - AP News",
-     "published": "2026-11-28T00:11:00+00:00",
-     "summary": "Jamaica secures a spot in the Women's World Cup with a 3-0 qualifying victory over Costa Rica AP News"
+     "title": "Blackhawks host the Wild after Mangiapane’s 2-goal game - AP News",
+     "published": "2026-11-28T09:10:00+00:00",
+     "summary": "Blackhawks host the Wild after Mangiapane’s 2-goal game AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "My Fan Picks - AP News",
-     "published": "2026-11-27T23:53:43+00:00",
-     "summary": "My Fan Picks AP News"
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-28T09:09:04+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "QB Brock Purdy to miss the 49ers’ game vs. the Seahawks. Mac Jones will start in his place - AP News",
-     "published": "2026-11-27T23:38:00+00:00",
-     "summary": "QB Brock Purdy to miss the 49ers’ game vs. the Seahawks. Mac Jones will start in his place AP News"
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-11-28T09:09:03+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "USC marching band benched for UCLA game after vandalism prank, officials say - AP News",
-     "published": "2026-11-27T23:37:00+00:00",
-     "summary": "USC marching band benched for UCLA game after vandalism prank, officials say AP News"
+     "title": "War and unrest - AP News",
+     "published": "2026-11-28T09:03:39+00:00",
+     "summary": "War and unrest AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "Russia - AP News",
-     "published": "2026-11-27T23:14:06+00:00",
-     "summary": "Russia AP News"
+     "title": "International News - AP News",
+     "published": "2026-11-28T09:03:34+00:00",
+     "summary": "International News AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "Parts of the US clean up, power being restored after Thanksgiving storm soaks East Coast - AP News",
-     "published": "2026-11-27T23:11:00+00:00",
-     "summary": "Parts of the US clean up, power being restored after Thanksgiving storm soaks East Coast AP News"
+     "title": "Europe News | Breaking European News Today - AP News",
+     "published": "2026-11-28T09:03:34+00:00",
+     "summary": "Europe News | Breaking European News Today AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board - AP News",
-     "published": "2026-11-27T22:59:21+00:00",
-     "summary": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board AP News"
+     "title": "AP News Search - AP News",
+     "published": "2026-11-28T08:33:39+00:00",
+     "summary": "AP News Search AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Owen McCown, AJ Wilson lead UTSA to 28-22 win over Tulsa, will host American Conference championship - AP News",
-     "published": "2026-11-27T22:50:00+00:00",
-     "summary": "Owen McCown, AJ Wilson lead UTSA to 28-22 win over Tulsa, will host American Conference championship AP News"
+     "title": "World News: Top & Breaking World News Today - AP News",
+     "published": "2026-11-28T08:33:31+00:00",
+     "summary": "World News: Top & Breaking World News Today AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Army deems lead azide detonation a success but criticism lingers over notification - AP News",
-     "published": "2026-11-27T22:45:00+00:00",
-     "summary": "Army deems lead azide detonation a success but criticism lingers over notification AP News"
+     "title": "Princess Kate takes to the mountains to face mortality in film about cancer recovery - AP News",
+     "published": "2026-11-28T08:11:00+00:00",
+     "summary": "Princess Kate takes to the mountains to face mortality in film about cancer recovery AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "ACLU seeks court order blocking Trump administration's efforts to unmask ICE critics on social media - AP News",
-     "published": "2026-11-27T22:44:00+00:00",
-     "summary": "ACLU seeks court order blocking Trump administration's efforts to unmask ICE critics on social media AP News"
+     "title": "Prosecutors ask for 25 years for Canadian man who sold products used by 93 people to kill themselves - AP News",
+     "published": "2026-11-28T08:08:00+00:00",
+     "summary": "Prosecutors ask for 25 years for Canadian man who sold products used by 93 people to kill themselves AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Kenya cult leader found guilty of manslaughter of over 100 followers asked to starve to meet Jesus - AP News",
-     "published": "2026-11-27T22:39:00+00:00",
-     "summary": "Kenya cult leader found guilty of manslaughter of over 100 followers asked to starve to meet Jesus AP News"
+     "title": "Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns - AP News",
+     "published": "2026-11-28T08:00:00+00:00",
+     "summary": "Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns AP News"
     }
    ]
   },
@@ -174,117 +174,117 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Nigeria's 'ultimate hard man' who become an online meme",
+     "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+     "published": "2026-11-28T07:31:14+00:00",
+     "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Eight killed in Peruvian military helicopter crash",
+     "published": "2026-11-28T04:19:16+00:00",
+     "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+     "published": "2026-11-28T04:13:45+00:00",
+     "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Nigeria's acting legend who was loved across Africa and beyond",
      "published": "2026-11-28T01:20:35+00:00",
      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#4",
      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
      "published": "2026-11-28T00:56:55+00:00",
      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#5",
      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
      "published": "2026-11-28T00:50:11+00:00",
      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#6",
      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
      "published": "2026-11-28T00:05:17+00:00",
      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#7",
      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
      "published": "2026-11-27T23:02:35+00:00",
      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#8",
      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
      "published": "2026-11-27T21:55:53+00:00",
      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
     },
     {
-     "ref": "bbc_world#6",
-     "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-     "published": "2026-11-27T20:34:45+00:00",
-     "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact."
-    },
-    {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#9",
      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
      "published": "2026-11-27T20:06:31+00:00",
      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#10",
      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
      "published": "2026-11-27T18:42:50+00:00",
      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#11",
      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
      "published": "2026-11-27T18:00:40+00:00",
      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#12",
      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
      "published": "2026-11-27T17:19:31+00:00",
      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#13",
      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
      "published": "2026-11-27T16:53:46+00:00",
      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#14",
      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
      "published": "2026-11-27T16:46:47+00:00",
      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday."
     },
     {
-     "ref": "bbc_world#13",
-     "title": "Brazil pushes back on Macron calling its meat 'doped'",
-     "published": "2026-11-27T15:54:15+00:00",
-     "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products."
-    },
-    {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "Rare turtles found inside baggage at Amsterdam airport",
      "published": "2026-11-27T13:38:07+00:00",
      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Millions of wives in South Asia unprotected from marital rape - study",
      "published": "2026-11-27T08:13:43+00:00",
      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
      "published": "2026-11-27T07:28:10+00:00",
      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
      "published": "2026-11-27T06:09:31+00:00",
      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia."
-    },
-    {
-     "ref": "bbc_world#18",
-     "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-     "published": "2026-11-27T06:04:51+00:00",
-     "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
     },
     {
      "ref": "bbc_world#19",
@@ -297,12 +297,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
      "published": "2026-11-26T19:26:16+00:00",
      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
-    },
-    {
-     "ref": "bbc_world#21",
-     "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-     "published": "2026-11-26T05:00:27+00:00",
-     "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges."
     }
    ]
   },
@@ -390,153 +384,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Taiwan votes in key local elections as China looks on - Reuters",
-     "published": "2026-11-28T00:01:00+00:00",
-     "summary": "Taiwan votes in key local elections as China looks on Reuters"
+     "title": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says - Reuters",
+     "published": "2026-11-28T09:38:10+00:00",
+     "summary": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says Reuters"
     },
     {
      "ref": "reuters_world#1",
+     "title": "Weather, supply uncertainties may accelerate India inflation, report says - Reuters",
+     "published": "2026-11-28T09:05:43+00:00",
+     "summary": "Weather, supply uncertainties may accelerate India inflation, report says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Israeli strike killed two staff outside Gaza clinic, MSF says - Reuters",
+     "published": "2026-11-28T08:05:43+00:00",
+     "summary": "Israeli strike killed two staff outside Gaza clinic, MSF says Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "Explosion reported at school in Afghanistan, official says - Reuters",
+     "published": "2026-11-28T08:05:25+00:00",
+     "summary": "Explosion reported at school in Afghanistan, official says Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Armed group boards cargo ship off Yemen and takes control, UKMTO says - Reuters",
+     "published": "2026-11-28T08:00:06+00:00",
+     "summary": "Armed group boards cargo ship off Yemen and takes control, UKMTO says Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "Binance gets preliminary approval to establish Asia hub in Bhutan - Reuters",
+     "published": "2026-11-28T07:18:00+00:00",
+     "summary": "Binance gets preliminary approval to establish Asia hub in Bhutan Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
+     "title": "Iran's flogging of singer was warning from anxious hardliners, insiders say - Reuters",
+     "published": "2026-11-28T07:14:00+00:00",
+     "summary": "Iran's flogging of singer was warning from anxious hardliners, insiders say Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
+     "title": "US military repelled drones at UK airbase this month, FT reports - Reuters",
+     "published": "2026-11-28T05:18:00+00:00",
+     "summary": "US military repelled drones at UK airbase this month, FT reports Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
+     "title": "India's bottled-water crackdown widens as new Bisleri sample found with bacteria - Reuters",
+     "published": "2026-11-28T05:09:00+00:00",
+     "summary": "India's bottled-water crackdown widens as new Bisleri sample found with bacteria Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
+     "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate - Reuters",
+     "published": "2026-11-28T00:01:00+00:00",
+     "summary": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate Reuters"
+    },
+    {
+     "ref": "reuters_world#10",
      "title": "UK's Princess Kate climbs mountains, fights cancer in intimate documentary - Reuters",
      "published": "2026-11-27T23:27:00+00:00",
      "summary": "UK's Princess Kate climbs mountains, fights cancer in intimate documentary Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#11",
      "title": "Son of Hamas chief survives Israeli strike, Hamas says - Reuters",
      "published": "2026-11-27T23:26:36+00:00",
      "summary": "Son of Hamas chief survives Israeli strike, Hamas says Reuters"
     },
     {
-     "ref": "reuters_world#3",
-     "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters",
-     "published": "2026-11-27T22:55:47+00:00",
-     "summary": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say Reuters"
-    },
-    {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#12",
      "title": "S&P lifts South Africa ratings on improving fiscal position - Reuters",
      "published": "2026-11-27T22:37:56+00:00",
      "summary": "S&P lifts South Africa ratings on improving fiscal position Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#13",
      "title": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief - Reuters",
      "published": "2026-11-27T21:10:41+00:00",
      "summary": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief Reuters"
     },
     {
-     "ref": "reuters_world#6",
-     "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
-     "published": "2026-11-27T20:56:01+00:00",
-     "summary": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform Reuters"
-    },
-    {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#14",
      "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade - Reuters",
      "published": "2026-11-27T20:06:57+00:00",
      "summary": "US disables ship trying to leave Iran, as Tehran vows to confront blockade Reuters"
     },
     {
-     "ref": "reuters_world#8",
-     "title": "Puig agrees to buy 75% stake in perfume group Artessence in deal valuing it at $1.9 billion - Reuters",
-     "published": "2026-11-27T19:23:43+00:00",
-     "summary": "Puig agrees to buy 75% stake in perfume group Artessence in deal valuing it at $1.9 billion Reuters"
+     "ref": "reuters_world#15",
+     "title": "Puig to buy Parfums de Marly owner from Advent in €1.2 billion deal - Reuters",
+     "published": "2026-11-27T20:03:50+00:00",
+     "summary": "Puig to buy Parfums de Marly owner from Advent in €1.2 billion deal Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#16",
      "title": "Thirteen soldiers killed in southwest Niger in attack claimed by Islamic State - Reuters",
      "published": "2026-11-27T19:19:32+00:00",
      "summary": "Thirteen soldiers killed in southwest Niger in attack claimed by Islamic State Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#17",
      "title": "Spain's Sanchez insists he will defy polls as election campaign wraps up - Reuters",
      "published": "2026-11-27T19:12:26+00:00",
      "summary": "Spain's Sanchez insists he will defy polls as election campaign wraps up Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#18",
      "title": "Cargo ship sinks off Cuba, leaving one dead and three missing - Reuters",
      "published": "2026-11-27T18:51:59+00:00",
      "summary": "Cargo ship sinks off Cuba, leaving one dead and three missing Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#19",
      "title": "Kenyan starvation cult leader guilty of manslaughter for 123 deaths in latest conviction - Reuters",
      "published": "2026-11-27T18:26:56+00:00",
      "summary": "Kenyan starvation cult leader guilty of manslaughter for 123 deaths in latest conviction Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#20",
      "title": "Explainer: Rodrigo Duterte's ICC trial: What to know - Reuters",
      "published": "2026-11-27T18:10:39+00:00",
      "summary": "Explainer: Rodrigo Duterte's ICC trial: What to know Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#21",
      "title": "Costa Rica bars UN rapporteur on Palestinian territories, drawing concern from rights chief - Reuters",
      "published": "2026-11-27T18:04:00+00:00",
      "summary": "Costa Rica bars UN rapporteur on Palestinian territories, drawing concern from rights chief Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#22",
      "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm? - Reuters",
      "published": "2026-11-27T17:53:52+00:00",
      "summary": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm? Reuters"
     },
     {
-     "ref": "reuters_world#16",
-     "title": "Johannesburg picks Mashaba as mayor in ANC-backed deal - Reuters",
-     "published": "2026-11-27T17:42:06+00:00",
-     "summary": "Johannesburg picks Mashaba as mayor in ANC-backed deal Reuters"
-    },
-    {
-     "ref": "reuters_world#17",
-     "title": "Britain's FTSE 100 posts biggest weekly gain in eight months as miners, banks rally - Reuters",
-     "published": "2026-11-27T17:16:14+00:00",
-     "summary": "Britain's FTSE 100 posts biggest weekly gain in eight months as miners, banks rally Reuters"
-    },
-    {
-     "ref": "reuters_world#18",
-     "title": "Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption - Reuters",
-     "published": "2026-11-27T16:48:09+00:00",
-     "summary": "Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption Reuters"
-    },
-    {
-     "ref": "reuters_world#19",
-     "title": "UK steel industry calls for changes to 'unequal' EU emissions deal - Reuters",
-     "published": "2026-11-27T16:27:44+00:00",
-     "summary": "UK steel industry calls for changes to 'unequal' EU emissions deal Reuters"
-    },
-    {
-     "ref": "reuters_world#20",
-     "title": "Fourteen found dead on migrant boat off Spain's Canary Islands - Reuters",
-     "published": "2026-11-27T16:08:00+00:00",
-     "summary": "Fourteen found dead on migrant boat off Spain's Canary Islands Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "Mexico weighs the limits of politically popular wage strategy - Reuters",
-     "published": "2026-11-27T15:43:34+00:00",
-     "summary": "Mexico weighs the limits of politically popular wage strategy Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Centre Party could give Sweden a government, but far-right backing stores up trouble - Reuters",
-     "published": "2026-11-27T15:41:43+00:00",
-     "summary": "Centre Party could give Sweden a government, but far-right backing stores up trouble Reuters"
-    },
-    {
      "ref": "reuters_world#23",
-     "title": "German lower house of parliament passes 2027 budget - Reuters",
-     "published": "2026-11-27T15:30:09+00:00",
-     "summary": "German lower house of parliament passes 2027 budget Reuters"
+     "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters",
+     "published": "2026-11-27T17:47:00+00:00",
+     "summary": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say Reuters"
     },
     {
      "ref": "reuters_world#24",
-     "title": "Musiala sidelined by fresh hamstring injury after Bayern return - Reuters",
-     "published": "2026-11-27T15:19:44+00:00",
-     "summary": "Musiala sidelined by fresh hamstring injury after Bayern return Reuters"
+     "title": "Johannesburg picks Mashaba as mayor in ANC-backed deal - Reuters",
+     "published": "2026-11-27T17:42:06+00:00",
+     "summary": "Johannesburg picks Mashaba as mayor in ANC-backed deal Reuters"
     }
    ]
   }

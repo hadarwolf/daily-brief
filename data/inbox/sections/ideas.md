@@ -37,8 +37,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#1",
      "title": "Lina Ghotmeh: archaeology of the future",
      "published": "2026-11-26T11:01:00+00:00",
-     "summary": "In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#2",
@@ -145,83 +144,84 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Disempowerment vs. net disempowerment",
+     "published": "2026-11-28T06:02:07+00:00",
+     "summary": "Here was my prompt: There are many discussions of “disempowerment” as a result of strong AI, and of whether humans “lose control” or agency. Do any of these discussions offer specific, detailed comparisons of how strong AI also may empower humans? Do they have any specific consideration, working through some examples and details, of the […] The post Disempowerment vs. net disempowerment appeared f",
+     "full_text_file": "essays/marginal_revolution_0.txt"
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "Friday assorted links",
      "published": "2026-11-27T17:39:47+00:00",
      "summary": "1. Handbook of Blockchain and Society (open access). 2. Interview with Lars Peter Hansen. 3. A behavioral cost of living index, by Hubert Wu, on the job market from Oxford. 4. Cracking the Indus civilization script? 5. Luis Garicano on messy jobs (NYT). 6. Public platform with open math problems. The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "India is on the Move",
      "published": "2026-11-27T12:17:03+00:00",
      "summary": "When people talk about India’s economy, they almost always compare it negatively with China’s, it has not industrialized as fast, its bureaucracy is still maddening, its cities are still choked with traffic and smog. All true. But if you step back one of the greatest stories of the twenty-first century is unfolding: India, like China […] The post India is on the Move appeared first on Marginal REV",
-     "full_text_file": "essays/marginal_revolution_1.txt"
+     "full_text_file": "essays/marginal_revolution_2.txt"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "The mental illness theory of politics is modestly underrated",
      "published": "2026-11-27T09:01:02+00:00",
      "summary": "Using a large national panel dataset, we find that receiving counseling from mental health professionals decreases the likelihood of protesting in subsequent weeks by 34%–39%. Experimental results are broadly consistent with observational findings. In a field experiment, mental health outreach reduces anxiety by an average of 11% (d = 0.41), with mediation analyses showing decreased […] The post T"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "My podcast with Hasan",
      "published": "2026-11-27T05:58:24+00:00",
      "summary": "Excellent questions, mostly fresh material, and interesting throughout. Here is the basic info: Watch on Substack or YouTube Listen on Apple Podcasts or Spotify Read the full transcript on Substack Here is one excerpt: Hazn: I’ve been thinking a lot of how to categorize your thinking. And I think, I naturally think in religious frames of mind. And I’ve been trying to […] The post My podcast with H",
-     "full_text_file": "essays/marginal_revolution_3.txt"
+     "full_text_file": "essays/marginal_revolution_4.txt"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "HumanFish — Predicting Who Actually Wins a Human Chess Game",
      "published": "2026-11-26T19:29:17+00:00",
      "summary": "The eval bar on a chess broadcast answers the wrong question. It tells you what happens if two 3600-Elo engines play perfectly with infinite time. What you actually want to know while watching humans play is: who is going to win from here, how likely is a draw, and why? HumanFish is an open hybrid […] The post HumanFish — Predicting Who Actually Wins a Human Chess Game appeared first on Marginal R"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Thanksgiving assorted links",
      "published": "2026-11-26T16:45:28+00:00",
      "summary": "1. What is Rockabilly? (short video) 2. What is the plan to grow Chicago? 3. On Chinese clinical trials. 4. The economy is booming. 5. Seb Krier, on Pinker. 6. At least one attempt at asteroid deflection succeeded. 7. Progress in green cement production? The post Thanksgiving assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "What we are grateful for",
      "published": "2026-11-26T12:14:54+00:00",
      "summary": "Here is The Free Press symposium. Here is an excerpt from my piece, which has a chance of turning out to be prescient by a day: Since I was born in 1962, what has been the biggest fundamental theoretical breakthrough? We put a man on the moon and built the internet, but what about on […] The post What we are grateful for appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "Five Facts About Stablecoins",
      "published": "2026-11-26T10:50:37+00:00",
      "summary": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread "
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "My excellent Conversation with Moxie Marlinspike of Signal",
      "published": "2026-11-26T05:56:51+00:00",
      "summary": "Here is the audio, video, and transcript. From the episode summary: Tyler and Moxie discuss whether AI could break cryptography, Marlinspike’s own private AI chat service, his case for surveilling AI models instead of the humans using them, his skepticism of airport facial recognition, the case he tentatively makes for consent-based over centralized surveillance, why […] The post My excellent Conv"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "AI in research",
      "published": "2026-11-25T18:51:23+00:00",
      "summary": "We found that recent frontier models are now consistently proposing research designs that human and LLM graders alike judge more compelling than what the very top expert in the field has been developing. Yet these outstanding AI research designs are still often in service of new research questions that graders found substantially less valuable than […] The post AI in research appeared first on Mar"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Wednesday assorted links",
      "published": "2026-11-25T17:20:25+00:00",
      "summary": "1. Macrohistory in six facts. 2. Patrick Collison on Tocqueville. 3. The minimum wage: current vs. lifetime perspectives. By Francisco Libano-Monteiro, on the economics job market from LSE. 4. Kurt Rosenwinkel, Ruby My Dear. 5. Profile of Perry Mehrling. 6. The jagged frontier. The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "How did the United States become a lawyerly society?",
      "published": "2026-11-25T10:18:10+00:00",
      "summary": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after. We attribute this shift to three related changes in the legal environment: a wave of new legislation and regulation […] The post How did the United States become a lawyerly society?"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Avoiding disempowerment through protectionism?",
-     "published": "2026-11-25T05:44:00+00:00",
-     "summary": "Recently many people are debating whether AI will lead to our disempowerment. One simple example is that we might use AI to pursue or solve various intellectual tasks for us, rather than doing it ourselves. So say there are twenty important math problems, and we let the AIs (with some human guidance) take a crack […] The post Avoiding disempowerment through protectionism? appeared first on Margina"
     }
    ]
   },
@@ -244,15 +244,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#2",
-     "title": "What exile was like for the first people called ‘refugees’",
-     "published": "2026-11-26T11:00:00+00:00",
-     "summary": "Persecuted in 17th-century France, the Huguenots fled their homeland. Their memoirs reveal how they suffered and survived - by Nora Baker Read on Psyche"
-    },
-    {
-     "ref": "psyche#3",
      "title": "There and back",
      "published": "2026-11-26T11:00:00+00:00",
      "summary": "A lost home lives on in spikes of joy and longing; it shifts in memory as life changes. But it’s never the same - by Pam Weintraub Read on Psyche"
+    },
+    {
+     "ref": "psyche#3",
+     "title": "What exile was like for the first people called ‘refugees’",
+     "published": "2026-11-26T11:00:00+00:00",
+     "summary": "Persecuted in 17th-century France, the Huguenots fled their homeland. Their memoirs reveal how they suffered and survived - by Nora Baker Read on Psyche"
     },
     {
      "ref": "psyche#4",
