@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-28",
+  "questions": [
+    {
+      "id": "quiz-miami-messi",
+      "section": "sports",
+      "story_id": "miami-messi-playoff-exit",
+      "answer_index": 3,
+      "en": {
+        "question": "What happened to Lionel Messi's Inter Miami in the MLS Cup playoffs?",
+        "options": [
+          "They advanced to the semifinals after a comeback win over Columbus Crew.",
+          "They won the MLS Cup for the first time in club history.",
+          "Their playoff match was postponed due to severe weather.",
+          "They were eliminated in the first round by Columbus Crew on an extra-time winner."
+        ],
+        "explanation": "Columbus Crew beat Inter Miami 1-0 in extra time, knocking Messi's team out in the first round of the playoffs."
+      },
+      "he": {
+        "question": "מה קרה לאינטר מיאמי של ליאונל מסי בפלייאוף ה-MLS?",
+        "options": [
+          "הם התקדמו לחצי הגמר אחרי ניצחון מהפך על קולומבוס קרו.",
+          "הם זכו לראשונה בתולדות המועדון באליפות ה-MLS.",
+          "משחק הפלייאוף שלהם נדחה בשל מזג אוויר קיצוני.",
+          "הם הודחו בסיבוב הראשון על ידי קולומבוס קרו בשער ניצחון בהארכה."
+        ],
+        "explanation": "קולומבוס קרו ניצחה את אינטר מיאמי 1-0 בהארכה, והדיחה את קבוצתו של מסי בסיבוב הראשון של הפלייאוף."
+      }
+    },
+    {
+      "id": "quiz-coalition-ultimatum",
+      "section": "israeli_politics",
+      "story_id": "coalition-race-eisenkot-deadline",
+      "answer_index": 3,
+      "en": {
+        "question": "What ultimatum did Gadi Eisenkot give Likud over forming Israel's next government?",
+        "options": [
+          "That his party would permanently merge with Likud.",
+          "That new elections must be held within one month.",
+          "That Netanyahu must resign as Likud chairman before any talks could begin.",
+          "That he would move to form a government without Likud within eight days, before his mandate expires."
+        ],
+        "explanation": "Eisenkot said he was nearing a decision point and gave himself eight days to form a government, accusing Likud of stalling for time."
+      },
+      "he": {
+        "question": "איזה אולטימטום הציב גדי איזנקוט לליכוד בנוגע להרכבת הממשלה הבאה?",
+        "options": [
+          "שמפלגתו תתמזג לצמיתות עם הליכוד.",
+          "שצריך לקיים בחירות חדשות בתוך חודש.",
+          "שנתניהו צריך להתפטר מראשות הליכוד לפני שיתחיל כל משא ומתן.",
+          "שהוא יפעל להקים ממשלה בלי הליכוד בתוך שמונה ימים, לפני שהמנדט שלו פוקע."
+        ],
+        "explanation": "איזנקוט אמר שהוא לקראת נקודת הכרעה ונתן לעצמו שמונה ימים להרכיב ממשלה, והאשים את הליכוד בניסיון למשוך זמן."
+      }
+    },
+    {
+      "id": "quiz-intel-stake",
+      "section": "tech",
+      "story_id": "intel-trump-equity-stake",
+      "answer_index": 0,
+      "en": {
+        "question": "What did Intel reportedly face pressure to do in order to keep billions of dollars in promised US government chip grants flowing?",
+        "options": [
+          "Hand the US government a 10% equity stake in the company.",
+          "Merge with a rival chipmaker.",
+          "Repay all previously received grants with interest.",
+          "Relocate its corporate headquarters to Taiwan."
+        ],
+        "explanation": "Intel reportedly faced pressure to surrender a 10% equity stake to the US government to keep the promised chip-manufacturing subsidies flowing."
+      },
+      "he": {
+        "question": "מה אינטל עמדה, כך מדווח, בפני לחץ לעשות כדי להמשיך לקבל מיליארדי דולרים שהובטחו לה כמענקי שבבים מממשלת ארה\"ב?",
+        "options": [
+          "למסור לממשלת ארה\"ב נתח הון של 10% מהחברה.",
+          "להתמזג עם יצרנית שבבים מתחרה.",
+          "להחזיר את כל המענקים שקיבלה בעבר בתוספת ריבית.",
+          "להעביר את משרדי ההנהלה שלה לטייוואן."
+        ],
+        "explanation": "אינטל עמדה, כך מדווח, בפני לחץ למסור לממשלת ארה\"ב נתח הון של 10% מהחברה כדי להמשיך לקבל את סובסידיות ייצור השבבים שהובטחו לה."
+      }
+    }
+  ]
+}

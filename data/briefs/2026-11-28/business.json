@@ -1,0 +1,76 @@
+{
+  "section": "business",
+  "date": "2026-11-28",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-28T04:08:07+00:00",
+  "stories": [
+    {
+      "id": "exit-economy-tax-gap",
+      "kind": "analysis",
+      "en": {
+        "headline": "Israel's tech exits keep minting billionaires — the treasury captures far less than the headline numbers suggest",
+        "scroll": "Decart's $7.5B sale to Amazon reopened the question of how much of Israel's exit economy actually reaches state coffers, just as a ~NIS 30 billion defense budget gap pushes the Tax Authority to chase more money from founders like Wiz's.",
+        "coffee": "Amazon's $7.5 billion acquisition of Israeli AI startup Decart is the latest reminder that Israel's tech sector, heavily seeded by alumni of IDF units like 8200, keeps producing exits at a scale most economies would envy. But a big headline number for an acquisition isn't the same as a big number landing in the state budget. TheMarker reports that Israel's Tax Authority is demanding additional billions from the founders of Wiz over their exit, and is actively looking for ways to increase collection from this class of transaction — precisely as the defense budget faces a shortfall estimated around NIS 30 billion.\n\nThe gap between \"exit value\" and \"tax revenue\" exists because the two aren't mechanically linked. What the state actually collects depends on where the taxable gain is booked, what rate applies to it, and how the deal and the company's corporate structure were arranged well before the sale ever closed — decisions founders and their advisors make with tax exposure explicitly in mind.\n\nThe timing sharpens the stakes: a government that needs to fund a growing defense bill has an obvious incentive to look at the sector generating the country's biggest windfalls and ask why so much of that value seems to flow around, rather than into, public coffers.",
+        "deep": "## Background\n\nIsrael's tech sector has built an outsized reputation for producing \"exits\" — sales of startups to larger acquirers, often for sums that dwarf the companies' revenue. A disproportionate share of these founders trace their technical training to elite IDF technology units, most famously Unit 8200, which has become an unofficial farm system for the startup economy. Amazon's reported $7.5 billion purchase of Decart is the latest entry in that lineage.\n\n## The story\n\nTheMarker's reporting connects two threads that are usually discussed separately: the steady drumbeat of big-ticket exits, and the state's struggling defense finances. Israel's Tax Authority is pursuing additional billions in tax from the founders of Wiz over their own exit, and is reportedly exploring broader changes to how it collects from this category of transaction. At the same time, the defense budget is said to carry a shortfall of roughly NIS 30 billion — a gap officials are actively looking to close.\n\nThe connective tissue is a basic but often misunderstood feature of how taxation actually works on a corporate sale: the acquisition price is not the tax base. What gets taxed is the capital gain — the difference between the sale price and the seller's cost basis — and only the portion of that gain that is legally attributed to a taxable person or entity within Israel's jurisdiction. Founders and early investors, advised by lawyers and bankers well before any acquirer shows up, routinely structure ownership — through holding companies, corporate domicile choices, and the timing of when and where shares are held — in ways that are entirely legal but materially shrink the government's eventual take. None of this requires anything exotic: it's the same logic that makes multinational corporate tax planning a multibillion-dollar industry worldwide, applied at the scale of individual founders and their cap tables.\n\nThis is also why a $7.5 billion headline number and a Wiz-sized dispute over \"additional billions\" can coexist without contradiction. The first is enterprise value — what an acquirer agreed to pay for the whole company, including money that flows to foreign venture funds, employees exercising options, and other claimants who may owe little or no Israeli tax at all. The second is what's left once the Tax Authority tries to claim its share of the portion that is taxable, often years after the deal, through audits and negotiation rather than automatically at signing.\n\n## Second-order effects\n\nFor the state, this creates a structural mismatch: the industry most associated with national economic success is also one of the hardest for the treasury to fully tax, because its value is mobile — ownership structures, intellectual property, and even corporate residency can be arranged across borders in ways that a factory or a retail chain cannot easily replicate. That mobility means the growth of the exit economy doesn't translate one-for-one into growth in collectible revenue, which is exactly the tension now surfacing as defense spending needs grow.\n\nFor founders and investors, increased Tax Authority scrutiny of past exits (like Wiz's) signals that structures considered settled can still be reopened and contested, adding a layer of legal and financial risk to what looked, at signing, like a clean payday. That in turn affects how the next generation of founders structures their companies from day one — more conservatively, or with more tax planning built in from the start, depending on which way the incentives cut.\n\nFor the broader economy, a persistent gap between private tech wealth and public fiscal capacity is also a political economy problem, not just an accounting one: it raises the question of whether a sector built substantially on state-funded military training and R&D is returning a fair share of its value back to the public purse that helped produce it.\n\n## What to watch next\n\nWatch whether the Tax Authority's push against Wiz's founders becomes a template it applies more broadly to past and future exits, and whether that prompts legislative changes — rather than case-by-case audits — to how Israel taxes founder and investor gains on acquisitions. Also watch whether the pressure to close the defense budget gap accelerates any of this, since a government under fiscal pressure has every incentive to look harder at where large pools of under-taxed private wealth sit."
+      },
+      "he": {
+        "headline": "האקזיטים הישראלים ממשיכים להנפיק מיליארדרים — אבל חלק קטן בהרבה מגיע לקופת המדינה",
+        "scroll": "מכירת דקארט לאמזון ב-7.5 מיליארד דולר מחזירה לשיח את השאלה כמה מכלכלת האקזיטים הישראלית באמת מגיע לקופה הציבורית, בדיוק כשפער של כ-30 מיליארד שקל בתקציב הביטחון דוחף את רשות המסים לרדוף אחרי יותר כסף ממייסדים כמו אלה של וויז.",
+        "coffee": "רכישת סטארטאפ הבינה המלאכותית הישראלי דקארט בידי אמזון, ב-7.5 מיליארד דולר, היא התזכורת האחרונה לכך שההייטק הישראלי, שמוזן במידה רבה בבוגרי יחידות טכנולוגיות של צה\"ל כמו 8200, ממשיך להפיק אקזיטים בקנה מידה שרוב הכלכלות בעולם היו מקנאות בו. אבל מספר כותרת גדול לעסקת רכישה אינו דבר זהה למספר גדול שמגיע בפועל לתקציב המדינה. TheMarker מדווח שרשות המסים דורשת מיליארדים נוספים ממייסדי וויז על רקע האקזיט שלהם, ומחפשת באופן פעיל דרכים להגדיל את הגבייה מסוג העסקאות הזה — בדיוק כשתקציב הביטחון סובל מפער המוערך בכ-30 מיליארד שקל.\n\nהפער בין \"שווי האקזיט\" ל\"הכנסות המס\" קיים מכיוון שהשניים אינם מקושרים אוטומטית. מה שהמדינה בפועל גובה תלוי באיפה הרווח החייב במס נרשם, איזה שיעור מס חל עליו, ואיך העסקה ומבנה החברה סודרו הרבה לפני שהעסקה נסגרה — החלטות שמייסדים ויועציהם מקבלים בעודם מתחשבים במפורש בחשיפת המס.\n\nהתזמון מחדד את המשמעות: ממשלה שצריכה למצוא מקורות מימון לתקציב ביטחון גדל יש לה תמריץ ברור להביט בענף שמפיק את רווחי ההון הגדולים ביותר במדינה ולשאול למה חלק גדול כל כך מהערך הזה זורם סביב הקופה הציבורית, ולא אליה.",
+        "deep": "## רקע\n\nההייטק הישראלי בנה לעצמו שם בעולם ביצירת \"אקזיטים\" — מכירת סטארטאפים לרוכשים גדולים יותר, פעמים רבות בסכומים שעולים בהרבה על ההכנסות של החברות הנמכרות. חלק לא פרופורציונלי מהמייסדים האלה עברו הכשרה טכנית ביחידות טכנולוגיות עילית של צה\"ל, ובראשן יחידה 8200, שהפכה למעין \"חממת כשרונות\" לא רשמית לכלכלת הסטארטאפים. רכישתה המדווחת של דקארט בידי אמזון, ב-7.5 מיליארד דולר, היא הערך האחרון בשושלת הזו.\n\n## הסיפור\n\nהדיווח ב-TheMarker מקשר בין שני חוטים שבדרך כלל נדונים בנפרד: הרצף הקבוע של אקזיטים גדולים, ומצב התקציב הביטחוני הקשה של המדינה. רשות המסים פועלת לגביית מיליארדים נוספים ממייסדי וויז על האקזיט שלהם, ולפי הדיווחים בוחנת שינויים רחבים יותר באופן שבו היא גובה מס מסוג העסקאות הזה. במקביל, תקציב הביטחון סובל, כך נמסר, מפער של כ-30 מיליארד שקל — פער שגורמים רשמיים מחפשים באופן פעיל דרכים לסגור.\n\nהחוט המקשר הוא מאפיין בסיסי, אך לעיתים לא מובן, של האופן שבו מיסוי פועל בפועל על מכירת חברה: מחיר הרכישה אינו בסיס המס. מה שממוסה הוא רווח ההון — ההפרש בין מחיר המכירה לבין בסיס העלות של המוכר — ורק החלק מהרווח הזה שמיוחס כחוק לישות או לאדם החייב במס בתוך תחום השיפוט הישראלי. מייסדים ומשקיעים מוקדמים, בהדרכת עורכי דין ובנקאים הרבה לפני שמופיע רוכש כלשהו, נוהגים לבנות את מבנה הבעלות — באמצעות חברות אחזקה, בחירת מקום התאגדות ותזמון ומיקום החזקת המניות — בדרכים שהן חוקיות לחלוטין אך מקטינות באופן מהותי את מה שהמדינה סופה לגבות. אין בכך שום דבר אזוטרי: זו אותה לוגיקה שהופכת תכנון מס בין-לאומי לתעשייה בשווי מיליארדי דולרים ברחבי העולם, רק מיושמת בקנה מידה של מייסדים בודדים וטבלאות ההחזקות שלהם.\n\nזו גם הסיבה שמספר כותרת של 7.5 מיליארד דולר ומחלוקת בסדר גודל של \"מיליארדים נוספים\" במקרה וויז יכולים להתקיים זה לצד זה בלי סתירה. הראשון הוא שווי הפירמה — מה שהרוכש הסכים לשלם על כל החברה, כולל כספים שזורמים לקרנות הון סיכון זרות, לעובדים שמממשים אופציות, ולתובעים אחרים שעשויים לא לחוב מס ישראלי כלל, או לחוב מס מזערי. השני הוא מה שנשאר לאחר שרשות המסים מנסה לתבוע את חלקה מהחלק שבאמת חייב במס, פעמים רבות שנים אחרי העסקה, בדרך של ביקורות ומשא ומתן, ולא באופן אוטומטי בעת החתימה.\n\n## אפקטים מסדר שני\n\nלמדינה, זה יוצר חוסר התאמה מבני: הענף שהכי מזוהה עם ההצלחה הכלכלית הלאומית הוא גם אחד הענפים שהכי קשה לקופה הציבורית למסות באופן מלא, מכיוון שהערך שלו נייד — מבני בעלות, קניין רוחני ואפילו מקום התאגדות אפשר לסדר על פני גבולות מדינתיים בדרכים שמפעל או רשת קמעונאית לא יכולים לשחזר בקלות. הניידות הזו פירושה שצמיחה בכלכלת האקזיטים לא מתורגמת אחד לאחד לצמיחה בהכנסות הניתנות לגבייה — וזה בדיוק המתח שעולה כעת כשצרכי התקציב הביטחוני גדלים.\n\nלמייסדים ולמשקיעים, בדיקה מוגברת מצד רשות המסים על אקזיטים מהעבר (כמו זה של וויז) מסמנת שמבנים שנחשבו סגורים עדיין יכולים להיפתח מחדש ולהיות מעורערים, מה שמוסיף שכבת סיכון משפטי ופיננסי למה שנראה, בעת החתימה, כתשלום נקי. זה, בתורו, משפיע על האופן שבו דור המייסדים הבא יבנה את החברות שלו מהיום הראשון — בשמרנות רבה יותר, או עם תכנון מס מובנה מהתחלה, תלוי לאיזה כיוון התמריצים ייטו.\n\nלכלכלה הרחבה יותר, פער מתמשך בין עושר הייטק פרטי לבין יכולת פיסקלית ציבורית הוא גם בעיה של כלכלה פוליטית, לא רק בעיה חשבונאית: הוא מעלה את השאלה אם ענף שנבנה במידה משמעותית על הכשרה צבאית ומחקר ופיתוח במימון המדינה, מחזיר חלק הוגן מהערך שלו לקופה הציבורית שעזרה להפיק אותו.\n\n## מה לעקוב אחריו\n\nכדאי לעקוב אם המאמץ של רשות המסים נגד מייסדי וויז יהפוך לתבנית שתוחל באופן רחב יותר על אקזיטים עבר ועתידיים, ואם זה יוביל לשינויי חקיקה — ולא רק לביקורות פרטניות — באופן שבו ישראל ממסה רווחי מייסדים ומשקיעים מרכישות. כדאי לעקוב גם אם הלחץ לסגור את פער תקציב הביטחון מאיץ את כל התהליך הזה, מכיוון שלממשלה תחת לחץ פיסקלי יש כל תמריץ להביט בתשומת לב רבה יותר במקומות שבהם נמצאים מאגרי עושר פרטי שאינם ממוסים כראוי."
+      },
+      "tags": [
+        "taxation",
+        "tech-exits",
+        "israel-economy",
+        "defense-budget"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "צה\"ל מחולל אקזיטים ופערים — והמדינה מחפשת שם כסף לתקציבי הביטחון",
+          "url": "https://www.themarker.com/weekend/2026-11-27/ty-article-magazine/.highlight/000001a2-172b-df38-a7f3-77ffcc0d0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3941.2,
+      "prev_close": 3881.27,
+      "change_pct": 1.54,
+      "as_of": "2026-11-27"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7297.4902,
+      "prev_close": 7182.7798,
+      "change_pct": 1.6,
+      "as_of": "2026-11-27"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.3118,
+      "prev_close": 3.3783,
+      "change_pct": -1.97,
+      "as_of": "2026-11-27"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 90.84,
+      "prev_close": 94.61,
+      "change_pct": -3.98,
+      "as_of": "2026-11-27"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 59919.6602,
+      "prev_close": 60494.7109,
+      "change_pct": -0.95,
+      "as_of": "2026-11-28"
+    }
+  }
+}
