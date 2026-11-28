@@ -50,14 +50,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-3"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-27T19:45:00Z",
-     "home": "Brest",
-     "away": "Paris FC",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-27T19:45:00Z",
      "home": "Venezia FC",
@@ -66,12 +58,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-0"
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-27T20:00:00Z",
-     "home": "Southampton",
-     "away": "Middlesbrough",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-27T19:45:00Z",
+     "home": "Brest",
+     "away": "Paris FC",
      "status": "FINISHED",
-     "score": "2-0"
+     "score": "1-0"
     },
     {
      "competition": "Primera Division",
@@ -88,6 +80,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Chelsea",
      "status": "FINISHED",
      "score": "3-2"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-27T20:00:00Z",
+     "home": "Southampton",
+     "away": "Middlesbrough",
+     "status": "FINISHED",
+     "score": "2-0"
     },
     {
      "competition": "Primeira Liga",
@@ -118,14 +118,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-28T12:30:00Z",
-     "home": "Lincoln City",
-     "away": "Wolverhampton",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-28T12:30:00Z",
      "home": "Preston NE",
      "away": "Norwich",
      "status": "SCHEDULED",
@@ -136,6 +128,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-28T12:30:00Z",
      "home": "Blackburn",
      "away": "Charlton",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-28T12:30:00Z",
+     "home": "Lincoln City",
+     "away": "Wolverhampton",
      "status": "SCHEDULED",
      "score": null
     },
@@ -158,6 +158,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-28T14:30:00Z",
+     "home": "HSV",
+     "away": "Bayern",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-28T14:30:00Z",
+     "home": "Mainz",
+     "away": "Union Berlin",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-28T14:30:00Z",
      "home": "1. FC Köln",
      "away": "Elversberg",
      "status": "TIMED",
@@ -172,19 +188,43 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-28T14:30:00Z",
-     "home": "HSV",
-     "away": "Bayern",
-     "status": "TIMED",
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-28T15:00:00Z",
+     "home": "Derby County",
+     "away": "Watford",
+     "status": "SCHEDULED",
      "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-28T14:30:00Z",
-     "home": "Mainz",
-     "away": "Union Berlin",
-     "status": "TIMED",
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-28T15:00:00Z",
+     "home": "Millwall",
+     "away": "Burnley",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-28T15:00:00Z",
+     "home": "Wrexham",
+     "away": "Portsmouth",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-28T15:00:00Z",
+     "home": "West Brom",
+     "away": "Bristol City",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-28T15:00:00Z",
+     "home": "QPR",
+     "away": "Sheffield Utd",
+     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -220,58 +260,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-28T15:00:00Z",
-     "home": "QPR",
-     "away": "Sheffield Utd",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-28T15:00:00Z",
-     "home": "Millwall",
-     "away": "Burnley",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-28T15:00:00Z",
-     "home": "Wrexham",
-     "away": "Portsmouth",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-28T15:00:00Z",
-     "home": "West Brom",
-     "away": "Bristol City",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-28T15:00:00Z",
-     "home": "Derby County",
-     "away": "Watford",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-28T15:15:00Z",
      "home": "Málaga",
      "away": "Athletic",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-28T15:30:00Z",
-     "home": "Excelsior",
-     "away": "Telstar",
      "status": "TIMED",
      "score": null
     },
@@ -292,6 +284,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-28T15:30:00Z",
+     "home": "Excelsior",
+     "away": "Telstar",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-28T16:15:00Z",
      "home": "Angers SCO",
@@ -308,10 +308,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primera Division",
+     "competition": "Premier League",
      "kickoff_utc": "2026-11-28T17:30:00Z",
-     "home": "Elche",
-     "away": "Atleti",
+     "home": "Ipswich Town",
+     "away": "Aston Villa",
      "status": "TIMED",
      "score": null
     },
@@ -324,10 +324,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
+     "competition": "Primera Division",
      "kickoff_utc": "2026-11-28T17:30:00Z",
-     "home": "Ipswich Town",
-     "away": "Aston Villa",
+     "home": "Elche",
+     "away": "Atleti",
      "status": "TIMED",
      "score": null
     },
@@ -344,6 +344,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-28T18:00:00Z",
      "home": "Acad. Viseu",
      "away": "Alverca",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-28T19:45:00Z",
+     "home": "PSG",
+     "away": "Lorient",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-28T19:45:00Z",
+     "home": "Le Mans",
+     "away": "Lille",
      "status": "TIMED",
      "score": null
     },
@@ -372,19 +388,11 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-28T19:45:00Z",
-     "home": "Le Mans",
-     "away": "Lille",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-28T19:45:00Z",
-     "home": "PSG",
-     "away": "Lorient",
-     "status": "TIMED",
+     "competition": "Copa Libertadores",
+     "kickoff_utc": "2026-11-28T20:00:00Z",
+     "home": "Palmeiras",
+     "away": "Estudiantes LP",
+     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -401,14 +409,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Real Madrid",
      "away": "Alavés",
      "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Copa Libertadores",
-     "kickoff_utc": "2026-11-28T20:00:00Z",
-     "home": "Palmeiras",
-     "away": "Estudiantes LP",
-     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -894,153 +894,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Man Utd trigger Fernandes' one-year contract extension",
+     "published": "2026-11-28T10:28:36+00:00",
+     "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "How Cardiff are changing Swansea derby narrative",
+     "published": "2026-11-28T10:07:52+00:00",
+     "summary": "Cardiff City used to be the dysfunctional poor relations in south Wales derbies, but they are changing the narrative with their rivals Swansea City."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Sheffield United scout Hearts' McPake - gossip",
      "published": "2026-11-28T08:36:34+00:00",
      "summary": "Hearts winger linked with Sheffield United as former St Johnstone chairman reveals 49ers approach."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Ranking the Premier League's ultimate free-kick specialists",
      "published": "2026-11-28T08:14:24+00:00",
      "summary": "Who are the greatest free-kick specialists in Premier League history? BBC Sport delves into the stats and ranks the top 10."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "I watched every Brighton game at Dortmund - Gross",
      "published": "2026-11-28T07:29:50+00:00",
      "summary": "Brighton's Pascal Gross shares why he returned after getting his move to Borussia Dortmund."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "How dad's embarrassment was making of Gross at Brighton",
      "published": "2026-11-28T07:25:04+00:00",
      "summary": "Pascal Gross says his dad 'embarrassment' at him looking for free-kicks played an important part in him becoming the player he is today at Brighton."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-28T07:04:56+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
      "published": "2026-11-28T06:54:09+00:00",
      "summary": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "How a football team rebuilt after 19 players died in plane crash",
      "published": "2026-11-28T06:30:34+00:00",
      "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
      "published": "2026-11-27T22:58:49+00:00",
      "summary": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#10",
      "title": "Ayr beat Largs to book place in Scottish Cup fourth round",
      "published": "2026-11-27T22:57:03+00:00",
      "summary": "Watch the goals from Ayr United's Scottish Cup win over Largs Thistle."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#11",
      "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
      "published": "2026-11-27T22:47:57+00:00",
      "summary": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#12",
      "title": "Chelsea must stick together in 'difficult moment' - Alonso",
      "published": "2026-11-27T22:45:22+00:00",
      "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Bremen fight back to earn draw in six-goal thriller",
      "published": "2026-11-27T22:37:16+00:00",
      "summary": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
      "published": "2026-11-27T22:30:22+00:00",
      "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
      "published": "2026-11-27T21:59:48+00:00",
      "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997."
     },
     {
-     "ref": "bbc_football#14",
-     "title": "Celtic defend head of security amid Green Brigade row",
-     "published": "2026-11-27T21:50:01+00:00",
-     "summary": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "Celtic defend head of security amid Green Brigade row",
-     "published": "2026-11-27T21:50:01+00:00",
-     "summary": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season."
-    },
-    {
      "ref": "bbc_football#16",
+     "title": "Celtic defend head of security amid Green Brigade row",
+     "published": "2026-11-27T21:50:01+00:00",
+     "summary": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season."
+    },
+    {
+     "ref": "bbc_football#17",
+     "title": "Celtic defend head of security amid Green Brigade row",
+     "published": "2026-11-27T21:50:01+00:00",
+     "summary": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season."
+    },
+    {
+     "ref": "bbc_football#18",
      "title": "'You're not welcome here' - fans turn on Fofana as Chelsea lose again",
      "published": "2026-11-27T21:31:54+00:00",
      "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Champions League to be a factor in Paz move - Saturday's gossip",
      "published": "2026-11-27T21:19:27+00:00",
      "summary": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Football Daily",
      "published": "2026-11-27T20:47:00+00:00",
      "summary": "Everton welcome Liverpool in the 249th derby and Steven Gerrard gives his thoughts."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "Emery praises Garnacho attitude after Villa selection snub",
      "published": "2026-11-27T17:42:00+00:00",
      "summary": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection."
     },
     {
-     "ref": "bbc_football#20",
-     "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-     "published": "2026-11-27T16:14:34+00:00",
-     "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-     "published": "2026-11-27T16:14:34+00:00",
-     "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season."
-    },
-    {
      "ref": "bbc_football#22",
-     "title": "Spurs' Savio to miss festive fixtures after injury setback",
-     "published": "2026-11-27T16:05:30+00:00",
-     "summary": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms."
+     "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
+     "published": "2026-11-27T16:14:34+00:00",
+     "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season."
     },
     {
      "ref": "bbc_football#23",
-     "title": "Man Utd trigger Fernandes' one-year contract extension",
-     "published": "2026-11-27T15:08:41+00:00",
-     "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028."
+     "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
+     "published": "2026-11-27T16:14:34+00:00",
+     "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season."
     },
     {
      "ref": "bbc_football#24",
-     "title": "What happens now for Bayern Munich and Musiala?",
-     "published": "2026-11-27T15:03:12+00:00",
-     "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?"
+     "title": "Spurs' Savio to miss festive fixtures after injury setback",
+     "published": "2026-11-27T16:05:30+00:00",
+     "summary": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms."
     }
    ]
   },
@@ -1050,21 +1050,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Columbus Crew vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
-     "published": "2026-11-28T09:32:06+00:00",
-     "summary": "Columbus Crew vs Inter Miami: Major League Soccer stats & head-to-head BBC"
+     "title": "Messi Booed as Inter Miami Crash Out of MLS Cup Play-Offs - Real Broadcasting Network",
+     "published": "2026-11-28T10:23:32+00:00",
+     "summary": "Messi Booed as Inter Miami Crash Out of MLS Cup Play-Offs Real Broadcasting Network"
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "MLS: Lionel Messi and Inter Miami knocked out in first round of playoffs - Foot-Africa.com",
-     "published": "2026-11-28T09:23:57+00:00",
-     "summary": "MLS: Lionel Messi and Inter Miami knocked out in first round of playoffs Foot-Africa.com"
+     "title": "Lionel Messi Appears Upset as Reigning MLS Cup Champions Inter Miami Crash Out of Playoffs - شبكة تواصل الإخبارية",
+     "published": "2026-11-28T10:06:51+00:00",
+     "summary": "Lionel Messi Appears Upset as Reigning MLS Cup Champions Inter Miami Crash Out of Playoffs شبكة تواصل الإخبارية"
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "Lionel Messi's title defence ends in disaster as Inter Miami fail to score in two games - Nogomania",
-     "published": "2026-11-28T09:13:35+00:00",
-     "summary": "Lionel Messi's title defence ends in disaster as Inter Miami fail to score in two games Nogomania"
+     "title": "Columbus Crew vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
+     "published": "2026-11-28T09:32:06+00:00",
+     "summary": "Columbus Crew vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
      "ref": "gnews_inter_miami#3",
@@ -1080,123 +1080,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
-     "title": "Inter Miami loses MLS crown, Messi faces a disappointing season - Laodong.vn",
-     "published": "2026-11-28T08:37:01+00:00",
-     "summary": "Inter Miami loses MLS crown, Messi faces a disappointing season Laodong.vn"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
-     "title": "Columbus Crew 1 - 0 Inter Miami CF: Final score, results, recap, box score, stats - Yahoo Sports",
-     "published": "2026-11-28T08:36:31+00:00",
-     "summary": "Columbus Crew 1 - 0 Inter Miami CF: Final score, results, recap, box score, stats Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#7",
      "title": "Messi Fails Early with Inter Miami - blue News",
      "published": "2026-11-28T08:27:12+00:00",
      "summary": "Messi Fails Early with Inter Miami blue News"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#6",
      "title": "Columbus Crew Eliminates Inter Miami from MLS Cup Playoffs - India News Network",
      "published": "2026-11-28T08:25:07+00:00",
      "summary": "Columbus Crew Eliminates Inter Miami from MLS Cup Playoffs India News Network"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "After Son Heung-min, even the \"God of Football\" could not hold on: \"MLS Cup Playoff Upset\"... Messi's Inter Miami Suffers Last-Minute Loss to Columbus, \"Retirement Rumors Surface\" - 스타뉴스",
-     "published": "2026-11-28T08:11:36+00:00",
-     "summary": "After Son Heung-min, even the \"God of Football\" could not hold on: \"MLS Cup Playoff Upset\"... Messi's Inter Miami Suffers Last-Minute Loss to Columbus, \"Retirement Rumors Surface\" 스타뉴스"
-    },
-    {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#7",
      "title": "Messi's MLS season over as Inter Miami fall to Columbus Crew - Pulse Nigeria",
      "published": "2026-11-28T08:07:53+00:00",
      "summary": "Messi's MLS season over as Inter Miami fall to Columbus Crew Pulse Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#11",
-     "title": "Watch Columbus Crew vs Inter Miami Live Today: Streaming, TV Channel & Start Time - FOX One",
-     "published": "2026-11-28T08:06:05+00:00",
-     "summary": "Watch Columbus Crew vs Inter Miami Live Today: Streaming, TV Channel & Start Time FOX One"
+     "ref": "gnews_inter_miami#8",
+     "title": "Inter Miami’s year to forget: One trophy and a string of disappointments - Diario AS",
+     "published": "2026-11-28T07:37:35+00:00",
+     "summary": "Inter Miami’s year to forget: One trophy and a string of disappointments Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#12",
-     "title": "Inter Miami with Messi ends season after loss to Columbus Crew — Interia Sport - UA.NEWS",
-     "published": "2026-11-28T07:45:01+00:00",
-     "summary": "Inter Miami with Messi ends season after loss to Columbus Crew — Interia Sport UA.NEWS"
+     "ref": "gnews_inter_miami#9",
+     "title": "Miami vs. Columbus (3 Dec, 2026) Canceled - ESPN",
+     "published": "2026-11-28T07:26:20+00:00",
+     "summary": "Miami vs. Columbus (3 Dec, 2026) Canceled ESPN"
     },
     {
-     "ref": "gnews_inter_miami#13",
-     "title": "Inter Miami Coach Responds to 'Failure' Talk After Lionel Messi's MLS Playoff Exit - Yahoo Sports",
-     "published": "2026-11-28T07:36:42+00:00",
-     "summary": "Inter Miami Coach Responds to 'Failure' Talk After Lionel Messi's MLS Playoff Exit Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#10",
      "title": "Kily González explains what went wrong for Messi and Inter Miami after MLS playoff exit - Diario AS",
      "published": "2026-11-28T07:25:55+00:00",
      "summary": "Kily González explains what went wrong for Messi and Inter Miami after MLS playoff exit Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#11",
+     "title": "Messi and Inter Miami crash out of MLS playoffs after Columbus heartbreak - Diario AS",
+     "published": "2026-11-28T07:13:56+00:00",
+     "summary": "Messi and Inter Miami crash out of MLS playoffs after Columbus heartbreak Diario AS"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
+     "title": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep - LiveScore",
+     "published": "2026-11-28T07:11:07+00:00",
+     "summary": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep LiveScore"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
      "title": "Columbus Crew eliminate Inter Miami in playoff shocker - MLSsoccer.com",
      "published": "2026-11-28T07:06:44+00:00",
      "summary": "Columbus Crew eliminate Inter Miami in playoff shocker MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
-     "title": "MLS: Messi’s Inter Miami dumped out in playoff first round · SNA - Sport News Africa",
-     "published": "2026-11-28T07:02:38+00:00",
-     "summary": "MLS: Messi’s Inter Miami dumped out in playoff first round · SNA Sport News Africa"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#14",
      "title": "See photos from Columbus Crew vs. Inter Miami MLS playoff showdown - The Columbus Dispatch",
      "published": "2026-11-28T07:01:35+00:00",
      "summary": "See photos from Columbus Crew vs. Inter Miami MLS playoff showdown The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#18",
-     "title": "Highlights: Columbus Crew 1-0 Inter Miami CF (MLS) - Yahoo Sports",
-     "published": "2026-11-28T06:59:30+00:00",
-     "summary": "Highlights: Columbus Crew 1-0 Inter Miami CF (MLS) Yahoo Sports"
+     "ref": "gnews_inter_miami#15",
+     "title": "Messi’s Inter Miami eliminated from MLS cup playoffs - The Sun Nigeria",
+     "published": "2026-11-28T06:58:26+00:00",
+     "summary": "Messi’s Inter Miami eliminated from MLS cup playoffs The Sun Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#16",
      "title": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep - Goal.com",
      "published": "2026-11-28T06:33:06+00:00",
      "summary": "'The word failure is too strong!' - Inter Miami boss Cristian Gonzalez defends Lionel Messi and star-studded squad after shock MLS Cup Playoff sweep Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#17",
      "title": "Messi’s Inter Miami crash out of MLS Cup after 1-0 defeat to Columbus - Telangana Today",
      "published": "2026-11-28T06:32:35+00:00",
      "summary": "Messi’s Inter Miami crash out of MLS Cup after 1-0 defeat to Columbus Telangana Today"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#18",
      "title": "Messi's defending champions Miami knocked out of MLS Cup playoffs - Yahoo Sports",
      "published": "2026-11-28T06:24:00+00:00",
      "summary": "Messi's defending champions Miami knocked out of MLS Cup playoffs Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi And Inter Miami Stunned As Columbus Crew End MLS Cup Defence - NDTV Sports",
      "published": "2026-11-28T06:04:29+00:00",
      "summary": "Lionel Messi And Inter Miami Stunned As Columbus Crew End MLS Cup Defence NDTV Sports"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#20",
+     "title": "No Messi Magic: Columbus Crew Keep the Argentine Scoreless and Dump Inter Miami Out - https://www.transfermarkt.us/",
+     "published": "2026-11-28T06:04:26+00:00",
+     "summary": "No Messi Magic: Columbus Crew Keep the Argentine Scoreless and Dump Inter Miami Out https://www.transfermarkt.us/"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "Inter Miami with Messi lost to Columbus and was eliminated from the MLS playoffs - VIDEO - 1News.az",
+     "published": "2026-11-28T06:00:00+00:00",
+     "summary": "Inter Miami with Messi lost to Columbus and was eliminated from the MLS playoffs - VIDEO 1News.az"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
      "title": "Messi and Inter Miami crash out of MLS playoffs - Sharjah24",
      "published": "2026-11-28T05:53:52+00:00",
      "summary": "Messi and Inter Miami crash out of MLS playoffs Sharjah24"
     },
     {
+     "ref": "gnews_inter_miami#23",
+     "title": "Messi's defending champions Miami knocked out of MLS Cup playoffs - Gulf News",
+     "published": "2026-11-28T05:51:51+00:00",
+     "summary": "Messi's defending champions Miami knocked out of MLS Cup playoffs Gulf News"
+    },
+    {
      "ref": "gnews_inter_miami#24",
-     "title": "Columbus defeats Inter Miami 1-0; Vancouver also wins 1-0 : MLS : JKN - 재경일보",
-     "published": "2026-11-28T05:41:19+00:00",
-     "summary": "Columbus defeats Inter Miami 1-0; Vancouver also wins 1-0 : MLS : JKN 재경일보"
+     "title": "Columbus Crew eliminate Inter Miami from MLS playoffs - KarloBag.eu",
+     "published": "2026-11-28T05:42:25+00:00",
+     "summary": "Columbus Crew eliminate Inter Miami from MLS playoffs KarloBag.eu"
     }
    ]
   },
@@ -1344,15 +1344,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#23",
-     "title": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ - Heavy.com",
-     "published": "2026-11-26T09:12:34+00:00",
-     "summary": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ Heavy.com"
+     "title": "Deni Avdija Puts Blazers Ahead For Good At The Line - Yardbarker",
+     "published": "2026-11-26T09:19:43+00:00",
+     "summary": "Deni Avdija Puts Blazers Ahead For Good At The Line Yardbarker"
     },
     {
      "ref": "gnews_israeli_nba#24",
-     "title": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch - Ynetnews",
-     "published": "2026-11-26T08:32:58+00:00",
-     "summary": "'Shalom, baruch Hashem': Shaq greets Deni Avdija in Hebrew and Charles Barkley raves | Watch Ynetnews"
+     "title": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ - Heavy.com",
+     "published": "2026-11-26T09:12:34+00:00",
+     "summary": "Charles Barkley Deni Avdija Comparison: ‘He reminds me of Dražen Petrović’ Heavy.com"
     }
    ]
   }

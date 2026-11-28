@@ -216,12 +216,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Wednesday assorted links",
      "published": "2026-11-25T17:20:25+00:00",
      "summary": "1. Macrohistory in six facts. 2. Patrick Collison on Tocqueville. 3. The minimum wage: current vs. lifetime perspectives. By Francisco Libano-Monteiro, on the economics job market from LSE. 4. Kurt Rosenwinkel, Ruby My Dear. 5. Profile of Perry Mehrling. 6. The jagged frontier. The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "How did the United States become a lawyerly society?",
-     "published": "2026-11-25T10:18:10+00:00",
-     "summary": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after. We attribute this shift to three related changes in the legal environment: a wave of new legislation and regulation […] The post How did the United States become a lawyerly society?"
     }
    ]
   },

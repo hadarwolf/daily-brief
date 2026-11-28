@@ -18,45 +18,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Modi Nears Majority Needed to Increase India’s Parliament Seats",
+     "published": "2026-11-28T10:17:39+00:00",
+     "summary": "Prime Minister Narendra Modi’s government moved closer to clearing a contentious law to expand the size of India’s parliament after a regional opposition party declared support for the legislation."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
+     "published": "2026-11-28T10:15:53+00:00",
+     "summary": "Norway’s $2.2 trillion sovereign wealth fund said it is voting against Elon Musk’s 2025 pay package at Tesla Inc.’s annual meeting next week."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
+     "published": "2026-11-28T10:00:00+00:00",
+     "summary": "In a few short weeks, global fuel markets have lurched out of crisis, for now at least."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Eisenkot Edging Closer to Leading Israel With Talks Progressing",
      "published": "2026-11-28T09:00:00+00:00",
      "summary": "With just over a week to go, Gadi Eisenkot is within striking distance of a coalition breakthrough that could secure him a parliamentary majority and loosen Benjamin Netanyahu’s three-decade grip on Israeli politics."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#4",
      "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
      "published": "2026-11-28T06:39:08+00:00",
      "summary": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar with the matter."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#5",
      "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
      "published": "2026-11-27T22:14:41+00:00",
      "summary": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the US dollar, and how Bessemer evolved from a single family office to a $300 billion enterprise. They also discuss how they navigate building generational wealth and moderating family co"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
      "published": "2026-11-27T18:43:36+00:00",
      "summary": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen."
-    },
-    {
-     "ref": "bloomberg_markets#4",
-     "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
-     "published": "2026-11-27T17:36:52+00:00",
-     "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#5",
-     "title": "Hong Kong Is Selling The City It Used To Be",
-     "published": "2026-11-27T17:23:53+00:00",
-     "summary": "Hong Kong is turning nostalgia into a booming industry. From period crime dramas to film-set visitor attractions, locals are jumping at the chance to escape to the 1980s and 90s. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#6",
-     "title": "Anthropic Shares Jump After Volatile First Week Since IPO",
-     "published": "2026-11-27T16:49:08+00:00",
-     "summary": "Anthropic PBC shares climbed above their $83 initial public offering price as the artificial intelligence lab finished its first calendar week on the Nasdaq after its record-setting debut on a positive note."
     },
     {
      "ref": "bloomberg_markets#7",
@@ -156,15 +156,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#3",
-     "title": "‘Only in America’ and other good lies",
-     "published": "2026-11-28T05:00:32+00:00",
-     "summary": "Diverse societies need noble myths to keep them whole"
-    },
-    {
-     "ref": "ft_home#4",
      "title": "Pedro Sánchez: the partisan warrior fighting to the last",
      "published": "2026-11-28T05:00:32+00:00",
      "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "‘Only in America’ and other good lies",
+     "published": "2026-11-28T05:00:32+00:00",
+     "summary": "Diverse societies need noble myths to keep them whole"
     },
     {
      "ref": "ft_home#5",
@@ -210,9 +210,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "מיליון שקל על KFC ישראל: הצעת רכישה לרשת שמפסידה מיליון שקל בחודש",
+     "title": "2.7 מיליון שקל על KFC ישראל: הצעת רכישה לרשת שמפסידה מיליון שקל בחודש",
      "published": "2026-11-28T09:38:13+00:00",
-     "summary": "ר.א.א שיווק מזון שבבעלות אמיר חמיאס, הגישה לנאמני זכיינית KFC בישראל הצעה לרכישת הרשת, המותנית באישור בית המשפט. במקביל דורשים 113 מעובדי הרשת שבית המשפט יעדיף הצעה שתבטיח את מקומות העבודה שלהם, ולא רק את הסכום הגבוה ביותר"
+     "summary": "ר.א.א שיווק מזון שבבעלות אמיר חמיאס, הגישה לנאמני זכיינית KFC בישראל הצעה לרכישת הרשת, המותנית באישור בית המשפט ■ במקביל דורשים 113 מעובדי הרשת שבית המשפט יעדיף הצעה שתבטיח את מקומות העבודה שלהם, ולא רק את הסכום הגבוה ביותר"
     },
     {
      "ref": "themarker#1",
@@ -365,93 +365,93 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
+     "published": "2026-11-28T10:00:00+00:00",
+     "summary": "The policies were pitched as a salve for aging Americans worried about care costs. Except many insurers flubbed the math."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
      "published": "2026-11-28T02:00:00+00:00",
      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
      "published": "2026-11-28T01:44:00+00:00",
      "summary": "Several London-based executives are leaving as a top risk official oversees the cleanup from the bank’s trading hub."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
      "published": "2026-11-28T00:00:00+00:00",
      "summary": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
      "published": "2026-11-27T21:16:00+00:00",
      "summary": "The Nasdaq composite finished its best week since April, while the Dow and S&P 500 also ended the week strong."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Treasury Yields Gain As U.S. Equities Rally",
      "published": "2026-11-27T21:10:00+00:00",
      "summary": "U.S. Treasury yields recovered from their pre-Thanksgiving retreat and moved higher as equities posted Black Friday gains and the U.S. dollar strengthened."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
      "published": "2026-11-27T20:47:00+00:00",
      "summary": "Oil futures ended the session lower with the market awaiting the weekend meeting of OPEC and its allies to discuss output policy for 2027."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
      "published": "2026-11-27T20:44:00+00:00",
      "summary": "U.S. natural gas futures settled lower with the Nymex January contract falling 4.5% to $3.491/mmBtu in its first trading day at the front of the curve."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
      "published": "2026-11-27T20:20:00+00:00",
      "summary": "Precious-metal prices surged as investors returned to the artificial-intelligence trade and global stocks rebounded, boosting risk appetite and easing pressure on assets that had been sold to meet liquidity needs."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "Auto & Transport Roundup: Market Talk",
      "published": "2026-11-27T18:22:00+00:00",
      "summary": "Gain insight on Gulf airlines, Canadian autoworkers and more in the latest Market Talks covering the auto and transport sector."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "Energy & Utilities Roundup: Market Talk",
      "published": "2026-11-27T18:15:00+00:00",
      "summary": "Find insight on oil futures, Serica Energy and more in the latest Market Talks covering energy and utilities."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "Opinion | How to Narrow America’s Racial Wealth Gap",
      "published": "2026-11-27T17:38:00+00:00",
      "summary": "Putting $370 billion into investment accounts for black children would tap compounding’s benefits."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
      "published": "2026-11-27T17:12:00+00:00",
      "summary": "Watch WSJ’s Hannah Miao explore one of China’s biggest resale megastores to understand what’s behind the country’s shifting consumer habits."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
      "published": "2026-11-27T15:30:00+00:00",
      "summary": "Fast closings and minimal paperwork make Scandinavian financing an unexpectedly attractive alternative to the U.S."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "Stock Futures Jump as AI Trade Set for Rebound",
      "published": "2026-11-27T13:46:00+00:00",
      "summary": "Nasdaq futures were 2% higher, while contracts tied to the S&P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday."
-    },
-    {
-     "ref": "wsj_markets#14",
-     "title": "Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
-     "published": "2026-11-27T13:03:00+00:00",
-     "summary": "Exchange operator SIX plans to launch an incubator for hot European companies to raise money on the continent instead of crossing the Atlantic."
     },
     {
      "ref": "wsj_markets#15",
@@ -547,9 +547,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 59524.6094,
+   "last": 59285.9688,
    "prev_close": 59866.3711,
-   "change_pct": -0.57,
+   "change_pct": -0.97,
    "as_of": "2026-11-28"
   }
  },

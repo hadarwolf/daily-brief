@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-28T09:54:56+00:00",
-     "summary": "Minnesota AP News"
+     "title": "Spain’s party leaders hold final campaign rallies ahead of national election - AP News",
+     "published": "2026-11-28T10:11:00+00:00",
+     "summary": "Spain’s party leaders hold final campaign rallies ahead of national election AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Crime - AP News",
+     "published": "2026-11-28T10:10:56+00:00",
+     "summary": "Crime AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-11-28T10:09:12+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Asia Pacific - AP News",
+     "published": "2026-11-28T10:09:11+00:00",
+     "summary": "Asia Pacific AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-28T10:02:56+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Soccer - AP News",
      "published": "2026-11-28T09:54:54+00:00",
      "summary": "Soccer AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#6",
      "title": "Golf - AP News",
      "published": "2026-11-28T09:53:21+00:00",
      "summary": "Golf AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#7",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-11-28T09:53:21+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Women’s college basketball - AP News",
-     "published": "2026-11-28T09:49:01+00:00",
-     "summary": "Women’s college basketball AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "Middle East News | Latest News From The Middle East Today - AP News",
-     "published": "2026-11-28T09:49:00+00:00",
-     "summary": "Middle East News | Latest News From The Middle East Today AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "New York City - AP News",
-     "published": "2026-11-28T09:48:57+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "College sports - AP News",
-     "published": "2026-11-28T09:22:55+00:00",
-     "summary": "College sports AP News"
-    },
-    {
      "ref": "ap_world#8",
-     "title": "Crime - AP News",
-     "published": "2026-11-28T09:11:03+00:00",
-     "summary": "Crime AP News"
+     "title": "An explosion at a school in eastern Afghanistan kills 7, wounds more than 90 - AP News",
+     "published": "2026-11-28T09:45:00+00:00",
+     "summary": "An explosion at a school in eastern Afghanistan kills 7, wounds more than 90 AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "Colorado in action against San Jose after shootout win - AP News",
-     "published": "2026-11-28T09:10:00+00:00",
-     "summary": "Colorado in action against San Jose after shootout win AP News"
+     "title": "Thomas leads Alcorn State against Georgia Tech after 24-point performance - AP News",
+     "published": "2026-11-28T09:43:00+00:00",
+     "summary": "Thomas leads Alcorn State against Georgia Tech after 24-point performance AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "Islanders take on the Flyers in Metropolitan Division action - AP News",
-     "published": "2026-11-28T09:10:00+00:00",
-     "summary": "Islanders take on the Flyers in Metropolitan Division action AP News"
+     "title": "George Mason takes on Marist, looks for 4th straight home win - AP News",
+     "published": "2026-11-28T09:43:00+00:00",
+     "summary": "George Mason takes on Marist, looks for 4th straight home win AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "Anaheim visits Los Angeles after Solberg’s 2-goal game - AP News",
-     "published": "2026-11-28T09:10:00+00:00",
-     "summary": "Anaheim visits Los Angeles after Solberg’s 2-goal game AP News"
+     "title": "Coastal Carolina Chanticleers face the Western Illinois Leathernecks on 3-game skid - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Coastal Carolina Chanticleers face the Western Illinois Leathernecks on 3-game skid AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "Tampa Bay takes losing streak into matchup with Florida - AP News",
-     "published": "2026-11-28T09:10:00+00:00",
-     "summary": "Tampa Bay takes losing streak into matchup with Florida AP News"
+     "title": "Utah Tech visits Santa Clara after Mackay’s 27-point outing - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Utah Tech visits Santa Clara after Mackay’s 27-point outing AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "Mammoth take on the Stars after Lee’s 2-goal game - AP News",
-     "published": "2026-11-28T09:10:00+00:00",
-     "summary": "Mammoth take on the Stars after Lee’s 2-goal game AP News"
+     "title": "Saint Thomas Tommies take on the Princeton Tigers - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Saint Thomas Tommies take on the Princeton Tigers AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "Blackhawks host the Wild after Mangiapane’s 2-goal game - AP News",
-     "published": "2026-11-28T09:10:00+00:00",
-     "summary": "Blackhawks host the Wild after Mangiapane’s 2-goal game AP News"
+     "title": "Milwaukee visits Oregon State following Jackson’s 20-point performance - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Milwaukee visits Oregon State following Jackson’s 20-point performance AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-28T09:09:04+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+     "title": "Niagara squares off against Le Moyne - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Niagara squares off against Le Moyne AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-28T09:09:03+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "Drexel plays Mount St. Mary’s following Simonovic’s 20-point game - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Drexel plays Mount St. Mary’s following Simonovic’s 20-point game AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "War and unrest - AP News",
-     "published": "2026-11-28T09:03:39+00:00",
-     "summary": "War and unrest AP News"
+     "title": "Radford Highlanders play the Hampton Pirates - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Radford Highlanders play the Hampton Pirates AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "International News - AP News",
-     "published": "2026-11-28T09:03:34+00:00",
-     "summary": "International News AP News"
+     "title": "Ndjonga and Stony Brook host Delaware - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Ndjonga and Stony Brook host Delaware AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-11-28T09:03:34+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
+     "title": "Holy Cross plays New Hampshire on home skid - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Holy Cross plays New Hampshire on home skid AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "AP News Search - AP News",
-     "published": "2026-11-28T08:33:39+00:00",
-     "summary": "AP News Search AP News"
+     "title": "Drake Bulldogs face the North Dakota State Bison - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Drake Bulldogs face the North Dakota State Bison AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "World News: Top & Breaking World News Today - AP News",
-     "published": "2026-11-28T08:33:31+00:00",
-     "summary": "World News: Top & Breaking World News Today AP News"
+     "title": "Eastern Kentucky hosts Mosquera and Tennessee Tech - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Eastern Kentucky hosts Mosquera and Tennessee Tech AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Princess Kate takes to the mountains to face mortality in film about cancer recovery - AP News",
-     "published": "2026-11-28T08:11:00+00:00",
-     "summary": "Princess Kate takes to the mountains to face mortality in film about cancer recovery AP News"
+     "title": "Boston leads Seattle U against UC Irvine after 21-point game - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Boston leads Seattle U against UC Irvine after 21-point game AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Prosecutors ask for 25 years for Canadian man who sold products used by 93 people to kill themselves - AP News",
-     "published": "2026-11-28T08:08:00+00:00",
-     "summary": "Prosecutors ask for 25 years for Canadian man who sold products used by 93 people to kill themselves AP News"
+     "title": "Boise State takes on North Texas - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Boise State takes on North Texas AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns - AP News",
-     "published": "2026-11-28T08:00:00+00:00",
-     "summary": "Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns AP News"
+     "title": "Oday leads Troy against Chattanooga after 37-point game - AP News",
+     "published": "2026-11-28T09:42:00+00:00",
+     "summary": "Oday leads Troy against Chattanooga after 37-point game AP News"
     }
    ]
   },
@@ -174,126 +174,138 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+     "published": "2026-11-28T10:14:37+00:00",
+     "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
      "published": "2026-11-28T07:31:14+00:00",
      "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
+     "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+     "published": "2026-11-28T06:52:05+00:00",
+     "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+    },
+    {
+     "ref": "bbc_world#3",
      "title": "Eight killed in Peruvian military helicopter crash",
      "published": "2026-11-28T04:19:16+00:00",
      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#4",
      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
      "published": "2026-11-28T04:13:45+00:00",
      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#5",
      "title": "Nigeria's acting legend who was loved across Africa and beyond",
      "published": "2026-11-28T01:20:35+00:00",
      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#6",
      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
      "published": "2026-11-28T00:56:55+00:00",
      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#7",
      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
      "published": "2026-11-28T00:50:11+00:00",
      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#8",
      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
      "published": "2026-11-28T00:05:17+00:00",
      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#9",
      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
      "published": "2026-11-27T23:02:35+00:00",
      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#10",
      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
      "published": "2026-11-27T21:55:53+00:00",
      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#11",
      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
      "published": "2026-11-27T20:06:31+00:00",
      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#12",
      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
      "published": "2026-11-27T18:42:50+00:00",
      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#13",
      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
      "published": "2026-11-27T18:00:40+00:00",
      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#14",
      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
      "published": "2026-11-27T17:19:31+00:00",
      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#15",
      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
      "published": "2026-11-27T16:53:46+00:00",
      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#16",
      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
      "published": "2026-11-27T16:46:47+00:00",
      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#17",
      "title": "Rare turtles found inside baggage at Amsterdam airport",
      "published": "2026-11-27T13:38:07+00:00",
      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#18",
      "title": "Millions of wives in South Asia unprotected from marital rape - study",
      "published": "2026-11-27T08:13:43+00:00",
      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#19",
      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
      "published": "2026-11-27T07:28:10+00:00",
      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#20",
      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
      "published": "2026-11-27T06:09:31+00:00",
      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#21",
      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
      "published": "2026-11-26T22:06:20+00:00",
      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#22",
      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
      "published": "2026-11-26T19:26:16+00:00",
      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."

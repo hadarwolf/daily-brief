@@ -112,49 +112,49 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "published": "2026-11-28T03:19:20+00:00",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 277 # Comments: 67"
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 313 # Comments: 77"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Atari Homebrew Awards Cancelled",
      "published": "2026-11-28T02:03:25+00:00",
-     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 203 # Comments: 191"
+     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 205 # Comments: 199"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "published": "2026-11-27T23:06:29+00:00",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 385 # Comments: 149"
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 399 # Comments: 151"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
      "published": "2026-11-27T19:42:25+00:00",
-     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 381 # Comments: 230"
+     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 387 # Comments: 240"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Michael Nielsen took down his book on neural nets",
      "published": "2026-11-27T19:31:01+00:00",
-     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 531 # Comments: 328"
+     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 538 # Comments: 334"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "published": "2026-11-27T18:02:45+00:00",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 301 # Comments: 95"
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 304 # Comments: 97"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "published": "2026-11-27T15:40:31+00:00",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 521 # Comments: 271"
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 526 # Comments: 273"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "False computer-checked proofs",
      "published": "2026-11-27T15:26:09+00:00",
-     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 228 # Comments: 88"
+     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 229 # Comments: 88"
     },
     {
      "ref": "hn_frontpage#8",
@@ -166,19 +166,19 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#9",
      "title": "Citroën Hydraulic System",
      "published": "2026-11-27T03:10:19+00:00",
-     "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 200 # Comments: 60"
+     "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 202 # Comments: 60"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "First images of the impact of DART asteroid deflection experiment",
      "published": "2026-11-26T17:24:37+00:00",
-     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 212 # Comments: 67"
+     "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 213 # Comments: 67"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "The Balatro Timeline",
      "published": "2026-11-26T17:20:27+00:00",
-     "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 356 # Comments: 75"
+     "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 371 # Comments: 89"
     }
    ]
   },
@@ -257,12 +257,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "The Download: AI swamping open records, and firefighting for permafrost",
      "published": "2026-11-25T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…"
-    },
-    {
-     "ref": "mit_tech_review#7",
-     "title": "AI is straining America’s open records systems",
-     "published": "2026-11-25T10:00:00+00:00",
-     "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…"
     }
    ]
   },
